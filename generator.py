@@ -9,7 +9,17 @@
 
 # ## Description
 # 
-# This notebook contains code to generator a concordance for the muravvaj divaan of ghalib
+# This notebook contains code to generator a concordance for the muravvaj divaan of ghalib.
+# 
+# Verses are taken from "input/verses.csv"
+# 
+# The current task is to identify the proper lemma of the tokens, e.g. singular instead of plural,
+# verb infinitive instead of verb root, etc. This can partially be done computationally.
+# 
+# Lemma that remain to be checked are in "output/tocheck.csv" The first column, if marked as 'x',
+# means that entry is okay. Checked lemma can then be entered into "input/okay.csv" using the
+# functions 
+# 
 
 # <headingcell level=2>
 
@@ -22,6 +32,7 @@ tokens = {} # dictionary of tokens where key is verses+.xx, e.g. 001.01.0.01 = '
 unique_tokens = {} # dictionary of tokens where value is their count
 lemmas = {} # dictionary of tokens where value is a list of their lemmas
 unique_lemmas = [] # dictionary of unique lemmas
+okay_lemmas = {} # dictionary of unique tokens and lists of lemma, e.
 
 # <markdowncell>
 
@@ -47,6 +58,25 @@ def load_verses(inputfile='input/verses.csv'):
             if not 'x' in verse_id: # skip ones with x (not in muravvaj divan)
                 verses[verse_id] = input_string.strip()
     return verses
+
+def get_okay_lemmas(inputfile='input/okay.csv'):
+    '''
+    Loads checked lemmas from CSV data file
+    inputfile: name of csv file
+    returns: checked_lemmas where checked_lemmas['token'] = [lemmas]
+    '''
+
+    import csv
+    okay_lemmas = {}
+    with open(inputfile,'r') as csvfile:
+        versereader = csv.reader(csvfile)
+        for row in versereader:
+            (status, unique_token, lemmas) = row
+            assert status in ['','x']
+            if status=='x':
+                okay_lemmas[unique_token]=lemmas.split('|')
+    return okay_lemmas
+
 
 def get_tokens(verses):
     '''
@@ -161,32 +191,63 @@ tokens = get_tokens(verses)
 unique_tokens = get_unique_tokens(tokens)
 lemmas = get_lemmas(unique_tokens)
 unique_lemmas = get_unique_lemmas(lemmas)
+okay_lemmas = get_okay_lemmas()
 
-# <codecell>
-
-#okay, to_check = get_okay_and_to_check(unique_lemmas)
+print "Currently checked ",len(okay_lemmas)," of ",len(unique_lemmas)
 
 # <markdowncell>
 
-# ## Write Output
+# ## Update Files
 
 # <codecell>
 
-initial_run = True
-if initial_run == True:
+def update_to_check():
+    '''
+    Writes unique tokens not contained in okay_lemmas to output/tocheck.csv
+    '''
     with open('output/tocheck.csv','w') as f:
         for t in sorted(unique_tokens.keys()):
-            line  = "," # good or bad
+            if not t in okay_lemmas: # only add unchecked ones
+                line  = "," # good or bad
+                line += t+"," #token
+                line += '|'.join(lemmas[t]) # possible lemma of token
+                line += "\n" 
+                f.write(line)
+
+def update_okay(inputfile='output/tocheck.csv'):
+    '''
+    Loads lemmas noted as correct from inputfile into okay_lemmas
+    '''
+    lemmas_to_add = get_okay_lemmas(inputfile=inputfile)
+    for k,v in lemmas_to_add.iteritems():
+        if k in okay_lemmas:
+            print "WARNING: ",k," found in okay_lemmas. Will override."
+        okay_lemmas[k] = v
+    
+def write_okay(outputfile='input/okay.csv'):
+    '''
+    Writes okay_lemmas to outputfile, as status,token,lemma1|lemma2|lemma3
+    '''
+    with open(outputfile,'w') as f:
+        for t in sorted(okay_lemmas.keys()):
+            line  = "x," # good or bad
             line += t+"," #token
-            line += '|'.join(lemmas[t]) # possible lemma of token
+            line += '|'.join(okay_lemmas[t])
             line += "\n" 
             f.write(line)
-        
+
+def update_files():
+    '''
+    Loads lemmas noted as correct from tocheck.csv, 
+    Writes okay_lemmas as input/okay.csv
+    Regenerates output/tocheck.csv
+    '''
+    update_okay() 
+    write_okay()
+    update_to_check()
                     
 
 # <codecell>
 
-
-# <codecell>
-
+update_files()
 
