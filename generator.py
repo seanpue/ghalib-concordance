@@ -172,19 +172,20 @@ unique_lemmas = get_unique_lemmas(lemmas)
 
 # <codecell>
 
-with open('output/okay.txt','w') as f:
-    f.write('\n'.join(okay))
-with open('output/have_to_check.txt','w') as f:
-    f.write('\n'.join(to_check))
-with open('output/tokenlemmas.csv','w') as f:
-    for t in sorted(unique_tokens.keys()):
-        line  = "," # good or bad
-        line += t+"," #token
-        line += '|'.join(lemmas[t]) # possible lemma of token
-        line += "\n" 
-        f.write(line)
+initial_run = True
+if initial_run == True:
+    with open('output/tocheck.csv','w') as f:
+        for t in sorted(unique_tokens.keys()):
+            line  = "," # good or bad
+            line += t+"," #token
+            line += '|'.join(lemmas[t]) # possible lemma of token
+            line += "\n" 
+            f.write(line)
         
                     
+
+# <codecell>
+
 
 # <codecell>
 
