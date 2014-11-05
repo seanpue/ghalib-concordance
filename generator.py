@@ -32,8 +32,7 @@ tokens = {} # dictionary of tokens where key is verses+.xx, e.g. 001.01.0.01 = '
 unique_tokens = {} # dictionary of tokens where value is their count
 lemmas = {} # dictionary of tokens where value is a list of their lemmas
 unique_lemmas = [] # dictionary of unique lemmas
-okay_lemmas = {} # dictionary of unique tokens and lists of lemma, 
-                                # e.g. okay_lemmas['rang-o-buu']=['rang','buu']
+okay_lemmas = {} # dictionary of unique tokens and lists of lemma, e.
 
 # <markdowncell>
 
@@ -181,6 +180,16 @@ def get_unique_lemmas(lemmas):
     return unique_lemmas
 
 
+def to_check():
+    '''
+    Generates list of unique tokens that still need to be checked.
+    '''
+    out = []
+    return [t for t in sorted(unique_tokens.keys()) if not t in okay_lemmas]
+
+def print_stats():
+    print "Currently there are ",len(okay_lemmas)," out of ",len(unique_lemmas)
+
 # <markdowncell>
 
 # ## Set Variables
@@ -194,7 +203,7 @@ lemmas = get_lemmas(unique_tokens)
 unique_lemmas = get_unique_lemmas(lemmas)
 okay_lemmas = get_okay_lemmas()
 
-print "Currently checked ",len(okay_lemmas)," of ",len(unique_lemmas)
+print_stats()
 
 # <markdowncell>
 
@@ -250,10 +259,7 @@ def update_files():
 
 # <codecell>
 
-
-# <codecell>
-
-# update_files()
+update_files()
 
 # <codecell>
 
