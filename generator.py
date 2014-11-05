@@ -32,7 +32,8 @@ tokens = {} # dictionary of tokens where key is verses+.xx, e.g. 001.01.0.01 = '
 unique_tokens = {} # dictionary of tokens where value is their count
 lemmas = {} # dictionary of tokens where value is a list of their lemmas
 unique_lemmas = [] # dictionary of unique lemmas
-okay_lemmas = {} # dictionary of unique tokens and lists of lemma, e.
+okay_lemmas = {} # dictionary of unique tokens and lists of lemma, 
+                                # e.g. okay_lemmas['rang-o-buu']=['rang','buu']
 
 # <markdowncell>
 
@@ -249,5 +250,11 @@ def update_files():
 
 # <codecell>
 
-update_files()
+
+# <codecell>
+
+# update_files()
+
+# <codecell>
+
 
