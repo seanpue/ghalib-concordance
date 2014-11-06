@@ -254,7 +254,7 @@ def update_files():
     update_okay() 
     write_okay()
     update_to_check()
-                    
+    print_stats()
 
 # <codecell>
 

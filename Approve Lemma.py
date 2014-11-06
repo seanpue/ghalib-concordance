@@ -161,4 +161,27 @@ ends_with('haa-e')
 
 # <codecell>
 
+ends_with('haa-e')
+
+# <codecell>
+
+to_add=[]
+for x in [x[:-2] for x in ends_with('-e') if x[:-2] in tokens_remaining]:
+#    lemmas[x] = [x]
+    lemmas[x+'-e'] = lemmas[x]
+    to_add.append(x)
+    to_add.append(x+'-e')
+    print x, lemmas[x]
+
+# <codecell>
+
+mark_okay_lemmas(to_add)
+print_stats()
+
+# <codecell>
+
+update_files()
+
+# <codecell>
+
 
