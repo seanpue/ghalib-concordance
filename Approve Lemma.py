@@ -184,4 +184,113 @@ update_files()
 
 # <codecell>
 
+tokens_remaining
+
+# <codecell>
+
+[x+','+','.join(lemmas[x]) for x in search_tokens('-o-')]
+
+# <codecell>
+
+mark_okay_lemmas(search_tokens('o'))
+
+# <codecell>
+
+update_files()
+print_stats()
+update_tokens_remaining()
+
+# <codecell>
+
+[x for x in tokens_remaining if not(x in search_tokens('-'))]
+
+# <codecell>
+
+[x for x in tokens_remaining if x[-2:]==';n' and x[:-1]+'n' in tokens_remaining]
+
+# <codecell>
+
+mark_okay_lemmas(ends_with('-e'))
+
+# <codecell>
+
+print_stats()
+
+# <codecell>
+
+update_files()
+
+# <codecell>
+
+ends_with('ah')
+
+# <codecell>
+
+len(token_search('^be-'))
+
+# <codecell>
+
+update_files()
+
+# <codecell>
+
+ends_with('q')
+
+# <codecell>
+
+#mark_okay_lemmas(ends_with('q'))
+update_tokens_remaining()
+update_files()
+print_stats()
+
+# <codecell>
+
+tokenize_re = re.compile(r"\-\-\-\-|\(\-e\)|\;rh|chh|\-o\-|\;dh|\;th|\;aa|aa|ch|\:z|\)\)|gh|\-e|th|ph|\:n|dh|\(\(|\:t|uu|\.z|au|\;s|\;r|zh|\;t|ai|\;z|\;x|ii|\;d|\;h|\;n|\-\-|bh|jh|\.s|kh|sh|\;g|\ |\(|\,|\:|b|d|f|h|j|l|n|p|r|t|v|z|\!|\'|\)|\-|\;|\?|\[|\]|a|e|g|i|k|m|o|q|s|u|y|.",
+re.DOTALL)
+def tokenize(s):
+    return tokenize_re.findall(s)
+tokenize('shaan')
+
+# <codecell>
+
+left_as_tokens = [tokenize(s) for s in tokens_remaining]
+
+# <codecell>
+
+[x for x in left_as_tokens if not x in  [t for t in left_as_tokens if len(t)>2 and t[-2]=='t' and t[-1] in ['aa','e','ii']]]
+
+# <codecell>
+
+[''.join(x) for x in left_as_tokens if '-' in x and x[-1]=='e']
+
+# <codecell>
+
+mark_okay_lemmas(ends_with('-e'))
+
+# <codecell>
+
+ends_with('ah')
+
+# <codecell>
+
+update_files()
+
+# <codecell>
+
+ends_with('ah')
+
+# <codecell>
+
+mark_okay_lemmas(ends_with('ah'))
+
+# <codecell>
+
+update_files()
+
+# <codecell>
+
+ends_with('g')
+
+# <codecell>
+
 

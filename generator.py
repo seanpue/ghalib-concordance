@@ -42,6 +42,7 @@ okay_lemmas = {} # dictionary of unique tokens and lists of lemma, e.
 
 import re
 
+
 def load_verses(inputfile='input/verses.csv'):
     '''
     Loads verses from CSV data file
