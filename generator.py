@@ -150,11 +150,10 @@ def get_lemmas(unique_tokens):
 
     for t in unique_tokens.keys():
         lemma = t
-
-        if re.search("[-']haa$",t): 
-            lemma = t[:-4] # remove Persian plural ['-]haa ending
         if re.search("-e$",t):
             lemma = t[:-2] # remove izaafat ending '-e'
+        if re.search("[-']haa$",t): 
+            lemma = t[:-4] # remove Persian plural ['-]haa ending
 #            print lemma
         t_lemmas = [lemma]
         if re.search('-o-',lemma):

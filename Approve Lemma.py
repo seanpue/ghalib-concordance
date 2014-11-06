@@ -149,7 +149,15 @@ update_tokens_remaining()
 
 # <codecell>
 
-ends_with('e;nge')
+ends_with('))uu;n')
+
+# <codecell>
+
+ends_with('haa-e')
+
+# <codecell>
+
+[x[:-5] for x in ends_with('haa-e') if x in tokens_remaining]
 
 # <codecell>
 
