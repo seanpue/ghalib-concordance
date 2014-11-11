@@ -289,8 +289,4 @@ update_files()
 
 # <codecell>
 
-ends_with('g')
-
-# <codecell>
-
 

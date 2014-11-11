@@ -188,7 +188,7 @@ def to_check():
     return [t for t in sorted(unique_tokens.keys()) if not t in okay_lemmas]
 
 def print_stats():
-    print "Currently there are ",len(okay_lemmas)," out of ",len(unique_lemmas)
+    print "Currently there are ",len(okay_lemmas)," out of ",len(lemmas)
 
 # <markdowncell>
 
@@ -260,6 +260,28 @@ def update_files():
 # <codecell>
 
 update_files()
+
+# <markdowncell>
+
+# #Concordance Details
+# 
+# Generates "output/conc_details.csv" which lists lemmas and their sources.
+
+# <codecell>
+
+lemmas_out = {}
+for k,v in okay_lemmas.iteritems(): # k = word; v = lemmas
+    for l in v:
+        if not l in lemmas_out:
+            lemmas_out[l] = []
+        lemmas_out[l].append(k)
+        lemmas_out[l].sort()
+lemmas_out
+with open('output/conc_details.csv','w') as f:
+    for k,v in lemmas_out.iteritems():
+        f.write(k+','+'|'.join(v)+'\n')
+        
+#okay_lemmas.keys()[0:100]
 
 # <codecell>
 
