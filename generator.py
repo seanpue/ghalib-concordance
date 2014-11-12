@@ -21,18 +21,23 @@
 # functions 
 # 
 
+# <codecell>
+
+import re
+from collections import *
+
 # <headingcell level=2>
 
 # Variables
 
 # <codecell>
 
-verses = {} # dictionary of verses, e.g. 001.01.0='naqsh faryaadii..'
-tokens = {} # dictionary of tokens where key is verses+.xx, e.g. 001.01.0.01 = 'naqsh'
+verses = {}        # dictionary of verses, e.g. 001.01.0='naqsh faryaadii..'
+tokens = {}        # dictionary of tokens where key is verses+.xx, e.g. 001.01.0.01 = 'naqsh'
 unique_tokens = {} # dictionary of tokens where value is their count
-lemmas = {} # dictionary of tokens where value is a list of their lemmas
+lemmas = {}        # dictionary of tokens where value is a list of their lemmas
 unique_lemmas = [] # dictionary of unique lemmas
-okay_lemmas = {} # dictionary of unique tokens and lists of lemma, e.
+okay_lemmas = {}   # dictionary of unique tokens and lists of lemma, e.
 
 # <markdowncell>
 
@@ -40,10 +45,8 @@ okay_lemmas = {} # dictionary of unique tokens and lists of lemma, e.
 
 # <codecell>
 
-import re
-from Collections import Counter
 
-Collections.
+#Collections.
 def load_verses(inputfile='input/verses.csv'):
     '''
     Loads verses from CSV data file
@@ -267,14 +270,11 @@ update_files()
 
 # <codecell>
 
-lemmas_out = {}
+lemmas_out = defaultdict(set)
 for k,v in okay_lemmas.iteritems(): # k = word; v = lemmas
     for l in v:
-        if not l in lemmas_out:
-            lemmas_out[l] = []
-        lemmas_out[l].append(k)
-        lemmas_out[l].sort()
-lemmas_out
+        lemmas_out[l].add(k)
+#        lemmas_out[l].sort()
 with open('output/conc_details.csv','w') as f:
     for k,v in lemmas_out.iteritems():
         f.write(k+','+'|'.join(v)+'\n')
@@ -308,7 +308,6 @@ for w in sorted(izafats)[0:5]:
 # <codecell>
 
 with open('output/izafats.csv','w') as f:
-#    by_count = sorted(izafats, key=izafats.get, reverse=True)
     f.write('\n'.join(sorted(izafats)))
 
 # <markdowncell>
@@ -337,18 +336,16 @@ make_csv_of_token_freq(unique_tokens, 'output/statistics/uniquetokens-freq.csv')
 
 # <codecell>
 
-okay_lemmas_beta={}
-for t in unique_tokens:
-    if t_l in okay_lemmas:
-            
-    
-for token, lemma in okay_lemmas:
-    
-okay_lemmas
+lemma_counts_beta=Counter()
 
-# <codecell>
-
-unique_tokens
+for token, count in unique_tokens.iteritems():
+    if token in okay_lemmas:
+        lemma = okay_lemmas[token][0]
+    else:
+        lemma = token
+    lemma_counts_beta[lemma]+=count
+lemma_counts_beta
+make_csv_of_token_freq(lemma_counts_beta,'output/statistics/lemmas-beta-freq.csv')
 
 # <codecell>
 
