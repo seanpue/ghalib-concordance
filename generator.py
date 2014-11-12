@@ -314,6 +314,13 @@ with open('output/izafats.csv','w') as f:
 
 # ##Statistics
 # Word frequencies, etc.
+# This is very preliminary.
+# 
+# output/statistics/izafat-freq.csv is a frequency list of izafats
+# 
+# output/statistics/uniquetokens-freq.csv is a frequency list of unique tokens
+# 
+# output/statistics/lemmas-beta-freq.csv is a frequency list of lemmas
 
 # <codecell>
 
