@@ -1603,6 +1603,7 @@ x,dilaa,dilaanaa
 x,dilbar,dilbar
 x,dilbaraa;n,dilbaraan
 x,dildaar,dildaar
+x,dillagii,dil-lagii
 x,dillii,dillii
 x,dimaa;g,dimaa;g
 x,dimaa;g-e,dimaa;g
@@ -1644,6 +1645,7 @@ x,duu))ii,duu))ii
 x,duu;n,denaa
 x,duud,duud
 x,duud-e,duud
+x,duunaa,duunaa
 x,duur,duur
 x,duur-daraaz,duur-daraaz
 x,duurii-e,duurii
@@ -2344,6 +2346,8 @@ x,kavaakib-sipah-o-mihr-((alam,kavaakib-sipah-o-mihr-((alam|kavaakib-sipah|mihr-
 x,ke,kaa
 x,kesh,kesh
 x,kha;re,kha;raa
+x,kha;tkaa,kha;taknaa
+x,kha;tke,kha;taknaa
 x,khaa,khaanaa
 x,khaa))e,khaanaa
 x,khaa))e;n,khaanaa
@@ -2357,6 +2361,7 @@ x,khaate,khaanaa
 x,khaayaa,khaanaa
 x,khai;nche,khai;nchnaa
 x,khai;nchtaa,khai;nchnaa
+x,khapaataa,khapaanaa
 x,khe;nch,khe;nchnaa
 x,khe;nchaa,khe;nchnaa
 x,khe;nche,khe;nchnaa
@@ -2393,6 +2398,8 @@ x,khultaa,khulnaa
 x,kidhar,kidhar
 x,kih,kih
 x,kii,kii
+x,kiije,kiije
+x,kiijiye,karnaa
 x,kinaar-e,kinaar
 x,kinaarah,kinaarah
 x,kinaare,kinaarah
@@ -2404,11 +2411,13 @@ x,kisht-e,kisht
 x,kishtii-e,kishtii
 x,kishvar-e,kishvar
 x,kisii,kisii
+x,kisliye,kisliye
 x,kisuu,kisuu
 x,kisvat-e,kisvat
 x,kitnaa,kitnaa
 x,kitne,kitnaa
 x,kiyaa,karnaa
+x,kiye,karnaa
 x,ko,ko
 x,ko))ii,ko))ii
 x,ko;nd,ko;nd
@@ -2882,6 +2891,7 @@ x,muvaa;xa;zah-e,muvaa;xa;zah
 x,muyassar,muyassar
 x,muzhdah,muzhdah
 x,muzhdah-e,muzhdah
+x,na((l-bahaa,na((l-bahaa
 x,na((sh,na((sh
 x,na))e,nayaa
 x,na.sii;hat-niyosh,na.sii;hat-niyosh
@@ -3510,6 +3520,7 @@ x,rasm-o-rah-e,rasm-o-rah|rasm|rah
 x,rast;xez-andaazah,rast;xez-andaazah
 x,rastaa,rastaa
 x,rau,rau
+x,rau;ndii,rau;ndnaa
 x,raunaq,raunaq
 x,raunaq-e,raunaq
 x,raushan,raushan
@@ -3796,6 +3807,7 @@ x,shafaa,shafaa
 x,shafaq,shafaq
 x,shafaq-aaluudah,shafaq-aaluudah
 x,shah,shah
+x,shah-par,shaah-par
 x,shahaadat,shahaadat
 x,shahiid-e,shahiid
 x,shahiidaa;n,shahiid
@@ -4156,6 +4168,7 @@ x,the,honaa
 x,thii,honaa
 x,thii;n,honaa
 x,tho;rii,tho;rii
+x,tihii,tihii
 x,tiir,tiir
 x,tiir-e,tiir
 x,tim;saal,tim;saal
@@ -4166,6 +4179,7 @@ x,tiraa,teraa
 x,tire,teraa
 x,tirii,teraa
 x,tiryaakii-e,tiryaakii
+x,tis,tis
 x,tishnagii-e,tishnagii
 x,tishnah-e,tishnah
 x,tishnah-kaam,tishnah-kaam
@@ -4195,6 +4209,7 @@ x,tunuk-:zarfii-e,tunuk-:zarfii
 x,tunuk-aabii,tunuk-aabii
 x,turbat,turbat
 x,tuu,tuu
+x,tuu;nbe,tuu;nbnaa
 x,u;nglii,u;nglii
 x,u;ngliyaa;n,u;nglii
 x,u;nhe;n,u;nhe;n

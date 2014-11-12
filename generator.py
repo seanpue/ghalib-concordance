@@ -41,8 +41,9 @@ okay_lemmas = {} # dictionary of unique tokens and lists of lemma, e.
 # <codecell>
 
 import re
+from Collections import Counter
 
-
+Collections.
 def load_verses(inputfile='input/verses.csv'):
     '''
     Loads verses from CSV data file
@@ -130,13 +131,9 @@ def get_unique_tokens(tokens):
     tokens: a dictionary of tokens at locations, e.g. tokens['001.01.0.00']='naqsh'
     returns: a dictionary of unique tokens and their count, unique_tokens['token']=1
     '''
-    unique = {}
+    unique = Counter()
 #    print type(tokens)
     for k,t in tokens.iteritems():
-
-        if not t in unique: 
-            unique[t]=0
-            
         unique[t]+=1
     return unique
 
@@ -199,6 +196,7 @@ def print_stats():
 verses = load_verses()
 tokens = get_tokens(verses)
 unique_tokens = get_unique_tokens(tokens)
+
 lemmas = get_lemmas(unique_tokens)
 unique_lemmas = get_unique_lemmas(lemmas)
 okay_lemmas = get_okay_lemmas()
@@ -282,6 +280,75 @@ with open('output/conc_details.csv','w') as f:
         f.write(k+','+'|'.join(v)+'\n')
         
 #okay_lemmas.keys()[0:100]
+
+# <markdowncell>
+
+# #Izafats
+
+# <markdowncell>
+
+# I am not sure yet how we will wind up using these. Probably based on a token location range, similarly to compound verbs, etc. There may be some combos I am not grabbing properly. These will need to lemma-ed later (e.g. nasalization).
+
+# <codecell>
+
+izafat_verse_ids = [v_id for v_id in sorted(verses.keys()) if re.search('-e ',verses[v_id])]
+izafat_verses = [verses[v_id] for v_id in izafat_verse_ids]
+
+# <codecell>
+
+izafat_re = re.compile('(?:[^ ]+-e )+(?:z )?[^ ]+')
+izafats=Counter()
+for s in izafat_verses:
+    x = izafat_re.findall(s)#re.findall(m,s)
+    for y in x:
+        izafats[y]+=1
+for w in sorted(izafats)[0:5]:
+    print w,izafats[w]
+
+# <codecell>
+
+with open('output/izafats.csv','w') as f:
+#    by_count = sorted(izafats, key=izafats.get, reverse=True)
+    f.write('\n'.join(sorted(izafats)))
+
+# <markdowncell>
+
+# ##Statistics
+# Word frequencies, etc.
+
+# <codecell>
+
+def make_csv_of_token_freq(d, filename):
+    '''
+    Generates a CSV file of a dictionary based on numeric value of key, reverse sorted
+    d: dictionary of tokens and values(token: #)
+    filename = output file name
+    '''
+    by_count = sorted(d, key=d.get, reverse=True)
+    with open(filename,'w') as f:
+        for k in by_count:
+            f.write(k+','+str(d[k])+'\n')
+            
+
+# <codecell>
+
+make_csv_of_token_freq(izafats, 'output/statistics/izafat-freq.csv')
+make_csv_of_token_freq(unique_tokens, 'output/statistics/uniquetokens-freq.csv')
+
+# <codecell>
+
+okay_lemmas_beta={}
+for t in unique_tokens:
+    if t_l in okay_lemmas:
+            
+    
+for token, lemma in okay_lemmas:
+    
+okay_lemmas
+
+# <codecell>
+
+unique_tokens
 
 # <codecell>
 
