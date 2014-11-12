@@ -114,10 +114,12 @@ def write_urdu_statistics(inputfile,outputfile):
 
 # <codecell>
 
-write_urdu_statistics('output/statistics/izafat-freq.csv','output/statistics/izafat-freq-ur.csv') # will contain transliteration for now
-write_urdu_statistics('output/statistics/lemmas-beta-freq.csv','output/statistics/lemmas-beta-freq-ur.csv')
-write_urdu_statistics('output/statistics/uniquetokens-freq.csv','output/statistics/uniquetokens-freq-ur.csv')
+def write_all_urdu_statistics():
+    write_urdu_statistics('output/statistics/izafat-freq.csv','output/statistics/izafat-freq-ur.csv') # will contain transliteration for now
+    write_urdu_statistics('output/statistics/lemmas-beta-freq.csv','output/statistics/lemmas-beta-freq-ur.csv')
+    write_urdu_statistics('output/statistics/uniquetokens-freq.csv','output/statistics/uniquetokens-freq-ur.csv')
 
 # <codecell>
 
+write_all_urdu_statistics()
 

@@ -349,4 +349,17 @@ make_csv_of_token_freq(lemma_counts_beta,'output/statistics/lemmas-beta-freq.csv
 
 # <codecell>
 
+# the following will generate the urdu versions of the statistics (a little slow)
+
+# <codecell>
+
+import generate_urdu
+
+# <codecell>
+
+#redo here
+reload(generate_urdu)#generate_urdu.write_all_urdu_statistics()
+
+# <codecell>
+
 
