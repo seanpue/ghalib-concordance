@@ -22,7 +22,7 @@ izafatastoken-freq.csv	     : tokens where izafat phrases are considered tokens
 
 izafatastoken-freq-ur.csv	   : tokens where izafat phrases are considered tokens with Urdu
 
-izafatastokens-freq-hiur.csv : tokens where izafat phrases are considered tokens with Urdu, nagari
+izafatastokens-freq-hiur.csv : tokens where izafat phrases are considered tokens with Urdu, messy nagari
 
 You can download them by viewing the "Raw" text on Github or directly using the format:
 
