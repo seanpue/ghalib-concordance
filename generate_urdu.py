@@ -19,6 +19,7 @@ import graphparser
 # <codecell>
 
 urdup = graphparser.GraphParser('./settings/urdu.yaml')
+nagarip = graphparser.GraphParser('./settings/devanagari.yaml')
 
 # <codecell>
 
@@ -102,14 +103,15 @@ class UnicodeWriter:
 
 # <codecell>
 
-def write_urdu_statistics(inputfile,outputfile):
+def write_urdu_statistics(inputfile,outputfile,nagari=False):
     with open(outputfile,'w') as output_stream:
         csvwriter = UnicodeWriter(output_stream)
         with open(inputfile,'r') as input_stream:
             csvreader = unicode_csv_reader(input_stream) # this is likely not utf-8
             for row in csvreader:
                 (token,freq)=row
-                row = urdup.parse(token).output,token,freq
+                if nagari==True:
+                    row = urdup.parse(token).output,nagarip.parse(token).output,token,freq
                 csvwriter.writerow(row)
 
 # <codecell>
@@ -118,8 +120,13 @@ def write_all_urdu_statistics():
     write_urdu_statistics('output/statistics/izafat-freq.csv','output/statistics/izafat-freq-ur.csv') # will contain transliteration for now
     write_urdu_statistics('output/statistics/lemmas-beta-freq.csv','output/statistics/lemmas-beta-freq-ur.csv')
     write_urdu_statistics('output/statistics/uniquetokens-freq.csv','output/statistics/uniquetokens-freq-ur.csv')
+    write_urdu_statistics('output/statistics/izafatastokens-freq.csv','output/statistics/izafatastokens-freq-ur.csv')
+    write_urdu_statistics('output/statistics/izafatastokens-freq.csv','output/statistics/izafatastokens-freq-hiur.csv',nagari=True)
 
 # <codecell>
 
 write_all_urdu_statistics()
+
+# <codecell>
+
 

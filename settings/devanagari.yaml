@@ -1,0 +1,485 @@
+---
+rules:
+  '''': ''
+  "\0": ''
+  "\n": "\n"
+  '<izaafat>  ': ''
+  ' ': ' '
+  (: (
+  ((: ''
+  ): )
+  )): ''
+  ',': ','
+  '-': ''
+  '- h aa <wb>': \N{HYPHEN}\N{DEVANAGARI LETTER HA}\N{DEVANAGARI VOWEL SIGN AA}
+  '- h aa -e <wb>': \N{HYPHEN}\N{DEVANAGARI LETTER HA}\N{DEVANAGARI VOWEL SIGN AA}-\N{DEVANAGARI LETTER E}-
+  -e <wb>: \N{HYPHEN}\N{DEVANAGARI LETTER E}\N{HYPHEN}
+  .ri: \N{DEVANAGARI VOWEL SIGN VOCALIC R}
+  .s: \N{DEVANAGARI LETTER SA}
+  .z: \N{DEVANAGARI LETTER ZA}
+  /: ''
+  :n: \N{DEVANAGARI LETTER NA}
+  :t: \N{DEVANAGARI LETTER TA}
+  :z: \N{DEVANAGARI LETTER ZA}
+  ;: \N{SEMICOLON}
+  ;aa: \N{DEVANAGARI VOWEL SIGN AA}
+  ;d: \N{DEVANAGARI LETTER DDA}
+  ;dh: \N{DEVANAGARI LETTER DDHA}
+  ;e: \N{DEVANAGARI VOWEL SIGN E}
+  ;g: \N{DEVANAGARI LETTER GHHA}
+  ;h: \N{DEVANAGARI LETTER HA}
+  ;m: \N{DEVANAGARI SIGN CANDRABINDU}
+  ;n: \N{DEVANAGARI SIGN ANUSVARA}
+  ;r: \N{DEVANAGARI LETTER DDDHA}
+  ;rh: \N{DEVANAGARI LETTER RHA}
+  ;s: \N{DEVANAGARI LETTER SA}
+  ;t: \N{DEVANAGARI LETTER TTA}
+  ;th: \N{DEVANAGARI LETTER TTHA}
+  ;x: \N{DEVANAGARI LETTER KHHA}
+  ;z: \N{DEVANAGARI LETTER ZA}
+  <wb> <consonant> <short_vowel> <consonant> a h <wb>: \N{DEVANAGARI LETTER HA}
+  <consonant> a (( aa: \N{DEVANAGARI LETTER AA}
+  <consonant> a (( <vowel>: ''
+  <consonant> a ((: \N{DEVANAGARI VOWEL SIGN AA}
+  <wb> a ((: \N{DEVANAGARI LETTER AA}
+  <wb> i (( t i: \N{DEVANAGARI LETTER E}\N{DEVANAGARI LETTER TA}
+  <short_vowel> a: \N{DEVANAGARI LETTER A}
+  <short_vowel> a h <wb>: \N{DEVANAGARI LETTER AA}
+  <short_vowel> aa: \N{DEVANAGARI LETTER AA}
+  <short_vowel> ai: \N{DEVANAGARI LETTER AI}
+  <short_vowel> au: \N{DEVANAGARI LETTER AU}
+  <vowel> .ri: \N{DEVANAGARI LETTER VOCALIC R}
+  <vowel> a: \N{DEVANAGARI LETTER A}
+  <vowel> a h <wb>: \N{DEVANAGARI LETTER AA}
+  <vowel> aa: \N{DEVANAGARI LETTER AA}
+  <vowel> ai: \N{DEVANAGARI LETTER AI}
+  <vowel> au: \N{DEVANAGARI LETTER AU}
+  <vowel> e: \N{DEVANAGARI LETTER E}
+  <vowel> i: \N{DEVANAGARI LETTER I}
+  <vowel> ii: \N{DEVANAGARI LETTER II}
+  <vowel> o: \N{DEVANAGARI LETTER O}
+  <vowel> ;o: \N{DEVANAGARI LETTER O}
+  <vowel> u: \N{DEVANAGARI LETTER U}
+  <vowel> uu: \N{DEVANAGARI LETTER UU}
+  <vowel> (( a: \N{DEVANAGARI LETTER A}
+  <wb> (( ai: \N{DEVANAGARI LETTER AI}
+  <wb> (( u: \N{DEVANAGARI LETTER U}
+  <wb> (( a: \N{DEVANAGARI LETTER A}
+  <consonant> (( a: \N{DEVANAGARI LETTER A}
+  <wb> (( aa: \N{DEVANAGARI LETTER AA}
+  <wb> (( i: \N{DEVANAGARI LETTER I}
+  <wb> (( ii: \N{DEVANAGARI LETTER II}
+  <wb> (( au: \N{DEVANAGARI LETTER AU}
+  <consonant> u (( aa: \N{DEVANAGARI VOWEL SIGN U}\N{DEVANAGARI LETTER AA}
+  <consonant> uu )) o ;n <wb>: \N{DEVANAGARI VOWEL SIGN U}\N{DEVANAGARI LETTER O}\N{DEVANAGARI SIGN ANUSVARA}
+  <consonant> uu )) e ;n <wb>: \N{DEVANAGARI VOWEL SIGN U}\N{DEVANAGARI LETTER E}\N{DEVANAGARI SIGN CANDRABINDU}
+  <vowel> (( ii: \N{DEVANAGARI LETTER II}
+  <vowel> (( i: \N{DEVANAGARI LETTER I}
+  <consonant> (( a <wb>: \N{DEVANAGARI VOWEL SIGN AA}
+  <consonant> (( <wb>: ''
+  <consonant> (( <<izaafat>: ''
+  <wb> .ri: \N{DEVANAGARI LETTER VOCALIC R}
+  <wb> ;e: \N{DEVANAGARI LETTER E}
+  <wb> ;x v u: \N{DEVANAGARI LETTER KHHA}\N{DEVANAGARI VOWEL SIGN U}
+  <wb> a: \N{DEVANAGARI LETTER A}
+  <wb> a ((: \N{DEVANAGARI LETTER AA}
+  <wb> aa: \N{DEVANAGARI LETTER AA}
+  <wb> ai: \N{DEVANAGARI LETTER AI}
+  <wb> au: \N{DEVANAGARI LETTER AU}
+  <wb> e: \N{DEVANAGARI LETTER E}
+  <wb> i: \N{DEVANAGARI LETTER I}
+  <wb> ii: \N{DEVANAGARI LETTER II}
+  <wb> k i h <wb>: \N{DEVANAGARI LETTER KA}\N{DEVANAGARI VOWEL SIGN I}
+  <wb> o: \N{DEVANAGARI LETTER O}
+  <wb> ;o: \N{DEVANAGARI LETTER O}
+  <wb> u: \N{DEVANAGARI LETTER U}
+  <wb> uu: \N{DEVANAGARI LETTER UU}
+  <wb> y i h <wb>: \N{DEVANAGARI LETTER YA}\N{DEVANAGARI VOWEL SIGN E}
+  <wb> y i h ii <wb>: \N{DEVANAGARI LETTER YA}\N{DEVANAGARI LETTER HA}\N{DEVANAGARI VOWEL SIGN II}
+  <wb> v u h <wb>: \N{DEVANAGARI LETTER VA}\N{DEVANAGARI VOWEL SIGN O}
+  <wb> v u h ii <wb>: \N{DEVANAGARI LETTER VA}\N{DEVANAGARI LETTER HA}\N{DEVANAGARI VOWEL SIGN II}
+  <wb> n a h <wb>: \N{DEVANAGARI LETTER NA}
+  <wb> p a h <wb>: \N{DEVANAGARI LETTER PA}\N{DEVANAGARI VOWEL SIGN E}
+  <wb> b a h <wb>: \N{DEVANAGARI LETTER BA}
+  '?': '?'
+  a: ''
+  <wb> <consonant> a h <wb>: \N{DEVANAGARI LETTER HA}
+  <wb> <consonant> a h <izaafat>: \N{DEVANAGARI LETTER HA}
+  <consonant> a h <wb>: \N{DEVANAGARI VOWEL SIGN AA}
+  <consonant> a h <izaafat>: \N{DEVANAGARI VOWEL SIGN AA}
+  aa: \N{DEVANAGARI VOWEL SIGN AA}
+  <candrabindu_vowel> ;n <wb>: \N{DEVANAGARI SIGN CANDRABINDU}
+  <r> <consonant> <candrabindu_vowel> ;n <wb>: \N{DEVANAGARI SIGN ANUSVARA}
+  <vowel> <e> ;n <wb>: \N{DEVANAGARI SIGN CANDRABINDU}
+  ai: \N{DEVANAGARI VOWEL SIGN AI}
+  au: \N{DEVANAGARI VOWEL SIGN AU}
+  b: \N{DEVANAGARI LETTER BA}
+  bh: \N{DEVANAGARI LETTER BHA}
+  ch: \N{DEVANAGARI LETTER CA}
+  <consonant> ch i h <wb>: \N{DEVANAGARI LETTER CA}\N{DEVANAGARI VOWEL SIGN E}
+  chh: \N{DEVANAGARI LETTER CHA}
+  d: \N{DEVANAGARI LETTER DA}
+  dh: \N{DEVANAGARI LETTER DHA}
+  e: \N{DEVANAGARI VOWEL SIGN E}
+  f: \N{DEVANAGARI LETTER FA}
+  g: \N{DEVANAGARI LETTER GA}
+  gh: \N{DEVANAGARI LETTER GHA}
+  h: \N{DEVANAGARI LETTER HA}
+  i: \N{DEVANAGARI VOWEL SIGN I}
+  ii: \N{DEVANAGARI VOWEL SIGN II}
+  j: \N{DEVANAGARI LETTER JA}
+  jh: \N{DEVANAGARI LETTER JHA}
+  k: \N{DEVANAGARI LETTER KA}
+  kh: \N{DEVANAGARI LETTER KHA}
+  l: \N{DEVANAGARI LETTER LA}
+  m: \N{DEVANAGARI LETTER MA}
+  <vowel> n <consonant>: \N{DEVANAGARI SIGN ANUSVARA}
+  <vowel> n <wb>: \N{DEVANAGARI LETTER NA}
+  <vowel> n <vowel>: \N{DEVANAGARI LETTER NA}
+  <vowel> n n <vowel>: \N{DEVANAGARI LETTER NA}\N{DEVANAGARI SIGN VIRAMA}\N{DEVANAGARI LETTER NA}
+  n t aa: \N{DEVANAGARI LETTER NA}\N{DEVANAGARI LETTER TA}\N{DEVANAGARI VOWEL SIGN AA}
+  n t e: \N{DEVANAGARI LETTER NA}\N{DEVANAGARI LETTER TA}\N{DEVANAGARI VOWEL SIGN E}
+  n t ii: \N{DEVANAGARI LETTER NA}\N{DEVANAGARI LETTER TA}\N{DEVANAGARI VOWEL SIGN II}
+  n: \N{DEVANAGARI LETTER NA}
+  o: \N{DEVANAGARI VOWEL SIGN O}
+  <consonant> ;o ((: \N{DEVANAGARI VOWEL SIGN O}
+  <consonant> ;o: \N{DEVANAGARI VOWEL SIGN O}
+  '- o -': \N{HYPHEN}\N{DEVANAGARI LETTER O}\N{HYPHEN}
+  p: \N{DEVANAGARI LETTER PA}
+  ph: \N{DEVANAGARI LETTER PHA}
+  q: \N{DEVANAGARI LETTER QA}
+  r: \N{DEVANAGARI LETTER RA}
+  s: \N{DEVANAGARI LETTER SA}
+  sh: \N{DEVANAGARI LETTER SHA}
+  t: \N{DEVANAGARI LETTER TA}
+  th: \N{DEVANAGARI LETTER THA}
+  u: \N{DEVANAGARI VOWEL SIGN U}
+  uu: \N{DEVANAGARI VOWEL SIGN UU}
+  v: \N{DEVANAGARI LETTER VA}
+  w: ''
+  y: \N{DEVANAGARI LETTER YA}
+  z: \N{DEVANAGARI LETTER ZA}
+  zh: \N{DEVANAGARI LETTER JHA}\N{DEVANAGARI SIGN NUKTA}
+  '|': ''
+  '_': ''
+onmatch:
+  -
+    <z_consonant> + <z_consonant>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <m> + <h_char>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <n> + consonant: ''
+  - 
+    <k> + <kh>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <r> + <r>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <r> + <z>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <l> + <h>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <v> + <v>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <;t> + <;th>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <d> + <d> : \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <consonant> <vowel> <s> + <t> <long_vowel>: \N{DEVANAGARI SIGN VIRAMA}
+  - 
+    <consonant> <long_vowel> <consonant> + <consonant> <long_vowel>: ''
+  -
+    <consonant> <vowel> <vowel_nasal> <consonant> + <consonant> <long_vowel>: ''
+  -
+    <consonant> <short_vowel> <h_char> + <consonant>: ''
+  -
+    <wb> <consonant> <short_vowel> <consonant> + <consonant> <long_vowel> <vowel_nasal>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <wb> <short_vowel> <consonant> + <consonant> <short_vowel>: ''
+
+  -
+    <wb> <short_vowel> <consonant> + <consonant> <long_vowel> <consonant>: ''
+  -
+    <consonant> <short_vowel> <consonant> + <consonant> <long_vowel>: ''
+  -
+    <wb> <vowel> <consonant> + <consonant> <vowel>: ''
+  -
+    <wb> <consonant> <short_vowel> <z> + <z> <short_vowel> <consonant>: ''
+  -
+    <wb> <consonant> <short_vowel> <consonant> + <consonant> <short_vowel> <consonant>: ''
+  -
+    <n> + <consonant>: ''
+  -
+    <wb> <long_vowel> <consonant> + <consonant> <long_vowel>: ''
+  - 
+    <consonant> + <consonant>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <k> + <k_group>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <ch> + <ch_group>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <wb> <consonant> <long_vowel> <consonant> + <consonant> <long_vowel>: ''
+  -
+    <wb> <consonant> <long_vowel> <consonant> + <consonant> <short_vowel> <consonant>: ''
+  -
+    <wb> <consonant> <short_vowel> <sibilant> + <consonant> <wb>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <wb> <consonant> <short_vowel> <consonant> + <consonant> <wb>: ''
+  -
+    <wb> <short_vowel> <consonant> + <consonant> <long_vowel> <wb>: ''
+  -
+    <wb> <short_vowel> <consonant> + <consonant> <long_vowel> <consonant> <wb>: ''
+  -
+    <wb> <short_vowel> <consonant> <short_vowel> <consonant> + <consonant> <short_vowel> <consonant>: ''
+  -
+    <vowel> <n> + <consonant>: ''
+  -
+    <consonant> + <n> <aa> <wb>: ''
+  -
+    <consonant> + <n> <e> <wb>: ''
+  -
+    <consonant> + <t> <aa> <wb>: ''
+  -
+    <consonant> + <t> <e> <wb>: ''
+  -
+    <consonant> + <t> <ii> <wb>: ''
+  -
+    <consonant> + <ain> <short_vowel> <wb>: ''
+  -
+    <short_vowel> <ain> + <consonant>: ''
+  -
+    <wb> <consonant> <short_vowel> + <consonant> <long_vowel>: ''
+  -
+    <wb> <consonant> <short_vowel> <consonant> + <consonant> <long_vowel>: ''
+  -
+    <consonant> + <consonant>: \N{DEVANAGARI SIGN VIRAMA}
+tokens:
+  "\n":
+  - wb
+  ' ':
+  - wb
+  '!':
+  - punctuation
+  - wb
+  '''':
+  - letter_break
+  '_':
+  - under_score
+  (:
+  - punctuation
+  - wb
+  ((:
+  - ain
+  - consonant
+  (-e):
+  - hidden_izaafat
+  ):
+  - punctuation
+  - wb
+  )):
+  - vowel
+  ',':
+  - punctuation
+  - wb
+  '-':
+  - wb
+  --:
+  - punctuation
+  - wb
+  '----':
+  - punctuation
+  - wb
+  -e:
+  - izaafat
+  .r:
+  - consonant
+  .s:
+  - consonant
+  .z:
+  - consonant
+  - z_consonant
+  /:
+  - wb
+  ':':
+  - punctuation
+  - wb
+  :n:
+  - consonant
+  :t:
+  - consonant
+  :z:
+  - consonant
+  - z_consonant
+  ;:
+  - punctuation
+  - wb
+  ;aa:
+  - vowel
+  - long_vowel
+  ;d:
+  - consonant
+  ;dh:
+  - consonant
+  ;e:
+  - vowel
+  - short_vowel
+  - short_vowel_e
+  ;g:
+  - consonant
+  ;h:
+  - consonant
+  - h_char
+  ;m:
+  - vowel_nasal
+  ;o:
+  - vowel
+  ;n:
+  - vowel_nasal
+  ;r:
+  - consonant
+  ;rh:
+  - consonant
+  ;s:
+  - consonant
+  ;t:
+  - consonant
+  - ;t
+  ;th:
+  - consonant
+  - ;th
+  ;x:
+  - ;x_class
+  - consonant
+  ;z:
+  - consonant
+  - z_consonant
+  '?':
+  - punctuation
+  - wb
+  "\0":
+  - wb
+  '[':
+  - punctuation
+  - wb
+  ']':
+  - punctuation
+  - wb
+  a:
+  - short_vowel
+  - short_vowel_a
+  - vowel
+  - a
+  aa:
+  - alef
+  - aa
+  - vowel
+  - long_vowel
+  - candrabindu_vowel
+  ai:
+  - long_vowel
+  - vowel
+  au:
+  - long_vowel
+  - vowel
+  b:
+  - consonant
+  bh:
+  - consonant
+  ch:
+  - consonant
+  - ch
+  chh:
+  - consonant
+  - ch_group
+  d:
+  - consonant
+  - d
+  dh:
+  - consonant
+  e:
+  - long_vowel
+  - e
+  - vowel
+  f:
+  - consonant
+  g:
+  - consonant
+  gh:
+  - consonant
+  h:
+  - consonant
+  - consonant_h
+  - h
+  - h_char
+  i:
+  - short_vowel
+  - vowel
+  ii:
+  - long_vowel
+  - vowel
+  - ii
+  j:
+  - consonant
+  jh:
+  - consonant
+  k:
+  - consonant
+  - k
+  - k_group
+  kh:
+  - consonant
+  - k_group
+  - kh
+  l:
+  - consonant
+  m:
+  - consonant
+  - m
+  n:
+  - consonant
+  - n
+  o:
+  - vowel
+  - long_vowel
+  p:
+  - consonant
+  ph:
+  - consonant
+  q:
+  - consonant
+  r:
+  - consonant
+  - r
+  s:
+  - consonant
+  - sibilant
+  - s
+  sh:
+  - consonant
+  - sibilant
+  t:
+  - consonant
+  - t
+  th:
+  - consonant
+  u:
+  - short_vowel
+  - vowel
+  uu:
+  - vowel
+  - long_vowel
+  - candrabindu_vowel
+  v:
+  - consonant
+  - v
+  w:
+  - consonant
+  y:
+  - consonant
+  z:
+  - consonant
+  - z
+  - z_consonant
+  zh:
+  - consonant
+  '|':
+  - hindi_break

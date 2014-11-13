@@ -25,6 +25,7 @@
 
 import re
 from collections import *
+import csv
 
 # <headingcell level=2>
 
@@ -32,12 +33,12 @@ from collections import *
 
 # <codecell>
 
-verses = {}        # dictionary of verses, e.g. 001.01.0='naqsh faryaadii..'
-tokens = {}        # dictionary of tokens where key is verses+.xx, e.g. 001.01.0.01 = 'naqsh'
-unique_tokens = {} # dictionary of tokens where value is their count
-lemmas = {}        # dictionary of tokens where value is a list of their lemmas
-unique_lemmas = [] # dictionary of unique lemmas
-okay_lemmas = {}   # dictionary of unique tokens and lists of lemma, e.
+verses = {}                      # dictionary of verses, e.g. 001.01.0='naqsh faryaadii..'
+tokens = {}                      # dictionary of tokens where key is verses+.xx, e.g. 001.01.0.01 = 'naqsh'
+unique_tokens = Counter()        # Counter of tokens where value is their count
+lemmas = defaultdict(list)       # dictionary of tokens where value is a list of their lemmas
+unique_lemmas = []               # list of unique lemmas
+okay_lemmas = defaultdict(list)  # dictionary of unique tokens with lists of lemma, e.
 
 # <markdowncell>
 
@@ -54,14 +55,14 @@ def load_verses(inputfile='input/verses.csv'):
     returns: verses where verses['ggg.vv.l']=token; where ggg=ghazal #; vv=verse number;l=line number
     '''
 
-    import csv
+
     verses = {}
     with open(inputfile,'r') as csvfile:
         versereader = csv.reader(csvfile)
         for row in versereader:
             (verse_id, input_string, real_scan) = row # 
-            if not 'x' in verse_id: # skip ones with x (not in muravvaj divan)
-                verses[verse_id] = input_string.strip()
+            if not 'x' in verse_id: # only muravvaj divan for now
+                verses[verse_id] = input_string.strip() 
     return verses
 
 def get_okay_lemmas(inputfile='input/okay.csv'):
@@ -113,7 +114,6 @@ def match_tokens(match_string):
     match_string: regular expression string (assumes ^,e.g. 'naq')
     returns: a list of tokens,e.g. ['naqsh']
     '''
-    import re
     assert unique_tokens
     return [k  for k in unique_tokens.keys() if re.match(match_string,k)]
 
@@ -124,7 +124,6 @@ def search_tokens(match_string):
     Input: regular expression string (e.g. 'aqsh'
     returns: a list of tokens, e.g. ['naqsh']
     '''
-    import re
     assert unique_tokens
     return [k  for k in unique_tokens.keys() if re.search(match_string,k)]
 
@@ -149,6 +148,7 @@ def get_lemmas(unique_tokens):
     '''
     lemmas = {}
 
+    
     for t in unique_tokens.keys():
         lemma = t
         if re.search("-e$",t):
@@ -170,11 +170,11 @@ def get_unique_lemmas(lemmas):
     lemmas: dictionary keyed by tokens containing lists of lemma, e.g. lemmas['rang-o-buu']=['rang','buu','rang-o-buu']
     returns: unique_lemmas as unique_lemmas['lemma']=count
     '''
-    unique_lemmas = []
+    unique_lemmas = set()
     for t,t_lemmas in lemmas.iteritems():
         for lemma in t_lemmas:
-            if not lemma in unique_lemmas:
-                unique_lemmas.append(lemma)
+            unique_lemmas.add(lemma)
+#                unique_lemmas.add(lemma)
 #            else:
 #                unique_lemmas[lemma].append(t)
     return unique_lemmas
@@ -274,7 +274,7 @@ lemmas_out = defaultdict(set)
 for k,v in okay_lemmas.iteritems(): # k = word; v = lemmas
     for l in v:
         lemmas_out[l].add(k)
-#        lemmas_out[l].sort()
+
 with open('output/conc_details.csv','w') as f:
     for k,v in lemmas_out.iteritems():
         f.write(k+','+'|'.join(v)+'\n')
@@ -302,13 +302,24 @@ for s in izafat_verses:
     x = izafat_re.findall(s)#re.findall(m,s)
     for y in x:
         izafats[y]+=1
-for w in sorted(izafats)[0:5]:
-    print w,izafats[w]
 
 # <codecell>
 
 with open('output/izafats.csv','w') as f:
-    f.write('\n'.join(sorted(izafats)))
+    f.write('\n'.join(sorted(izafats.keys())))
+
+# <markdowncell>
+
+# Here also is a version of the tokens where izafat phrases are treated as individual tokens.
+
+# <codecell>
+
+iast=Counter() # izafats as tokens, along with tokens
+iast_re = re.compile('(?:[^ ]+-e )+(?:z )?[^ ]+|[^ ]+')
+for i,s in verses.iteritems():
+    words = iast_re.findall(s)
+    for t in words:
+        iast[t]+=1
 
 # <markdowncell>
 
@@ -323,16 +334,20 @@ def make_csv_of_token_freq(d, filename):
     d: dictionary of tokens and values(token: #)
     filename = output file name
     '''
-    by_count = sorted(d, key=d.get, reverse=True)
     with open(filename,'w') as f:
-        for k in by_count:
-            f.write(k+','+str(d[k])+'\n')
+        for k,v in d.most_common():
+            f.write(k+','+str(v)+'\n')
             
 
 # <codecell>
 
 make_csv_of_token_freq(izafats, 'output/statistics/izafat-freq.csv')
 make_csv_of_token_freq(unique_tokens, 'output/statistics/uniquetokens-freq.csv')
+make_csv_of_token_freq(iast, 'output/statistics/izafatastokens-freq.csv')
+
+# <codecell>
+
+type(izafats)
 
 # <codecell>
 
