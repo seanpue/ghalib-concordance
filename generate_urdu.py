@@ -18,8 +18,8 @@ import graphparser
 
 # <codecell>
 
-urdup = graphparser.GraphParser('./settings/urdu.yaml')
-nagarip = graphparser.GraphParser('./settings/devanagari.yaml')
+urdup = graphparser.GraphParser('./graphparser/settings/urdu.yaml')
+nagarip = graphparser.GraphParser('./graphparser/settings/devanagari.yaml')
 
 # <codecell>
 
@@ -81,7 +81,7 @@ class UnicodeWriter:
     def __init__(self, f, dialect=csv.excel, encoding="utf-8", **kwds):
         # Redirect output to a queue
         self.queue = cStringIO.StringIO()
-        self.writer = csv.writer(self.queue, dialect=dialect, **kwds)
+        self.writer = csv.writer(self.queue, dialect=dialect, **kwds )
         self.stream = f
         self.encoder = codecs.getincrementalencoder(encoding)()
 
@@ -103,9 +103,15 @@ class UnicodeWriter:
 
 # <codecell>
 
-def write_urdu_statistics(inputfile,outputfile,nagari=False):
+def write_urdu_statistics(inputfile,outputfile,nagari=False,headers=True):
     with open(outputfile,'w') as output_stream:
         csvwriter = UnicodeWriter(output_stream)
+        if headers==True:
+            fieldnames = ['urdu', 'transliteration','count']
+            if nagari==True:
+                fieldnames=['urdu', 'nagari', 'transliteration','count']
+            csvwriter.writerrow(fieldnames) # add headers
+            
         with open(inputfile,'r') as input_stream:
             csvreader = unicode_csv_reader(input_stream) # this is likely not utf-8
             for row in csvreader:
