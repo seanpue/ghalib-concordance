@@ -525,6 +525,7 @@ x,;xauf-e,;xauf
 x,;xayaal,;xayaal
 x,;xayaal-e,;xayaal
 x,;xayaalii,;xayaalii
+x,;xeme,;xemah
 x,;xi.zr,;xi.zr
 x,;xi:t:tah-e,;xi:t:tah
 x,;xiraam,;xiraam
@@ -1026,6 +1027,7 @@ x,baidaa-e,baidaa
 x,bairuun-e,bairuun
 x,bajaa,bajaa
 x,bajaa-e,bajaa
+x,bak,baknaa
 x,bal;gamii,bal;gamii
 x,balaa,balaa
 x,balaa))e;n,balaa
@@ -1552,6 +1554,7 @@ x,diidah,diidah
 x,diidah-e,diidah
 x,diidah-o-dil,diidah-o-dil|diidah|dil
 x,diigar,diigar
+x,diije,denaa
 x,diijiye,denaa
 x,diijiyo,diijiyo
 x,diin-o-dil,diin-o-dil|diin|dil
@@ -1732,6 +1735,7 @@ x,fusuun-e,fusuun
 x,ga))e,jaanaa
 x,ga))ii,jaanaa
 x,ga))ii;n,jaanaa
+x,ga;nvaa,ga;nvaanaa
 x,gaa;rho,gaa;rho
 x,gaaliyaa;n,gaalii
 x,gaaliyo;n,gaalii
@@ -1770,8 +1774,10 @@ x,gayaa,jaanaa
 x,gaye,jaanaa
 x,gaz,gaz
 x,ghaas,ghaas
+x,ghabraa,ghabraanaa
 x,ghabraa))e;n,ghabraanaa
 x,ghabraa))egaa,ghabraanaa
+x,ghabraave;nge,ghabraana
 x,ghar,ghar
 x,ghisegaa,ghisnaa
 x,ghisne,ghisnaa
@@ -2053,6 +2059,7 @@ x,itnaa,itnaa
 x,itne,itnaa
 x,itnii,itne
 x,itraa))e,itraanaa
+x,itraataa,itraanaa
 x,ittifaaqii,ittifaaqii
 x,ja;zb-e,ja;zb
 x,ja;zbah-e,ja;zbah
@@ -2103,6 +2110,9 @@ x,jaarii,jaarii
 x,jaataa,jaanaa
 x,jaate,jaanaa
 x,jaatii,jaanaa
+x,jaave,jaanaa
+x,jaave;n,jaanaa
+x,jaave;nge,jaanaa
 x,jaaved,jaaved
 x,jaavidaa;n,jaavidaan
 x,jaavidaanii-e,jaavidaanii
@@ -2194,6 +2204,7 @@ x,jism,jism
 x,jitnaa,jitnaa
 x,jitne,jitnaa
 x,jitnii,jitnii
+x,jiye,jiinaa
 x,jo,jo
 x,josh,josh
 x,josh-e,josh
@@ -2288,6 +2299,9 @@ x,kahtaa,kahnaa
 x,kahte,kahnaa
 x,kahtii,kahnaa
 x,kahuu;n,kahnaa
+x,kahve,kahnaa
+x,kahve;n,kahnaa
+x,kahye,kahnaa
 x,kahyo,kahyo
 x,kaifiiyat-e,kaifiiyat
 x,kaifiyyat-e,kaifiyyat
@@ -2358,6 +2372,7 @@ x,khaa))uu;n,khaanaa
 x,khaanaa,khaanaa
 x,khaane,khaanaa
 x,khaate,khaanaa
+x,khaave;nge,khaanaa
 x,khaayaa,khaanaa
 x,khai;nche,khai;nchnaa
 x,khai;nchtaa,khai;nchnaa
@@ -2537,6 +2552,7 @@ x,lekin,lekin
 x,lene,lenaa
 x,letaa,lenaa
 x,lete,lenaa
+x,leve,lenaa
 x,libaas,libaas
 x,libaas-e,libaas
 x,lii,lenaa
@@ -3150,6 +3166,7 @@ x,pa-e,pa
 x,pa;raa,pa;rnaa
 x,pa;re,pa;rnaa
 x,pa;rh,pa;rhnaa
+x,pa;rhye,pa;rhnaa
 x,pa;rii,pa;rnaa
 x,pa;rtii,pa;rnaa
 x,paa,paa
@@ -3181,6 +3198,7 @@ x,paashnah,paashnah
 x,paasu;x-e,paasu;x
 x,paataa,paanaa
 x,paate,paanaa
+x,paave,paanaa
 x,paayaa,paanaa
 x,pach,pach
 x,pah,pah
@@ -3478,6 +3496,8 @@ x,rahtaa,rantaa
 x,rahte,rahnaa
 x,rahtii,rahnaa
 x,rahuu;n,rahnaa
+x,rahve,rahnaa
+x,rahye,rahnaa
 x,rahyo,rahyo
 x,rahzan,rahzan
 x,rahzan-e,rahzan
@@ -3491,6 +3511,7 @@ x,rakhtaa,rakhnaa
 x,rakhte,rakhnaa
 x,rakhtii,rakhnaa
 x,rakhuu;n,rakhnaa
+x,rakhye,rakhnaa
 x,rakhyo,rakhyo
 x,ram,ram
 x,rang,rang
@@ -4146,6 +4167,7 @@ x,taufiiq,taufiiq
 x,taufiir-e,taufiir
 x,tausan,tausan
 x,tavaqqu((,tavaqqu((
+x,tavuqqu((,tavaqqu((
 x,te;g,te;g
 x,te;g-aazmaa,te;g-aazmaa
 x,te;g-e,te;g
@@ -4236,6 +4258,7 @@ x,u;the;nge,u;thnaa
 x,u;thtaa,u;thnaa
 x,u;thte,u;thnaa
 x,u;thtii,u;thnaa
+x,u;thye,u;thnaa
 x,ubhraa,ubharnaa
 x,ubhrii;n,ubharnaa
 x,uchhal,uchhalnaa

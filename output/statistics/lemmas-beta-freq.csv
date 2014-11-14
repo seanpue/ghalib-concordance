@@ -10,7 +10,7 @@ kii,295
 ho,290
 nahii;n,288
 mai;n,285
-jaanaa,262
+jaanaa,272
 kyaa,240
 meraa,240
 dil,223
@@ -21,8 +21,8 @@ to,174
 yih,165
 aanaa,157
 us,148
+kahnaa,145
 ne,140
-kahnaa,140
 honaaa,137
 jo,135
 teraa,133
@@ -31,8 +31,8 @@ dekhnaa,122
 par,121
 ;gaalib,112
 ko))ii,109
+denaa,102
 kyuu;n,100
-denaa,100
 hii,97
 pah,94
 bah,90
@@ -40,7 +40,7 @@ gar,87
 phir,75
 apnaa,75
 har,73
-rahnaa,70
+rahnaa,72
 gul,70
 ay,70
 ik,68
@@ -63,15 +63,16 @@ jab,41
 kahaa;n,40
 tuu,39
 ab,39
+rakhnaa,39
 chaahiye,38
 yaar,38
 asad,38
-rakhnaa,38
 sahii,38
 ;xayaal,37
 yuu;n,37
 mai,37
 jigar,37
+lenaa,37
 ;gair,36
 rang,36
 hamaaraa,36
@@ -80,7 +81,6 @@ yaa;n,35
 ;xaak,35
 vafaa,35
 jaan,35
-lenaa,35
 mauj,35
 nikalnaa,34
 yaa,34
@@ -128,14 +128,15 @@ baar,24
 taa,24
 but,24
 havaa,23
+paanaa,23
 jaa,23
 aa))iinah,22
 kabhii,22
-paanaa,22
 haath,22
 junuun,22
 ;husn,22
 lekin,22
+u;thnaa,22
 varnah,22
 hastii,22
 ((umr,21
@@ -146,7 +147,6 @@ kaam,21
 qa:trah,21
 tamannaa,21
 aisaa,21
-u;thnaa,21
 aap,20
 mu;nh,20
 daryaa,20
@@ -230,6 +230,7 @@ ma((luum,14
 aab,14
 baskih,14
 barq,14
+khaanaa,14
 ba((d,14
 aa))inah,14
 ;zarrah,13
@@ -242,7 +243,6 @@ qaatil,13
 gardan,13
 ;xuub,13
 goyaa,13
-khaanaa,13
 sitam,13
 yihii,13
 chaahnaa,13
@@ -260,10 +260,10 @@ tujhe,12
 dimaa;g,12
 ma;hv,12
 lagnaa,12
-josh,12
 :tara;h,12
 shikvah,12
 te;g,12
+josh,12
 aazmaa))ish,12
 va((dah,12
 ((ar.z,12
@@ -325,6 +325,7 @@ fanaa,10
 sivaa,10
 tiir,10
 ranj,10
+jiinaa,10
 aasmaan,10
 kah,10
 ;xaar,10
@@ -380,6 +381,7 @@ fareb,8
 hay,8
 kholnaa,8
 qafas,8
+ghabraanaa,8
 roz,8
 rusvaa,8
 duud,8
@@ -390,7 +392,6 @@ bhalaa,8
 ronaa,8
 bajaa,8
 qadr,8
-jiinaa,8
 bhar,8
 ruu,8
 raaz,8
@@ -426,7 +427,6 @@ yuusuf,7
 naa;xun,7
 zindaan,7
 fa.sl,7
-jaave,7
 shor,7
 lahuu,7
 naamah-bar,7
@@ -511,6 +511,7 @@ aadmii,6
 char;x,6
 bisaa:t,6
 dikhaanaa,6
+tavaqqu((,6
 sitamgar,6
 ;xam,6
 :zaalim,6
@@ -550,7 +551,6 @@ muu,6
 sarv,6
 maana((,6
 ;xvud,6
-ghabraa,6
 ;zikr,6
 kashmakash,6
 pairaahan,6
@@ -592,7 +592,6 @@ mukarrar,5
 qa.zaa,5
 ghisnaa,5
 ((ushshaaq,5
-tavaqqu((,5
 maanind,5
 dashnah,5
 ;xirman,5
@@ -610,7 +609,6 @@ diivaanah,5
 :tarz,5
 ma;hshar,5
 safar,5
-guftaar,5
 usii,5
 naa.si;h,5
 navaa,5
@@ -645,6 +643,7 @@ jamaal,5
 shaam,5
 nashshah,5
 shiishah,5
+guftaar,5
 raushan,5
 ;xuld,5
 rote,5
@@ -820,9 +819,7 @@ afsos,3
 ma.zmuun,3
 hamah,3
 dushmanii,3
-ugnaa,3
 dho,3
-kahye,3
 miir,3
 qad,3
 fai.z,3
@@ -853,6 +850,7 @@ raunaq,3
 ;xa:taa,3
 vaa-bastah,3
 jaaved,3
+ugnaa,3
 safiinah,3
 pardah-daarii,3
 talvaar,3
@@ -1072,6 +1070,7 @@ be-zabaanii,2
 aahang,2
 ((araq,2
 ((aalii,2
+pa;rhnaa,2
 bijlii,2
 ta((n,2
 maatam,2
@@ -1143,6 +1142,7 @@ taa;xiir,2
 bad,2
 baa,2
 bashar,2
+aadam,2
 piyaalah,2
 tamhiid,2
 ruu;h,2
@@ -1163,7 +1163,6 @@ chaarah,2
 ((inaan-giir,2
 naaf,2
 ra;hmat,2
-jiye,2
 nihaanii,2
 almaas,2
 guzaaraa,2
@@ -1180,7 +1179,6 @@ bahr,2
 kotaahii,2
 saraab,2
 bar-ham,2
-ghabraanaa,2
 ma.zaamiin,2
 yaqiin,2
 nisbat,2
@@ -1230,7 +1228,6 @@ rab:t,2
 sitam-gar,2
 daftar,2
 but-;xaanah,2
-leve,2
 kau;sar,2
 girah,2
 chuknaa,2
@@ -1351,6 +1348,7 @@ puuchho,2
 tihii,2
 darvesh,2
 .saiqal,2
+itraanaa,2
 kan((aan,2
 ;xuun-baar,2
 jaamah,2
@@ -1359,9 +1357,7 @@ naa-mihrbaan,2
 pur,2
 kaar-farmaa,2
 taak,2
-jaave;nge,2
 janaazah,2
-diije,2
 gul-fishaanii,2
 sharar,2
 zinhaar,2
@@ -1494,7 +1490,6 @@ pilaanaa,2
 faraa;g,2
 durust,2
 ((aks,2
-aadam,2
 .saa;hib,2
 asbaab,2
 tundii,2
@@ -1600,7 +1595,6 @@ gomago,1
 fanaa-ta((liim,1
 ;xvurshiid-jamaal,1
 mihr-baan,1
-pa;rhnaa,1
 parii,1
 sar-gashtagii,1
 saf;hah,1
@@ -1650,7 +1644,7 @@ vadii((at-;xaanah,1
 chaarah-saazii,1
 ni((mat,1
 ;haajaat,1
-ghabraave;nge,1
+aa;zar-fishaa;n,1
 dil-o-mizhgaa;n,1
 pardaaz,1
 bah-;zarrah,1
@@ -1712,13 +1706,14 @@ shab-o-roz-o-maah-o-saal,1
 ;hijaab-o-vidaa((,1
 zabuun,1
 ((uhdah,1
+iqbaal,1
 ;xvud-raftah,1
 diijiyo,1
 ;xvud-biin-o-;xvud-aaraa,1
 paadaash,1
 do-niim,1
 ((ayaar,1
-kahve;n,1
+ghabraana,1
 lu;taanaa,1
 ra.zaamand,1
 faanuus,1
@@ -1814,7 +1809,6 @@ va;hshat-o-sheftah,1
 sozaan,1
 kap;rah,1
 daf((,1
-bak,1
 ziinat,1
 mu.savvarii,1
 biinaa))ii,1
@@ -1879,16 +1873,16 @@ ayaa;g,1
 bastii,1
 shuhuud-o-shaahid-o-mashhuud,1
 shinaavar,1
-iqbaal,1
+baknaa,1
 dallaal,1
 namruud,1
 inti.zaar,1
 shahinshaah,1
 na:zar-gaah,1
-paave,1
 rahzanii,1
 hamvaar,1
 saadah-dil,1
+chun'naa,1
 malak-ul-maut,1
 dost-daarii,1
 ta.savvuf,1
@@ -1897,7 +1891,6 @@ chipaknaa,1
 karo;r,1
 diin-o-dil,1
 aatish-baar,1
-aa;zar-fishaa;n,1
 :tay,1
 laraznnaa,1
 tuu;nbnaa,1
@@ -1909,7 +1902,6 @@ faqa:t,1
 yahaa;n,1
 :tuufaan-gaah,1
 nihaalii,1
-tavuqqu((,1
 mashhad,1
 darbaanii,1
 mubaddal,1
@@ -1953,7 +1945,6 @@ sar-o-barg,1
 dafiinah,1
 raft,1
 yak-jahaan,1
-rakhye,1
 udaas,1
 baarish,1
 burdan,1
@@ -2007,7 +1998,6 @@ be-ka;saafat,1
 giryah-o-lab,1
 nuktah-saraa,1
 ;xaan-maan,1
-chun'naa,1
 lagaava;t,1
 ((aliih,1
 ((aashiqii,1
@@ -2047,7 +2037,6 @@ jurm,1
 naa.siyah-saa,1
 jaan-kaahii,1
 marhuun,1
-u;thye,1
 bos,1
 daaman-o-taar,1
 ;xuftah,1
@@ -2064,7 +2053,6 @@ payaam,1
 dikhaa))ii,1
 sako,1
 laa))iq,1
-pa;rhye,1
 naayaab,1
 shab-rau,1
 shiguftagii,1
@@ -2152,7 +2140,6 @@ bar-sabiil,1
 nayyar,1
 ma((ri.z,1
 sa;harii,1
-khaave;nge,1
 bad-tar,1
 taaraaj,1
 ((aalii-guhar,1
@@ -2329,6 +2316,7 @@ na((l-bahaa,1
 ruu-kashii,1
 ;xaar-;xaar,1
 ;xuu-kardah,1
+su;xan-var,1
 iqaamat,1
 far.z,1
 nau-aamoz,1
@@ -2448,6 +2436,7 @@ mu;gannii,1
 ;xvush-;haal,1
 ;xuun-naabah-fishaan,1
 ;xatm,1
+ga;nvaanaa,1
 vujuud-o-((adam,1
 berab:tii,1
 giraan-baarii,1
@@ -2467,7 +2456,6 @@ parii-chahrah,1
 shaa))ibah,1
 be-pardah,1
 jangal,1
-itraanaa,1
 samajhyo,1
 shaa((ir,1
 bebaakii-o-gustaa;xii,1
@@ -2700,7 +2688,6 @@ sarishtah-daarii,1
 vufuur,1
 sar-ba-sar,1
 maajraa,1
-itraataa,1
 jam((iyyat,1
 ;xaanah-viiraan-saaz,1
 bote,1
@@ -2753,7 +2740,6 @@ be-davaa,1
 kaa;n;taa,1
 :tab((,1
 naay-o-nosh,1
-ga;nvaa,1
 mushtamil,1
 be-sham((a,1
 aazaado;n,1
@@ -2907,7 +2893,6 @@ i;htiyaa:t,1
 aaluudah,1
 pardah-sanj,1
 sar-chashmah,1
-jaave;n,1
 fasaan,1
 baa;g-baan,1
 baqaa,1
@@ -2926,7 +2911,6 @@ rihaa))ii,1
 naaz-o-adaa,1
 ;xudaavand,1
 ba((iid,1
-;xeme,1
 makiin,1
 mushkil-pasand,1
 peshah,1
@@ -3157,7 +3141,6 @@ mu.savvir,1
 jaagnaa,1
 la;xt-la;xt,1
 shaan,1
-rahve,1
 :taalib,1
 ta;gaaful-dost,1
 taufiiq,1
@@ -3186,7 +3169,7 @@ ka;srat-aaraa))ii,1
 shaah-par,1
 tangnaa,1
 girih,1
-su;xan-var,1
+;xemah,1
 turbat,1
 la;z;zat-yaab,1
 gum-gashtah,1
@@ -3209,7 +3192,6 @@ farmaanaa,1
 hilaal,1
 supurd,1
 aa))iinah-;xaanah,1
-rahye,1
 ((aql-o-dil-o-jaa;n,1
 kahaar,1
 sargashtah,1
@@ -3333,7 +3315,6 @@ do-dam,1
 ((anaa.sir,1
 aarzuu-;xiraamii,1
 bairuun,1
-kahve,1
 chaarah-saaz,1
 hal-min-maziid,1
 piinas,1

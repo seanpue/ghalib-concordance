@@ -112,6 +112,8 @@ def write_urdu_statistics(inputfile,outputfile,nagari=False):
                 (token,freq)=row
                 if nagari==True:
                     row = urdup.parse(token).output,nagarip.parse(token).output,token,freq
+                else:
+                    row = urdup.parse(token).output, token, freq
                 csvwriter.writerow(row)
 
 # <codecell>
@@ -122,6 +124,9 @@ def write_all_urdu_statistics():
     write_urdu_statistics('output/statistics/uniquetokens-freq.csv','output/statistics/uniquetokens-freq-ur.csv')
     write_urdu_statistics('output/statistics/izafatastokens-freq.csv','output/statistics/izafatastokens-freq-ur.csv')
     write_urdu_statistics('output/statistics/izafatastokens-freq.csv','output/statistics/izafatastokens-freq-hiur.csv',nagari=True)
+
+# <codecell>
+
 
 # <codecell>
 
