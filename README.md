@@ -5,7 +5,7 @@ Ghalib Concordance Project
 
 The original data from this project comes from (our) 
 Professor Emerita Frances Pritchett’s carefully transcribed work:
-http:///www.columbia.edu/itc/mealac/pritchett/00ghalib.
+http://www.columbia.edu/itc/mealac/pritchett/00ghalib.
 
 This is a work in progress in very early stages. If you are interested in
 helping out, please be in touch. There is a substantial amount of proof 
