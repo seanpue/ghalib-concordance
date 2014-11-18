@@ -389,6 +389,7 @@ urdu,nagari,transliteration,count
 زمانے,ज़माने,zamaane,6
 آدمی,आदमी,aadmii,6
 سمجھتے,समझते,samajhte,6
+توقّع,तवक़क़ु,tavaqqu((,6
 صد,सद,.sad,6
 ظالم,ज़ालिम,:zaalim,6
 خس,ख़स,;xas,6
@@ -455,7 +456,6 @@ urdu,nagari,transliteration,count
 حقیقت,हक़ीक़त,;haqiiqat,5
 عجب,अजब,((ajab,5
 دعا,दुआ,du((aa,5
-توقّع,तवक़क़ु,tavaqqu((,5
 سمجھ,समझ,samajh,5
 جائیے,जाइये,jaa))iye,5
 مقابل,मुक़ाबिल,muqaabil,5
@@ -1920,7 +1920,7 @@ urdu,nagari,transliteration,count
 نومید,नौमेद,naumed,1
 درودیوارِ غم کدہ,दर‐ओ‐दीवार‐ए‐ग़मकदा,dar-o-diivaar-e ;gam-kadah,1
 لشکر,लशकर,lashkar,1
-توقّع,तवुक़क़ु,tavuqqu((,1
+چاہو,चाहो,chaaho,1
 یاس,यास,yaas,1
 بے چین,बेचैन,be-chain,1
 حجابِ پاسِ وضع,हिजाब‐ए‐पास‐ए‐वज़ा,;hijaab-e paas-e va.z((a,1
@@ -2127,7 +2127,6 @@ urdu,nagari,transliteration,count
 رکاب,रकाब,rakaab,1
 ٹھانی,ठानी,;thaanii,1
 طوفانِ حوادث,तूफ़ान‐ए‐हवादिस,:tuufaan-e ;havaadi;s,1
-چاہو,चाहो,chaaho,1
 گنبدِ بے در,गुंबद‐ए‐बेदर,gunbad-e be-dar,1
 سونپا,सौंपा,sau;npaa,1
 نبضِ خس,नबज़‐ए‐ख़स,nab.z-e ;xas,1

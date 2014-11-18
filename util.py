@@ -1,5 +1,32 @@
 import csv
 
+def load_verses(inputfile='input/verses.csv'):
+    '''
+    Loads verses from CSV data file
+    inputfile: name of csv file
+    returns: verses where verses['ggg.vv.l']=token; where ggg=ghazal #; vv=verse number;l=line number
+    '''
+
+
+    verses = {}
+    with open(inputfile,'r') as csvfile:
+        versereader = csv.reader(csvfile)
+        for row in versereader:
+            (verse_id, input_string, real_scan) = row # 
+            if not 'x' in verse_id: # only muravvaj divan for now
+                verses[verse_id] = input_string.strip() 
+    return verses
+
+def load_meters(inputfile='input/verses.csv'):
+    meters = {}
+    with open(inputfile,'r') as csvfile:
+        versereader = csv.reader(csvfile)
+        for row in versereader:
+            (verse_id, input_string, real_scan) = row # 
+            if not 'x' in verse_id: # only muravvaj divan for now
+                meters[verse_id] = real_scan
+    return meters
+    
 class UnicodeReader:
     """
     A CSV reader which will iterate over lines in the CSV file "f",

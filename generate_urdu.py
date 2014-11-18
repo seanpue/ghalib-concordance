@@ -110,7 +110,7 @@ def write_urdu_statistics(inputfile,outputfile,nagari=False,headers=True):
             fieldnames = ['urdu', 'transliteration','count']
             if nagari==True:
                 fieldnames=['urdu', 'nagari', 'transliteration','count']
-            csvwriter.writerrow(fieldnames) # add headers
+            csvwriter.writerow(fieldnames) # add headers
             
         with open(inputfile,'r') as input_stream:
             csvreader = unicode_csv_reader(input_stream) # this is likely not utf-8

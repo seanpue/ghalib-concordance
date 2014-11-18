@@ -389,6 +389,7 @@ urdu,transliteration,count
 زمانے,zamaane,6
 آدمی,aadmii,6
 سمجھتے,samajhte,6
+توقّع,tavaqqu((,6
 صد,.sad,6
 ظالم,:zaalim,6
 خس,;xas,6
@@ -455,7 +456,6 @@ urdu,transliteration,count
 حقیقت,;haqiiqat,5
 عجب,((ajab,5
 دعا,du((aa,5
-توقّع,tavaqqu((,5
 سمجھ,samajh,5
 جائیے,jaa))iye,5
 مقابل,muqaabil,5
@@ -1920,7 +1920,7 @@ urdu,transliteration,count
 نومید,naumed,1
 درودیوارِ غم کدہ,dar-o-diivaar-e ;gam-kadah,1
 لشکر,lashkar,1
-توقّع,tavuqqu((,1
+چاہو,chaaho,1
 یاس,yaas,1
 بے چین,be-chain,1
 حجابِ پاسِ وضع,;hijaab-e paas-e va.z((a,1
@@ -2127,7 +2127,6 @@ urdu,transliteration,count
 رکاب,rakaab,1
 ٹھانی,;thaanii,1
 طوفانِ حوادث,:tuufaan-e ;havaadi;s,1
-چاہو,chaaho,1
 گنبدِ بے در,gunbad-e be-dar,1
 سونپا,sau;npaa,1
 نبضِ خس,nab.z-e ;xas,1
