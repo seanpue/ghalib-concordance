@@ -377,17 +377,5 @@ reload(generate_urdu)#generate_urdu.write_all_urdu_statistics()
 
 # <codecell>
 
-
-# <codecell>
-
-def verse_generator():
-    
-
-# <codecell>
-
-from random import randint
-[n for n in ngrams if n[0]=='ko']
-
-# <codecell>
-
+|
 

@@ -5,7 +5,7 @@ urdu,nagari,transliteration,count
 نہ,न,nah,416
 کہ,कि,kih,388
 کو,को,ko,371
-کی,की,kii,295
+کی,की,kii,296
 کا,का,kaa,291
 ہو,हो,ho,290
 نہیں,नहीं,nahii;n,288
@@ -1007,12 +1007,12 @@ urdu,nagari,transliteration,count
 زنہار,ज़िंहार,zinhaar,2
 پوچھتے,पूछते,puuchhte,2
 بنائے,बनाए,banaa))e,2
+گرہ,गिरा,girah,2
 کاروبار,कार‐ओ‐बार,kaar-o-baar,2
 جن,जिन,jin,2
 بتلاؤ,बतलाओ,batlaa))o,2
 کماں,कमाँ,kamaa;n,2
 رکھیو,रखयो,rakhyo,2
-گوں,गूँ,guu;n,2
 خم,ख़म,;xam,2
 پیتے,पीते,piite,2
 کمیں,कमीं,kamii;n,2
@@ -1170,6 +1170,7 @@ urdu,nagari,transliteration,count
 خندہہاے گل,ख़ंदहहा‐ए‐गुल,;xandah'haa-e gul,2
 جواں,जवाँ,javaa;n,2
 قصّہ,क़िससा,qi.s.sah,2
+گوں,गौं,gau;n,2
 ستائے,सताए,sataa))e,2
 اتنا,उतना,utnaa,2
 شش,शश,shash,2
@@ -1939,7 +1940,6 @@ urdu,nagari,transliteration,count
 حسنِ مہ,हुसन‐ए‐मा,;husn-e mah,1
 دلوجاں,दिल‐ओ‐जाँ,dil-o-jaa;n,1
 پینس,पीनस,piinas,1
-گرہ,गिरिह,girih,1
 منحرف,मुंहरिफ़,mun;harif,1
 زہد,ज़ुहद,zuhd,1
 دستوبازو,दसत‐ओ‐बाज़ू,dast-o-baazuu,1
@@ -2262,7 +2262,6 @@ urdu,nagari,transliteration,count
 بود,बूद,buud,1
 شبنم استاں,शबनमइसताँ,shabnam-istaa;n,1
 نوحہِ غم,नौहा‐ए‐ग़म,nau;hah-e ;gam,1
-بے,बे,be,1
 ہوجیو,हूजियो,huujiyo,1
 چشمِ تنگ,चशम‐ए‐तंग,chashm-e tang,1
 نالہہاے زار,नालहहा‐ए‐ज़ार,naalah'haa-e zaar,1
@@ -2422,7 +2421,6 @@ urdu,nagari,transliteration,count
 شہرت,शुहरत,shuhrat,1
 فریبِ وفا خوردگاں,फ़रेब‐ए‐वफ़ाख़ुरदगाँ,fareb-e vafaa-;xvurdagaa;n,1
 میسّر,मुयससर,muyassar,1
-گرہ,गिरा,girah,1
 صفاے حیرتِ آئینہ,सफ़ा‐ए‐हैरत‐ए‐आईना,.safaa-e ;hairat-e aa))iinah,1
 کلیسا,कलीसा,kaliisaa,1
 اصلِ شہودوشاہدومشہود,असल‐ए‐शुहूद‐ओ‐शाहिद‐ओ‐मशहूद,a.sl-e shuhuud-o-shaahid-o-mashhuud,1
@@ -2512,6 +2510,7 @@ urdu,nagari,transliteration,count
 دیدہِ عبرت نگاہ,दीदा‐ए‐इबरतनिगाह,diidah-e ((ibrat-nigaah,1
 لڑکپن,लड़कपन,la;rakpan,1
 تارِ نفس,तार‐ए‐नफ़स,taar-e nafas,1
+سر نوشت,सरनविशत,sar-navisht,1
 طعمہ,तुमा,:tu((mah,1
 صرفِ عبادت,सरफ़‐ए‐इबादत,.sarf-e ((ibaadat,1
 کہنا,कहना,kahnaa,1
@@ -2642,7 +2641,6 @@ urdu,nagari,transliteration,count
 گھبرائیں,घबराएं,ghabraa))e;n,1
 رشکِ ہم طرحیودردِ اثرِ بانگِ حزیں,रशक‐ए‐हमतरही‐ओ‐दरद‐ए‐असर‐ए‐बांग‐ए‐हज़ीं,rashk-e ham-:tar;hii-o-dard-e a;sar-e baa;ng-e ;hazii;n,1
 حرام,हराम,;haraam,1
-گیتی,गेती,getii,1
 شوخِ تند خو,शोख़‐ए‐तुंदख़ू,sho;x-e tund-;xuu,1
 میناے بے شرابودلِ بے ہواے گل,मीना‐ए‐बेशराब‐ओ‐दिल‐ए‐बेहवा‐ए‐गुल,miinaa-e be-sharaab-o-dil-e be-havaa-e gul,1
 پھرو,फिरो,phiro,1
@@ -3140,7 +3138,7 @@ urdu,nagari,transliteration,count
 فسونِ نیاز,फ़ुसून‐ए‐नियाज़,fusuun-e niyaaz,1
 ہجومِ اشک,हुजूम‐ए‐अशक,hujuum-e ashk,1
 رفت,रफ़त,raft,1
-سر نوشت,सरनविशत,sar-navisht,1
+غمِ گیتی,ग़म‐ए‐गीती,;gam-e giitii,1
 خو کردہِ اختر شماری,ख़ूकरदा‐ए‐अख़तरशुमारी,;xuu-kardah-e a;xtar-shumaarii,1
 مثلِ خندہِ قاتل,मिसल‐ए‐ख़ंदा‐ए‐क़ातिल,mi;sl-e ;xandah-e qaatil,1
 ہوجیے,हूजिये,huujiye,1
@@ -3409,9 +3407,7 @@ urdu,nagari,transliteration,count
 قدِّ آدم,क़दद‐ए‐आदम,qadd-e aadam,1
 باعثِ افزائشِ دردِ دروں,बाइस‐ए‐अफ़ज़ाइश‐ए‐दरद‐ए‐दरूँ,baa((i;s-e afzaa))ish-e dard-e daruu;n,1
 کیسی,कैसी,kaisii,1
-سروپا,सर‐ओ‐पा,sar-o-paa,1
 شاہِ سلیماں جاہ,शाह‐ए‐सुलैमाँजाह,shaah-e sulaimaa;n-jaah,1
-کی,कि,ki,1
 کشتہِ لعلِ بتاں,कुशता‐ए‐लाल‐ए‐बुताँ,kushtah-e la((l-e butaa;n,1
 راگ,राग,raag,1
 غالبِ آشفتہ نوا,ग़ालिब‐ए‐आशुफ़तानवा,;gaalib-e aashuftah-navaa,1
@@ -4025,7 +4021,6 @@ urdu,nagari,transliteration,count
 روئیں,रोएं,ro))e;n,1
 پیا,पिया,piyaa,1
 من جملہِ اسبابِ ویرانی,मिनजुमला‐ए‐असबाब‐ए‐वीरानी,min-jumlah-e asbaab-e viiraanii,1
-غمِ گیتی,ग़म‐ए‐गेती,;gam-e getii,1
 موجِ آب,मौज‐ए‐आब,mauj-e aab,1
 فریادوآہوزاری,फ़रयाद‐ओ‐आह‐ओ‐ज़ारी,faryaad-o-aah-o-zaarii,1
 پیغامِ زبانی,पैग़ाम‐ए‐ज़बानी,pai;gaam-e zabaanii,1
@@ -4160,6 +4155,7 @@ urdu,nagari,transliteration,count
 پرتوِ خورشیدِ جہاں تاب,परतव‐ए‐ख़ुरशीद‐ए‐जहाँताब,partav-e ;xvurshiid-e jahaa;n-taab,1
 نجات,निजात,nijaat,1
 جیبِ خیال,जेब‐ए‐ख़याल,jeb-e ;xayaal,1
+بے سروپا,बेसर‐ओ‐पा,be-sar-o-paa,1
 گستاخیِ فرشتہ,गुसताख़ी‐ए‐फ़रिशता,gustaa;xii-e farishtah,1
 عالم آرائی,आलमआराई,((aalam-aaraa))ii,1
 مانعِ ذوقِ تماشا,माना‐ए‐ज़ौक़‐ए‐तमाशा,maana((-e ;zauq-e tamaashaa,1
@@ -4180,6 +4176,7 @@ urdu,nagari,transliteration,count
 یقیں,यक़ीं,yaqii;n,1
 شیشہوقدحوکوزہوسبو,शीशा‐ओ‐क़दह‐ओ‐कूज़ा‐ओ‐सबू,shiishah-o-qada;h-o-kuuzah-o-sabuu,1
 سیرِ چراغاں,सैर‐ए‐चिराग़ाँ,sair-e chiraa;gaa;n,1
+گیتی,गीती,giitii,1
 حائل,हाइल,;haa))il,1
 نالہِ لبِ خونیں نواے گل,नाला‐ए‐लब‐ए‐ख़ूनींनवा‐ए‐गुल,naalah-e lab-e ;xuunii;n-navaa-e gul,1
 حکایاتِ خوں چکاں,हिकायात‐ए‐ख़ूँचकाँ,;hikaayaat-e ;xuu;n-chakaa;n,1

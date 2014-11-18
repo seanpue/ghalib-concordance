@@ -1,0 +1,4 @@
+#!/bin/bash
+GN=http://www.columbia.edu/itc/mealac/pritchett/00ghalib/`printf "%03d" $1`/$1_`printf "%02d" $2`.html
+echo opening $GN
+open $GN
