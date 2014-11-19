@@ -455,13 +455,13 @@ def out_hiur(w):
 def md_link(s,urdu=True):
     out =  " ["+s+"]"
     out += "("+'http://www.columbia.edu/itc/mealac/pritchett/00ghalib/'
-    out += s[0:3]+'/'+s[4:6]+".html"
+    out += s[0:3]+'/'+s[0:3]+"_"+s[4:6]+".html"
     if urdu==True:
         out+="?urdu"
     out += ") "#
     return out
 
-def gen_hiur_lemmas_by_size_with_verses():
+def gen_hiur_lemmas_by_size_with_verses(truncate=True,truncate_limit=50):
     with codecs.open('output/lemmas-by-size-w-verses-hiur.md','w','utf-8') as f:
         for x in sorted(lemma_instance_count, key=lemma_instance_count.get,reverse=True):
             words=lemmas_out[x]
@@ -471,10 +471,11 @@ def gen_hiur_lemmas_by_size_with_verses():
             for w in words:
                 f.write("  - "+out_hiur(w)+' '+str(token_instance_count[w])+'\n')
                 vi = set(x[:-5] for x in token_instances[w]) # eg001.01 from 001.01.01.0
+                if truncate==True and len (vi)< truncate_limit:
 #                print list(vi)[0]
-                f.write("    - ")# nested indent
-                f.write(', '.join([md_link(v) for v in vi]))
-                f.write('\n')
+                    f.write("    - ")# nested indent
+                    f.write(', '.join([md_link(v) for v in vi]))
+                    f.write('\n')
 
 # <codecell>
 

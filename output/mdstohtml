@@ -1,0 +1,1 @@
+pandoc --from markdown_github --to html --standalone lemmas-by-size-w-verses-hiur.md --output lemmas-by-size-w-verses-hiur.html
