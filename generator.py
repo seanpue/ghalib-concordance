@@ -305,7 +305,7 @@ lemma_instance_count = {lemma: instances_of_lemma(lemma) for lemma in lemmas_out
 #instances_of_lemma for
 #zz=sorted(lemmas_out.keys(),key=instances_of_lemma)#sort_by_instances)#size_of_lemma_by_instances)
 #for z in zz: print z, instances_of_lemma[zz])
-with open("output/lemma_counts.csv","w") as f:
+with open("output/statistics/lemma-counts.csv","w") as f:
     for x in sorted(lemma_instance_count, key=lemma_instance_count.get,reverse=True):
         f.write(x+','+str(lemma_instance_count[x])+'\n')
 

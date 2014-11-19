@@ -133,6 +133,7 @@ def write_all_urdu_statistics():
 
 # <codecell>
 
+write_urdu_statistics('output/statistics/lemma-counts.csv', 'output/statistics/lemma-counts-ur.csv')
 
 # <codecell>
 
