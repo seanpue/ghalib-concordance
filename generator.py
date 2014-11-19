@@ -407,7 +407,7 @@ reload(generate_urdu)#generate_urdu.write_all_urdu_statistics()
 
 # ##Quick and Dirty Output
 # 
-# This generates some quick output for proofing as .md
+# This generates some quick output for proofing as .md; this a bit sloppy
 
 # <codecell>
 
@@ -423,6 +423,13 @@ with open('output/lemmas-by-size.txt','w') as f:
             f.write("  - "+w+' '+str(token_instance_count[w])+'\n')
 
 # <codecell>
+
+import codecs
+import sys
+sys.path.append('./graphparser/')
+import graphparser
+urdup = graphparser.GraphParser('./graphparser/settings/urdu.yaml')
+nagarip = graphparser.GraphParser('./graphparser/settings/devanagari.yaml')
 
 def gen_hiur_lemmas_by_size():
     import codecs
@@ -441,10 +448,40 @@ def gen_hiur_lemmas_by_size():
             f.write(out_hiur(x)+' '+str(lemma_instance_count[x])+'\n')
             for w in words:
                 f.write("  - "+out_hiur(w)+' '+str(token_instance_count[w])+'\n')
+                
+def out_hiur(w):
+    return urdup.parse(w).output+' '+nagarip.parse(w).output+' '+w
+
+def md_link(s,urdu=True):
+    out =  " ["+s+"]"
+    out += "("+'http://www.columbia.edu/itc/mealac/00pritchett/'
+    out += s[0:4]+'/'+s[6:8]+".html?urdu"
+    out += ") "#
+    return out
+
+def gen_hiur_lemmas_by_size_with_verses():
+    with codecs.open('output/lemmas-by-size-w-verses-hiur.md','w','utf-8') as f:
+        for x in sorted(lemma_instance_count, key=lemma_instance_count.get,reverse=True):
+            words=lemmas_out[x]
+            words = sorted(words,key=token_instance_count.get, reverse=True)
+
+            f.write(out_hiur(x)+' '+str(lemma_instance_count[x])+'\n')
+            for w in words:
+                f.write("  - "+out_hiur(w)+' '+str(token_instance_count[w])+'\n')
+                vi = set(x[:-5] for x in token_instances['kaa']) # eg001.01 from 001.01.01.0
+                f.write("    - ")# nested indent
+                f.write(', '.join([md_link(v) for v in vi]))
+                f.write('\n')
+                
 
 # <codecell>
 
-gen_hiur_lemmas_by_size()
+#gen_hiur_lemmas_by_size()
+gen_hiur_lemmas_by_size_with_verses()
+
+# <codecell>
+
+set(x[:-5] for x in token_instances['kaa'])
 
 # <codecell>
 
