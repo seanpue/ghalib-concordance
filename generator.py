@@ -454,8 +454,10 @@ def out_hiur(w):
 
 def md_link(s,urdu=True):
     out =  " ["+s+"]"
-    out += "("+'http://www.columbia.edu/itc/mealac/00pritchett/'
-    out += s[0:4]+'/'+s[6:8]+".html?urdu"
+    out += "("+'http://www.columbia.edu/itc/mealac/pritchett/00ghalib/'
+    out += s[0:3]+'/'+s[4:6]+".html"
+    if urdu==True:
+        out+="?urdu"
     out += ") "#
     return out
 
@@ -466,15 +468,17 @@ def gen_hiur_lemmas_by_size_with_verses():
             words = sorted(words,key=token_instance_count.get, reverse=True)
 
             f.write(out_hiur(x)+' '+str(lemma_instance_count[x])+'\n')
-            if len(words)<50: # truncate if too big
-                for w in words:
-                    f.write("  - "+out_hiur(w)+' '+str(token_instance_count[w])+'\n')
-                    vi = set(x[:-5] for x in token_instances['kaa']) # eg001.01 from 001.01.01.0
-                    f.write("    - ")# nested indent
-                    f.write(', '.join([md_link(v) for v in vi]))
-                    f.write('\n')
-            else:
-                write ('    - instances truncated')
+            for w in words:
+                f.write("  - "+out_hiur(w)+' '+str(token_instance_count[w])+'\n')
+                vi = set(x[:-5] for x in token_instances[w]) # eg001.01 from 001.01.01.0
+#                print list(vi)[0]
+                f.write("    - ")# nested indent
+                f.write(', '.join([md_link(v) for v in vi]))
+                f.write('\n')
+
+# <codecell>
+
+md_link('001.03')
 
 # <codecell>
 
@@ -483,7 +487,7 @@ gen_hiur_lemmas_by_size_with_verses()
 
 # <codecell>
 
-set(x[:-5] for x in token_instances['kaa'])
+t
 
 # <codecell>
 
