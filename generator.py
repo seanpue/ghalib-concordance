@@ -46,8 +46,8 @@ okay_lemmas = defaultdict(list)  # dictionary of unique tokens with lists of lem
 
 # <codecell>
 
+# moved load_verses, moved to util.py
 
-#Collections.
 def load_verses(inputfile='input/verses.csv'):
     '''
     Loads verses from CSV data file
@@ -91,12 +91,17 @@ def get_tokens(verses):
     returns: tokens, where tokens['ggg.vv.l.tt']=token {tt = token # on line starting  at zero}
     '''
     tokens = {}
+    token_instances=defaultdict(list)
+    token_instance_count = Counter()
     for k in verses.keys():
         v_tokens = verses[k].split(' ')
         for id,t in enumerate(v_tokens):
+
             token_id = k+'.'+str(id).zfill(2)
             tokens[token_id] = t
-    return tokens
+            token_instances[t].append(token_id)
+            token_instance_count[t]+=1
+    return tokens,token_instances,token_instance_count
 
 def locate_token(token):
     '''
@@ -197,7 +202,7 @@ def print_stats():
 # <codecell>
 
 verses = load_verses()
-tokens = get_tokens(verses)
+tokens,token_instances,token_instance_count = get_tokens(verses)
 unique_tokens = get_unique_tokens(tokens)
 
 lemmas = get_lemmas(unique_tokens)
@@ -271,15 +276,38 @@ update_files()
 # <codecell>
 
 lemmas_out = defaultdict(set)
+
+
 for k,v in okay_lemmas.iteritems(): # k = word; v = lemmas
     for l in v:
         lemmas_out[l].add(k)
 
 with open('output/conc_details.csv','w') as f:
-    for k,v in lemmas_out.iteritems():
+    for k,v in sorted(lemmas_out.iteritems()):
         f.write(k+','+'|'.join(v)+'\n')
         
 #okay_lemmas.keys()[0:100]
+
+# <markdowncell>
+
+# ##Lemma Instances
+# Sorted list of lemma instances.
+
+# <codecell>
+
+def instances_of_lemma(lemma):
+    i=0
+    for x in lemmas_out[lemma]:
+        i+= token_instance_count[x]
+    return i
+
+lemma_instance_count = {lemma: instances_of_lemma(lemma) for lemma in lemmas_out.keys()}
+#instances_of_lemma for
+#zz=sorted(lemmas_out.keys(),key=instances_of_lemma)#sort_by_instances)#size_of_lemma_by_instances)
+#for z in zz: print z, instances_of_lemma[zz])
+with open("output/lemma_counts.csv","w") as f:
+    for x in sorted(lemma_instance_count, key=lemma_instance_count.get,reverse=True):
+        f.write(x+','+str(lemma_instance_count[x])+'\n')
 
 # <markdowncell>
 
@@ -377,5 +405,4 @@ reload(generate_urdu)#generate_urdu.write_all_urdu_statistics()
 
 # <codecell>
 
-|
 

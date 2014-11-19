@@ -828,17 +828,13 @@ x,ajzaa-e,ajzaa
 x,ak;sar,ak;sar
 x,akbar,akbar
 x,al-amaa;n,al-amaan
-x,al-ba;hr,al-ba;hr
-x,al-havas,al-havas
 x,al-l;aah,al-l;aah
-x,al-ra;gm-e,al-ra;gm
 x,alam,alam
 x,alam-e,alam
 x,alif,alif
 x,almaas,almaas
 x,amaa;n,amaa;n
 x,amn,amn
-x,anaa,anaa
 x,anaa-al-ba;hr,anaa-al-ba;hr
 x,andaaz,andaaz
 x,andaaz-e,andaaz
@@ -1175,7 +1171,7 @@ x,be-rab:tii-e,be-rab:tii
 x,be-raunaqii,be-raunaqii
 x,be-raunaqii-e,be-raunaqii
 x,be-sabab,be-sabab
-x,be-sar-o-paa,be-sar-o-paa|be-sar|paa
+x,be-sar-o-paa,be-sar-o-paa|sar-o-paa|sar|paa
 x,be-savaal,be-savaal
 x,be-shaanah-e,be-shaanah
 x,be-sham((a,be-sham((a
@@ -1295,7 +1291,6 @@ x,but-shikanii,but-shikanii
 x,butaa;n,but
 x,buto;n,but
 x,buu,buu
-x,buu-'l-havas,buu-'l-havas
 x,buu-e,buu
 x,buu-turaab,buu-turaab
 x,buu-ul-havas,buu-ul-havas
@@ -1779,7 +1774,6 @@ x,gavaaraa,gavaaraa
 x,gayaa,jaanaa
 x,gaye,jaanaa
 x,gaz,gaz
-x,getii,getii
 x,ghaas,ghaas
 x,ghabraa,ghabraanaa
 x,ghabraa))e;n,ghabraanaa
@@ -1812,7 +1806,6 @@ x,giriftaar,giriftaar
 x,giriftaar-e,giriftaar
 x,giriftaarii,giriftaarii
 x,giriftaarii-e,giriftaarii
-x,girih,girih
 x,girii,girnaa
 x,girnii,girnaa
 x,girtaa,girnaa
@@ -3778,7 +3771,6 @@ x,sar-navisht,sar-navisht
 x,sar-niguu;n,sar-niguun
 x,sar-niguunii,sar-niguunii
 x,sar-o-barg-e,sar-o-barg|sar|barg
-x,sar-o-paa,sar-o-paa|sar|paa
 x,sar-o-saamaa;n,sar-o-saamaan|sar|saamaan
 x,sar-panjah-e,sar-panjah
 x,sar-sabz,sar-sabz
