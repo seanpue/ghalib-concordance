@@ -407,7 +407,7 @@ reload(generate_urdu)#generate_urdu.write_all_urdu_statistics()
 
 # ##Quick and Dirty Output
 # 
-# This generates some quick output for proofing
+# This generates some quick output for proofing as .md
 
 # <codecell>
 
@@ -416,17 +416,35 @@ reload(generate_urdu)#generate_urdu.write_all_urdu_statistics()
 
 with open('output/lemmas-by-size.txt','w') as f:
     for x in sorted(lemma_instance_count, key=lemma_instance_count.get,reverse=True):
-    #    tokens_of_lemma = [t in ]
         words=lemmas_out[x]
         words = sorted(words,key=token_instance_count.get, reverse=True)
-    #    print x
-        f.write(x+' '+str(x,lemma_instance_count[x])+'\n')
+        f.write(x+' '+str(lemma_instance_count[x])+'\n')
         for w in words:
-            f.write("  "+w+token_instance_count[w]+'\n')
+            f.write("  "+w+' '+str(token_instance_count[w])+'\n')
 
 # <codecell>
 
-lemmas_out
+def gen_hiur_lemmas_by_size():
+    import codecs
+    import sys
+    sys.path.append('./graphparser/')
+    import graphparser
+    urdup = graphparser.GraphParser('./graphparser/settings/urdu.yaml')
+    nagarip = graphparser.GraphParser('./graphparser/settings/devanagari.yaml')
+    def out_hiur(w):
+        return urdup.parse(w).output+' '+nagarip.parse(w).output+' '+w
+    with codecs.open('output/lemmas-by-size-hiur.md','w','utf-8') as f:
+        for x in sorted(lemma_instance_count, key=lemma_instance_count.get,reverse=True):
+            words=lemmas_out[x]
+            words = sorted(words,key=token_instance_count.get, reverse=True)
+
+            f.write(out_hiur(x)+' '+str(lemma_instance_count[x])+'\n')
+            for w in words:
+                f.write("  "+out_hiur(w)+' '+str(token_instance_count[w])+'\n')
+
+# <codecell>
+
+gen_hiur_lemmas_by_size()
 
 # <codecell>
 

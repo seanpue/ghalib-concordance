@@ -11,13 +11,7 @@
 
 import sys
 sys.path.append('./graphparser/')
-
-# <codecell>
-
 import graphparser
-
-# <codecell>
-
 urdup = graphparser.GraphParser('./graphparser/settings/urdu.yaml')
 nagarip = graphparser.GraphParser('./graphparser/settings/devanagari.yaml')
 
@@ -139,7 +133,12 @@ def write_all_urdu_statistics():
 
 write_all_urdu_statistics()
 
+# <markdowncell>
+
+# - this is a
+#   - nested list?
+#     - is it not?
+
 # <codecell>
 
-def 
 
