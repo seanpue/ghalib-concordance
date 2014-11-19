@@ -130,10 +130,10 @@ def write_all_urdu_statistics():
     write_urdu_statistics('output/statistics/uniquetokens-freq.csv','output/statistics/uniquetokens-freq-ur.csv')
     write_urdu_statistics('output/statistics/izafatastokens-freq.csv','output/statistics/izafatastokens-freq-ur.csv')
     write_urdu_statistics('output/statistics/izafatastokens-freq.csv','output/statistics/izafatastokens-freq-hiur.csv',nagari=True)
+    write_urdu_statistics('output/statistics/lemma-counts.csv', 'output/statistics/lemma-counts-ur.csv')
 
 # <codecell>
 
-write_urdu_statistics('output/statistics/lemma-counts.csv', 'output/statistics/lemma-counts-ur.csv')
 
 # <codecell>
 
@@ -141,4 +141,5 @@ write_all_urdu_statistics()
 
 # <codecell>
 
+def 
 

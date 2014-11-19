@@ -403,6 +403,31 @@ import generate_urdu
 #redo here
 reload(generate_urdu)#generate_urdu.write_all_urdu_statistics()
 
+# <markdowncell>
+
+# ##Quick and Dirty Output
+# 
+# This generates some quick output for proofing
+
+# <codecell>
+
+
+# <codecell>
+
+with open('output/lemmas-by-size.txt','w') as f:
+    for x in sorted(lemma_instance_count, key=lemma_instance_count.get,reverse=True):
+    #    tokens_of_lemma = [t in ]
+        words=lemmas_out[x]
+        words = sorted(words,key=token_instance_count.get, reverse=True)
+    #    print x
+        f.write(x+' '+str(x,lemma_instance_count[x])+'\n')
+        for w in words:
+            f.write("  "+w+token_instance_count[w]+'\n')
+
+# <codecell>
+
+lemmas_out
+
 # <codecell>
 
 
