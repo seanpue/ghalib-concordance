@@ -466,13 +466,15 @@ def gen_hiur_lemmas_by_size_with_verses():
             words = sorted(words,key=token_instance_count.get, reverse=True)
 
             f.write(out_hiur(x)+' '+str(lemma_instance_count[x])+'\n')
-            for w in words:
-                f.write("  - "+out_hiur(w)+' '+str(token_instance_count[w])+'\n')
-                vi = set(x[:-5] for x in token_instances['kaa']) # eg001.01 from 001.01.01.0
-                f.write("    - ")# nested indent
-                f.write(', '.join([md_link(v) for v in vi]))
-                f.write('\n')
-                
+            if len(words)<50: # truncate if too big
+                for w in words:
+                    f.write("  - "+out_hiur(w)+' '+str(token_instance_count[w])+'\n')
+                    vi = set(x[:-5] for x in token_instances['kaa']) # eg001.01 from 001.01.01.0
+                    f.write("    - ")# nested indent
+                    f.write(', '.join([md_link(v) for v in vi]))
+                    f.write('\n')
+            else:
+                write ('    - instances truncated')
 
 # <codecell>
 
