@@ -420,7 +420,7 @@ with open('output/lemmas-by-size.txt','w') as f:
         words = sorted(words,key=token_instance_count.get, reverse=True)
         f.write(x+' '+str(lemma_instance_count[x])+'\n')
         for w in words:
-            f.write("  "+w+' '+str(token_instance_count[w])+'\n')
+            f.write("  - "+w+' '+str(token_instance_count[w])+'\n')
 
 # <codecell>
 
@@ -440,7 +440,7 @@ def gen_hiur_lemmas_by_size():
 
             f.write(out_hiur(x)+' '+str(lemma_instance_count[x])+'\n')
             for w in words:
-                f.write("  "+out_hiur(w)+' '+str(token_instance_count[w])+'\n')
+                f.write("  - "+out_hiur(w)+' '+str(token_instance_count[w])+'\n')
 
 # <codecell>
 
