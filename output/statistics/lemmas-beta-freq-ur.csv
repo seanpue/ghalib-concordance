@@ -1,98 +1,98 @@
 urdu,transliteration,count
-ہاونا,honaa,1723
+ہونا,honaa,1723
 کا,kaa,560
-سی,se,511
-مین,me;n,491
+سے,se,511
+میں,me;n,491
 نہ,nah,416
-کاہ,kih,388
-کاو,ko,371
-کای,kii,296
+کہ,kih,388
+کو,ko,371
+کی,kii,296
 کرنا,karnaa,296
-ہاو,ho,290
-نہاین,nahii;n,288
-ماےن,mai;n,285
+ہو,ho,290
+نہیں,nahii;n,288
+میں,mai;n,285
 جانا,jaanaa,272
 کیا,kyaa,240
 میرا,meraa,240
-دال,dil,223
+دل,dil,223
 ہم,ham,200
-بھای,bhii,186
-واہ,vuh,186
-تاو,to,174
-یاہ,yih,165
-انا,aanaa,157
+بھی,bhii,186
+وہ,vuh,186
+تو,to,174
+یہ,yih,165
+آنا,aanaa,157
 اس,us,148
-کہہنا,kahnaa,145
-نی,ne,140
-ہاونا,honaaa,137
-جاو,jo,135
+کہنا,kahnaa,145
+نے,ne,140
+ہونا,honaaa,137
+جو,jo,135
 تیرا,teraa,133
-ور,aur,125
+اور,aur,125
 دیکھنا,dekhnaa,122
 پر,par,121
-غالاب,;gaalib,112
-کاوئای,ko))ii,109
+غالب,;gaalib,112
+کوئی,ko))ii,109
 دینا,denaa,102
-کیاون,kyuu;n,100
-ہای,hii,97
+کیوں,kyuu;n,100
+ہی,hii,97
 پہ,pah,94
 بہ,bah,90
 گر,gar,87
-پھار,phir,75
-پنا,apnaa,75
+پھر,phir,75
+اپنا,apnaa,75
 ہر,har,73
 رہنا,rahnaa,72
-گال,gul,70
-ی,ay,70
+گل,gul,70
+ای,ay,70
 اک,ik,68
-کاس,kis,68
-کاچھ,kuchh,66
-تام,tum,61
+کس,kis,68
+کچھ,kuchh,66
+تم,tum,61
 غم,;gam,58
-ہاوتا,hotaa,58
-جاس,jis,56
-گر,agar,55
+ہوتا,hotaa,58
+جس,jis,56
+اگر,agar,55
 سر,sar,51
-یک,ek,50
-عاشق,((ishq,49
+ایک,ek,50
+عشق,((ishq,49
 مرنا,marnaa,46
 ناز,naaz,45
 نالہ,naalah,45
-دان,din,42
+دن,din,42
 بننا,ban'naa,41
 جب,jab,41
-کہہان,kahaa;n,40
-تاو,tuu,39
-ب,ab,39
+کہاں,kahaa;n,40
+تو,tuu,39
+اب,ab,39
 رکھنا,rakhnaa,39
-چاہایی,chaahiye,38
+چاہیے,chaahiye,38
 یار,yaar,38
-سد,asad,38
-سہای,sahii,38
+اسد,asad,38
+سہی,sahii,38
 خیال,;xayaal,37
-یاون,yuu;n,37
-ماے,mai,37
-جاگر,jigar,37
+یوں,yuu;n,37
+مے,mai,37
+جگر,jigar,37
 لینا,lenaa,37
-غاےر,;gair,36
+غیر,;gair,36
 رنگ,rang,36
 ہمارا,hamaaraa,36
 جلوہ,jalvah,35
-یان,yaa;n,35
+یاں,yaa;n,35
 خاک,;xaak,35
 وفا,vafaa,35
 جان,jaan,35
 موج,mauj,35
-ناکلنا,nikalnaa,34
+نکلنا,nikalnaa,34
 یا,yaa,34
-پاوچھنا,puuchhnaa,33
-مالنا,milnaa,33
+پوچھنا,puuchhnaa,33
+ملنا,milnaa,33
 شوق,shauq,33
 یاد,yaad,32
-خادا,;xudaa,32
-ناگاہ,nigaah,32
+خدا,;xudaa,32
+نگاہ,nigaah,32
 بات,baat,32
-لایی,liye,31
+لیے,liye,31
 یک,yak,31
 زخم,za;xm,31
 بزم,bazm,30
@@ -100,26 +100,26 @@ urdu,transliteration,count
 جاننا,jaan'naa,30
 گھر,ghar,29
 سمجھنا,samjhnaa,29
-کھالنا,khulnaa,29
+کھلنا,khulnaa,29
 دم,dam,29
-وان,vaa;n,29
-چّھا,achchhaa,28
+واں,vaa;n,29
+اچّھا,achchhaa,28
 داغ,daa;g,28
-ہائی,haa))e,28
+ہائے,haa))e,28
 حسرت,;hasrat,28
 تک,tak,28
 پانا,paanaa,27
 نظر,na:zar,27
-اگی,aage,27
+آگے,aage,27
 چشم,chashm,27
 قدر,qadar,26
 شراب,sharaab,26
-ہل,ahl,26
-تاجھ,tujh,26
-اج,aaj,26
+اہل,ahl,26
+تجھ,tujh,26
+آج,aaj,26
 جہان,jahaan,26
-داوست,dost,26
-خاون,;xuu;n,25
+دوست,dost,26
+خوں,;xuu;n,25
 شب,shab,25
 در,dar,25
 بہار,bahaar,24
@@ -128,581 +128,581 @@ urdu,transliteration,count
 ذوق,;zauq,24
 بار,baar,24
 تا,taa,24
-بات,but,24
+بت,but,24
 ہوا,havaa,23
 پڑنا,pa;rnaa,23
 جا,jaa,23
-ائاینہ,aa))iinah,22
-کبھای,kabhii,22
+آئینہ,aa))iinah,22
+کبھی,kabhii,22
 ہاتھ,haath,22
-جاناون,junuun,22
-حاسن,;husn,22
-لیکان,lekin,22
+جنون,junuun,22
+حسن,;husn,22
+لیکن,lekin,22
 اٹھنا,u;thnaa,22
 ورنہ,varnah,22
-ہستای,hastii,22
-عامر,((umr,21
+ہستی,hastii,22
+عمر,((umr,21
 رب,rab,21
 جلنا,jalnaa,21
 چلنا,chalnaa,21
 کام,kaam,21
 قطرہ,qa:trah,21
 تمنّا,tamannaa,21
-اےسا,aisaa,21
-اپ,aap,20
-مانہ,mu;nh,20
+ایسا,aisaa,21
+آپ,aap,20
+منہ,mu;nh,20
 دریا,daryaa,20
 درد,dard,20
 پانو,paa;nv,20
 کھینچنا,khe;nchnaa,20
 لب,lab,19
-کاسای,kisii,19
-اخار,aa;xir,19
-قایامت,qiyaamat,19
+کسی,kisii,19
+آخر,aa;xir,19
+قیامت,qiyaamat,19
 شمع,sham((a,19
 پا,paa,19
 کم,kam,19
-اونا,aavnaa,19
-دایدہ,diidah,19
+آونا,aavnaa,19
+دیدہ,diidah,19
 رہ,rah,18
-بارا,buraa,18
+برا,buraa,18
 باندھنا,baa;ndhnaa,18
-بہات,bahut,18
-ساننا,sun'naa,18
-باےٹھنا,bai;thnaa,18
+بہت,bahut,18
+سننا,sun'naa,18
+بیٹھنا,bai;thnaa,18
 سکنا,saknaa,18
-داشمن,dushman,18
-ناگہ,nigah,18
-ساقای,saaqii,18
+دشمن,dushman,18
+نگہ,nigah,18
+ساقی,saaqii,18
 وقت,vaqt,18
 اٹھانا,u;thaanaa,18
-لاکھنا,likhnaa,18
-داو,do,17
+لکھنا,likhnaa,18
+دو,do,17
 مت,mat,17
-کیاونکر,kyuu;nkar,17
+کیونکر,kyuu;nkar,17
 رشک,rashk,17
 پردہ,pardah,17
 عالم,((aalam,17
 نقش,naqsh,17
-عاشاق,((aashiq,17
-رقایب,raqiib,17
-نداز,andaaz,17
+عاشق,((aashiq,17
+رقیب,raqiib,17
+انداز,andaaz,17
 نفس,nafas,17
-ماژگان,mizhgaan,17
+مژگان,mizhgaan,17
 لخّت,la;z;zat,16
 زبان,zabaan,16
 حال,;haal,16
-ہناوز,hanuuz,16
-ہان,haa;n,16
-زالف,zulf,16
-دا,adaa,16
-بھای,abhii,16
-قاسمت,qismat,16
+ہنوز,hanuuz,16
+ہاں,haa;n,16
+زلف,zulf,16
+ادا,adaa,16
+ابھی,abhii,16
+قسمت,qismat,16
 پاس,paas,16
 طاقت,:taaqat,16
-ہاوتی,hote,16
+ہوتے,hote,16
 بلا,balaa,16
 ہوس,havas,15
 خندہ,;xandah,15
 وحشت,va;hshat,15
-کافار,kaafir,15
+کافر,kaafir,15
 کب,kab,15
 راہ,raah,15
 لگانا,lagaanaa,15
-ساینہ,siinah,15
+سینہ,siinah,15
 سمجھنا,samajhnaa,15
-اسی,use,15
-کہہاین,kahii;n,15
+اسے,use,15
+کہیں,kahii;n,15
 تن,tan,15
-شاعلہ,shu((lah,15
-درودایوار,dar-o-diivaar,15
+شعلہ,shu((lah,15
+در و دیوار,dar-o-diivaar,15
 سایہ,saayah,15
-ساخن,su;xan,14
+سخن,su;xan,14
 قدم,qadam,14
 خط,;xa:t,14
-ارزاو,aarzuu,14
-بغاےر,ba;gair,14
-گاریہ,giryah,14
-ساو,so,14
-جای,jii,14
-ماٹنا,mi;tnaa,14
+آرزو,aarzuu,14
+بغیر,ba;gair,14
+گریہ,giryah,14
+سو,so,14
+جی,jii,14
+مٹنا,mi;tnaa,14
 گرم,garm,14
-معلاوم,ma((luum,14
-اب,aab,14
-بسکاہ,baskih,14
+معلوم,ma((luum,14
+آب,aab,14
+بسکہ,baskih,14
 برق,barq,14
 کھانا,khaanaa,14
 بعد,ba((d,14
-ائانہ,aa))inah,14
+آئنہ,aa))inah,14
 ذرّہ,;zarrah,13
 ہر چند,har-chand,13
-صاورت,.suurat,13
+صورت,.suurat,13
 سب,sab,13
 اڑنا,u;rnaa,13
-قاتال,qaatil,13
+قاتل,qaatil,13
 خواب,;xvaab,13
 گردن,gardan,13
-خاوب,;xuub,13
-گاویا,goyaa,13
-ساتم,sitam,13
-یاہای,yihii,13
+خوب,;xuub,13
+گویا,goyaa,13
+ستم,sitam,13
+یہی,yihii,13
 چاہنا,chaahnaa,13
-اتاش,aatish,13
-یعنای,ya((nii,13
-فارصت,fur.sat,13
-چھاوڑنا,chho;rnaa,13
-لاوگ,log,13
-خواش,;xvush,13
+آتش,aatish,13
+یعنی,ya((nii,13
+فرصت,fur.sat,13
+چھوڑنا,chho;rnaa,13
+لوگ,log,13
+خوش,;xvush,13
 زمانہ,zamaanah,13
-گازرنا,guzarnaa,13
+گزرنا,guzarnaa,13
 تار,taar,13
 الفت,ulfat,13
-تاجھی,tujhe,12
-داماغ,dimaa;g,12
+تجھے,tujhe,12
+دماغ,dimaa;g,12
 محو,ma;hv,12
 لگنا,lagnaa,12
 طرح,:tara;h,12
-شاکوہ,shikvah,12
+شکوہ,shikvah,12
 تیغ,te;g,12
-جاوش,josh,12
-ازمائاش,aazmaa))ish,12
+جوش,josh,12
+آزمائش,aazmaa))ish,12
 وعدہ,va((dah,12
 عرض,((ar.z,12
 بیان,bayaan,12
 نام,naam,12
 بادہ,baadah,12
-خاون,;xuun,12
-اہ,aah,12
-باستر,bistar,12
-تغافال,ta;gaaful,12
+خون,;xuun,12
+آہ,aah,12
+بستر,bistar,12
+تغافل,ta;gaaful,12
 چاک,chaak,12
-گاو,go,12
-انکھ,aa;nkh,12
+گو,go,12
+آنکھ,aa;nkh,12
 صدا,.sadaa,12
 خبر,;xabar,12
 کون,kaun,12
-کہہاو,kaho,12
+کہو,kaho,12
 چمن,chaman,12
 جوہر,jauhar,11
 خس,;xas,11
-انتاظار,inti:zaar,11
+انتظار,inti:zaar,11
 گریبان,garebaan,11
-زاندگای,zindagii,11
-پاینا,piinaa,11
+زندگی,zindagii,11
+پینا,piinaa,11
 لانا,laanaa,11
 حلقہ,;halqah,11
 دام,daam,11
-جاسی,jise,11
-ضاعف,.zu((f,11
+جسے,jise,11
+ضعف,.zu((f,11
 جفا,jafaa,11
-جاز,juz,11
+جز,juz,11
 صحرا,.sa;hraa,11
-ز,az,11
+از,az,11
 سنگ,sang,11
-ولی,vale,11
-پانہان,pinhaan,11
-مجناون,majnuun,11
+ولے,vale,11
+پنہان,pinhaan,11
+مجنون,majnuun,11
 رات,raat,11
-شاکایت,shikaayat,11
-ماحبّت,mu;habbat,11
+شکایت,shikaayat,11
+محبّت,mu;habbat,11
 حق,;haq,11
-دایدار,diidaar,11
-اسان,aasaan,10
-صابح,.sub;h,10
+دیدار,diidaar,11
+آسان,aasaan,10
+صبح,.sub;h,10
 نمک,namak,10
 جادہ,jaadah,10
-دایوار,diivaar,10
+دیوار,diivaar,10
 رگ,rag,10
-ساےر,sair,10
-خاو,;xuu,10
-حاصال,;haa.sil,10
+سیر,sair,10
+خو,;xuu,10
+حاصل,;haa.sil,10
 نقاب,naqaab,10
-داور,duur,10
+دور,duur,10
 داد,daad,10
-دانیا,dunyaa,10
+دنیا,dunyaa,10
 ساتھ,saath,10
 فنا,fanaa,10
-عزایز,((aziiz,10
-ساوا,sivaa,10
-تایر,tiir,10
+عزیز,((aziiz,10
+سوا,sivaa,10
+تیر,tiir,10
 رنج,ranj,10
-جاینا,jiinaa,10
-اسمان,aasmaan,10
+جینا,jiinaa,10
+آسمان,aasmaan,10
 کہہ,kah,10
 خار,;xaar,10
-بی خوادای,be-;xvudii,10
-غافال,;gaafil,10
-ناہان,nihaan,10
+بے خودی,be-;xvudii,10
+غافل,;gaafil,10
+نہان,nihaan,10
 تلک,talak,10
 جام,jaam,10
-ہاوتای,hotii,10
+ہوتی,hotii,10
 باغ,baa;g,10
 وا,vaa,10
 وگرنہ,vagarnah,10
 ماننا,maan'naa,9
 کاش,kaash,9
-عاےش,((aish,9
-کاوچہ,kuuchah,9
+عیش,((aish,9
+کوچہ,kuuchah,9
 ساغر,saa;gar,9
-پاےدا,paidaa,9
-اشنا,aashnaa,9
+پیدا,paidaa,9
+آشنا,aashnaa,9
 صد,.sad,9
-واہای,vuhii,9
+وہی,vuhii,9
 مرگ,marg,9
-وائی,vaa))e,9
+وائے,vaa))e,9
 شرم,sharm,9
-گامان,gumaan,9
+گمان,gumaan,9
 متاع,mataa((,9
 کل,kal,9
 بیداد,bedaad,9
 کف,kaf,9
-بان,bin,9
-ثر,a;sar,9
-گرچاہ,garchih,9
-پھارنا,phirnaa,9
-باقای,baaqii,9
-راشتہ,rishtah,9
-گرمای,garmii,9
-باری,baare,9
+بن,bin,9
+اثر,a;sar,9
+گرچہ,garchih,9
+پھرنا,phirnaa,9
+باقی,baaqii,9
+رشتہ,rishtah,9
+گرمی,garmii,9
+بارے,baare,9
 دامن,daaman,9
-مادّعا,mudda((aa,9
-ماشکال,mushkil,9
+مدّعا,mudda((aa,9
+مشکل,mushkil,9
 مانگنا,maa;ngnaa,9
-چاراغ,chiraa;g,9
+چراغ,chiraa;g,9
 تمام,tamaam,8
-ساےلاب,sailaab,8
+سیلاب,sailaab,8
 کعبہ,ka((bah,8
-ہاوگا,hogaa,8
+ہوگا,hogaa,8
 قسم,qasam,8
 بس,bas,8
-چاراغ,chiraa;ga,8
-حرایف,;hariif,8
+چراغ,chiraa;ga,8
+حریف,;hariif,8
 روزن,rauzan,8
 فریب,fareb,8
 ہی,hay,8
-کھاولنا,kholnaa,8
+کھولنا,kholnaa,8
 قفس,qafas,8
 گھبرانا,ghabraanaa,8
-راوز,roz,8
-راسوا,rusvaa,8
-داود,duud,8
-شاوخای,sho;xii,8
+روز,roz,8
+رسوا,rusvaa,8
+دود,duud,8
+شوخی,sho;xii,8
 نظّارہ,na:z:zaarah,8
 کرم,karam,8
 بھلا,bhalaa,8
-راونا,ronaa,8
+رونا,ronaa,8
 بجا,bajaa,8
 قدر,qadr,8
 بھر,bhar,8
-راو,ruu,8
+رو,ruu,8
 راز,raaz,8
 پریشان,pareshaan,8
 تاب,taab,8
 ساز,saaz,8
-باوسہ,bosah,8
+بوسہ,bosah,8
 دست,dast,8
-زماین,zamiin,8
+زمین,zamiin,8
 نشاط,nashaa:t,8
-صاحبت,.su;hbat,8
+صحبت,.su;hbat,8
 سامان,saamaan,8
-بی تاب,be-taab,8
+بے تاب,be-taab,8
 عجز,((ajz,8
 فلک,falak,8
 وصل,va.sl,8
 دشت,dasht,8
 وہ,vah,8
-زنجایر,zanjiir,8
-مارغ,mur;g,7
+زنجیر,zanjiir,8
+مرغ,mur;g,7
 عہد,((ahd,7
-لاےلیٰ,lail;aa,7
-پارساش,pursish,7
-انکھاون,aa;nkho;n,7
-گالاستان,gulistaan,7
+لیلیٰ,lail;aa,7
+پرسش,pursish,7
+آنکھوں,aa;nkho;n,7
+گلستان,gulistaan,7
 بھاگنا,bhaagnaa,7
 قتل,qatl,7
-ساو,suu,7
-امتاحان,imti;haan,7
+سو,suu,7
+امتحان,imti;haan,7
 چھیڑنا,chhe;rnaa,7
 تنگ,tang,7
-یاوساف,yuusuf,7
-ناخان,naa;xun,7
-زاندان,zindaan,7
+یوسف,yuusuf,7
+ناخن,naa;xun,7
+زندان,zindaan,7
 فصل,fa.sl,7
-شاور,shor,7
-لہاو,lahuu,7
+شور,shor,7
+لہو,lahuu,7
 نامہ بر,naamah-bar,7
-منظاور,man:zuur,7
+منظور,man:zuur,7
 سلامت,salaamat,7
-ازار,aazaar,7
+آزار,aazaar,7
 مہ,mah,7
-پہلی,pahle,7
-گرداش,gardish,7
-سارمہ,surmah,7
-اغاوش,aa;gosh,7
-تسلای,tasallii,7
-غانچہ,;gunchah,7
-راخ,ru;x,7
-حاےرت,;hairat,7
+پہلے,pahle,7
+گردش,gardish,7
+سرمہ,surmah,7
+آغوش,aa;gosh,7
+تسلی,tasallii,7
+غنچہ,;gunchah,7
+رخ,ru;x,7
+حیرت,;hairat,7
 خراب,;xaraab,7
-دیکھاو,dekho,7
+دیکھو,dekho,7
 اتنا,itnaa,7
 مست,mast,7
 دوا,davaa,7
-بر,abr,7
+ابر,abr,7
 فریاد,faryaad,7
 خانہ,;xaanah,7
-حانا,;hinaa,7
-اماید,umiid,7
-خاطار,;xaa:tir,7
+حنا,;hinaa,7
+امید,umiid,7
+خاطر,;xaa:tir,7
 جیب,jeb,7
-اگ,aag,7
+آگ,aag,7
 صبا,.sabaa,7
-راکنا,ruknaa,7
-ہامّت,himmat,7
+رکنا,ruknaa,7
+ہمّت,himmat,7
 سبزہ,sabzah,7
-جادا,judaa,7
-رہای,rahii,7
-بالبال,bulbul,7
-راسوائای,rusvaa))ii,7
-شاکست,shikast,7
-تسکاین,taskiin,7
+جدا,judaa,7
+رہی,rahii,7
+بلبل,bulbul,7
+رسوائی,rusvaa))ii,7
+شکست,shikast,7
+تسکین,taskiin,7
 نغمہ,na;gmah,7
-ماژہ,mizhah,7
+مژہ,mizhah,7
 ڈرنا,;darnaa,7
-بھاولنا,bhuulnaa,7
-مابارک,mubaarak,7
+بھولنا,bhuulnaa,7
+مبارک,mubaarak,7
 تب,tab,7
 شمع,sham((,7
-امد,aamad,7
-کاشتہ,kushtah,7
-ماثل,mi;sl,7
+آمد,aamad,7
+کشتہ,kushtah,7
+مثل,mi;sl,7
 تقاضا,taqaa.zaa,7
-فاراوغ,furo;g,7
-بایمار,biimaar,7
-فاتنہ,fitnah,7
+فروغ,furo;g,7
+بیمار,biimaar,7
+فتنہ,fitnah,7
 دعویٰ,da((v;aa,7
 شاہ,shaah,7
 بازار,baazaar,7
-تاثایر,taa;siir,7
-باو,buu,7
-خاضر,;xi.zr,6
+تاثیر,taa;siir,7
+بو,buu,7
+خضر,;xi.zr,6
 پسند,pasand,6
 مارنا,maarnaa,6
 دہر,dahr,6
 بند,band,6
-اواز,aavaaz,6
+آواز,aavaaz,6
 خامہ,;xaamah,6
 رفتار,raftaar,6
-واداع,vidaa((,6
-فاراق,firaaq,6
-ظاہار,:zaahir,6
+وداع,vidaa((,6
+فراق,firaaq,6
+ظاہر,:zaahir,6
 ان,in,6
-تصوّار,ta.savvur,6
-مادّت,muddat,6
+تصوّر,ta.savvur,6
+مدّت,muddat,6
 شبنم,shabnam,6
 وہم,vahm,6
-عداو,((aduu,6
-حقایقت,;haqiiqat,6
-استان,aastaan,6
-لاطف,lu:tf,6
-داعا,du((aa,6
-خارام,;xiraam,6
+عدو,((aduu,6
+حقیقت,;haqiiqat,6
+آستان,aastaan,6
+لطف,lu:tf,6
+دعا,du((aa,6
+خرام,;xiraam,6
 پرتو,partav,6
-ادمای,aadmii,6
+آدمی,aadmii,6
 چرخ,char;x,6
-باساط,bisaa:t,6
-داکھانا,dikhaanaa,6
-توقّاع,tavaqqu((,6
-ساتمگر,sitamgar,6
+بساط,bisaa:t,6
+دکھانا,dikhaanaa,6
+توقّع,tavaqqu((,6
+ستمگر,sitamgar,6
 خم,;xam,6
-ظالام,:zaalim,6
-جزا,ajzaa,6
+ظالم,:zaalim,6
+اجزا,ajzaa,6
 عدم,((adam,6
-بیکسای,bekasii,6
-تکلاف,takalluf,6
+بیکسی,bekasii,6
+تکلف,takalluf,6
 گرد,gard,6
-تامہارا,tumhaaraa,6
-ماے خانہ,mai-;xaanah,6
+تمہارا,tumhaaraa,6
+مے خانہ,mai-;xaanah,6
 تیز,tez,6
 ننگ,nang,6
-ناےرنگ,nairang,6
-گاوش,gosh,6
+نیرنگ,nairang,6
+گوش,gosh,6
 ترک,tark,6
-گارافتار,giriftaar,6
+گرفتار,giriftaar,6
 باد,baad,6
 ڈالنا,;daalnaa,6
-گارنا,girnaa,6
-گالشن,gulshan,6
-خوارشاید,;xvurshiid,6
+گرنا,girnaa,6
+گلشن,gulshan,6
+خورشید,;xvurshiid,6
 بیابان,bayaabaan,6
 ہنگامہ,hangaamah,6
-حاےران,;hairaa;n,6
-قاےد,qaid,6
-گالہ,gilah,6
-جاےسی,jaise,6
-تنگای,tangii,6
-ہاجاوم,hujuum,6
-حاےف,;haif,6
+حیراں,;hairaa;n,6
+قید,qaid,6
+گلہ,gilah,6
+جیسے,jaise,6
+تنگی,tangii,6
+ہجوم,hujuum,6
+حیف,;haif,6
 مزہ,mazah,6
 واہ,vaah,6
 تر,tar,6
 خلق,;xalq,6
-حاساب,;hisaab,6
-ماو,muu,6
+حساب,;hisaab,6
+مو,muu,6
 سرو,sarv,6
 مانع,maana((,6
-خواد,;xvud,6
-ذاکر,;zikr,6
+خود,;xvud,6
+ذکر,;zikr,6
 کشمکش,kashmakash,6
-پاےراہن,pairaahan,6
-جاتنا,jitnaa,6
+پیراہن,pairaahan,6
+جتنا,jitnaa,6
 رحم,ra;hm,6
-شک,ashk,6
+اشک,ashk,6
 خنجر,;xanjar,6
 مطلب,ma:tlab,6
 گوہر,gauhar,6
 حیا,;hayaa,6
 جواب,javaab,6
-محفال,ma;hfil,6
-بالاین,baaliin,5
+محفل,ma;hfil,6
+بالین,baaliin,5
 واسطہ,vaas:tah,5
 ادھر,idhar,5
-کاو,kuu,5
-تدبایر,tadbiir,5
+کو,kuu,5
+تدبیر,tadbiir,5
 دربان,darbaan,5
-عاذر,((u;zr,5
+عذر,((u;zr,5
 جمع,jam((a,5
-واصال,vi.saal,5
-گازر,guzar,5
+وصال,vi.saal,5
+گزر,guzar,5
 جراحت,jaraa;hat,5
 غلط,;gala:t,5
-ہاجر,hijr,5
-خاون چکان,;xuun-chakaa;n,5
+ہجر,hijr,5
+خون چکاں,;xuun-chakaa;n,5
 سزا,sazaa,5
-بالوپر,baal-o-par,5
-تصوایر,ta.sviir,5
+بال و پر,baal-o-par,5
+تصویر,ta.sviir,5
 عجب,((ajab,5
-چاپنا,chupnaa,5
-اضطاراب,i.z:tiraab,5
-ساوز,soz,5
+چپنا,chupnaa,5
+اضطراب,i.z:tiraab,5
+سوز,soz,5
 طلب,:talab,5
-غابار,;gubaar,5
-ساواےدا,suvaidaa,5
-ماکرّر,mukarrar,5
-عاشرت,((ishrat,5
+غبار,;gubaar,5
+سویدا,suvaidaa,5
+مکرّر,mukarrar,5
+عشرت,((ishrat,5
 قضا,qa.zaa,5
-گھاسنا,ghisnaa,5
-عاشّاق,((ushshaaq,5
-ماناند,maanind,5
+گھسنا,ghisnaa,5
+عشّاق,((ushshaaq,5
+مانند,maanind,5
 دشنہ,dashnah,5
-خارمن,;xirman,5
-ماقابال,muqaabil,5
+خرمن,;xirman,5
+مقابل,muqaabil,5
 سا,saa,5
-چاہی,chaahe,5
+چاہے,chaahe,5
 باب,baab,5
-گرداون,garduun,5
+گردون,garduun,5
 جگہ,jagah,5
-نایاز,niyaaz,5
-خالای,;xaalii,5
-بالانا,bulaanaa,5
-تقرایر,taqriir,5
-دایوانہ,diivaanah,5
+نیاز,niyaaz,5
+خالی,;xaalii,5
+بلانا,bulaanaa,5
+تقریر,taqriir,5
+دیوانہ,diivaanah,5
 طرز,:tarz,5
 محشر,ma;hshar,5
 سفر,safar,5
-اسای,usii,5
-ناصاح,naa.si;h,5
+اسی,usii,5
+ناصح,naa.si;h,5
 نوا,navaa,5
 کشاکش,kashaakash,5
 دندان,dandaan,5
-زاناو,zaanuu,5
+زانو,zaanuu,5
 موجہ,maujah,5
-بی وفا,be-vafaa,5
-حباب,a;hbaab,5
+بے وفا,be-vafaa,5
+احباب,a;hbaab,5
 وطن,va:tan,5
-ماے کدہ,mai-kadah,5
-پانبہ,punbah,5
-نجامن,anjuman,5
-ندیشہ,andeshah,5
-واسعت,vus((at,5
-ماینا,miinaa,5
+مے کدہ,mai-kadah,5
+پنبہ,punbah,5
+انجمن,anjuman,5
+اندیشہ,andeshah,5
+وسعت,vus((at,5
+مینا,miinaa,5
 قدح,qada;h,5
-سادگای,saadagii,5
+سادگی,saadagii,5
 سخت,sa;xt,5
 چار,chaar,5
-خرایدار,;xariidaar,5
-ساحال,saa;hil,5
-شاوخ,sho;x,5
-اعتابار,i((tibaar,5
-خاماوشای,;xaamoshii,5
-ظالم,:zulm,5
+خریدار,;xariidaar,5
+ساحل,saa;hil,5
+شوخ,sho;x,5
+اعتبار,i((tibaar,5
+خاموشی,;xaamoshii,5
+ظلم,:zulm,5
 بحر,ba;hr,5
-لاو,lo,5
+لو,lo,5
 نذر,na;zr,5
-افتاب,aaftaab,5
+آفتاب,aaftaab,5
 جمال,jamaal,5
 شام,shaam,5
 نشّہ,nashshah,5
-شایشہ,shiishah,5
-گافتار,guftaar,5
+شیشہ,shiishah,5
+گفتار,guftaar,5
 روشن,raushan,5
-خالد,;xuld,5
-راوتی,rote,5
-کاواش,kaavish,5
+خلد,;xuld,5
+روتے,rote,5
+کاوش,kaavish,5
 طرف,:taraf,5
 سودا,saudaa,5
-ماہر,mihr,5
+مہر,mihr,5
 گدا,gadaa,5
 اشارہ,ishaarah,5
-گاناہ,gunaah,5
+گناہ,gunaah,5
 لاکھ,laakh,5
-گالا,gilaa,5
-حاضاور,;hu.zuur,4
+گلا,gilaa,5
+حضور,;hu.zuur,4
 خلوت,;xalvat,4
-سکاون,sakuun,4
-ذرّی,;zarre,4
-کہہیاو,kahyo,4
-گاوشہ,goshah,4
+سکون,sakuun,4
+ذرّے,;zarre,4
+کہیو,kahyo,4
+گوشہ,goshah,4
 رسا,rasaa,4
-سعای,sa((ii,4
-بی تکلاف,be-takalluf,4
+سعی,sa((ii,4
+بے تکلف,be-takalluf,4
 صرف,.sarf,4
-داوناون,dono;n,4
-عافایت,((aafiyat,4
+دونوں,dono;n,4
+عافیت,((aafiyat,4
 وجہ,vaj'h,4
 پروانہ,parvaanah,4
-خواہاش,;xvaahish,4
+خواہش,;xvaahish,4
 ہنسنا,ha;nsnaa,4
 بال,baal,4
 ہزار,hazaar,4
-نا امایدای,naa-umiidii,4
-قامرای,qumrii,4
-زاہاد,zaahid,4
-ارام,aaraam,4
-نا توانای,naa-tavaanii,4
+نا امیدی,naa-umiidii,4
+قمری,qumrii,4
+زاہد,zaahid,4
+آرام,aaraam,4
+نا توانی,naa-tavaanii,4
 لالہ,laalah,4
-قابلہ,qiblah,4
-ہانر,hunar,4
+قبلہ,qiblah,4
+ہنر,hunar,4
 فرش,farsh,4
-ہاونی,hone,4
-کاےسا,kaisaa,4
-داکھ,dukh,4
+ہونے,hone,4
+کیسا,kaisaa,4
+دکھ,dukh,4
 رفتہ,raftah,4
 پیش,pesh,4
-زبانای,zabaanii,4
+زبانی,zabaanii,4
 رہن,rahn,4
 پتّھر,patthar,4
 کھٹکنا,kha;taknaa,4
 طالع,:taala((,4
-ازمانا,aazmaanaa,4
-ناشان,nishaan,4
-قاصاد,qaa.sid,4
-بد گامانای,bad-gumaanii,4
-خام,;xum,4
-خواشای,;xvushii,4
-فاکر,fikr,4
+آزمانا,aazmaanaa,4
+نشان,nishaan,4
+قاصد,qaa.sid,4
+بد گمانی,bad-gumaanii,4
+خم,;xum,4
+خوشی,;xvushii,4
+فکر,fikr,4
 ٹپکنا,;tapknaa,4
-واعاظ,vaa((i:z,4
+واعظ,vaa((i:z,4
 زار,zaar,4
 دور,daur,4
 شکل,shakl,4
@@ -711,2632 +711,2632 @@ urdu,transliteration,count
 ادھر,udhar,4
 شہر,shahr,4
 دہن,dahan,4
-طاوطای,:tuu:tii,4
+طوطی,:tuu:tii,4
 غمزہ,;gamzah,4
-گاہر,guhar,4
-پریشانای,pareshaanii,4
+گہر,guhar,4
+پریشانی,pareshaanii,4
 حضرت,;ha.zrat,4
-ناگار,nigaar,4
+نگار,nigaar,4
 راحت,raa;hat,4
-چھاٹنا,chhu;tnaa,4
+چھٹنا,chhu;tnaa,4
 دوڑنا,dau;rnaa,4
-پیچوتاب,pech-o-taab,4
+پیچ و تاب,pech-o-taab,4
 باہر,baahar,4
-باہاشت,bihisht,4
-نگاشت,angusht,4
-گارافتارای,giriftaarii,4
-پہانچنا,pahu;nchnaa,4
+بہشت,bihisht,4
+انگشت,angusht,4
+گرفتاری,giriftaarii,4
+پہنچنا,pahu;nchnaa,4
 الجھنا,ulajhnaa,4
 نبض,nab.z,4
 ٹھہرنا,;thahrnaa,4
 کٹنا,ka;tnaa,4
 ضبط,.zab:t,4
-شمشایر,shamshiir,4
-بد خاو,bad-;xuu,4
+شمشیر,shamshiir,4
+بد خو,bad-;xuu,4
 دہان,dahaan,4
-معنای,ma((nii,4
-فائادہ,faa))idah,4
-باعاث,baa((i;s,4
-باگڑنا,biga;rnaa,4
+معنی,ma((nii,4
+فائدہ,faa))idah,4
+باعث,baa((i;s,4
+بگڑنا,biga;rnaa,4
 سر گرم,sar-garm,4
-تپاش,tapish,4
-بہارای,bahaarii,4
-جانباش,junbish,4
-اشایان,aashiyaan,4
-ندازہ,andaazah,4
-زاندگانای,zindagaanii,4
-پاےمان,paimaan,4
-نومایدای,naumiidii,4
-وایرانای,viiraanii,4
-واجاود,vujuud,4
-داکھلانا,dikhlaanaa,4
+تپش,tapish,4
+بہاری,bahaarii,4
+جنبش,junbish,4
+آشیان,aashiyaan,4
+اندازہ,andaazah,4
+زندگانی,zindagaanii,4
+پیمان,paimaan,4
+نومیدی,naumiidii,4
+ویرانی,viiraanii,4
+وجود,vujuud,4
+دکھلانا,dikhlaanaa,4
 بدلا,badlaa,4
-خامار,;xumaar,4
+خمار,;xumaar,4
 شاید,shaayad,4
-مانّت,minnat,4
-طاوفان,:tuufaan,4
-داوستای,dostii,4
+منّت,minnat,4
+طوفان,:tuufaan,4
+دوستی,dostii,4
 بر طرف,bar-:taraf,4
-فساردگای,afsurdagii,4
-طالاسم,:tilism,4
-سانا,sunaa,4
-کاوہکن,kohkan,4
+افسردگی,afsurdagii,4
+طلسم,:tilism,4
+سنا,sunaa,4
+کوہکن,kohkan,4
 غم خوار,;gam-;xvaar,4
-ماژدہ,muzhdah,4
-نازاک,naazuk,4
-قاےس,qais,4
-خواشا,;xvushaa,4
+مژدہ,muzhdah,4
+نازک,naazuk,4
+قیس,qais,4
+خوشا,;xvushaa,4
 ز,z,4
 ایمان,iimaan,4
-شہاید,shahiid,4
-طارّہ,:turrah,4
-ٹاوٹنا,;tuu;tnaa,4
+شہید,shahiid,4
+طرّہ,:turrah,4
+ٹوٹنا,;tuu;tnaa,4
 ماہ,maah,4
 سو,sau,4
-چھاپانا,chhupaanaa,4
-جباین,jabiin,4
+چھپانا,chhupaanaa,4
+جبین,jabiin,4
 طرب,:tarab,4
 کمال,kamaal,4
-ل لیٰہ,al-l;aah,4
+ال لیٰہ,al-l;aah,4
 پارہ,paarah,4
-روانای,ravaanii,4
-ماحایط,mu;hii:t,4
-خرابای,;xaraabii,4
-در خوار,dar-;xvur,4
-دایوارودر,diivaar-o-dar,4
-جاو,juu,4
+روانی,ravaanii,4
+محیط,mu;hii:t,4
+خرابی,;xaraabii,4
+در خور,dar-;xvur,4
+دیوار و در,diivaar-o-dar,4
+جو,juu,4
 کاغذ,kaa;ga;z,4
 کفن,kafan,4
-رہ گازر,rah-guzar,4
-بی داد,be-daad,4
-عاریان,((uryaa;n,4
+رہ گزر,rah-guzar,4
+بے داد,be-daad,4
+عریاں,((uryaa;n,4
 ہمیشہ,hameshah,4
-باسمال,bismil,4
-ناکالنا,nikaalnaa,4
+بسمل,bismil,4
+نکالنا,nikaalnaa,4
 قلم,qalam,4
-اگہای,aagahii,4
+آگہی,aagahii,4
 موت,maut,4
-رباب,arbaab,4
-ساوزن,sozan,4
-وایران,viiraan,4
-ناماوس,naamuus,4
-مستای,mastii,4
+ارباب,arbaab,4
+سوزن,sozan,4
+ویران,viiraan,4
+ناموس,naamuus,4
+مستی,mastii,4
 لڑنا,la;rnaa,4
-شادای,shaadii,4
-بد گامان,bad-gumaan,4
-ہاوش,hosh,4
-صل,a.sl,4
-شباستان,shabistaan,4
+شادی,shaadii,4
+بد گمان,bad-gumaan,4
+ہوش,hosh,4
+اصل,a.sl,4
+شبستان,shabistaan,4
 کلام,kalaam,4
-بی سبب,be-sabab,4
-غاراور,;guruur,4
-جاہت,jihat,3
-وج,auj,3
+بے سبب,be-sabab,4
+غرور,;guruur,4
+جہت,jihat,3
+اوج,auj,3
 عرش,((arsh,3
-رفاو,rafuu,3
-وحشای,va;hshii,3
-فساوس,afsos,3
-مضماون,ma.zmuun,3
+رفو,rafuu,3
+وحشی,va;hshii,3
+افسوس,afsos,3
+مضمون,ma.zmuun,3
 ہمہ,hamah,3
-داشمنای,dushmanii,3
-دھاو,dho,3
-مایر,miir,3
+دشمنی,dushmanii,3
+دھو,dho,3
+میر,miir,3
 قد,qad,3
-فاےض,fai.z,3
+فیض,fai.z,3
 قرار,qaraar,3
 شرار,sharaar,3
-غاےب,;gaib,3
-ابالہ پا,aabilah-paa,3
-ہم ساخن,ham-su;xan,3
-گاور,gor,3
-خماوش,;xamosh,3
-کماین,kamiin,3
-راونی,rone,3
-فاراغ,faari;g,3
-داوزخ,doza;x,3
-ماشت,musht,3
-سامنی,saamne,3
-بی قرارای,be-qaraarii,3
-تجلای,tajallii,3
+غیب,;gaib,3
+آبلہ پا,aabilah-paa,3
+ہم سخن,ham-su;xan,3
+گور,gor,3
+خموش,;xamosh,3
+کمین,kamiin,3
+رونے,rone,3
+فارغ,faari;g,3
+دوزخ,doza;x,3
+مشت,musht,3
+سامنے,saamne,3
+بے قراری,be-qaraarii,3
+تجلی,tajallii,3
 سعی,sa((y,3
-بی حاجاب,be-;hijaab,3
-باوسی,bose,3
-محراومای,ma;hruumii,3
+بے حجاب,be-;hijaab,3
+بوسے,bose,3
+محرومی,ma;hruumii,3
 حرم,;haram,3
 عنقا,((anqaa,3
 جلاد,jallaad,3
-تنہائای,tanhaa))ii,3
+تنہائی,tanhaa))ii,3
 رونق,raunaq,3
 خطا,;xa:taa,3
 وا بستہ,vaa-bastah,3
 جاوید,jaaved,3
 اگنا,ugnaa,3
-سفاینہ,safiinah,3
-پردہ دارای,pardah-daarii,3
+سفینہ,safiinah,3
+پردہ داری,pardah-daarii,3
 تلوار,talvaar,3
-راضوان,ri.zvaan,3
-زایادہ,ziyaadah,3
-ضاد,.zid,3
-شاعر,shi((r,3
-تاوڑ,to;r,3
+رضوان,ri.zvaan,3
+زیادہ,ziyaadah,3
+ضد,.zid,3
+شعر,shi((r,3
+توڑ,to;r,3
 مرحبا,mar;habaa,3
 احسان,i;hsaan,3
-ماشتاق,mushtaaq,3
-طبایعت,:tabii((at,3
-قادرت,qudrat,3
-گالخن,gul;xan,3
+مشتاق,mushtaaq,3
+طبیعت,:tabii((at,3
+قدرت,qudrat,3
+گلخن,gul;xan,3
 نکہت,nak'hat,3
-تامثال,tim;saal,3
-جوانای,javaanii,3
+تمثال,tim;saal,3
+جوانی,javaanii,3
 صد رنگ,.sad-rang,3
-ابراو,aabruu,3
-دال لگای,dil-lagii,3
+آبرو,aabruu,3
+دل لگی,dil-lagii,3
 قامت,qaamat,3
-گال چاین,gul-chiin,3
-تحرایر,ta;hriir,3
-داہقان,dihqaan,3
+گل چین,gul-chiin,3
+تحریر,ta;hriir,3
+دہقان,dihqaan,3
 ایجاد,iijaad,3
-ندایم,nadiim,3
+ندیم,nadiim,3
 زہر,zahr,3
 سوال,savaal,3
-ناشاط,nishaa:t,3
+نشاط,nishaa:t,3
 بتلانا,batlaanaa,3
-افت,aafat,3
-زخمای,za;xmii,3
+آفت,aafat,3
+زخمی,za;xmii,3
 اترنا,utarnaa,3
 حوصلہ,;hau.slah,3
 ظرف,:zarf,3
-گارہ,girah,3
-کاروبار,kaar-o-baar,3
-راخصت,ru;x.sat,3
+گرہ,girah,3
+کار و بار,kaar-o-baar,3
+رخصت,ru;x.sat,3
 طعنہ,:ta((nah,3
-عاریانای,((uryaanii,3
-ساپاس,sipaas,3
-راند,rind,3
-لم,alam,3
-سایلای,siilii,3
+عریانی,((uryaanii,3
+سپاس,sipaas,3
+رند,rind,3
+الم,alam,3
+سیلی,siilii,3
 بخیہ,ba;xyah,3
 خوف,;xauf,3
-تمکاین,tamkiin,3
+تمکین,tamkiin,3
 شیوہ,shevah,3
 خاص,;xaa.s,3
-نشووناما,nashv-o-numaa,3
+نشو و نما,nashv-o-numaa,3
 چرچا,charchaa,3
-ضامان,.zaamin,3
+ضامن,.zaamin,3
 بہتر,bahtar,3
-غاربت,;gurbat,3
+غربت,;gurbat,3
 طوق,:tauq,3
 زیر,zer,3
 ذرا,;zaraa,3
 حد,;had,3
-فاغان,fi;gaan,3
-اوارگای,aavaaragii,3
-کھاودنا,khodnaa,3
-مادّعای,mudda((ii,3
-زانّار,zunnaar,3
-پایچھی,piichhe,3
-رہاو,raho,3
+فغان,fi;gaan,3
+آوارگی,aavaaragii,3
+کھودنا,khodnaa,3
+مدّعی,mudda((ii,3
+زنّار,zunnaar,3
+پیچھے,piichhe,3
+رہو,raho,3
 عام,((aam,3
-شعار,ash((aar,3
+اشعار,ash((aar,3
 ہم دم,ham-dam,3
-پر فشان,par-afshaan,3
+پر افشان,par-afshaan,3
 نبرد,nabard,3
-بال کاشا,baal-kushaa,3
-حواداث,;havaadi;s,3
+بال کشا,baal-kushaa,3
+حوادث,;havaadi;s,3
 حالت,;haalat,3
 کان,kaan,3
-نسایم,nasiim,3
+نسیم,nasiim,3
 لخت,la;xt,3
 درس,dars,3
 نو,nau,3
-چھاڑکنا,chhi;raknaa,3
-ساجدہ,sijdah,3
+چھڑکنا,chhi;raknaa,3
+سجدہ,sijdah,3
 تھمنا,thamnaa,3
 تازہ,taazah,3
-راوزگار,rozgaar,3
-عاقدہ,((uqdah,3
-عانوان,((unvaa;n,3
+روزگار,rozgaar,3
+عقدہ,((uqdah,3
+عنواں,((unvaa;n,3
 پاسبان,paasbaan,3
-بےگانگای,begaanagii,3
-التافات,iltifaat,3
-خلاش,;xalish,3
-وا رستگای,vaa-rastagii,3
-رازق,rizq,3
+بیگانگی,begaanagii,3
+التفات,iltifaat,3
+خلش,;xalish,3
+وا رستگی,vaa-rastagii,3
+رزق,rizq,3
 برابر,baraabar,3
 کون سا,kaun-saa,3
 فراغت,faraa;gat,3
 بنانا,banaanaa,3
-نداوہ,andoh,3
-دھاوکا,dhokaa,3
+اندوہ,andoh,3
+دھوکا,dhokaa,3
 وبال,vabaal,3
-چھاوٹنا,chhuu;tnaa,3
-گرچاہ,agarchih,3
-فساردہ,afsurdah,3
+چھوٹنا,chhuu;tnaa,3
+اگرچہ,agarchih,3
+افسردہ,afsurdah,3
 قرض,qar.z,3
 خمیازہ,;xamyaazah,3
 نا چار,naa-chaar,3
 مزا,mazaa,3
-حاجاب,;hijaab,3
-اعتاماد,i((timaad,3
-ساراغ,suraa;g,3
+حجاب,;hijaab,3
+اعتماد,i((timaad,3
+سراغ,suraa;g,3
 یک قلم,yak-qalam,3
 بہانہ,bahaanah,3
 باز,baaz,3
-بالاش,baalish,3
+بالش,baalish,3
 تنہا,tanhaa,3
 رہزن,rahzan,3
 عداوت,((adaavat,3
-کاوہ,koh,3
-پری,pare,3
+کوہ,koh,3
+پرے,pare,3
 مکان,makaan,3
 انسان,insaan,3
-کراو,karo,3
-تلافای,talaafii,3
-ندر,andar,3
+کرو,karo,3
+تلافی,talaafii,3
+اندر,andar,3
 شش,shash,3
 موسم,mausam,3
-گلای,galii,3
+گلی,galii,3
 ہلاک,halaak,3
-باجھنا,bujhnaa,3
+بجھنا,bujhnaa,3
 بہا,bahaa,3
 بیش,besh,3
-بی ماہر,be-mihr,3
-ازادای,aazaadii,3
+بے مہر,be-mihr,3
+آزادی,aazaadii,3
 خفا,;xafaa,3
 عرصہ,((ar.sah,3
-وادای,vaadii,3
+وادی,vaadii,3
 وضع,va.z((a,3
-ہاجران,hijraan,3
-عندلایب,((andaliib,3
+ہجران,hijraan,3
+عندلیب,((andaliib,3
 سراپا,saraapaa,3
-تسلایم,tasliim,3
-طاوفان,:tuufaa;n,3
+تسلیم,tasliim,3
+طوفاں,:tuufaa;n,3
 مانا,maanaa,3
 شخص,sha;x.s,3
-خان,;xaa;n,3
-ازاردہ,aazurdah,3
+خاں,;xaa;n,3
+آزردہ,aazurdah,3
 ثواب,;savaab,3
-شاہاد,shaahid,3
-ارائاش,aaraa))ish,3
-ہاووی,hove,3
-خماوشای,;xamoshii,3
-کھانچنا,khi;nchnaa,3
-نا تمامای,naa-tamaamii,3
-داشوار,dushvaar,3
+شاہد,shaahid,3
+آرائش,aaraa))ish,3
+ہووے,hove,3
+خموشی,;xamoshii,3
+کھنچنا,khi;nchnaa,3
+نا تمامی,naa-tamaamii,3
+دشوار,dushvaar,3
 اتنا,utnaa,3
 چند,chand,3
 الٹنا,ul;tnaa,3
 شرمانا,sharmaanaa,3
-بی ثر,be-a;sar,3
+بے اثر,be-a;sar,3
 فرہاد,farhaad,3
 فرد,fard,3
-عاید,((iid,3
-ماہر,muhr,3
+عید,((iid,3
+مہر,muhr,3
 فرق,farq,3
 پار,paar,3
-بی جا,be-jaa,3
+بے جا,be-jaa,3
 کمان,kamaan,3
 نفرت,nafrat,3
 کھیل,khel,3
 خستہ,;xastah,3
-خازان,;xizaa;n,3
-مافت,muft,3
+خزاں,;xizaa;n,3
+مفت,muft,3
 ستانا,sataanaa,3
 نمک دان,namak-daan,3
 ملامت,malaamat,3
 فراہم,faraaham,3
-ناکاوہاش,nikohish,3
+نکوہش,nikohish,3
 مکتب,maktab,3
-شرماندہ,sharmindah,3
-حاور,;huur,3
-راضای,raa.zii,3
-اباد,aabaad,3
-بالندای,bulandii,3
-صاےد,.said,3
+شرمندہ,sharmindah,3
+حور,;huur,3
+راضی,raa.zii,3
+آباد,aabaad,3
+بلندی,bulandii,3
+صید,.said,3
 روان,ravaan,3
 مرہم,marham,3
 غفلت,;gaflat,3
-پانای,paanii,3
+پانی,paanii,3
 جم,jam,3
-نازاش,naazish,3
+نازش,naazish,3
 لاونا,laavnaa,3
-شایراین,shiiriin,3
-مکتاوب,maktuub,3
-ماہربان,mihrbaan,3
-پاےکان,paikaan,3
-تعمایر,ta((miir,3
-کاسی,kise,3
+شیرین,shiiriin,3
+مکتوب,maktuub,3
+مہربان,mihrbaan,3
+پیکان,paikaan,3
+تعمیر,ta((miir,3
+کسے,kise,3
 مدح,mad;h,3
 جذبہ,ja;zbah,3
 بھرنا,bharnaa,3
 حرف,;harf,3
-سابحہ,sub;hah,3
-تقرایب,taqriib,3
-شایرازہ,shiiraazah,3
+سبحہ,sub;hah,3
+تقریب,taqriib,3
+شیرازہ,shiiraazah,3
 ہم زبان,ham-zabaan,3
 مقدم,maqdam,3
-اتاش کدہ,aatish-kadah,3
-پاےمانہ,paimaanah,3
-داید,diid,3
-کاتنا,kitnaa,3
-بندگای,bandagii,3
+آتش کدہ,aatish-kadah,3
+پیمانہ,paimaanah,3
+دید,diid,3
+کتنا,kitnaa,3
+بندگی,bandagii,3
 بخشنا,ba;xshnaa,3
-بایناش,biinish,3
+بینش,biinish,3
 دبنا,dabnaa,3
-بان,bun,3
-عاجاز,((aajiz,3
-پاےغام,pai;gaam,3
-حالانکاہ,;haalaa;nkih,2
-بی زبانای,be-zabaanii,2
-اہنگ,aahang,2
+بن,bun,3
+عاجز,((aajiz,3
+پیغام,pai;gaam,3
+حالانکہ,;haalaa;nkih,2
+بے زبانی,be-zabaanii,2
+آہنگ,aahang,2
 عرق,((araq,2
-عالای,((aalii,2
+عالی,((aalii,2
 پڑھنا,pa;rhnaa,2
-باجلای,bijlii,2
+بجلی,bijlii,2
 تعن,ta((n,2
 ماتم,maatam,2
-دندان ناما,dandaan-numaa,2
-ساناو,suno,2
-دال فریبای,dil-farebii,2
-رزانای,arzaanii,2
-ماختصر,mu;xta.sar,2
+دندان نما,dandaan-numaa,2
+سنو,suno,2
+دل فریبی,dil-farebii,2
+ارزانی,arzaanii,2
+مختصر,mu;xta.sar,2
 لرزنا,laraznaa,2
 مشق,mashq,2
-معاصای,ma((aa.sii,2
-عاراض,((aari.z,2
+معاصی,ma((aa.sii,2
+عارض,((aari.z,2
 مقصد,maq.sad,2
-بادہ ناوشای,baadah-noshii,2
-وا ماندگای,vaa-maa;ndagii,2
-خستگای,;xastagii,2
+بادہ نوشی,baadah-noshii,2
+وا ماندگی,vaa-maa;ndagii,2
+خستگی,;xastagii,2
 نا کام,naa-kaam,2
-داکھلان,dikhlaana,2
-ماعتقاد,mu((taqid,2
+دکھلان,dikhlaana,2
+معتقد,mu((taqid,2
 بتلاؤ,batlaa))o,2
-عالاج,((ilaaj,2
-نایند,nii;nd,2
+علاج,((ilaaj,2
+نیند,nii;nd,2
 ریشہ,reshah,2
 کھڑا,kha;raa,2
 زنگار,zangaar,2
-اقلایم,iqliim,2
+اقلیم,iqliim,2
 یاران,yaaraan,2
-اختایار,i;xtiyaar,2
+اختیار,i;xtiyaar,2
 گوارا,gavaaraa,2
-تماشائای,tamaashaa))ii,2
+تماشائی,tamaashaa))ii,2
 ریختہ,re;xtah,2
 طراوت,:taraavat,2
 اثبات,i;sbaat,2
 ادراک,idraak,2
-عایسیٰ,((iis;aa,2
+عیسیٰ,((iis;aa,2
 دھرنا,dharnaa,2
 الفط,ulfa:t,2
-اہاو,aahuu,2
-راو,ro,2
+آہو,aahuu,2
+رو,ro,2
 دانہ,daanah,2
 خطّ,;xa:t:t,2
-ماشکاین,mushkiin,2
+مشکین,mushkiin,2
 دانا,daanaa,2
-کاسلایی,kisliye,2
-جاگر تاشنہ,jigar-tishnah,2
-خوارای,;xvaarii,2
+کسلیے,kisliye,2
+جگر تشنہ,jigar-tishnah,2
+خواری,;xvaarii,2
 نا سزا,naa-sazaa,2
-بی زار,be-zaar,2
+بے زار,be-zaar,2
 نشتر,nashtar,2
-بزم ارائای,bazm-aaraa))ii,2
-تاہمت,tuhmat,2
-پایر,piir,2
+بزم آرائی,bazm-aaraa))ii,2
+تہمت,tuhmat,2
+پیر,piir,2
 ہنگام,hangaam,2
-گاریزان,gurezaan,2
-سانانا,sunaanaa,2
-چایز,chiiz,2
-کیاونکاہ,kyuu;nkih,2
+گریزان,gurezaan,2
+سنانا,sunaanaa,2
+چیز,chiiz,2
+کیونکہ,kyuu;nkih,2
 شرر بار,sharar-baar,2
-کھاود,khod,2
+کھود,khod,2
 زحمت,za;hmat,2
 بیابان نورد,bayaabaan-navard,2
 چہرہ,chahrah,2
-کالفت,kulfat,2
+کلفت,kulfat,2
 بدن,badan,2
-ماطراب,mu:trib,2
-پارسائای,paarsaa))ii,2
+مطرب,mu:trib,2
+پارسائی,paarsaa))ii,2
 بر,bar,2
-تاخایر,taa;xiir,2
+تاخیر,taa;xiir,2
 بد,bad,2
 با,baa,2
 بشر,bashar,2
-ادم,aadam,2
-پایالہ,piyaalah,2
-تمہاید,tamhiid,2
-راوح,ruu;h,2
-لاکھوانا,likhvaanaa,2
-بایمار دار,biimaar-daar,2
+آدم,aadam,2
+پیالہ,piyaalah,2
+تمہید,tamhiid,2
+روح,ruu;h,2
+لکھوانا,likhvaanaa,2
+بیمار دار,biimaar-daar,2
 بندھنا,ba;ndhnaa,2
 نومید,naumed,2
-مانّت کش,minnat-kash,2
+منّت کش,minnat-kash,2
 زمزم,zamzam,2
-کارای,kaarii,2
+کاری,kaarii,2
 یاس,yaas,2
-سد ال لیٰہ,asad-ul-l;aah,2
-نرگاس,nargis,2
-سایرای,asiirii,2
-ماصایبت,mu.siibat,2
-گالزار,gulzaar,2
+اسد ال لیٰہ,asad-ul-l;aah,2
+نرگس,nargis,2
+اسیری,asiirii,2
+مصیبت,mu.siibat,2
+گلزار,gulzaar,2
 چارہ,chaarah,2
-عانان گایر,((inaan-giir,2
+عنان گیر,((inaan-giir,2
 ناف,naaf,2
 رحمت,ra;hmat,2
-ناہانای,nihaanii,2
-لماس,almaas,2
-گازارا,guzaaraa,2
-طافلان,:tiflaa;n,2
-ماصر,mi.sr,2
-لاباس,libaas,2
-ساوتی,sote,2
-بی تابای,be-taabii,2
-غلطای,;gala:tii,2
-وفادارای,vafaadaarii,2
-صابح دم,.sub;h-dam,2
+نہانی,nihaanii,2
+الماس,almaas,2
+گزارا,guzaaraa,2
+طفلاں,:tiflaa;n,2
+مصر,mi.sr,2
+لباس,libaas,2
+سوتے,sote,2
+بے تابی,be-taabii,2
+غلطی,;gala:tii,2
+وفاداری,vafaadaarii,2
+صبح دم,.sub;h-dam,2
 وقف,vaqf,2
 بہر,bahr,2
-کاوتاہای,kotaahii,2
+کوتاہی,kotaahii,2
 سراب,saraab,2
 بر ہم,bar-ham,2
-مضاماین,ma.zaamiin,2
-یقاین,yaqiin,2
-ناسبت,nisbat,2
+مضامین,ma.zaamiin,2
+یقین,yaqiin,2
+نسبت,nisbat,2
 مہتاب,mahtaab,2
 بتانا,bataanaa,2
 لفظ,laf:z,2
-دایگر,diigar,2
+دیگر,diigar,2
 دابنا,daabnaa,2
 نامہ,naamah,2
-سائال,saa))il,2
-جواہار,javaahir,2
-عابارت,((ibaarat,2
-جارای,jaarii,2
-گانجائاش,gunjaa))ish,2
-رسائای,rasaa))ii,2
-تعجّاب,ta((ajjub,2
+سائل,saa))il,2
+جواہر,javaahir,2
+عبارت,((ibaarat,2
+جاری,jaarii,2
+گنجائش,gunjaa))ish,2
+رسائی,rasaa))ii,2
+تعجّب,ta((ajjub,2
 سراپا ناز,saraapaa-naaz,2
 نوید,naved,2
-گال فراوش,gul-farosh,2
+گل فروش,gul-farosh,2
 مدار,madaar,2
-جاویا,juuyaa,2
+جویا,juuyaa,2
 ٹھنڈا,;than;daa,2
-حاجر,;hijr,2
-جمعوخرج,jam((-o-;xarj,2
+حجر,;hijr,2
+جمع و خرج,jam((-o-;xarj,2
 سال,saal,2
 جاؤ,jaa))o,2
-موقاوف,mauquuf,2
+موقوف,mauquuf,2
 صرصر,.sar.sar,2
-لڑائای,la;raa))ii,2
-ساحر,si;hr,2
-کاکال,kaakul,2
-جھاکنا,jhuknaa,2
-فریادای,faryaadii,2
-ماعامالہ,mu((aamilah,2
-بی رونقای,be-raunaqii,2
+لڑائی,la;raa))ii,2
+سحر,si;hr,2
+کاکل,kaakul,2
+جھکنا,jhuknaa,2
+فریادی,faryaadii,2
+معاملہ,mu((aamilah,2
+بے رونقی,be-raunaqii,2
 نظارہ,na:zaarah,2
 نعش,na((sh,2
-ناشانای,nishaanii,2
-قابال,qaabil,2
-منزال,manzil,2
-جاستجاو,justajuu,2
-خاشک,;xushk,2
+نشانی,nishaanii,2
+قابل,qaabil,2
+منزل,manzil,2
+جستجو,justajuu,2
+خشک,;xushk,2
 برہمن,barahman,2
 عقد,((aqd,2
 ربط,rab:t,2
-خواد ارا,;xvud-aaraa,2
-ساتم گر,sitam-gar,2
+خود آرا,;xvud-aaraa,2
+ستم گر,sitam-gar,2
 دفتر,daftar,2
-بات خانہ,but-;xaanah,2
+بت خانہ,but-;xaanah,2
 کوثر,kau;sar,2
-چاکنا,chuknaa,2
-جان,jin,2
+چکنا,chuknaa,2
+جن,jin,2
 سبق,sabaq,2
-نا کامای,naa-kaamii,2
-شاورایدہ,shoriidah,2
+نا کامی,naa-kaamii,2
+شوریدہ,shoriidah,2
 شاخ,shaa;x,2
-دالدار,dildaar,2
-پاوچھما,puuchhmaa,2
-گازر گاہ,guzar-gaah,2
-گلا,aglaa,2
-غیار,a;gyaar,2
+دلدار,dildaar,2
+پوچھما,puuchhmaa,2
+گزر گاہ,guzar-gaah,2
+اگلا,aglaa,2
+اغیار,a;gyaar,2
 چال,chaal,2
 برس,baras,2
 برا,baraa,2
-کھالنا,khilnaa,2
-پھاوڑنا,pho;rnaa,2
-نظارہ ساوز,na:zaarah-soz,2
-گدائای,gadaa))ii,2
+کھلنا,khilnaa,2
+پھوڑنا,pho;rnaa,2
+نظارہ سوز,na:zaarah-soz,2
+گدائی,gadaa))ii,2
 زر,zar,2
-کہہانای,kahaanii,2
-اؤ,aa))o,2
-تاحفہ,tu;hfah,2
+کہانی,kahaanii,2
+آؤ,aa))o,2
+تحفہ,tu;hfah,2
 صیّاد,.sayyaad,2
 نا رسا,naa-rasaa,2
-زاور,zor,2
-اشافتہ بیانای,aashuftah-bayaanii,2
+زور,zor,2
+آشفتہ بیانی,aashuftah-bayaanii,2
 نزع,naz((,2
 سونپنا,sau;npnaa,2
-خاون فاشان,;xuun-fishaa;n,2
-گالولالہ,gul-o-laalah,2
-غنایمت,;ganiimat,2
-بی وفائای,be-vafaa))ii,2
+خون فشاں,;xuun-fishaa;n,2
+گل و لالہ,gul-o-laalah,2
+غنیمت,;ganiimat,2
+بے وفائی,be-vafaa))ii,2
 سرمایہ,sarmaayah,2
-زہی,zahe,2
-اتاش زدہ,aatish-zadah,2
-گالساتان,gulsitaan,2
-ثابات,;saabit,2
+زہے,zahe,2
+آتش زدہ,aatish-zadah,2
+گلستان,gulsitaan,2
+ثابت,;saabit,2
 منظر,man:zar,2
-استاغنا,isti;gnaa,2
-باینا,biinaa,2
-قباول,qabuul,2
+استغنا,isti;gnaa,2
+بینا,biinaa,2
+قبول,qabuul,2
 قہر,qahr,2
-نصایب,na.siib,2
-شاکن,shikan,2
-مایرزا,miirzaa,2
-قافل,qufl,2
+نصیب,na.siib,2
+شکن,shikan,2
+میرزا,miirzaa,2
+قفل,qufl,2
 منع,man((,2
-باولا,bolaa,2
+بولا,bolaa,2
 عار,((aar,2
 غرض,;gara.z,2
-گاستاخ,gustaa;x,2
+گستاخ,gustaa;x,2
 یکتا,yaktaa,2
-لاپٹنا,lipa;tnaa,2
-صبر ازما,.sabr-aazmaa,2
+لپٹنا,lipa;tnaa,2
+صبر آزما,.sabr-aazmaa,2
 کردہ,kardah,2
-پاے,pai,2
+پے,pai,2
 تکرار,takraar,2
 جہان تاب,jahaan-taab,2
 کار,kaar,2
 جور,jaur,2
-گایتای,giitii,2
+گیتی,giitii,2
 نا دان,naa-daan,2
-شاعاع,shu((aa((,2
-زایان,ziyaan,2
-ماور,mor,2
-راو کش,ruu-kash,2
-ڈھاونڈنا,;dhuu;n;dnaa,2
-مجلاس,majlis,2
+شعاع,shu((aa((,2
+زیان,ziyaan,2
+مور,mor,2
+رو کش,ruu-kash,2
+ڈھونڈنا,;dhuu;n;dnaa,2
+مجلس,majlis,2
 سچ,sach,2
-جلوہ گرای,jalvah-garii,2
+جلوہ گری,jalvah-garii,2
 حاجت,;haajat,2
 لگاؤ,lagaa))o,2
-پاشت,pusht,2
-ندھیر,andher,2
+پشت,pusht,2
+اندھیر,andher,2
 مرد,mard,2
-پر فاشانای,par-fishaanii,2
-سایاہ,siyaah,2
+پر فشانی,par-fishaanii,2
+سیاہ,siyaah,2
 مبادا,mabaadaa,2
-نیکای,nekii,2
-چّھاون,achchho;n,2
+نیکی,nekii,2
+اچّھوں,achchho;n,2
 جستہ,jastah,2
 نقشہ,naqshah,2
 توسن,tausan,2
-خاون بہا,;xuun-bahaa,2
+خون بہا,;xuun-bahaa,2
 ٹپکنا,;tapaknaa,2
-باےضہ,bai.zah,2
-ساکانان,saakinaan,2
-باو ال ہوس,buu-ul-havas,2
-درمایان,darmiyaan,2
-وہان,vahaa;n,2
-تعلایم,ta((liim,2
-واوہای,vohii,2
-دباستان,dabistaan,2
+بیضہ,bai.zah,2
+ساکنان,saakinaan,2
+بو ال ہوس,buu-ul-havas,2
+درمیان,darmiyaan,2
+وہاں,vahaa;n,2
+تعلیم,ta((liim,2
+ووہی,vohii,2
+دبستان,dabistaan,2
 اعجاز,i((jaaz,2
-واو,vo,2
+وو,vo,2
 بچنا,bachnaa,2
 توبہ,taubah,2
-بی ماحابا,be-mu;haabaa,2
+بے محابا,be-mu;haabaa,2
 قول,qaul,2
-حرام,a;hraam,2
+احرام,a;hraam,2
 طرف,:tarf,2
 غزل,;gazal,2
-شاگافتن,shuguftan,2
-پار خار,pur-;xaar,2
-ودایعت,vadii((at,2
-محراوم,ma;hruum,2
-ری,re,2
-رہگازار,rahguzaar,2
+شگفتن,shuguftan,2
+پر خار,pur-;xaar,2
+ودیعت,vadii((at,2
+محروم,ma;hruum,2
+رے,re,2
+رہگزار,rahguzaar,2
 بادشاہ,baadshaah,2
-عابرت,((ibrat,2
-انگلای,u;nglii,2
+عبرت,((ibrat,2
+انگلی,u;nglii,2
 کاشانہ,kaashaanah,2
 ہای,haay,2
-حانائای,;hinaa))ii,2
-پاوچھاو,puuchho,2
-تاہای,tihii,2
+حنائی,;hinaa))ii,2
+پوچھو,puuchho,2
+تہی,tihii,2
 درویش,darvesh,2
-صاےقل,.saiqal,2
+صیقل,.saiqal,2
 اترانا,itraanaa,2
 کنعان,kan((aan,2
-خاون بار,;xuun-baar,2
+خون بار,;xuun-baar,2
 جامہ,jaamah,2
-نوازاش,navaazish,2
-نا ماہربان,naa-mihrbaan,2
-پار,pur,2
+نوازش,navaazish,2
+نا مہربان,naa-mihrbaan,2
+پر,pur,2
 کار فرما,kaar-farmaa,2
 تاک,taak,2
-بی سروپا,be-sar-o-paa,2
+بے سر و پا,be-sar-o-paa,2
 جنازہ,janaazah,2
-گال فاشانای,gul-fishaanii,2
+گل فشانی,gul-fishaanii,2
 شرر,sharar,2
-زانہار,zinhaar,2
+زنہار,zinhaar,2
 طبع,:tab((a,2
 اظہار,i:zhaar,2
-فاگار,figaar,2
+فگار,figaar,2
 دراز,daraaz,2
-تکلایف,takliif,2
-ماشاہدہ,mushaahadah,2
+تکلیف,takliif,2
+مشاہدہ,mushaahadah,2
 بخت,ba;xt,2
 مان,maan,2
-ہم اغاوشای,ham-aa;goshii,2
-راوتا,rotaa,2
-ہزاراو,hazaaro,2
-بی اختایار,be-i;xtiyaar,2
+ہم آغوشی,ham-aa;goshii,2
+روتا,rotaa,2
+ہزارو,hazaaro,2
+بے اختیار,be-i;xtiyaar,2
 جذب,ja;zb,2
-گافتگاو,guftaguu,2
-گنجاینہ,ganjiinah,2
-نا ماراد,naa-muraad,2
-کثر,ak;sar,2
-گام,gum,2
-زاندانای,zindaanii,2
-کانج,kunj,2
-ناواک,naavuk,2
-خانہ وایرانای,;xaanah-viiraanii,2
-ماہرووفا,mihr-o-vafaa,2
-سنگوخاشت,sang-o-;xisht,2
+گفتگو,guftaguu,2
+گنجینہ,ganjiinah,2
+نا مراد,naa-muraad,2
+اکثر,ak;sar,2
+گم,gum,2
+زندانی,zindaanii,2
+کنج,kunj,2
+ناوک,naavuk,2
+خانہ ویرانی,;xaanah-viiraanii,2
+مہر و وفا,mihr-o-vafaa,2
+سنگ و خشت,sang-o-;xisht,2
 غش,;gash,2
 تیسہ,tesah,2
-کاشت,kisht,2
-ان,aan,2
+کشت,kisht,2
+آن,aan,2
 نقد,naqd,2
-غم خوارای,;gam-;xvaarii,2
-پایٹنا,pii;tnaa,2
+غم خواری,;gam-;xvaarii,2
+پیٹنا,pii;tnaa,2
 ناگہان,naagahaan,2
 بڑھنا,ba;rhnaa,2
 استاد,ustaad,2
-رنگاین,rangiin,2
-ماندنا,mu;ndnaa,2
-قاصّہ,qi.s.sah,2
-گاران,giraan,2
-پاےکر,paikar,2
-بی ماہرای,be-mihrii,2
+رنگین,rangiin,2
+مندنا,mu;ndnaa,2
+قصّہ,qi.s.sah,2
+گران,giraan,2
+پیکر,paikar,2
+بے مہری,be-mihrii,2
 ابھرنا,ubharnaa,2
 امکان,imkaan,2
-سایر,asiir,2
+اسیر,asiir,2
 نیا,nayaa,2
 برگ,barg,2
 سطوت,sa:tvat,2
 پرواز,parvaaz,2
-پئی,pa))e,2
+پئے,pa))e,2
 تھکنا,thaknaa,2
-کئای,ka))ii,2
+کئی,ka))ii,2
 عبث,((aba;s,2
-گاستاخای,gustaa;xii,2
+گستاخی,gustaa;xii,2
 روا,ravaa,2
-معشاوق,ma((shuuq,2
-عاراف,((aarif,2
-فارقت,furqat,2
-دشت نوردای,dasht-navardii,2
+معشوق,ma((shuuq,2
+عارف,((aarif,2
+فرقت,furqat,2
+دشت نوردی,dasht-navardii,2
 اجازت,ijaazat,2
 شہ,shah,2
-شاے,shai,2
-رنجاش,ranjish,2
-بجد,abjad,2
-بدای,badii,2
-مسایحا,masii;haa,2
-بی زبان,be-zabaan,2
-تقصایر,taq.siir,2
+شے,shai,2
+رنجش,ranjish,2
+ابجد,abjad,2
+بدی,badii,2
+مسیحا,masii;haa,2
+بے زبان,be-zabaan,2
+تقصیر,taq.siir,2
 بہم,baham,2
 بتاؤ,bataa))o,2
-زامارّاد,zumurrud,2
-سر نواشت,sar-navisht,2
-چاراغان,chiraa;gaan,2
+زمرّد,zumurrud,2
+سر نوشت,sar-navisht,2
+چراغان,chiraa;gaan,2
 سات,saat,2
 راز دان,raaz-daan,2
 دامان,daamaan,2
 نخوت,na;xvat,2
-دائام,daa))im,2
-قایمت,qiimat,2
-ڈھاونڈھنا,;dhuu;n;dhnaa,2
+دائم,daa))im,2
+قیمت,qiimat,2
+ڈھونڈھنا,;dhuu;n;dhnaa,2
 جوان,javaan,2
 سمندر,samandar,2
-بارائای,buraa))ii,2
+برائی,buraa))ii,2
 کمر,kamar,2
-تاشنہ,tishnah,2
+تشنہ,tishnah,2
 ظنّ,:zann,2
-رہگازر,rahguzar,2
-بانا,binaa,2
-حوال,a;hvaal,2
-شاکار,shikaar,2
-شک بارای,ashk-baarii,2
-سبزہوگال,sabzah-o-gul,2
+رہگزر,rahguzar,2
+بنا,binaa,2
+احوال,a;hvaal,2
+شکار,shikaar,2
+اشک باری,ashk-baarii,2
+سبزہ و گل,sabzah-o-gul,2
 دریغ,dare;g,2
-اشافتہ سر,aashuftah-sar,2
+آشفتہ سر,aashuftah-sar,2
 مال,maal,2
-دھاوئی,dho))e,2
-پاشت گرمای,pusht-garmii,2
-دایواراو,diivaaro,2
-تقدایر,taqdiir,2
-لاف,alif,2
-ماقدّمہ,muqaddamah,2
-راوکا,rokaa,2
-زایارت گاہ,ziyaarat-gaah,2
-تامثال دار,tim;saal-daar,2
+دھوئے,dho))e,2
+پشت گرمی,pusht-garmii,2
+دیوارو,diivaaro,2
+تقدیر,taqdiir,2
+الف,alif,2
+مقدّمہ,muqaddamah,2
+روکا,rokaa,2
+زیارت گاہ,ziyaarat-gaah,2
+تمثال دار,tim;saal-daar,2
 فرماونا,farmaavnaa,2
-نامایان,numaayaa;n,2
+نمایاں,numaayaa;n,2
 حسرت پرست,;hasrat-parast,2
 شرح,shar;h,2
 قتل گہ,qatl-gah,2
 سبز,sabz,2
 تہ,tah,2
-رنجاور,ranjuur,2
-راوبراو,ruubaruu,2
+رنجور,ranjuur,2
+روبرو,ruubaruu,2
 حشر,;hashr,2
 زہرہ,zahrah,2
 دعوت,da((vat,2
 دعوا,da((vaa,2
-ازاد,aazaad,2
-گاران جانای,giraan-jaanii,2
-دلایل,daliil,2
-ساتم زدہ,sitam-zadah,2
-دایوانگای,diivaanagii,2
+آزاد,aazaad,2
+گران جانی,giraan-jaanii,2
+دلیل,daliil,2
+ستم زدہ,sitam-zadah,2
+دیوانگی,diivaanagii,2
 سرشار,sarshaar,2
-ساود,suud,2
+سود,suud,2
 پتا,pataa,2
-پالانا,pilaanaa,2
-حزاین,;hazii;n,2
+پلانا,pilaanaa,2
+حزیں,;hazii;n,2
 فراغ,faraa;g,2
-داراست,durust,2
+درست,durust,2
 عکس,((aks,2
-صاحاب,.saa;hib,2
-سباب,asbaab,2
-تاندای,tundii,2
-علای,((alii,2
-ناسیان,nisyaan,2
-لازام,laazim,2
+صاحب,.saa;hib,2
+اسباب,asbaab,2
+تندی,tundii,2
+علی,((alii,2
+نسیان,nisyaan,2
+لازم,laazim,2
 سراسر,saraasar,2
 لاگ,laag,2
-طاور,:tuur,2
+طور,:tuur,2
 غارت گر,;gaarat-gar,2
-مسجاد,masjid,2
-کادھر,kidhar,2
+مسجد,masjid,2
+کدھر,kidhar,2
 مرجان,marjaan,2
-باودا,bodaa,2
-بایم,biim,2
-ماے کشای,mai-kashii,2
-اشاوب,aashob,2
-ائانہ سایما,aa))inah-siimaa,2
-پہلاو,pahluu,2
+بودا,bodaa,2
+بیم,biim,2
+مے کشی,mai-kashii,2
+آشوب,aashob,2
+آئنہ سیما,aa))inah-siimaa,2
+پہلو,pahluu,2
 پاک,paak,2
-قالزام,qulzum,2
-ساےل,sail,2
+قلزم,qulzum,2
+سیل,sail,2
 بھید,bhed,2
-خسوخاشاک,;xas-o-;xaashaak,2
+خس و خاشاک,;xas-o-;xaashaak,2
 طاق,:taaq,2
 حذر,;ha;zar,2
 بناؤ,banaa))o,2
-ساتارہ,sitaarah,2
-مانفعال,munfa((il,2
+ستارہ,sitaarah,2
+منفعل,munfa((il,2
 جنّت,jannat,2
-زالاےخا,zulai;xaa,2
+زلیخا,zulai;xaa,2
 شاد,shaad,2
 قطع,qa:t((,2
-غزل خوانای,;gazal-;xvaanii,2
-کانارہ,kinaarah,2
+غزل خوانی,;gazal-;xvaanii,2
+کنارہ,kinaarah,2
 قبا,qabaa,2
 یک بیابان,yak-bayaabaan,2
-بی قرار,be-qaraar,2
-شامار,shumaar,2
+بے قرار,be-qaraar,2
+شمار,shumaar,2
 عمل,((amal,2
-استاوار,ustuvaar,2
+استوار,ustuvaar,2
 سرد,sard,2
-خوار,;xvur,2
-خایابان,;xiyaabaa;n,2
-فراشتہ,farishtah,2
-جان گاداز,jaan-gudaaz,2
-ہیاولیٰ,hayuul;aa,2
-راخسار,ru;xsaar,2
+خور,;xvur,2
+خیاباں,;xiyaabaa;n,2
+فرشتہ,farishtah,2
+جان گداز,jaan-gudaaz,2
+ہیولیٰ,hayuul;aa,2
+رخسار,ru;xsaar,2
 ہم سفر,ham-safar,2
-بی پروا,be-parvaa,2
-داوش,dosh,2
+بے پروا,be-parvaa,2
+دوش,dosh,2
 برسات,barsaat,2
 مقام,maqaam,2
-گالای,gaalii,2
-مقداور,maqduur,2
-بی نایازای,be-niyaazii,2
-یعقاوب,ya((quub,2
-اب گاینہ,aab-giinah,2
+گالی,gaalii,2
+مقدور,maqduur,2
+بے نیازی,be-niyaazii,2
+یعقوب,ya((quub,2
+آب گینہ,aab-giinah,2
 سر تا سر,sar-taa-sar,2
 کثرت,ka;srat,2
-جاوشاش,joshish,2
-پاوجنا,puujnaa,2
-رکھیاو,rakhyo,2
-نخچایر,na;xchiir,2
-ڈرنای,;darnaae,2
+جوشش,joshish,2
+پوجنا,puujnaa,2
+رکھیو,rakhyo,2
+نخچیر,na;xchiir,2
+ڈرناے,;darnaae,2
 صلا,.salaa,2
-عاذر خواہ,((u;zr-;xvaah,2
-اشافتگای,aashuftagii,2
-ابوہوا,aab-o-havaa,2
-ناسخہ,nus;xah,2
-گون,gau;n,2
+عذر خواہ,((u;zr-;xvaah,2
+آشفتگی,aashuftagii,2
+آب و ہوا,aab-o-havaa,2
+نسخہ,nus;xah,2
+گوں,gau;n,2
 بھیس,bhes,2
-لالہ کارای,laalah-kaarii,2
-جانس,jins,2
+لالہ کاری,laalah-kaarii,2
+جنس,jins,2
 گواہ,gavaah,2
 کاسہ,kaasah,2
 جولان,jaulaan,2
-کھاےنچنا,khai;nchnaa,2
-نماود,namuud,2
-فعای,af((ii,2
+کھینچنا,khai;nchnaa,2
+نمود,namuud,2
+افعی,af((ii,2
 ہم سا,ham-saa,2
-صارف,.sirf,2
+صرف,.sirf,2
 ہم سایہ,ham-saayah,2
-تبسّام,tabassum,2
+تبسّم,tabassum,2
 غرق,;garq,2
 حسد,;hasad,2
-داو عالم,do-((aalam,2
-باود,buud,2
-شہایدان,shahiidaan,2
-جازو,juzv,2
-پار خاون,pur-;xuun,2
-کاہن,kuhan,2
-ابالاون,aabilo;n,2
-ناور,nuur,2
-خاوبای,;xuubii,2
-عابادت,((ibaadat,2
+دو عالم,do-((aalam,2
+بود,buud,2
+شہیدان,shahiidaan,2
+جزو,juzv,2
+پر خون,pur-;xuun,2
+کہن,kuhan,2
+آبلوں,aabilo;n,2
+نور,nuur,2
+خوبی,;xuubii,2
+عبادت,((ibaadat,2
 پروا,parvaa,2
 داستان,daastaan,1
 بد نام,bad-naam,1
-التاہاب,iltihaab,1
-گاومگاو,gomago,1
+التہاب,iltihaab,1
+گومگو,gomago,1
 حقّ,;haqq,1
-خاوب راویاون,;xuub-ruuyo;n,1
-فنا تعلایم,fanaa-ta((liim,1
-خوارشاید جمال,;xvurshiid-jamaal,1
-ماہر بان,mihr-baan,1
-پرای,parii,1
-سر گشتگای,sar-gashtagii,1
+خوب رویوں,;xuub-ruuyo;n,1
+فنا تعلیم,fanaa-ta((liim,1
+خورشید جمال,;xvurshiid-jamaal,1
+مہر بان,mihr-baan,1
+پری,parii,1
+سر گشتگی,sar-gashtagii,1
 سفحہ,saf;hah,1
-ناواک فاگن,naavuk-figan,1
-فاراوع,furuu((,1
-مہاینہ,mahiinah,1
-تپایدن,tapiidan,1
-ریشہ دوانای,reshah-davaanii,1
+ناوک فگن,naavuk-figan,1
+فروع,furuu((,1
+مہینہ,mahiinah,1
+تپیدن,tapiidan,1
+ریشہ دوانی,reshah-davaanii,1
 سنبھلنا,sa;nbhalnaa,1
-عظم,a((:zam,1
-ناقاصوکامال,naaqi.s-o-kaamil,1
-ماحابا,mu;haabaa,1
-التاجا,iltijaa,1
-چایخنا,chii;xnaa,1
-ردایف,radiif,1
+اعظم,a((:zam,1
+ناقص و کامل,naaqi.s-o-kaamil,1
+محابا,mu;haabaa,1
+التجا,iltijaa,1
+چیخنا,chii;xnaa,1
+ردیف,radiif,1
 جھگڑنا,jhaga;rnaa,1
-قدم باوس,qadam-bos,1
+قدم بوس,qadam-bos,1
 ورطہ,var:tah,1
-گاوشی,goshe,1
+گوشے,goshe,1
 نزاکت,nazaakat,1
-دالبر,dilbar,1
+دلبر,dilbar,1
 ماتم خانہ,maatam-;xaanah,1
-بی یّام,be-ayyaam,1
+بے ایّام,be-ayyaam,1
 پکڑنا,paka;rnaa,1
-کبر,akbar,1
-مجباورایودعوا,majbuurii-o-da((vaa,1
+اکبر,akbar,1
+مجبوری و دعوا,majbuurii-o-da((vaa,1
 صیّاد,.saiyaad,1
 بھرم,bharam,1
-صالح,.sul;h,1
-کال,kul,1
-زاندہ,zindah,1
-طیاور,:tayuur,1
+صلح,.sul;h,1
+کل,kul,1
+زندہ,zindah,1
+طیور,:tayuur,1
 جلوہ زار,jalvah-zaar,1
-ماخالاف,mu;xaalif,1
+مخالف,mu;xaalif,1
 حسب,;hasb,1
-لایجاو,liijo,1
+لیجو,liijo,1
 علاوہ,((alaavah,1
-بد مستای,bad-mastii,1
-حاجرہ,;hujrah,1
-خماوشایاون,;xamoshiyo;n,1
-داوست دار,dost-daar,1
-رواش,ravish,1
-ساکندر,sikandar,1
-یّام,ayyaam,1
-ودایعت خانہ,vadii((at-;xaanah,1
-چارہ سازای,chaarah-saazii,1
-ناعمت,ni((mat,1
+بد مستی,bad-mastii,1
+حجرہ,;hujrah,1
+خموشیوں,;xamoshiyo;n,1
+دوست دار,dost-daar,1
+روش,ravish,1
+سکندر,sikandar,1
+ایّام,ayyaam,1
+ودیعت خانہ,vadii((at-;xaanah,1
+چارہ سازی,chaarah-saazii,1
+نعمت,ni((mat,1
 حاجات,;haajaat,1
-اذر فاشان,aa;zar-fishaa;n,1
-دالوماژگان,dil-o-mizhgaa;n,1
+آذر فشاں,aa;zar-fishaa;n,1
+دل و مژگاں,dil-o-mizhgaa;n,1
 پرداز,pardaaz,1
 کڑا,ka;raa,1
 بہ ذرّہ,bah-;zarrah,1
-پرایزاد,pariizaad,1
-سنگ دال,sang-dil,1
-مرغاوب,mar;guub,1
-راہ گازار,raah-guzaar,1
-شاورایدگای,shoriidagii,1
+پریزاد,pariizaad,1
+سنگ دل,sang-dil,1
+مرغوب,mar;guub,1
+راہ گزار,raah-guzaar,1
+شوریدگی,shoriidagii,1
 دست گاہ,dast-gaah,1
-تیغ ازما,te;g-aazmaa,1
-حاےرت کدہ,;hairat-kadah,1
+تیغ آزما,te;g-aazmaa,1
+حیرت کدہ,;hairat-kadah,1
 پرہیز,parhez,1
-ہاےہات,haihaat,1
-امتایاز,imtiyaaz,1
-پایالہوساغر,piyaalah-o-saa;gar,1
-دارد,durd,1
+ہیہات,haihaat,1
+امتیاز,imtiyaaz,1
+پیالہ و ساغر,piyaalah-o-saa;gar,1
+درد,durd,1
 اشارا,ishaaraa,1
-تھاوڑای,tho;rii,1
-ڈاوبنا,;duubnaa,1
+تھوڑی,tho;rii,1
+ڈوبنا,;duubnaa,1
 کار گاہ,kaar-gaah,1
 ہرزہ,harzah,1
 اشارت,ishaarat,1
-نایلای فام,niilii-faam,1
-جاست جاو,just-juu,1
+نیلی فام,niilii-faam,1
+جست جو,just-juu,1
 دفن,dafn,1
-ناور ال عاےن,nuur-ul-((ain,1
-لبودندان,lab-o-dandaa;n,1
-بی داد گر,be-daad-gar,1
-دست گایرای,dast-giirii,1
-ائایاو,aa))iyo,1
-ماتقابال,mutaqaabil,1
-حاکمت,;hikmat,1
-کاشایاش,kushaayish,1
-رخشاندہ,ra;xshindah,1
+نور ال عین,nuur-ul-((ain,1
+لب و دنداں,lab-o-dandaa;n,1
+بے داد گر,be-daad-gar,1
+دست گیری,dast-giirii,1
+آئیو,aa))iyo,1
+متقابل,mutaqaabil,1
+حکمت,;hikmat,1
+کشایش,kushaayish,1
+رخشندہ,ra;xshindah,1
 کاو کاو,kaav-kaav,1
-چندی,chande,1
-مرد فگن,mard-afgan,1
-رستخیز ندازہ,rast;xez-andaazah,1
+چندے,chande,1
+مرد افگن,mard-afgan,1
+رستخیز اندازہ,rast;xez-andaazah,1
 خطر,;xa:tar,1
 عدالت,((adaalat,1
-حاکایت,;hikaayat,1
-ساکھانا,sikhaanaa,1
-باواجاود,baavujuud,1
+حکایت,;hikaayat,1
+سکھانا,sikhaanaa,1
+باوجود,baavujuud,1
 لت,lat,1
-ساراور,suruur,1
+سرور,suruur,1
 جناب,janaab,1
 ٹالنا,;taalnaa,1
 رستا,rastaa,1
-بی درد,be-dard,1
-غرایبای,;gariibii,1
-اسائاش,aasaa))ish,1
+بے درد,be-dard,1
+غریبی,;gariibii,1
+آسائش,aasaa))ish,1
 در پردہ,dar-pardah,1
-بی کفن,be-kafan,1
+بے کفن,be-kafan,1
 دانت,daa;nt,1
-برہنگای,barahnagii,1
-نہای,nahii,1
-بی گانہ کاشوحق,be-gunah-kush-o-;haq,1
-شبوراوزوماہوسال,shab-o-roz-o-maah-o-saal,1
-حاجابوواداع,;hijaab-o-vidaa((,1
-زباون,zabuun,1
-عاہدہ,((uhdah,1
+برہنگی,barahnagii,1
+نہی,nahii,1
+بے گنہ کش و حق,be-gunah-kush-o-;haq,1
+شب و روز و ماہ و سال,shab-o-roz-o-maah-o-saal,1
+حجاب و وداع,;hijaab-o-vidaa((,1
+زبون,zabuun,1
+عہدہ,((uhdah,1
 اقبال,iqbaal,1
-خواد رفتہ,;xvud-raftah,1
-دایجایاو,diijiyo,1
-خواد باینوخواد ارا,;xvud-biin-o-;xvud-aaraa,1
+خود رفتہ,;xvud-raftah,1
+دیجیو,diijiyo,1
+خود بین و خود آرا,;xvud-biin-o-;xvud-aaraa,1
 پاداش,paadaash,1
-داو نایم,do-niim,1
+دو نیم,do-niim,1
 عیار,((ayaar,1
 گھبران,ghabraana,1
-لاٹانا,lu;taanaa,1
+لٹانا,lu;taanaa,1
 رضامند,ra.zaamand,1
-فاناوس,faanuus,1
-انتاظام,inti:zaam,1
-بی کران,be-karaan,1
-پیچوخم,pech-o-;xam,1
-پھاراو,phiro,1
-ہنگامہ ارا,hangaamah-aaraa,1
+فانوس,faanuus,1
+انتظام,inti:zaam,1
+بے کران,be-karaan,1
+پیچ و خم,pech-o-;xam,1
+پھرو,phiro,1
+ہنگامہ آرا,hangaamah-aaraa,1
 کوکبہ,kaukabah,1
-ساقایوذوق,saaqii-o-;zauq,1
-عاےشوجاہ,((aish-o-jaah,1
+ساقی و ذوق,saaqii-o-;zauq,1
+عیش و جاہ,((aish-o-jaah,1
 باندھا,baa;ndhaa,1
-غیاور,;gayuur,1
+غیور,;gayuur,1
 چشمک,chashmak,1
-جاوادانای,jaavidaanii,1
+جاودانی,jaavidaanii,1
 پلک,palak,1
-دارورسن,daar-o-rasan,1
-ساوتا,sotaa,1
-ماناجات,munaajaat,1
-تشوایش,tashviish,1
-استاین,aastiin,1
+دار و رسن,daar-o-rasan,1
+سوتا,sotaa,1
+مناجات,munaajaat,1
+تشویش,tashviish,1
+آستین,aastiin,1
 نادان,naadaan,1
 سہل,sahl,1
 برات,baraat,1
-چنگورباب,chang-o-rabaab,1
+چنگ و رباب,chang-o-rabaab,1
 صحرا نورد,.sa;hraa-navard,1
-جان ساتان تر,jaan-sitaan-tar,1
-صاورتین,.suurate;n,1
-بی خاون,be-;xuun,1
-قائال,qaa))il,1
-کامودہن,kaam-o-dahan,1
-پاے روای,pai-ravii,1
-داو عالم دشت,do-((aalam-dasht,1
-رنگاین نوائای,rangiin-navaa))ii,1
+جان ستان تر,jaan-sitaan-tar,1
+صورتیں,.suurate;n,1
+بے خون,be-;xuun,1
+قائل,qaa))il,1
+کام و دہن,kaam-o-dahan,1
+پے روی,pai-ravii,1
+دو عالم دشت,do-((aalam-dasht,1
+رنگین نوائی,rangiin-navaa))ii,1
 راکھ,raakh,1
-دایوان,diivaan,1
+دیوان,diivaan,1
 یک کف,yak-kaf,1
-دھمکای,dhamkii,1
-دال برای,dil-barii,1
-جاگر خراش,jigar-;xaraash,1
-باوند,buu;nd,1
-دال دار,dil-daar,1
-شایشہوقدحوکاوزہوسباو,shiishah-o-qada;h-o-kuuzah-o-sabuu,1
+دھمکی,dhamkii,1
+دل بری,dil-barii,1
+جگر خراش,jigar-;xaraash,1
+بوند,buu;nd,1
+دل دار,dil-daar,1
+شیشہ و قدح و کوزہ و سبو,shiishah-o-qada;h-o-kuuzah-o-sabuu,1
 بدلنا,badalnaa,1
-اعتادال,i((tidaal,1
-درماندگای,darmaa;ndagii,1
-بی سوال,be-savaal,1
-خاےر باد,;xair-baad,1
-وکایل,vakiil,1
-بی دروازہ,be-darvaazah,1
-طالاع,:taali((,1
+اعتدال,i((tidaal,1
+درماندگی,darmaa;ndagii,1
+بے سوال,be-savaal,1
+خیر باد,;xair-baad,1
+وکیل,vakiil,1
+بے دروازہ,be-darvaazah,1
+طالع,:taali((,1
 پہچاننا,pahchaan'naa,1
-صاور,.suur,1
-حاساےن,;husain,1
+صور,.suur,1
+حسین,;husain,1
 نیشتر,neshtar,1
-ماے پرستای,mai-parastii,1
+مے پرستی,mai-parastii,1
 رم,ram,1
 خجالت,;xajaalat,1
 رو,rau,1
 لہنا,lahnaa,1
-غزل خوان,;gazal-;xvaa;n,1
-عامروسد,((umr-o-asad,1
-گال کتر,gul-katar,1
-پاندار,pindaar,1
-پاےدائای,paidaa))ii,1
-دامن فشانای,daaman-afshaanii,1
+غزل خواں,;gazal-;xvaa;n,1
+عمر و اسد,((umr-o-asad,1
+گل کتر,gul-katar,1
+پندار,pindaar,1
+پیدائی,paidaa))ii,1
+دامن افشانی,daaman-afshaanii,1
 لالہ زار,laalah-zaar,1
-تعزایر,ta((ziir,1
+تعزیر,ta((ziir,1
 دام گاہ,daam-gaah,1
-ماکوکب,mukaukab,1
-قدوگیساو,qad-o-gesuu,1
+مکوکب,mukaukab,1
+قد و گیسو,qad-o-gesuu,1
 نیک,nek,1
-خواش نوایان,;xvush-navaayaan,1
+خوش نوایان,;xvush-navaayaan,1
 باور,baavar,1
-باو تاراب,buu-turaab,1
-شاگافتہ,shiguftah,1
-ماینائای,miinaa))ii,1
-شاگافتن,shiguftan,1
-کائای,kaa))ii,1
-مجباور,majbuur,1
-دایار,diyaar,1
-نایم غمزہ,niim-;gamzah,1
+بو تراب,buu-turaab,1
+شگفتہ,shiguftah,1
+مینائی,miinaa))ii,1
+شگفتن,shiguftan,1
+کائی,kaa))ii,1
+مجبور,majbuur,1
+دیار,diyaar,1
+نیم غمزہ,niim-;gamzah,1
 وفادار,vafaadaar,1
-ماندگای,maa;ndagii,1
-ساپند,sipand,1
+ماندگی,maa;ndagii,1
+سپند,sipand,1
 مغفرت,ma;gfarat,1
-ریشگای,reshagii,1
-مان,amaa;n,1
-فرداودای,fardaa-o-dii,1
-ایمانواگہای,iimaan-o-aagahii,1
-وحشتوشیفتہ,va;hshat-o-sheftah,1
-صاورت خانہ,.suurat-;xaanah,1
-ساوزان,sozaan,1
+ریشگی,reshagii,1
+اماں,amaa;n,1
+فردا و دی,fardaa-o-dii,1
+ایمان و آگہی,iimaan-o-aagahii,1
+وحشت و شیفتہ,va;hshat-o-sheftah,1
+صورت خانہ,.suurat-;xaanah,1
+سوزان,sozaan,1
 کپڑہ,kap;rah,1
 دفع,daf((,1
-زاینت,ziinat,1
-ماصوّرای,mu.savvarii,1
-باینائای,biinaa))ii,1
-بی ماے,be-mai,1
+زینت,ziinat,1
+مصوّری,mu.savvarii,1
+بینائی,biinaa))ii,1
+بے مے,be-mai,1
 جمشید,jamshed,1
 خاشاک,;xaashaak,1
-حاوران,;huuraan,1
-پاسبانای,paasbaanii,1
-غالام,;gulaam,1
-پایرای,piirii,1
-عایادت,((iyaadat,1
-گاونہ,guunah,1
-گوہر فراوش,gauhar-farosh,1
+حوران,;huuraan,1
+پاسبانی,paasbaanii,1
+غلام,;gulaam,1
+پیری,piirii,1
+عیادت,((iyaadat,1
+گونہ,guunah,1
+گوہر فروش,gauhar-farosh,1
 خواستہ,;xvaastah,1
-نجفوطوف,najaf-o-:tauf,1
-شایر,shiir,1
-گہوارہ جانبانای,gahvaarah-junbaanii,1
+نجف و طوف,najaf-o-:tauf,1
+شیر,shiir,1
+گہوارہ جنبانی,gahvaarah-junbaanii,1
 عالم تاب,((aalam-taab,1
-زل,azal,1
-کافر,kufr,1
-فادا,fidaa,1
-گاران ناشاین,giraan-nishiin,1
-جلوہ فرمائای,jalvah-farmaa))ii,1
-اشافتہ سراون,aashuftah-saro;n,1
-خیالای,;xayaalii,1
+ازل,azal,1
+کفر,kufr,1
+فدا,fidaa,1
+گران نشین,giraan-nishiin,1
+جلوہ فرمائی,jalvah-farmaa))ii,1
+آشفتہ سروں,aashuftah-saro;n,1
+خیالی,;xayaalii,1
 مرتبہ,martabah,1
-عاطر سا,((i:tr-saa,1
+عطر سا,((i:tr-saa,1
 صبر,.sabr,1
-تاریاکای,tiryaakii,1
-پرنای,parnii,1
-ناماود,numuud,1
-بی چاےن,be-chain,1
-بات کدہ,but-kadah,1
+تریاکی,tiryaakii,1
+پرنی,parnii,1
+نمود,numuud,1
+بے چین,be-chain,1
+بت کدہ,but-kadah,1
 نوا سنج,navaa-sanj,1
-ناطق,nu:tq,1
-خاوبان,;xuubaan,1
+نطق,nu:tq,1
+خوبان,;xuubaan,1
 سم,sam,1
-داکھنا,dukhnaa,1
-دال فاراوز,dil-furoz,1
-کاودکای,kuudakii,1
-اہوفاغان,aah-o-fi;gaa;n,1
-دالوجان,dil-o-jaa;n,1
-سایکھنا,siikhnaa,1
-مانحراف,mun;harif,1
-دستوبازاو,dast-o-baazuu,1
-تالایف,taaliif,1
-کاساو,kisuu,1
-زاہد,zuhd,1
-بی صدا,be-.sadaa,1
-ذالت,;zillat,1
-خاےر,;xair,1
+دکھنا,dukhnaa,1
+دل فروز,dil-furoz,1
+کودکی,kuudakii,1
+آہ و فغاں,aah-o-fi;gaa;n,1
+دل و جاں,dil-o-jaa;n,1
+سیکھنا,siikhnaa,1
+منحرف,mun;harif,1
+دست و بازو,dast-o-baazuu,1
+تالیف,taaliif,1
+کسو,kisuu,1
+زہد,zuhd,1
+بے صدا,be-.sadaa,1
+ذلت,;zillat,1
+خیر,;xair,1
 علم,((alam,1
-ظاہارً,:zaahira:n,1
-قہروعتاب,qahr-o-((ataab,1
-طاولانای,:tuulaanii,1
+ظاہرً,:zaahira:n,1
+قہر و عتاب,qahr-o-((ataab,1
+طولانی,:tuulaanii,1
 سر سبز,sar-sabz,1
-باووی,bove,1
-خوادا,;xvudaa,1
-ماےوساغر,mai-o-saa;gar,1
-جیبودامن,jeb-o-daaman,1
-یاغ,ayaa;g,1
-بستای,bastii,1
-شاہاودوشاہادومشہاود,shuhuud-o-shaahid-o-mashhuud,1
-شاناور,shinaavar,1
+بووے,bove,1
+خودا,;xvudaa,1
+مے و ساغر,mai-o-saa;gar,1
+جیب و دامن,jeb-o-daaman,1
+ایاغ,ayaa;g,1
+بستی,bastii,1
+شہود و شاہد و مشہود,shuhuud-o-shaahid-o-mashhuud,1
+شناور,shinaavar,1
 بکنا,baknaa,1
 دلال,dallaal,1
-نمراود,namruud,1
-انتاضار,inti.zaar,1
-شہانشاہ,shahinshaah,1
+نمرود,namruud,1
+انتضار,inti.zaar,1
+شہنشاہ,shahinshaah,1
 نظر گاہ,na:zar-gaah,1
-رہزنای,rahzanii,1
+رہزنی,rahzanii,1
 ہموار,hamvaar,1
-سادہ دال,saadah-dil,1
-چاننا,chun'naa,1
+سادہ دل,saadah-dil,1
+چننا,chun'naa,1
 ملک ال موت,malak-ul-maut,1
-داوست دارای,dost-daarii,1
-تصوّاف,ta.savvuf,1
-تاند,tund,1
-چاپکنا,chipaknaa,1
-کراوڑ,karo;r,1
-داینودال,diin-o-dil,1
-اتاش بار,aatish-baar,1
+دوست داری,dost-daarii,1
+تصوّف,ta.savvuf,1
+تند,tund,1
+چپکنا,chipaknaa,1
+کروڑ,karo;r,1
+دین و دل,diin-o-dil,1
+آتش بار,aatish-baar,1
 طی,:tay,1
 لرزنّا,laraznnaa,1
-تاونبنا,tuu;nbnaa,1
-تاشنہ لب,tishnah-lab,1
-ہاما,humaa,1
-راندانہ,rindaanah,1
+تونبنا,tuu;nbnaa,1
+تشنہ لب,tishnah-lab,1
+ہما,humaa,1
+رندانہ,rindaanah,1
 فقط,faqa:t,1
-صابحوماہر,.sub;h-o-mihr,1
-یہان,yahaa;n,1
-طاوفان گاہ,:tuufaan-gaah,1
-ناہالای,nihaalii,1
+صبح و مہر,.sub;h-o-mihr,1
+یہاں,yahaa;n,1
+طوفان گاہ,:tuufaan-gaah,1
+نہالی,nihaalii,1
 مشہد,mashhad,1
-دربانای,darbaanii,1
-مابدّل,mubaddal,1
-تباہای,tabaahii,1
-محرمای,ma;hramii,1
-دایدہودال,diidah-o-dil,1
+دربانی,darbaanii,1
+مبدّل,mubaddal,1
+تباہی,tabaahii,1
+محرمی,ma;hramii,1
+دیدہ و دل,diidah-o-dil,1
 تراشا,taraashaa,1
-سایراون,asiiro;n,1
-رایائای,riyaa))ii,1
+اسیروں,asiiro;n,1
+ریائی,riyaa))ii,1
 فرماؤ,farmaa))o,1
-دایوار جاو,diivaar-juu,1
+دیوار جو,diivaar-juu,1
 مقتل,maqtal,1
-چھاپنا,chhupnaa,1
-ازادہوخواد باین,aazaadah-o-;xvud-bii;n,1
-دریا اشنا,daryaa-aashnaa,1
+چھپنا,chhupnaa,1
+آزادہ و خود بیں,aazaadah-o-;xvud-bii;n,1
+دریا آشنا,daryaa-aashnaa,1
 حیات,;hayaat,1
-با ہم داگر,baa-ham-digar,1
-خاسرو,;xusrau,1
-خاسرو,;xusrav,1
-حاکایات,;hikaayaat,1
+با ہم دگر,baa-ham-digar,1
+خسرو,;xusrau,1
+خسرو,;xusrav,1
+حکایات,;hikaayaat,1
 گنج,ganj,1
-لکایر,lakiir,1
-باولی,bole,1
-گالدستہ,guldastah,1
-سایم تن,siim-tan,1
-مالتومالک,millat-o-mulk,1
+لکیر,lakiir,1
+بولے,bole,1
+گلدستہ,guldastah,1
+سیم تن,siim-tan,1
+ملت و ملک,millat-o-mulk,1
 شکیب,shakeb,1
-تجاہال پیشگای,tajaahul-peshagii,1
+تجاہل پیشگی,tajaahul-peshagii,1
 خواب ناک,;xvaab-naak,1
-ہم دایگر,ham-diigar,1
-ساراوروساوز,suruur-o-soz,1
-سایہ,siyah,1
+ہم دیگر,ham-diigar,1
+سرور و سوز,suruur-o-soz,1
+سیہ,siyah,1
 شفق,shafaq,1
-بی شرابودال,be-sharaab-o-dil,1
+بے شراب و دل,be-sharaab-o-dil,1
 او,o,1
 کامیاب,kaamyaab,1
 شفا,shafaa,1
 قفا,qafaa,1
-منساوب,mansuub,1
-سروبرگ,sar-o-barg,1
-دفاینہ,dafiinah,1
+منسوب,mansuub,1
+سر و برگ,sar-o-barg,1
+دفینہ,dafiinah,1
 رفت,raft,1
 یک جہان,yak-jahaan,1
 اداس,udaas,1
-باراش,baarish,1
-باردن,burdan,1
+بارش,baarish,1
+بردن,burdan,1
 رکاب,rakaab,1
 بہرا,bahraa,1
 مدرسہ,madrasah,1
-ماعاین,mu((iin,1
-سافرہ,sufrah,1
-پائادارای,paa))idaarii,1
+معین,mu((iin,1
+سفرہ,sufrah,1
+پائداری,paa))idaarii,1
 اگانا,ugaanaa,1
-دال پذایر,dil-pa;ziir,1
-تابوتوان,taab-o-tavaa;n,1
-فاقہ مستای,faaqah-mastii,1
-باےدا,baidaa,1
-پایاو,piyo,1
-نجام,anjum,1
-بی گانہ,be-gunah,1
-گاران مایہ,giraan-maayah,1
-خاتار,;xaatir,1
-کاشاودہ,kushuudah,1
+دل پذیر,dil-pa;ziir,1
+تاب و تواں,taab-o-tavaa;n,1
+فاقہ مستی,faaqah-mastii,1
+بیدا,baidaa,1
+پیو,piyo,1
+انجم,anjum,1
+بے گنہ,be-gunah,1
+گران مایہ,giraan-maayah,1
+خاتر,;xaatir,1
+کشودہ,kushuudah,1
 زرد,zard,1
-حاجّت,;hujjat,1
-خواشامد طلباون,;xvushaamad-:talabo;n,1
+حجّت,;hujjat,1
+خوشامد طلبوں,;xvushaamad-:talabo;n,1
 ہم راہ,ham-raah,1
-یک سا,ek-saa,1
-خاون ناب,;xuun-naab,1
+ایک سا,ek-saa,1
+خون ناب,;xuun-naab,1
 ڈرانا,;daraanaa,1
-دولتوداین,daulat-o-dii;n,1
-خاون ریز,;xuun-rez,1
+دولت و دیں,daulat-o-dii;n,1
+خون ریز,;xuun-rez,1
 زنگ,zang,1
 تدرو,tadarv,1
-تاس,tis,1
+تس,tis,1
 شراب خانہ,sharaab-;xaanah,1
-ماکافات,mukaafaat,1
+مکافات,mukaafaat,1
 صحرا گرد,.sa;hraa-gard,1
-نازاک بدن,naazuk-badan,1
-اشنائای,aashnaa))ii,1
+نازک بدن,naazuk-badan,1
+آشنائی,aashnaa))ii,1
 شبانہ,shabaanah,1
 راہ زن,raah-zan,1
-صاور,.suvar,1
-نایام,niyaam,1
-داشوار پسند,dushvaar-pasand,1
+صور,.suvar,1
+نیام,niyaam,1
+دشوار پسند,dushvaar-pasand,1
 باجا,baajaa,1
-بی دال,be-dil,1
+بے دل,be-dil,1
 حوصلہ,;hau.salah,1
-راوک,rok,1
-باےضہ اسا,bai.zah-aasaa,1
-دال اشافتگان,dil-aashuftagaan,1
-فسانہ,afsaanah,1
-بی کثافت,be-ka;saafat,1
-گاریہولب,giryah-o-lab,1
-ناکتہ سرا,nuktah-saraa,1
+روک,rok,1
+بیضہ آسا,bai.zah-aasaa,1
+دل آشفتگان,dil-aashuftagaan,1
+افسانہ,afsaanah,1
+بے کثافت,be-ka;saafat,1
+گریہ و لب,giryah-o-lab,1
+نکتہ سرا,nuktah-saraa,1
 خان مان,;xaan-maan,1
 لگاوٹ,lagaava;t,1
-علایہ,((aliih,1
-عاشاقای,((aashiqii,1
-بی داماغای,be-dimaa;gii,1
-دالوداین,dil-o-dii;n,1
-فاضاولوجارئت,fu.zuul-o-jur))at,1
-اتاش پرست,aatish-parast,1
-بی حاصال,be-;haa.sil,1
-بازایچہ,baaziichah,1
-تابوتاوان,taab-o-tuvaa;n,1
+علیہ,((aliih,1
+عاشقی,((aashiqii,1
+بے دماغی,be-dimaa;gii,1
+دل و دیں,dil-o-dii;n,1
+فضول و جرئت,fu.zuul-o-jur))at,1
+آتش پرست,aatish-parast,1
+بے حاصل,be-;haa.sil,1
+بازیچہ,baaziichah,1
+تاب و تواں,taab-o-tuvaa;n,1
 خامہ فرسا,;xaamah-farsaa,1
 صدمہ,.sadmah,1
 نخشب,na;xshab,1
-تراواش,taraavish,1
-نا خواش,naa-;xvush,1
-بی التافاتای,be-iltifaatii,1
-نجام,anjaam,1
-بی شانہ,be-shaanah,1
+تراوش,taraavish,1
+نا خوش,naa-;xvush,1
+بے التفاتی,be-iltifaatii,1
+انجام,anjaam,1
+بے شانہ,be-shaanah,1
 بادہ خوار,baadah-;xvaar,1
-وفا دارای,vafaa-daarii,1
-خفائای,;xafaa))ii,1
-نا خادا,naa-;xudaa,1
+وفا داری,vafaa-daarii,1
+خفائی,;xafaa))ii,1
+نا خدا,naa-;xudaa,1
 اکرام,ikraam,1
-بی دب,be-adab,1
-کاسوت,kisvat,1
-وضاع,au.zaa((,1
-نگاور,anguur,1
+بے ادب,be-adab,1
+کسوت,kisvat,1
+اوضاع,au.zaa((,1
+انگور,anguur,1
 وحشت کدہ,va;hshat-kadah,1
-کائانات,kaa))inaat,1
+کائنات,kaa))inaat,1
 شاداب,shaadaab,1
-باکھرنا,bikharnaa,1
+بکھرنا,bikharnaa,1
 دھول دھپّا,dhaul-dhappaa,1
 جان دادہ,jaan-daadah,1
-بی حاجابای,be-;hijaabii,1
+بے حجابی,be-;hijaabii,1
 صد دانہ,.sad-daanah,1
-جارم,jurm,1
-ناصایہ سا,naa.siyah-saa,1
-جان کاہای,jaan-kaahii,1
-مرہاون,marhuun,1
-باوس,bos,1
-دامنوتار,daaman-o-taar,1
-خافتہ,;xuftah,1
+جرم,jurm,1
+ناصیہ سا,naa.siyah-saa,1
+جان کاہی,jaan-kaahii,1
+مرہون,marhuun,1
+بوس,bos,1
+دامن و تار,daaman-o-taar,1
+خفتہ,;xuftah,1
 نوا پرداز,navaa-pardaaz,1
-ماےونگباین,mai-o-angabiin,1
+مے و انگبین,mai-o-angabiin,1
 کاٹنا,kaa;tnaa,1
-باد پیمائای,baad-pemaa))ii,1
+باد پیمائی,baad-pemaa))ii,1
 نا ساز,naa-saaz,1
-دال بستگای,dil-bastagii,1
+دل بستگی,dil-bastagii,1
 راہبر,raahbar,1
-ماضطراب,mu.z:tarib,1
+مضطرب,mu.z:tarib,1
 سرحد,sar;had,1
 پیام,payaam,1
-داکھائای,dikhaa))ii,1
-سکاو,sako,1
-لائاق,laa))iq,1
+دکھائی,dikhaa))ii,1
+سکو,sako,1
+لائق,laa))iq,1
 نایاب,naayaab,1
 شب رو,shab-rau,1
-شاگافتگای,shiguftagii,1
+شگفتگی,shiguftagii,1
 سوار,savaar,1
 مافات,maafaat,1
-ساغروماینا,saa;gar-o-miinaa,1
-طاوفانای,:tuufaanii,1
-شاعا,shu((aa,1
+ساغر و مینا,saa;gar-o-miinaa,1
+طوفانی,:tuufaanii,1
+شعا,shu((aa,1
 بد مست,bad-mast,1
-ہاشیار,hushyaar,1
-مجراوح,majruu;h,1
+ہشیار,hushyaar,1
+مجروح,majruu;h,1
 ابن,ibn,1
-مانای,maanii,1
-نصایحت نایاوش,na.sii;hat-niyosh,1
-نا شاناس,naa-shinaas,1
-شاوخوعاشاق,sho;x-o-((aashiq,1
+مانی,maanii,1
+نصیحت نیوش,na.sii;hat-niyosh,1
+نا شناس,naa-shinaas,1
+شوخ و عاشق,sho;x-o-((aashiq,1
 طاؤس,:taa))uus,1
 جزا,jazaa,1
-داجلہ,dijlah,1
-شاورایدہ حال,shoriidah-;haal,1
-جاوشوخراوش,josh-o-;xarosh,1
-ناثار,ni;saar,1
+دجلہ,dijlah,1
+شوریدہ حال,shoriidah-;haal,1
+جوش و خروش,josh-o-;xarosh,1
+نثار,ni;saar,1
 بر پا,bar-paa,1
 ما,maa,1
-چمن طرازای,chaman-:taraazii,1
-ورنگ,aurang,1
+چمن طرازی,chaman-:taraazii,1
+اورنگ,aurang,1
 عنبر بار,((anbar-baar,1
-لالہوگال,laalah-o-gul,1
-ناقصان,nuq.saan,1
+لالہ و گل,laalah-o-gul,1
+نقصان,nuq.saan,1
 کمخواب,kam;xvaab,1
-مادّعا طلبای,mudda((aa-:talabii,1
-تلی,tale,1
+مدّعا طلبی,mudda((aa-:talabii,1
+تلے,tale,1
 صبر طلب,.sabr-:talab,1
-مابتلا,mubtalaa,1
-کالہ,kulah,1
+مبتلا,mubtalaa,1
+کلہ,kulah,1
 جلوہ گاہ,jalvah-gaah,1
-عانایت,((inaayat,1
+عنایت,((inaayat,1
 شانہ کش,shaanah-kash,1
-رمان,armaan,1
-مایسّر,muyassar,1
-کلایسا,kaliisaa,1
+ارمان,armaan,1
+میسّر,muyassar,1
+کلیسا,kaliisaa,1
 چڑھنا,cha;rhnaa,1
-دالای,dillii,1
-کاےماوس,kaimuus,1
-معانای,ma((aanii,1
-فرایداونوجموکاےخاسروودارابوبہمن,fariiduun-o-jam-o-kai;xusrav-o-daaraab-o-bahman,1
-داشنام,dushnaam,1
-ناوک,nok,1
+دلی,dillii,1
+کیموس,kaimuus,1
+معانی,ma((aanii,1
+فریدون و جم و کیخسرو و داراب و بہمن,fariiduun-o-jam-o-kai;xusrav-o-daaraab-o-bahman,1
+دشنام,dushnaam,1
+نوک,nok,1
 سبب,sabab,1
 سبد,sabad,1
-ائانہ دار,aa))inah-daar,1
-ساپارای,sipaarii,1
+آئنہ دار,aa))inah-daar,1
+سپاری,sipaarii,1
 زنان,zanaan,1
-پیاموچشم,payaam-o-chashm,1
-غرایب,;gariib,1
+پیام و چشم,payaam-o-chashm,1
+غریب,;gariib,1
 وام,vaam,1
 مگس,magas,1
-بھاوکا,bhuukaa,1
+بھوکا,bhuukaa,1
 شانہ,shaanah,1
-نداوہ رابا,andoh-rubaa,1
+اندوہ ربا,andoh-rubaa,1
 سماع,samaa((,1
-گافتگاو,guftguu,1
-تحمّال,ta;hammul,1
-ماعاملہ,mu((aamalah,1
-رگوپاے,rag-o-pai,1
-جلوہ ریزای,jalvah-rezii,1
-ساباک سر,subuk-sar,1
-بی خبر,be-;xabar,1
+گفتگو,guftguu,1
+تحمّل,ta;hammul,1
+معاملہ,mu((aamalah,1
+رگ و پے,rag-o-pai,1
+جلوہ ریزی,jalvah-rezii,1
+سبک سر,subuk-sar,1
+بے خبر,be-;xabar,1
 صف,.saf,1
-ابادای,aabaadii,1
+آبادی,aabaadii,1
 مصلحت,ma.sla;hat,1
-اوارہ,aavaarah,1
-جاناون جولان,junuun-jaulaan,1
-چمنوخاوبای,chaman-o-;xuubii,1
-بی ننگونام,be-nang-o-naam,1
+آوارہ,aavaarah,1
+جنون جولان,junuun-jaulaan,1
+چمن و خوبی,chaman-o-;xuubii,1
+بے ننگ و نام,be-nang-o-naam,1
 پلنگ,palang,1
-گافتگاو,guftago,1
-باردہ,burdah,1
-ساتم کش,sitam-kash,1
-تسبایح,tasbii;h,1
-طاعمہ,:tu((mah,1
-بر سبایل,bar-sabiil,1
-عازّوناز,((izz-o-naaz,1
+گفتگو,guftago,1
+بردہ,burdah,1
+ستم کش,sitam-kash,1
+تسبیح,tasbii;h,1
+طعمہ,:tu((mah,1
+بر سبیل,bar-sabiil,1
+عزّ و ناز,((izz-o-naaz,1
 نیّر,nayyar,1
-معراض,ma((ri.z,1
-سحرای,sa;harii,1
+معرض,ma((ri.z,1
+سحری,sa;harii,1
 بد تر,bad-tar,1
 تاراج,taaraaj,1
-عالای گاہر,((aalii-guhar,1
-پروراش,parvarish,1
+عالی گہر,((aalii-guhar,1
+پرورش,parvarish,1
 نغمہ سرا,na;gmah-saraa,1
-بارّاش,burrish,1
-جائایاو,jaa))iyo,1
-کاراشمہ,kirishmah,1
-پا بستگای,paa-bastagii,1
-زہر اب,zahr-aab,1
+برّش,burrish,1
+جائیو,jaa))iyo,1
+کرشمہ,kirishmah,1
+پا بستگی,paa-bastagii,1
+زہر آب,zahr-aab,1
 غرّہ,;garrah,1
-تلخای,tal;xii,1
+تلخی,tal;xii,1
 ملخ,mala;x,1
-گال فشانای,gul-afshaanii,1
-اتّافاقای,ittifaaqii,1
+گل افشانی,gul-afshaanii,1
+اتّفاقی,ittifaaqii,1
 شایان,shaayaan,1
-بادہوساغر,baadah-o-saa;gar,1
+بادہ و ساغر,baadah-o-saa;gar,1
 لوح,lau;h,1
 لشکر,lashkar,1
-نایم جان,niim-jaan,1
-فاردوس,firdaus,1
-شرماندگای,sharmindagii,1
-نگیز,angez,1
-پہانچانا,pahu;nchaanaa,1
-خوارشید,;xvurshed,1
-پاےوند,paivand,1
-چاہاو,chaaho,1
-ساےروتماشا,sair-o-tamaashaa,1
-خفقانای,;xafaqaanii,1
-تماشا داوست,tamaashaa-dost,1
-بد اماوزای,bad-aamozii,1
+نیم جان,niim-jaan,1
+فردوس,firdaus,1
+شرمندگی,sharmindagii,1
+انگیز,angez,1
+پہنچانا,pahu;nchaanaa,1
+خورشید,;xvurshed,1
+پیوند,paivand,1
+چاہو,chaaho,1
+سیر و تماشا,sair-o-tamaashaa,1
+خفقانی,;xafaqaanii,1
+تماشا دوست,tamaashaa-dost,1
+بد آموزی,bad-aamozii,1
 رنتا,rantaa,1
-تمکاین ازما,tamkiin-aazmaa,1
+تمکین آزما,tamkiin-aazmaa,1
 شیون,shevan,1
-راندان,rindaan,1
-دھاوتا,dhotaa,1
-کانگار,kungur,1
+رندان,rindaan,1
+دھوتا,dhotaa,1
+کنگر,kungur,1
 انفعال,infa((aal,1
-مانکار,munkir,1
-چکایدن,chakiidan,1
-سالاےمان جاہ,sulaimaan-jaah,1
-خاماوش,;xaamosh,1
-ازاردگای,aazurdagii,1
+منکر,munkir,1
+چکیدن,chakiidan,1
+سلیمان جاہ,sulaimaan-jaah,1
+خاموش,;xaamosh,1
+آزردگی,aazurdagii,1
 نو خیز,nau-;xez,1
 صد ہزار,.sad-hazaar,1
 بدر,badr,1
-جاوادان,jaavidaan,1
-کاشادہ,kushaadah,1
+جاودان,jaavidaan,1
+کشادہ,kushaadah,1
 نقّاش,naqqaash,1
-داین دار,diin-daar,1
-نفای,nafii,1
-عاتاب,((itaab,1
+دین دار,diin-daar,1
+نفی,nafii,1
+عتاب,((itaab,1
 تتار,tataar,1
-نا عاقابت ندیش,naa-((aaqibat-andesh,1
-اب راو,aab-ruu,1
-نگاین,nagiin,1
-رزان,arzaa;n,1
-صنام,a.snaam,1
-سایہ خانہ,siyah-;xaanah,1
-عقایدہ,((aqiidah,1
-لاٹتنا,lu;ttnaa,1
-پھاول,phuul,1
-چارانا,churaanaa,1
-نازاول,nuzuul,1
-مزداور,mazduur,1
-گال باز,gul-baaz,1
+نا عاقبت اندیش,naa-((aaqibat-andesh,1
+آب رو,aab-ruu,1
+نگین,nagiin,1
+ارزاں,arzaa;n,1
+اصنام,a.snaam,1
+سیہ خانہ,siyah-;xaanah,1
+عقیدہ,((aqiidah,1
+لٹتنا,lu;ttnaa,1
+پھول,phuul,1
+چرانا,churaanaa,1
+نزول,nuzuul,1
+مزدور,mazduur,1
+گل باز,gul-baaz,1
 تپاک,tapaak,1
-خام کدہ,;xum-kadah,1
+خم کدہ,;xum-kadah,1
 نا کردہ,naa-kardah,1
 کیش,kesh,1
-وفا خواردہ,vafaa-;xvurdah,1
-نا شاگافتہ,naa-shiguftah,1
-سختای کشان,sa;xtii-kashaan,1
+وفا خوردہ,vafaa-;xvurdah,1
+نا شگفتہ,naa-shiguftah,1
+سختی کشان,sa;xtii-kashaan,1
 بخش,ba;xsh,1
-فاساون,fusuun,1
+فسون,fusuun,1
 وجد,vajd,1
-گالبانگ,gulbaa;ng,1
-عضا,a((.zaa,1
-دال کش,dil-kash,1
-طرزورواش,:tarz-o-ravish,1
-انفاعال,infi((aal,1
-افتاب پرست,aaftaab-parast,1
-خادائای,;xudaa))ii,1
-تن اسانای,tan-aasaanii,1
+گلبانگ,gulbaa;ng,1
+اعضا,a((.zaa,1
+دل کش,dil-kash,1
+طرز و روش,:tarz-o-ravish,1
+انفعال,infi((aal,1
+آفتاب پرست,aaftaab-parast,1
+خدائی,;xudaa))ii,1
+تن آسانی,tan-aasaanii,1
 چٹکنا,cha;taknaa,1
-مذکاور,ma;zkuur,1
+مذکور,ma;zkuur,1
 دوام,davaam,1
 اخلاص,i;xlaa.s,1
 نالہ فرسا,naalah-farsaa,1
 روانہ,ravaanah,1
-ستائاش,sataa))ish,1
+ستائش,sataa))ish,1
 پند,pand,1
-گارد باد,gird-baad,1
+گرد باد,gird-baad,1
 حباب,;habaab,1
-ماراد,muraad,1
+مراد,muraad,1
 ردّ,radd,1
 نفس پرور,nafas-parvar,1
-بی بہرہ,be-bahrah,1
-سنگ امدہ,sang-aamadah,1
-معزاولای,ma((zuulii,1
+بے بہرہ,be-bahrah,1
+سنگ آمدہ,sang-aamadah,1
+معزولی,ma((zuulii,1
 ناچنا,naachnaa,1
-خواشونا خواش,;xvush-o-naa-;xvush,1
-مسجاود,masjuud,1
-بےگانہ,begaanah,1
-نصایر,na.siir,1
+خوش و نا خوش,;xvush-o-naa-;xvush,1
+مسجود,masjuud,1
+بیگانہ,begaanah,1
+نصیر,na.siir,1
 سامان طراز,saamaan-:taraaz,1
-نظّارگای,na:z:zaaragii,1
-ابوگال,aab-o-gil,1
-بہائای,bahaa))ii,1
-چشموگاوش,chashm-o-gosh,1
-پاساخ,paasu;x,1
-مقباول,maqbuul,1
-پرای راخ,parii-ru;x,1
+نظّارگی,na:z:zaaragii,1
+آب و گل,aab-o-gil,1
+بہائی,bahaa))ii,1
+چشم و گوش,chashm-o-gosh,1
+پاسخ,paasu;x,1
+مقبول,maqbuul,1
+پری رخ,parii-ru;x,1
 یاس خیز,yaas-;xez,1
-فشردہ,afshardah,1
+افشردہ,afshardah,1
 چکّر,chakkar,1
 رہبر,rahbar,1
-طہاور,:tahuur,1
+طہور,:tahuur,1
 شہادت,shahaadat,1
-بی پروبالای,be-par-o-baalii,1
-منصاور,man.suur,1
-ذوق فازا,;zauq-fizaa,1
-دایدار جاو,diidaar-jo,1
-کراوگی,karoge,1
+بے پر و بالی,be-par-o-baalii,1
+منصور,man.suur,1
+ذوق فزا,;zauq-fizaa,1
+دیدار جو,diidaar-jo,1
+کروگے,karoge,1
 کاغض,kaa;ga.z,1
-رنگوساز,rang-o-saaz,1
+رنگ و ساز,rang-o-saaz,1
 ضرر,.zarar,1
-سفیدای,safedii,1
-ہاوجاو,huujo,1
-بی شایرازہ,be-shiiraazah,1
+سفیدی,safedii,1
+ہوجو,huujo,1
+بے شیرازہ,be-shiiraazah,1
 نوحہ خوان,nau;hah-;xvaan,1
-بہادار,bahaadur,1
-ماعاف,mu((aaf,1
-فاتنہ خاو,fitnah-;xuu,1
-نا ل بحر,anaa-al-ba;hr,1
-گاناہگار,gunaahgaar,1
-خنجر ازما,;xanjar-aazmaa,1
+بہادر,bahaadur,1
+معاف,mu((aaf,1
+فتنہ خو,fitnah-;xuu,1
+انا ال بحر,anaa-al-ba;hr,1
+گناہگار,gunaahgaar,1
+خنجر آزما,;xanjar-aazmaa,1
 سنم پرست,sanam-parast,1
 مریم,maryam,1
-دائام ال حبس,daa))im-ul-;habs,1
-ساےنکڑ,sai;nka;r,1
+دائم ال حبس,daa))im-ul-;habs,1
+سینکڑ,sai;nka;r,1
 باگ,baag,1
-یک جانباش,yak-junbish,1
-پاہ,pih,1
-کھاو,kho,1
-فسانہ خوانای,fasaanah-;xvaanii,1
-م ال,ma-aal,1
-کاوشاش,koshish,1
-سر ناگاون,sar-niguun,1
-سر منزال,sar-manzil,1
+یک جنبش,yak-junbish,1
+پہ,pih,1
+کھو,kho,1
+فسانہ خوانی,fasaanah-;xvaanii,1
+م آل,ma-aal,1
+کوشش,koshish,1
+سر نگون,sar-niguun,1
+سر منزل,sar-manzil,1
 صاف,.saaf,1
 پس,pas,1
 انصاف,in.saaf,1
 مردانہ,mardaanah,1
 غازہ,;gaazah,1
-ساتم ظرایف,sitam-:zariif,1
-شبوراوز,shab-o-roz,1
+ستم ظریف,sitam-:zariif,1
+شب و روز,shab-o-roz,1
 طرب انشا,:tarab-inshaa,1
 امّت,ummat,1
 شہریار,shahryaar,1
 نیش,nesh,1
-بی ربطای,be-rab:tii,1
-بات شاکنای,but-shikanii,1
+بے ربطی,be-rab:tii,1
+بت شکنی,but-shikanii,1
 کاف,kaaf,1
-تیغوکفن,te;g-o-kafan,1
+تیغ و کفن,te;g-o-kafan,1
 نیستان,nayastaan,1
 خان مان خراب,;xaan-maan-;xaraab,1
-تقلاید,taqliid,1
-مائادہ,maa))idah,1
-تانکا,tinkaa,1
+تقلید,taqliid,1
+مائدہ,maa))idah,1
+تنکا,tinkaa,1
 نعل بہا,na((l-bahaa,1
-راو کشای,ruu-kashii,1
+رو کشی,ruu-kashii,1
 خار خار,;xaar-;xaar,1
-خاو کردہ,;xuu-kardah,1
-ساخن ور,su;xan-var,1
+خو کردہ,;xuu-kardah,1
+سخن ور,su;xan-var,1
 فرض,far.z,1
-نو اماوز,nau-aamoz,1
+نو آموز,nau-aamoz,1
 نم,nam,1
-فوجدارای,faujdaarii,1
+فوجداری,faujdaarii,1
 تکیہ گاہ,takyah-gaah,1
-حائال,;haa))il,1
-راو شاناس,ruu-shinaas,1
-پھاونکنا,phuu;nknaa,1
-وصلویاد,va.sl-o-yaad,1
-گنجافہ باز,ganjifah-baaz,1
-ناساور,naasuur,1
-من,amn,1
+حائل,;haa))il,1
+رو شناس,ruu-shinaas,1
+پھونکنا,phuu;nknaa,1
+وصل و یاد,va.sl-o-yaad,1
+گنجفہ باز,ganjifah-baaz,1
+ناسور,naasuur,1
+امن,amn,1
 تقویٰ,taqv;aa,1
-بد عہدای,bad-((ahdii,1
+بد عہدی,bad-((ahdii,1
 کندھا,kandhaa,1
-امد امد,aamad-aamad,1
+آمد آمد,aamad-aamad,1
 کمند,kamand,1
-حاسن پرستای,;husn-parastii,1
-اشتای,aashtii,1
-خاک نداز,;xaak-andaaz,1
-عاشرت گہ,((ishrat-gah,1
+حسن پرستی,;husn-parastii,1
+آشتی,aashtii,1
+خاک انداز,;xaak-andaaz,1
+عشرت گہ,((ishrat-gah,1
 غزل سرا,;gazal-saraa,1
-رسموراہ,rasm-o-raah,1
-شانایدن,shuniidan,1
+رسم و راہ,rasm-o-raah,1
+شنیدن,shuniidan,1
 غم ناک,;gam-naak,1
 معدن,ma((dan,1
-کاشاد,kushaad,1
-سامای,asaamii,1
+کشاد,kushaad,1
+اسامی,asaamii,1
 جوّالہ,javvaalah,1
-کاشادوبست,kushaad-o-bast,1
-حاجران,;hijraa;n,1
-ماقدّر,muqaddar,1
+کشاد و بست,kushaad-o-bast,1
+حجراں,;hijraa;n,1
+مقدّر,muqaddar,1
 نار,naar,1
 سطح,sa:t;h,1
 نا انصاف,naa-in.saaf,1
 خستہ تن,;xastah-tan,1
 حرکت,;harakat,1
 ترانہ,taraanah,1
-قاےسوکاوہکن,qais-o-kohkan,1
-ٹاکڑا,;tuk;raa,1
-شاہاود,shuhuud,1
-اغاوش کاشائای,aa;gosh-kushaa))ii,1
-ماحال,mu;haal,1
-باجھانا,bujhaanaa,1
+قیس و کوہکن,qais-o-kohkan,1
+ٹکڑا,;tuk;raa,1
+شہود,shuhuud,1
+آغوش کشائی,aa;gosh-kushaa))ii,1
+محال,mu;haal,1
+بجھانا,bujhaanaa,1
 پکڑنا,pak;rnaa,1
-طاومار,:tuumaar,1
-برائی,baraa))e,1
-دالودست,dil-o-dast,1
-غمزہوعاشوہودا,;gamzah-o-((ishvah-o-adaa,1
+طومار,:tuumaar,1
+برائے,baraa))e,1
+دل و دست,dil-o-dast,1
+غمزہ و عشوہ و ادا,;gamzah-o-((ishvah-o-adaa,1
 در خور,dar-;xvar,1
-یک عالموعالم,yak-((aalam-o-((aalam,1
+یک عالم و عالم,yak-((aalam-o-((aalam,1
 اوک,ok,1
 خرابات,;xaraabaat,1
-چاور,chor,1
-حدایث,;hadii;s,1
-مجماوعہ,majmuu((ah,1
+چور,chor,1
+حدیث,;hadii;s,1
+مجموعہ,majmuu((ah,1
 نقشا,naqshaa,1
-بی خراوش,be-;xarosh,1
-قامار خانہ,qimaar-;xaanah,1
-دال ساتانای,dil-sitaanii,1
+بے خروش,be-;xarosh,1
+قمار خانہ,qimaar-;xaanah,1
+دل ستانی,dil-sitaanii,1
 غلط بردار,;gala:t-bardaar,1
-ماہمان,mihmaan,1
-نا امّایدوارای,naa-ummiidvaarii,1
-عاقاوبت,((uquubat,1
-پانبہ اگاین,punbah-aagiin,1
-غم گاسارای,;gam-gusaarii,1
+مہمان,mihmaan,1
+نا امّیدواری,naa-ummiidvaarii,1
+عقوبت,((uquubat,1
+پنبہ آگین,punbah-aagiin,1
+غم گساری,;gam-gusaarii,1
 رقص,raq.s,1
-ابلہ,aablah,1
+آبلہ,aablah,1
 عتاب,((ataab,1
 ذہن,;zahn,1
-ساست راو,sust-ruu,1
+سست رو,sust-ruu,1
 زعم,za((m,1
-کھاوئی,kho))e,1
-جاؤگی,jaa))oge,1
+کھوئے,kho))e,1
+جاؤگے,jaa))oge,1
 مزار,mazaar,1
-بی داماغ,be-dimaa;g,1
+بے دماغ,be-dimaa;g,1
 سر کش,sar-kash,1
 نافہ,naafah,1
-نشیبوفراز,nasheb-o-faraaz,1
-خاکاستروبالبال,;xaakistar-o-bulbul,1
-شایشہ باز,shiishah-baaz,1
-چھاوڑیں‌گے,chho;re;nge,1
-بی خوادایوہاشیارای,be-;xvudii-o-hushyaarii,1
-رعنائای,ra((naa))ii,1
-رہوساتم,rah-o-sitam,1
-شاکوہ سنج,shikvah-sanj,1
-شاعلہ بار,shu((lah-baar,1
-عمار,a((maar,1
+نشیب و فراز,nasheb-o-faraaz,1
+خاکستر و بلبل,;xaakistar-o-bulbul,1
+شیشہ باز,shiishah-baaz,1
+چھوڑیں‌گے,chho;re;nge,1
+بے خودی و ہشیاری,be-;xvudii-o-hushyaarii,1
+رعنائی,ra((naa))ii,1
+رہ و ستم,rah-o-sitam,1
+شکوہ سنج,shikvah-sanj,1
+شعلہ بار,shu((lah-baar,1
+اعمار,a((maar,1
 رخش,ra;xsh,1
 حمزہ,;hamzah,1
 کھرا,kharaa,1
 ٹیڑھا,;te;rhaa,1
 نوحہ گر,nau;hah-gar,1
-راساوم,rusuum,1
+رسوم,rusuum,1
 طمع,:tama((,1
-دب,adab,1
-برق خارام,barq-;xiraam,1
-سالطنت,sul:tanat,1
-چاورای,chorii,1
-صافات,.sifaat,1
-سر گارانای,sar-giraanii,1
-چاےن,chain,1
-پانہانای,pinhaanii,1
-ماہر گایا,mihr-giyaa,1
-مان جاملہ,min-jumlah,1
+ادب,adab,1
+برق خرام,barq-;xiraam,1
+سلطنت,sul:tanat,1
+چوری,chorii,1
+صفات,.sifaat,1
+سر گرانی,sar-giraanii,1
+چین,chain,1
+پنہانی,pinhaanii,1
+مہر گیا,mihr-giyaa,1
+من جملہ,min-jumlah,1
 نا یافت,naa-yaaft,1
-ناکمّا,nikammaa,1
+نکمّا,nikammaa,1
 رنگارنگ,rangaarang,1
-اختالاط,i;xtilaa:t,1
-ناصایہ فرسا,naa.siyah-farsaa,1
-ماصاحاب,mu.saa;hib,1
-ماغنّای,mu;gannii,1
-خازانای,;xizaanii,1
-خواش حال,;xvush-;haal,1
-خاون نابہ فاشان,;xuun-naabah-fishaan,1
+اختلاط,i;xtilaa:t,1
+ناصیہ فرسا,naa.siyah-farsaa,1
+مصاحب,mu.saa;hib,1
+مغنّی,mu;gannii,1
+خزانی,;xizaanii,1
+خوش حال,;xvush-;haal,1
+خون نابہ فشان,;xuun-naabah-fishaan,1
 ختم,;xatm,1
 گنوانا,ga;nvaanaa,1
-واجاودوعدم,vujuud-o-((adam,1
-بیربطای,berab:tii,1
-گاران بارای,giraan-baarii,1
-راوداد,ruudaad,1
-دستوپا,dast-o-paa,1
-معشاوقایوبی حوصلگای,ma((shuuqii-o-be-;hau.salagii,1
-طبایعتاون,:tabii((ato;n,1
-اب جاو,aab-juu,1
-تفراقہ,tafriqah,1
-وراق,auraaq,1
-ماے پرست,mai-parast,1
-بی عاشق,be-((ishq,1
-سالوانا,silvaanaa,1
+وجود و عدم,vujuud-o-((adam,1
+بیربطی,berab:tii,1
+گران باری,giraan-baarii,1
+روداد,ruudaad,1
+دست و پا,dast-o-paa,1
+معشوقی و بے حوصلگی,ma((shuuqii-o-be-;hau.salagii,1
+طبیعتوں,:tabii((ato;n,1
+آب جو,aab-juu,1
+تفرقہ,tafriqah,1
+اوراق,auraaq,1
+مے پرست,mai-parast,1
+بے عشق,be-((ishq,1
+سلوانا,silvaanaa,1
 سر پنجہ,sar-panjah,1
-جاتنای,jitnii,1
-پرای چہرہ,parii-chahrah,1
-شائابہ,shaa))ibah,1
-بی پردہ,be-pardah,1
+جتنی,jitnii,1
+پری چہرہ,parii-chahrah,1
+شائبہ,shaa))ibah,1
+بے پردہ,be-pardah,1
 جنگل,jangal,1
-سمجھیاو,samajhyo,1
-شاعار,shaa((ir,1
-بیباکایوگاستاخای,bebaakii-o-gustaa;xii,1
+سمجھیو,samajhyo,1
+شاعر,shaa((ir,1
+بیباکی و گستاخی,bebaakii-o-gustaa;xii,1
 ارم,iram,1
-صاعاقہوشاعلہوسایماب,.saa((iqah-o-shu((lah-o-siimaab,1
-جارئت,jur))at,1
-ذلایل,;zaliil,1
-جاناون علامت,junuun-((alaamat,1
-ناگہانای,naagahaanii,1
-ماسرّت,musarrat,1
-چاین,chiin,1
-ارمایدگای,aaramiidagii,1
-ز بسکاہ,z-baskih,1
-ناماو,numuu,1
-بی طلب,be-:talab,1
-ماقدار,miqdaar,1
-مالاقات,mulaaqaat,1
+صاعقہ و شعلہ و سیماب,.saa((iqah-o-shu((lah-o-siimaab,1
+جرئت,jur))at,1
+ذلیل,;zaliil,1
+جنون علامت,junuun-((alaamat,1
+ناگہانی,naagahaanii,1
+مسرّت,musarrat,1
+چین,chiin,1
+آرمیدگی,aaramiidagii,1
+ز بسکہ,z-baskih,1
+نمو,numuu,1
+بے طلب,be-:talab,1
+مقدار,miqdaar,1
+ملاقات,mulaaqaat,1
 کباب,kabaab,1
-شادّت,shiddat,1
+شدّت,shiddat,1
 خجلت,;xajlat,1
-گال دستہ,gul-dastah,1
-ناکتہ دان,nuktah-daan,1
-ناسیہونقد,nisyah-o-naqd,1
-ہاوجایاو,huujiyo,1
-سایہ پاوش,siyah-posh,1
-تاناک ابای,tunuk-aabii,1
-بی خواد,be-;xvud,1
-مہجاور,mahjuur,1
+گل دستہ,gul-dastah,1
+نکتہ دان,nuktah-daan,1
+نسیہ و نقد,nisyah-o-naqd,1
+ہوجیو,huujiyo,1
+سیہ پوش,siyah-posh,1
+تنک آبی,tunuk-aabii,1
+بے خود,be-;xvud,1
+مہجور,mahjuur,1
 زمزمہ,zamzamah,1
 برش کال,barsh-kaal,1
 جھاڑنا,jhaa;rnaa,1
 فضا,fa.zaa,1
-جان ساتان,jaan-sitaan,1
-مادّعیٰ,mudda((;aa,1
-خاون نابہ,;xuun-naabah,1
+جان ستان,jaan-sitaan,1
+مدّعیٰ,mudda((;aa,1
+خون نابہ,;xuun-naabah,1
 شرف,sharaf,1
-ائاینہ دارای,aa))iinah-daarii,1
-داکان,dukaan,1
-ذاہار,;zaahir,1
-جاموساباو,jaam-o-subuu,1
-ناجاوم,nujuum,1
+آئینہ داری,aa))iinah-daarii,1
+دکان,dukaan,1
+ذاہر,;zaahir,1
+جام و سبو,jaam-o-subuu,1
+نجوم,nujuum,1
 مرض,mara.z,1
-نایم کش,niim-kash,1
+نیم کش,niim-kash,1
 ترسنا,tarasnaa,1
-لکد کاوب,lakad-kob,1
-قاویٰ,quv;aa,1
+لکد کوب,lakad-kob,1
+قویٰ,quv;aa,1
 چارہ گر,chaarah-gar,1
 بادبان,baadbaan,1
 در ہوا,dar-havaa,1
-عانان گاسیختہ,((inaan-guse;xtah,1
-ماحتاج,mu;htaaj,1
+عنان گسیختہ,((inaan-guse;xtah,1
+محتاج,mu;htaaj,1
 مہشر,mahshar,1
 شجر,shajar,1
-وا ماندگایان,vaa-maa;ndagiyaan,1
-نظّارہوخیال,na:z:zaarah-o-;xayaal,1
-چابھاو,chubho,1
-اشتایاق نگیز,ishtiyaaq-angez,1
+وا ماندگیان,vaa-maa;ndagiyaan,1
+نظّارہ و خیال,na:z:zaarah-o-;xayaal,1
+چبھو,chubho,1
+اشتیاق انگیز,ishtiyaaq-angez,1
 سلام,salaam,1
-ساینہ گاداز,siinah-gudaaz,1
+سینہ گداز,siinah-gudaaz,1
 دادہ,daadah,1
-گارانای,giraanii,1
-پاےغارہ جاو,pai;gaarah-juu,1
-محمال,ma;hmil,1
-مرایض,marii.z,1
+گرانی,giraanii,1
+پیغارہ جو,pai;gaarah-juu,1
+محمل,ma;hmil,1
+مریض,marii.z,1
 عذاب,((a;zaab,1
 چار موج,chaar-mauj,1
-مجلاس فاراوز,majlis-furoz,1
-جاگر دارای,jigar-daarii,1
+مجلس فروز,majlis-furoz,1
+جگر داری,jigar-daarii,1
 اجابت,ijaabat,1
 شامت,shaamat,1
-تاوڑا,to;raa,1
+توڑا,to;raa,1
 سر تا پا,sar-taa-paa,1
-عنبراین,((anbarii;n,1
+عنبریں,((anbarii;n,1
 وضع,va.z((,1
-بازاو,baazuu,1
-پایر زن,piir-zan,1
-غارت گرای,;gaarat-garii,1
+بازو,baazuu,1
+پیر زن,piir-zan,1
+غارت گری,;gaarat-garii,1
 باختن,baa;xtan,1
-جان ساپارای,jaan-sipaarii,1
+جان سپاری,jaan-sipaarii,1
 بام,baam,1
-ناجات,nijaat,1
-راہا,rihaa,1
-بی پناہ,be-panaah,1
-راوکی,roke,1
-پاےوستہ,paivastah,1
-ختر شامارای,a;xtar-shumaarii,1
-نباتای,nabaatii,1
-خواہاشی,;xvaahishe,1
+نجات,nijaat,1
+رہا,rihaa,1
+بے پناہ,be-panaah,1
+روکے,roke,1
+پیوستہ,paivastah,1
+اختر شماری,a;xtar-shumaarii,1
+نباتی,nabaatii,1
+خواہشے,;xvaahishe,1
 پردہ دار,pardah-daar,1
 حمّام,;hammaam,1
-بی بانیاد,be-bunyaad,1
+بے بنیاد,be-bunyaad,1
 گرم بازار,garm-baazaar,1
-گالاو,guluu,1
-عایما,((iimaa,1
+گلو,guluu,1
+عیما,((iimaa,1
 مقطع,maq:ta((,1
-شرعوائاین,shar((-o-aa))iin,1
-شیا,ashyaa,1
-غم گاسار,;gam-gusaar,1
+شرع و آئین,shar((-o-aa))iin,1
+اشیا,ashyaa,1
+غم گسار,;gam-gusaar,1
 پردا,pardaa,1
-ساراشک الاودہ,sirishk-aaluudah,1
-یک فغان,yak-af;gaan,1
-ورق گردانای,varaq-gardaanii,1
-ماوحّاد,muva;h;hid,1
+سرشک آلودہ,sirishk-aaluudah,1
+یک افغان,yak-af;gaan,1
+ورق گردانی,varaq-gardaanii,1
+موحّد,muva;h;hid,1
 بیدار,bedaar,1
-قایاس,qiyaas,1
-نایم شبای,niim-shabii,1
-خاون شادہ,;xuun-shudah,1
-معذاور,ma((;zuur,1
+قیاس,qiyaas,1
+نیم شبی,niim-shabii,1
+خون شدہ,;xuun-shudah,1
+معذور,ma((;zuur,1
 لاغر,laa;gar,1
 مجال,majaal,1
-رواشومستای,ravish-o-mastii,1
-فاساردگای,fusurdagii,1
-قطرہوموجوحاباب,qa:trah-o-mauj-o-;hubaab,1
-تمکاینوضبط,tamkiin-o-.zab:t,1
-ظالمت کدہ,:zulmat-kadah,1
+روش و مستی,ravish-o-mastii,1
+فسردگی,fusurdagii,1
+قطرہ و موج و حباب,qa:trah-o-mauj-o-;hubaab,1
+تمکین و ضبط,tamkiin-o-.zab:t,1
+ظلمت کدہ,:zulmat-kadah,1
 یادگار,yaadgaar,1
-خانہ وایران سازای,;xaanah-viiraan-saazii,1
+خانہ ویران سازی,;xaanah-viiraan-saazii,1
 ضوق,.zauq,1
-فتایلہ,fatiilah,1
-تاہمت کش,tuhmat-kash,1
-معماوری,ma((muure,1
-موجاود,maujuud,1
-مادام,mudaam,1
-بادوبہ,baad-o-bah,1
-قالزام اشامای,qulzum-aashaamii,1
-نزدایک,nazdiik,1
-نازوغمزہ,naaz-o-;gamzah,1
-عربدہ جاو,((arbadah-juu,1
-کاوس,kos,1
-دالوجاگر,dil-o-jigar,1
+فتیلہ,fatiilah,1
+تہمت کش,tuhmat-kash,1
+معمورے,ma((muure,1
+موجود,maujuud,1
+مدام,mudaam,1
+باد و بہ,baad-o-bah,1
+قلزم آشامی,qulzum-aashaamii,1
+نزدیک,nazdiik,1
+ناز و غمزہ,naaz-o-;gamzah,1
+عربدہ جو,((arbadah-juu,1
+کوس,kos,1
+دل و جگر,dil-o-jigar,1
 صد جلوہ,.sad-jalvah,1
-داوشاینہ,doshiinah,1
-ولای,valii,1
+دوشینہ,doshiinah,1
+ولی,valii,1
 روندنا,rau;ndnaa,1
 بد خواہ,bad-;xvaah,1
-ماضمحال,mu.zma;hil,1
-خاکاستر ناشاینای,;xaakistar-nishiinii,1
-معشاوق فریبای,ma((shuuq-farebii,1
+مضمحل,mu.zma;hil,1
+خاکستر نشینی,;xaakistar-nishiinii,1
+معشوق فریبی,ma((shuuq-farebii,1
 صد نظر,.sad-na:zar,1
-تمکاینوہاوش,tamkiin-o-hosh,1
-اس,aas,1
-پھاوڑ,pho;r,1
-داشوارای,dushvaarii,1
+تمکین و ہوش,tamkiin-o-hosh,1
+آس,aas,1
+پھوڑ,pho;r,1
+دشواری,dushvaarii,1
 شہپر,shahpar,1
 محرم,ma;hram,1
-پار شاور,pur-shor,1
-سایماب,siimaab,1
+پر شور,pur-shor,1
+سیماب,siimaab,1
 ابرام,ibraam,1
-راہ ناما,raah-numaa,1
-بادہ اشامای,baadah-aashaamii,1
-تاند خاو,tund-;xuu,1
+راہ نما,raah-numaa,1
+بادہ آشامی,baadah-aashaamii,1
+تند خو,tund-;xuu,1
 پشیمان,pashemaan,1
-دھاوکی,dhoke,1
-خانہ خرابای,;xaanah-;xaraabii,1
-بی حوصلگای,be-;hau.slagii,1
-ذرایعہ,;zarii((ah,1
+دھوکے,dhoke,1
+خانہ خرابی,;xaanah-;xaraabii,1
+بے حوصلگی,be-;hau.slagii,1
+ذریعہ,;zarii((ah,1
 زوال,zavaal,1
 سادہ,saadah,1
-ماہرومہ,mihr-o-mah,1
-بھائای,bhaa))ii,1
-باچھانا,bichhaanaa,1
-اہتازاز,ihtizaaz,1
-سخت جانای,sa;xt-jaanii,1
-فگار,afgaar,1
+مہر و مہ,mihr-o-mah,1
+بھائی,bhaa))ii,1
+بچھانا,bichhaanaa,1
+اہتزاز,ihtizaaz,1
+سخت جانی,sa;xt-jaanii,1
+افگار,afgaar,1
 برسنا,barasnaa,1
-مردامک,mardumak,1
+مردمک,mardumak,1
 دوڑانا,dau;raanaa,1
-مافلاس,muflis,1
-سوالوجواب,savaal-o-javaab,1
-غموشادای,;gam-o-shaadii,1
+مفلس,muflis,1
+سوال و جواب,savaal-o-javaab,1
+غم و شادی,;gam-o-shaadii,1
 راگ,raag,1
 ندامت,nadaamat,1
-عایاوب,((uyuub,1
+عیوب,((uyuub,1
 راس,raas,1
-خادا پرست,;xudaa-parast,1
-اتاشاین,aatishiin,1
+خدا پرست,;xudaa-parast,1
+آتشین,aatishiin,1
 وا رستہ,vaa-rastah,1
-استاوارای,ustuvaarii,1
+استواری,ustuvaarii,1
 سمجھاونا,samjhaavnaa,1
 بہنا,bahnaa,1
-دراون,daruun,1
-سالطان,sul:taan,1
+درون,daruun,1
+سلطان,sul:taan,1
 دستار,dastaar,1
-گاڑھاو,gaa;rho,1
-طفال,a:tfaal,1
-نشاط اہنگ,nashaa:t-aahang,1
-بائاث,baa))i;s,1
+گاڑھو,gaa;rho,1
+اطفال,a:tfaal,1
+نشاط آہنگ,nashaa:t-aahang,1
+بائث,baa))i;s,1
 راہرو,raahrau,1
-جھاوٹ,jhuu;t,1
-راتبہ,rutbah,1
-باستانای,bustaanii,1
+جھوٹ,jhuu;t,1
+رتبہ,rutbah,1
+بستانی,bustaanii,1
 کار گر,kaar-gar,1
-قابلہ ناما,qiblah-numaa,1
-سالک,silk,1
-ماضمر,mu.zmar,1
-پار گال,pur-gul,1
+قبلہ نما,qiblah-numaa,1
+سلک,silk,1
+مضمر,mu.zmar,1
+پر گل,pur-gul,1
 ورع,vara((,1
-فاتنہوفساد,fitnah-o-fasaad,1
+فتنہ و فساد,fitnah-o-fasaad,1
 ریش,resh,1
-گارداب,girdaab,1
+گرداب,girdaab,1
 سر بر,sar-bar,1
 عادت,((aadat,1
-بی جارم,be-jurm,1
-صد گاونہ,.sad-guunah,1
-جاگایر,jaagiir,1
-ہاوگای,hogii,1
+بے جرم,be-jurm,1
+صد گونہ,.sad-guunah,1
+جاگیر,jaagiir,1
+ہوگی,hogii,1
 پھنسانا,pha;nsaanaa,1
 لام,laam,1
-بی ابراو,be-aabruu,1
-سنگاین,sangiin,1
-اب دار,aab-daar,1
+بے آبرو,be-aabruu,1
+سنگین,sangiin,1
+آب دار,aab-daar,1
 ملنا,malnaa,1
-گاریز پا,gurez-paa,1
-وحشت خارامای,va;hshat-;xiraamii,1
-سایہ مست,siyah-mast,1
-لب تاشنہ,lab-tishnah,1
-تیورای,tevarii,1
-شاوراش,shorish,1
-زوال امادہ,zavaal-aamaadah,1
-سر مستایا,sar-mastiii,1
-عل؛ای ل رغم,((al;ii-al-ra;gm,1
+گریز پا,gurez-paa,1
+وحشت خرامی,va;hshat-;xiraamii,1
+سیہ مست,siyah-mast,1
+لب تشنہ,lab-tishnah,1
+تیوری,tevarii,1
+شورش,shorish,1
+زوال آمادہ,zavaal-aamaadah,1
+سر مستیی,sar-mastiii,1
+عل؛ای ال رغم,((al;ii-al-ra;gm,1
 قط,qa:t,1
-اشافتہ نوا,aashuftah-navaa,1
-ماہر وش,mihr-vash,1
+آشفتہ نوا,aashuftah-navaa,1
+مہر وش,mihr-vash,1
 فشار,fashaar,1
-سراشتہ دارای,sarishtah-daarii,1
-عاشقونا گازایر,((ishq-o-naa-guziir,1
-وافاور,vufuur,1
+سرشتہ داری,sarishtah-daarii,1
+عشق و نا گزیر,((ishq-o-naa-guziir,1
+وفور,vufuur,1
 سر ب سر,sar-ba-sar,1
 ماجرا,maajraa,1
-جمعایّت,jam((iyyat,1
-خانہ وایران ساز,;xaanah-viiraan-saaz,1
-باوتی,bote,1
-کافای,kaafii,1
+جمعیّت,jam((iyyat,1
+خانہ ویران ساز,;xaanah-viiraan-saaz,1
+بوتے,bote,1
+کافی,kaafii,1
 زیر بار,zer-baar,1
-راہورسم,raah-o-rasm,1
-گازشتہ,guzashtah,1
-ماواخذہ,muvaa;xa;zah,1
-کاےفاییت,kaifiiyat,1
+راہ و رسم,raah-o-rasm,1
+گزشتہ,guzashtah,1
+مواخذہ,muvaa;xa;zah,1
+کیفییت,kaifiiyat,1
 جوان مرگ,javaan-marg,1
-غرایبان,;gariibaa;n,1
-طافلان,:tiflaan,1
+غریباں,;gariibaa;n,1
+طفلان,:tiflaan,1
 حاجت مند,;haajat-mand,1
-تاشنہ کام,tishnah-kaam,1
+تشنہ کام,tishnah-kaam,1
 پ,pa,1
 غم خانہ,;gam-;xaanah,1
 گز,gaz,1
-کاشور,kishvar,1
-کھینچاو,khe;ncho,1
-رنجاورای,ranjuurii,1
-ساتموجاور,sitam-o-jor,1
-فقایر,faqiir,1
+کشور,kishvar,1
+کھینچو,khe;ncho,1
+رنجوری,ranjuurii,1
+ستم و جور,sitam-o-jor,1
+فقیر,faqiir,1
 کلیجا,kalejaa,1
-ہم,aham,1
-سایاست,siyaasat,1
-لایالای,liyaalii,1
+اہم,aham,1
+سیاست,siyaasat,1
+لیالی,liyaalii,1
 پیاس,pyaas,1
 پچ,pach,1
 لگن,lagan,1
-براو,abruu,1
-بی دستوپائای,be-dast-o-paa))ii,1
-تجداید,tajdiid,1
-کواکاب ساپہوماہر علم,kavaakib-sipah-o-mihr-((alam,1
-ائانہ خانہ,aa))inah-;xaanah,1
-واژ گاون,vaazh-guun,1
-غرایب نواز,;gariib-navaaz,1
-بایمارای,biimaarii,1
-خطّوخال,;xa:t:t-o-;xaal,1
+ابرو,abruu,1
+بے دست و پائی,be-dast-o-paa))ii,1
+تجدید,tajdiid,1
+کواکب سپہ و مہر علم,kavaakib-sipah-o-mihr-((alam,1
+آئنہ خانہ,aa))inah-;xaanah,1
+واژ گون,vaazh-guun,1
+غریب نواز,;gariib-navaaz,1
+بیماری,biimaarii,1
+خطّ و خال,;xa:t:t-o-;xaal,1
 شق,shaq,1
 نو بہار,nau-bahaar,1
-اہن,aahan,1
-چھارای,chhurii,1
+آہن,aahan,1
+چھری,chhurii,1
 غرقہ,;garqah,1
-زایاد,ziyaad,1
+زیاد,ziyaad,1
 در پ,dar-pa,1
-لالہوگالونسراین,laalah-o-gul-o-nasriin,1
-قاے,qai,1
-نواید,naviid,1
-بی دوا,be-davaa,1
+لالہ و گل و نسرین,laalah-o-gul-o-nasriin,1
+قے,qai,1
+نوید,naviid,1
+بے دوا,be-davaa,1
 کانٹا,kaa;n;taa,1
 طبع,:tab((,1
-نایوناوش,naay-o-nosh,1
-ماشتمال,mushtamil,1
-بی شمع,be-sham((a,1
-ازاداون,aazaado;n,1
-نالہ فرسائای,naalah-farsaa))ii,1
+نای و نوش,naay-o-nosh,1
+مشتمل,mushtamil,1
+بے شمع,be-sham((a,1
+آزادوں,aazaado;n,1
+نالہ فرسائی,naalah-farsaa))ii,1
 اخفا,i;xfaa,1
 فرقت,farqat,1
-خاو گر,;xuu-gar,1
-خارقہوسجّادہ,;xirqah-o-sajjaadah,1
-تصوایر ناما,ta.sviir-numaa,1
-خواد ارائای,;xvud-aaraa))ii,1
-حساود,;hasuud,1
-جادائای,judaa))ii,1
-شفق الاودہ,shafaq-aaluudah,1
-پار پیچوخم,pur-pech-o-;xam,1
+خو گر,;xuu-gar,1
+خرقہ و سجّادہ,;xirqah-o-sajjaadah,1
+تصویر نما,ta.sviir-numaa,1
+خود آرائی,;xvud-aaraa))ii,1
+حسود,;hasuud,1
+جدائی,judaa))ii,1
+شفق آلودہ,shafaq-aaluudah,1
+پر پیچ و خم,pur-pech-o-;xam,1
 چاہ,chaah,1
 بط,ba:t,1
-عاشقومزداورای,((ishq-o-mazduurii,1
-پار شاکن,pur-shikan,1
+عشق و مزدوری,((ishq-o-mazduurii,1
+پر شکن,pur-shikan,1
 مہ طلعت,mah-:tal((at,1
 سنجاب,sanjaab,1
-پرستارای,parastaarii,1
-اسمانای,aasmaanii,1
-صحرا دست گاہوقطرہ,.sa;hraa-dast-gaah-o-qa:trah,1
-دال جمعای,dil-jam((ii,1
+پرستاری,parastaarii,1
+آسمانی,aasmaanii,1
+صحرا دست گاہ و قطرہ,.sa;hraa-dast-gaah-o-qa:trah,1
+دل جمعی,dil-jam((ii,1
 کسب,kasb,1
-غاسل,;gusl,1
-اردای,urdii,1
-رہورسم,rah-o-rasm,1
-ساراشک,sirishk,1
-مادّعایودایدہ,mudda((ii-o-diidah,1
-پاشت خار,pusht-;xaar,1
-اتاش دایدہ,aatish-diidah,1
-وا گردایدہ,vaa-gardiidah,1
-ہم نامای,ham-naamii,1
+غسل,;gusl,1
+اردی,urdii,1
+رہ و رسم,rah-o-rasm,1
+سرشک,sirishk,1
+مدّعی و دیدہ,mudda((ii-o-diidah,1
+پشت خار,pusht-;xaar,1
+آتش دیدہ,aatish-diidah,1
+وا گردیدہ,vaa-gardiidah,1
+ہم نامی,ham-naamii,1
 نغمہ سنج,na;gmah-sanj,1
 اقامت,iqaamat,1
-نایند,niind,1
-خاتام,;xaatim,1
+نیند,niind,1
+خاتم,;xaatim,1
 خانقاہ,;xaanaqaah,1
-غلط نداز,;gala:t-andaaz,1
+غلط انداز,;gala:t-andaaz,1
 حسرت سنج,;hasrat-sanj,1
-کم ازار,kam-aazaar,1
+کم آزار,kam-aazaar,1
 ڈھانپنا,;dhaa;npnaa,1
-نقشوناگار,naqsh-o-nigaar,1
+نقش و نگار,naqsh-o-nigaar,1
 موج زن,mauj-zan,1
-اعتاقاد,i((tiqaad,1
-باعد,bu((d,1
-بازارگ,buzurg,1
-بھاون,bho;n,1
-دالودایدہ,dil-o-diidah,1
+اعتقاد,i((tiqaad,1
+بعد,bu((d,1
+بزرگ,buzurg,1
+بھوں,bho;n,1
+دل و دیدہ,dil-o-diidah,1
 مطلق,ma:tlaq,1
-رماغان,armu;gaa;n,1
-قصاور,qa.suur,1
-ندھیرای,a;ndherii,1
-کفایل,kafiil,1
+ارمغاں,armu;gaa;n,1
+قصور,qa.suur,1
+اندھیری,a;ndherii,1
+کفیل,kafiil,1
 طنّاز,:tannaaz,1
-باو,bo,1
+بو,bo,1
 قدح خوار,qada;h-;xvaar,1
-نازاکای,naazukii,1
+نازکی,naazukii,1
 سمند,samand,1
-راوبکار,ruubkaar,1
-باکنا,biknaa,1
-تاکی,taake,1
-دشنہوخنجر,dashnah-o-;xanjar,1
+روبکار,ruubkaar,1
+بکنا,biknaa,1
+تاکے,taake,1
+دشنہ و خنجر,dashnah-o-;xanjar,1
 لعل,la((l,1
-وا شاد,vaa-shud,1
-ہم ناشاین,ham-nishiin,1
-ساباک دست,subuk-dast,1
+وا شد,vaa-shud,1
+ہم نشین,ham-nishiin,1
+سبک دست,subuk-dast,1
 نمک پاش,namak-paash,1
 برشکال,barshkaal,1
-شاےخوبرہمن,shai;x-o-barhaman,1
-خاوناین نوا,;xuuniin-navaa,1
+شیخ و برہمن,shai;x-o-barhaman,1
+خونین نوا,;xuuniin-navaa,1
 مستانہ,mastaanah,1
-حرایص,;harii.s,1
+حریص,;harii.s,1
 لگاونا,lagaavnaa,1
 حل,;hall,1
-غالایہ ماو,;gaaliyah-mo,1
-رسمورہ,rasm-o-rah,1
-ذامّہ,;zimmah,1
+غالیہ مو,;gaaliyah-mo,1
+رسم و رہ,rasm-o-rah,1
+ذمّہ,;zimmah,1
 بنات ال نعش,banaat-ul-na((sh,1
-با واجاود,baa-vujuud,1
-شاہانشاہ,shaahinshaah,1
-سر گاران,sar-giraan,1
+با وجود,baa-vujuud,1
+شاہنشاہ,shaahinshaah,1
+سر گران,sar-giraan,1
 درد مند,dard-mand,1
-ساوزاش,sozish,1
+سوزش,sozish,1
 کشش,kashash,1
 ناب,naab,1
 لڑکپن,la;rakpan,1
-یکتائای,yaktaa))ii,1
-راہ گازر,raah-guzar,1
-ساوچ,soch,1
-تاشنہ کامای,tishnah-kaamii,1
-ریزاش,rezish,1
-مازاج,mizaaj,1
-صرایر,.sariir,1
+یکتائی,yaktaa))ii,1
+راہ گزر,raah-guzar,1
+سوچ,soch,1
+تشنہ کامی,tishnah-kaamii,1
+ریزش,rezish,1
+مزاج,mizaaj,1
+صریر,.sariir,1
 وحدت,va;hdat,1
 خال,;xaal,1
 خام,;xaam,1
-ہاونگای,ho;ngii,1
-زاعم,zu((m,1
+ہونگی,ho;ngii,1
+زعم,zu((m,1
 سیّارہ,saiyaarah,1
-بی مانّت,be-minnat,1
+بے منّت,be-minnat,1
 صنم کدہ,.sanam-kadah,1
-بی درودایوار,be-dar-o-diivaar,1
+بے در و دیوار,be-dar-o-diivaar,1
 ہدیہ,hadyah,1
 ناک,naak,1
 حرام,;haraam,1
-خواشتر,;xvushtar,1
+خوشتر,;xvushtar,1
 شرط,shar:t,1
-باغ بانوکف,baa;g-baan-o-kaf,1
-فاساون گر,fusuun-gar,1
-بی حاس,be-;his,1
-ماقرّر,muqarrar,1
-مالت,millat,1
+باغ بان و کف,baa;g-baan-o-kaf,1
+فسون گر,fusuun-gar,1
+بے حس,be-;his,1
+مقرّر,muqarrar,1
+ملت,millat,1
 اچھلنا,uchhalnaa,1
-امّاید,ummiid,1
-فساون,afsuun,1
-شیفتگای,sheftagii,1
-فساوس,afsuus,1
-سادگایوپارکارای,saadagii-o-purkaarii,1
+امّید,ummiid,1
+افسون,afsuun,1
+شیفتگی,sheftagii,1
+افسوس,afsuus,1
+سادگی و پرکاری,saadagii-o-purkaarii,1
 سر نامہ,sar-naamah,1
 نبرد پیشہ,nabard-peshah,1
-نایم راوز,niim-roz,1
-مشہاور,mashhuur,1
-بی کار,be-kaar,1
+نیم روز,niim-roz,1
+مشہور,mashhuur,1
+بے کار,be-kaar,1
 جلانا,jalaanaa,1
-ناے,nai,1
+نے,nai,1
 ہفت,haft,1
-اغاوش کاشا,aa;gosh-kushaa,1
-عاطر,((i:tr,1
-فشاردن,afshurdan,1
-دال ازاردگان,dil-aazurdagaan,1
-خالاق,;xaaliq,1
-ناکتہ چاین,nuktah-chiin,1
-صالی,.sile,1
-داور دراز,duur-daraaz,1
-جان گاسال,jaan-gusil,1
+آغوش کشا,aa;gosh-kushaa,1
+عطر,((i:tr,1
+افشردن,afshurdan,1
+دل آزردگان,dil-aazurdagaan,1
+خالق,;xaaliq,1
+نکتہ چین,nuktah-chiin,1
+صلے,.sile,1
+دور دراز,duur-daraaz,1
+جان گسل,jaan-gusil,1
 ترکش,tarkash,1
 انکار,inkaar,1
 بچّا,bachchaa,1
-جان فازا,jaan-fizaa,1
-چھادنا,chhidnaa,1
+جان فزا,jaan-fizaa,1
+چھدنا,chhidnaa,1
 یک شہر,yak-shahr,1
-پیش دستای,pesh-dastii,1
-پرستاش,parastish,1
+پیش دستی,pesh-dastii,1
+پرستش,parastish,1
 داغ سامان,daa;g-saamaan,1
-بی باک,be-baak,1
-بروشب,abr-o-shab,1
-قدایم,qadiim,1
-احتایاط,i;htiyaa:t,1
-الاودہ,aaluudah,1
+بے باک,be-baak,1
+ابر و شب,abr-o-shab,1
+قدیم,qadiim,1
+احتیاط,i;htiyaa:t,1
+آلودہ,aaluudah,1
 پردہ سنج,pardah-sanj,1
 سر چشمہ,sar-chashmah,1
 فسان,fasaan,1
 باغ بان,baa;g-baan,1
 بقا,baqaa,1
-پار عربدہ,pur-((arbadah,1
-جاسم,jism,1
-باتاون,baato;n,1
+پر عربدہ,pur-((arbadah,1
+جسم,jism,1
+باتوں,baato;n,1
 ز بس,z-bas,1
-سالسالہ,silsilah,1
+سلسلہ,silsilah,1
 لطمہ,la:tmah,1
-کراشمہ,karishmah,1
-زایست,ziist,1
-فاتراک,fitraak,1
+کرشمہ,karishmah,1
+زیست,ziist,1
+فتراک,fitraak,1
 قدّ,qadd,1
-گہوبی گہ,gah-o-be-gah,1
-راہائای,rihaa))ii,1
-نازودا,naaz-o-adaa,1
-خاداوند,;xudaavand,1
-بعاید,ba((iid,1
-مکاین,makiin,1
-ماشکال پسند,mushkil-pasand,1
+گہ و بے گہ,gah-o-be-gah,1
+رہائی,rihaa))ii,1
+ناز و ادا,naaz-o-adaa,1
+خداوند,;xudaavand,1
+بعید,ba((iid,1
+مکین,makiin,1
+مشکل پسند,mushkil-pasand,1
 پیشہ,peshah,1
-وظایفہ خوار,va:ziifah-;xvaar,1
-جارئت ازما,jur))at-aazmaa,1
+وظیفہ خوار,va:ziifah-;xvaar,1
+جرئت آزما,jur))at-aazmaa,1
 خانہ زاد,;xaanah-zaad,1
-بروباد,abr-o-baad,1
-اہوفریاد,aah-o-faryaad,1
+ابر و باد,abr-o-baad,1
+آہ و فریاد,aah-o-faryaad,1
 عقل,((aql,1
-ہوا خواہای,havaa-;xvaahii,1
+ہوا خواہی,havaa-;xvaahii,1
 عزم,((azm,1
-غفلت شاعارای,;gaflat-shi((aarii,1
-شاکر,shukr,1
+غفلت شعاری,;gaflat-shi((aarii,1
+شکر,shukr,1
 رقم,raqam,1
-باغ بانای,baa;g-baanii,1
-لعلوگاہر,la((l-o-guhar,1
-افاق,aafaaq,1
-راحت طلبای,raa;hat-:talabii,1
-بی پرتو,be-partav,1
-اختاراع,i;xtiraa((,1
+باغ بانی,baa;g-baanii,1
+لعل و گہر,la((l-o-guhar,1
+آفاق,aafaaq,1
+راحت طلبی,raa;hat-:talabii,1
+بے پرتو,be-partav,1
+اختراع,i;xtiraa((,1
 سبزہ زار,sabzah-zaar,1
-بی داد فن,be-daad-fan,1
-بی مادّعا,be-mudda((aa,1
-پارکار,purkaar,1
+بے داد فن,be-daad-fan,1
+بے مدّعا,be-mudda((aa,1
+پرکار,purkaar,1
 بانگ,baa;ng,1
 دریغا,dare;gaa,1
-چاہنی والا,chaahne-vaalaa,1
-ماقابالودعوا,muqaabil-o-da((vaa,1
-گالفام,gulfaam,1
-کاغذای,kaa;ga;zii,1
+چاہنے والا,chaahne-vaalaa,1
+مقابل و دعوا,muqaabil-o-da((vaa,1
+گلفام,gulfaam,1
+کاغذی,kaa;ga;zii,1
 چنگ,chang,1
-ناہال,nihaal,1
-شادمانای,shaadmaanii,1
-طعناون,:ta((no;n,1
-نایم باز,niim-baaz,1
+نہال,nihaal,1
+شادمانی,shaadmaanii,1
+طعنوں,:ta((no;n,1
+نیم باز,niim-baaz,1
 تلاش,talaash,1
-اتاش فشانای,aatish-afshaanii,1
-ساباک,subuk,1
-ہیچ مدانای,hech-madaanii,1
+آتش افشانی,aatish-afshaanii,1
+سبک,subuk,1
+ہیچ مدانی,hech-madaanii,1
 ہم نفس,ham-nafas,1
-سراوش,sarosh,1
+سروش,sarosh,1
 برد,bard,1
-گاہر بار,guhar-baar,1
+گہر بار,guhar-baar,1
 فتح,fat;h,1
-داورای,duurii,1
+دوری,duurii,1
 سرو قد,sarv-qad,1
-سالاےمان,sulaimaan,1
-بی خوابای,be-;xvaabii,1
-زباونای,zabuunii,1
-ماہروماہ,mihr-o-maah,1
-خاون نابہ مشرب,;xuun-naabah-mashrab,1
+سلیمان,sulaimaan,1
+بے خوابی,be-;xvaabii,1
+زبونی,zabuunii,1
+مہر و ماہ,mihr-o-maah,1
+خون نابہ مشرب,;xuun-naabah-mashrab,1
 دروازہ,darvaazah,1
 معاش,ma((aash,1
-پھندی,phande,1
-مرثایہ,mar;siyah,1
-بر خواردار,bar-;xvurdaar,1
+پھندے,phande,1
+مرثیہ,mar;siyah,1
+بر خوردار,bar-;xvurdaar,1
 این,iin,1
 چالاک,chaalaak,1
-انساو,aa;nsuu,1
-زاود پشیمان,zuud-pashemaan,1
-بلغمای,bal;gamii,1
-گاوشت,gosht,1
-سمائای,samaa))ii,1
-ز دست رفتہ,az-dast-raftah,1
-ماےونغمہ,mai-o-na;gmah,1
-خادا ساز,;xudaa-saaz,1
-ساتم ایجاد,sitam-iijaad,1
-باوجھ,bojh,1
-یاسوامّاید,yaas-o-ummiid,1
-بی دستوپا,be-dast-o-paa,1
+آنسو,aa;nsuu,1
+زود پشیمان,zuud-pashemaan,1
+بلغمی,bal;gamii,1
+گوشت,gosht,1
+سمائی,samaa))ii,1
+از دست رفتہ,az-dast-raftah,1
+مے و نغمہ,mai-o-na;gmah,1
+خدا ساز,;xudaa-saaz,1
+ستم ایجاد,sitam-iijaad,1
+بوجھ,bojh,1
+یاس و امّید,yaas-o-ummiid,1
+بے دست و پا,be-dast-o-paa,1
 تف,taf,1
-ختر,a;xtar,1
-گایاہ,giyaah,1
-طبایعای,:tabii((ii,1
-خاون نابہ فاشانای,;xuun-naabah-fishaanii,1
-فریادواہوزارای,faryaad-o-aah-o-zaarii,1
+اختر,a;xtar,1
+گیاہ,giyaah,1
+طبیعی,:tabii((ii,1
+خون نابہ فشانی,;xuun-naabah-fishaanii,1
+فریاد و آہ و زاری,faryaad-o-aah-o-zaarii,1
 قطع,qa:t((a,1
-شاہاد باز,shaahid-baaz,1
-تاشنگای,tishnagii,1
+شاہد باز,shaahid-baaz,1
+تشنگی,tishnagii,1
 در قفا,dar-qafaa,1
-فراو,faro,1
-راوبکارای,ruubakaarii,1
+فرو,faro,1
+روبکاری,ruubakaarii,1
 نوا سنجان,navaa-sanjaan,1
 جاداد,jaadaad,1
-حق شاناس,;haq-shinaas,1
-ناساخ,naasi;x,1
-بی در,be-dar,1
-کھاجانا,khujaanaa,1
-لاے,lai,1
-دالبران,dilbaraan,1
-بانای,baanii,1
-کاورای,korii,1
+حق شناس,;haq-shinaas,1
+ناسخ,naasi;x,1
+بے در,be-dar,1
+کھجانا,khujaanaa,1
+لے,lai,1
+دلبران,dilbaraan,1
+بانی,baanii,1
+کوری,korii,1
 افتادہ,uftaadah,1
-گریبانای,garebaanii,1
-ماوناس,muunis,1
-کاوند,ko;nd,1
-عربدہ ماےدان,((arbadah-maidaa;n,1
-افارایناش,aafiriinish,1
-باورایا,boriyaa,1
-جاوئابار,juu))ibaar,1
-نا رسائای,naa-rasaa))ii,1
-ز بسکاہ,az-baskih,1
-داردای کش,durdii-kash,1
+گریبانی,garebaanii,1
+مونس,muunis,1
+کوند,ko;nd,1
+عربدہ میداں,((arbadah-maidaa;n,1
+آفرینش,aafiriinish,1
+بوریا,boriyaa,1
+جوئبار,juu))ibaar,1
+نا رسائی,naa-rasaa))ii,1
+از بسکہ,az-baskih,1
+دردی کش,durdii-kash,1
 کھیت,khet,1
-مانحصار,mun;ha.sir,1
+منحصر,mun;ha.sir,1
 دعوہ,da((vah,1
 تلف,talaf,1
 شست,shast,1
-چارہ جاوئای,chaarah-juu))ii,1
-بی خواب,be-;xvaab,1
-ماہر اسا,mihr-aasaa,1
-ماردہ,murdah,1
-چشم نامائای,chashm-numaa))ii,1
-شاگاف,shigaaf,1
+چارہ جوئی,chaarah-juu))ii,1
+بے خواب,be-;xvaab,1
+مہر آسا,mihr-aasaa,1
+مردہ,murdah,1
+چشم نمائی,chashm-numaa))ii,1
+شگاف,shigaaf,1
 صدف,.sadaf,1
-شاکستن,shikastan,1
-در تاشنگای ماردہ,dar-tishnagii-murdah,1
-عابرت ناگاہ,((ibrat-nigaah,1
+شکستن,shikastan,1
+در تشنگی مردہ,dar-tishnagii-murdah,1
+عبرت نگاہ,((ibrat-nigaah,1
 غارت,;gaarat,1
 دھبّہ,dhabbah,1
-خوارشایدوماہ,;xvurshiid-o-maah,1
-شایراین ساخن,shiiriin-su;xan,1
-طاقت رابا,:taaqat-rubaa,1
+خورشید و ماہ,;xvurshiid-o-maah,1
+شیرین سخن,shiiriin-su;xan,1
+طاقت ربا,:taaqat-rubaa,1
 نوکر,naukar,1
-ماژگانای,mizhgaanii,1
-ہانداوستان,hinduustaan,1
-دراز دستای,daraaz-dastii,1
-گایرائای,giiraa))ii,1
+مژگانی,mizhgaanii,1
+ہندوستان,hinduustaan,1
+دراز دستی,daraaz-dastii,1
+گیرائی,giiraa))ii,1
 قناعت,qanaa((at,1
-بنا,abnaa,1
-ساقای گرای,saaqii-garii,1
-حمقاون,a;hmaqo;n,1
-سر ناگاونای,sar-niguunii,1
-ناہنگ,nihang,1
-ماغتنم,mu;gtanam,1
-براین,bariin,1
+ابنا,abnaa,1
+ساقی گری,saaqii-garii,1
+احمقوں,a;hmaqo;n,1
+سر نگونی,sar-niguunii,1
+نہنگ,nihang,1
+مغتنم,mu;gtanam,1
+برین,bariin,1
 بندہ پرور,bandah-parvar,1
 حسرت زدہ,;hasrat-zadah,1
-گارہ کاشا,girah-kushaa,1
-لکھنؤ,lakhna))uu,1
+گرہ کشا,girah-kushaa,1
+لکھنئو,lakhna))uu,1
 صرفہ,.sarfah,1
 برجا ماندہ,barjaa-maa;ndah,1
-دستوخنجر,dast-o-;xanjar,1
-یارای,yaarii,1
-ماہربانای,mihrbaanii,1
+دست و خنجر,dast-o-;xanjar,1
+یاری,yaarii,1
+مہربانی,mihrbaanii,1
 لحظہ,la;h:zah,1
 داد خواہ,daad-;xvaah,1
-طاعتوزاہد,:taa((at-o-zuhd,1
-ساختہوفصل,saa;xtah-o-fa.sl,1
-عالم ارائای,((aalam-aaraa))ii,1
-بندوبست,band-o-bast,1
+طاعت و زہد,:taa((at-o-zuhd,1
+ساختہ و فصل,saa;xtah-o-fa.sl,1
+عالم آرائی,((aalam-aaraa))ii,1
+بند و بست,band-o-bast,1
 لڑکا,la;rkaa,1
 لال,laal,1
-تازہ وارادان,taazah-vaaridaan,1
-تہاییہ,tahiiyah,1
-سروسامان,sar-o-saamaan,1
-ساوختن,so;xtan,1
+تازہ واردان,taazah-vaaridaan,1
+تہییہ,tahiiyah,1
+سر و سامان,sar-o-saamaan,1
+سوختن,so;xtan,1
 طلبگار,:talabgaar,1
-ساوختہ,so;xtah,1
-طاول,:tuul,1
-تسلایموبدا,tasliim-o-badaa,1
-اتاش نفس,aatish-nafas,1
-خاسّت,;xissat,1
+سوختہ,so;xtah,1
+طول,:tuul,1
+تسلیم و بدا,tasliim-o-badaa,1
+آتش نفس,aatish-nafas,1
+خسّت,;xissat,1
 لاف,laaf,1
 کسنا,kasnaa,1
-پستای,pastii,1
+پستی,pastii,1
 شرم سار,sharm-saar,1
-رہاین,rahiin,1
-بی کارای,be-kaarii,1
-گانبد,gunbad,1
+رہین,rahiin,1
+بے کاری,be-kaarii,1
+گنبد,gunbad,1
 بید,bed,1
-اری,aare,1
-ہاوشیارای,hoshyaarii,1
+آرے,aare,1
+ہوشیاری,hoshyaarii,1
 در کار,dar-kaar,1
-وراون,auro;n,1
+اوروں,auro;n,1
 اجارا,ijaaraa,1
-چار داہم,chaar-duham,1
-تحیّار,ta;haiyur,1
-ن شانایدن,na-shuniidan,1
+چار دہم,chaar-duham,1
+تحیّر,ta;haiyur,1
+ن شنیدن,na-shuniidan,1
 غزال,;gazaal,1
 ہوا خواہ,havaa-;xvaah,1
 فوت,faut,1
-نایراو,niiruu,1
-پارزہ,purzah,1
-بی اعتادالای,be-i((tidaalii,1
+نیرو,niiruu,1
+پرزہ,purzah,1
+بے اعتدالی,be-i((tidaalii,1
 لاش,laash,1
 مدفن,madfan,1
-انتاقام,intiqaam,1
-تلخ نوائای,tal;x-navaa))ii,1
-پا باوس,paa-buus,1
-سادگای اماوز,saadagii-aamoz,1
+انتقام,intiqaam,1
+تلخ نوائی,tal;x-navaa))ii,1
+پا بوس,paa-buus,1
+سادگی آموز,saadagii-aamoz,1
 طعن,:ta((n,1
 گھاس,ghaas,1
-رعاونت,ra((uunat,1
-تعرایف,ta((riif,1
-لعلوزامارّادوزروگوہر,la((l-o-zumurrud-o-zar-o-gauhar,1
+رعونت,ra((uunat,1
+تعریف,ta((riif,1
+لعل و زمرّد و زر و گوہر,la((l-o-zumurrud-o-zar-o-gauhar,1
 ناچار,naachaar,1
 حج,;haj,1
-رنج اشنا,ranj-aashnaa,1
+رنج آشنا,ranj-aashnaa,1
 ہدف,hadaf,1
 پابند,paaband,1
-کانار,kinaar,1
-صاحّت,.si;h;hat,1
-ثانای,;saanii,1
-الات,aalaat,1
-دال ساتان,dil-sitaan,1
+کنار,kinaar,1
+صحّت,.si;h;hat,1
+ثانی,;saanii,1
+آلات,aalaat,1
+دل ستان,dil-sitaan,1
 غم کدہ,;gam-kadah,1
 قحط,qa;h:t,1
-شاعار,shi((aar,1
+شعار,shi((aar,1
 ولولہ,valvalah,1
-تاناک ظرفای,tunuk-:zarfii,1
-ل مان,al-amaan,1
-عمارای,((amaarii,1
+تنک ظرفی,tunuk-:zarfii,1
+ال امان,al-amaan,1
+عماری,((amaarii,1
 ٹپکانا,;tapkaanaa,1
-فاشار,fishaar,1
+فشار,fishaar,1
 پئ,pa)),1
 غضب,;ga.zab,1
-شاہرت,shuhrat,1
+شہرت,shuhrat,1
 نوحہ,nau;hah,1
 پاشنہ,paashnah,1
 اڑانا,u;raanaa,1
-مطلاوب,ma:tluub,1
-سرووصناوبر,sarv-o-.sanobar,1
-ستایاش گر,sataayish-gar,1
-سایاہای,siyaahii,1
-ماصوّار,mu.savvir,1
+مطلوب,ma:tluub,1
+سرو و صنوبر,sarv-o-.sanobar,1
+ستایش گر,sataayish-gar,1
+سیاہی,siyaahii,1
+مصوّر,mu.savvir,1
 جاگنا,jaagnaa,1
 لخت لخت,la;xt-la;xt,1
 شان,shaan,1
-طالاب,:taalib,1
-تغافال داوست,ta;gaaful-dost,1
-توفایق,taufiiq,1
-توفایر,taufiir,1
-جلوہ ناما,jalvah-numaa,1
-اتنی,itne,1
-ندازودا,andaaz-o-adaa,1
-پرای پاےکر,parii-paikar,1
-بی صرفہ,be-.sarfah,1
-ڈاباو,;dubo,1
-درازای,daraazii,1
-کاناشت,kunisht,1
-ائانہ پرداز,aa))inah-pardaaz,1
-ائانہ دارای,aa))inah-daarii,1
+طالب,:taalib,1
+تغافل دوست,ta;gaaful-dost,1
+توفیق,taufiiq,1
+توفیر,taufiir,1
+جلوہ نما,jalvah-numaa,1
+اتنے,itne,1
+انداز و ادا,andaaz-o-adaa,1
+پری پیکر,parii-paikar,1
+بے صرفہ,be-.sarfah,1
+ڈبو,;dubo,1
+درازی,daraazii,1
+کنشت,kunisht,1
+آئنہ پرداز,aa))inah-pardaaz,1
+آئنہ داری,aa))inah-daarii,1
 منصب,man.sab,1
-ضراور,.zaruur,1
+ضرور,.zaruur,1
 قاطع,qaa:ta((,1
 ہجر,hajr,1
-خاون غلتایدہ,;xuun-;galtiidah,1
-خاون غلتایدن,;xuun-;galtiidan,1
-پاراونی,pirone,1
-خاون گشتہ,;xuun-gashtah,1
-تارایکای,taariikii,1
-زاندان خانہ,zindaan-;xaanah,1
-کثرت ارائای,ka;srat-aaraa))ii,1
+خون غلتیدہ,;xuun-;galtiidah,1
+خون غلتیدن,;xuun-;galtiidan,1
+پرونے,pirone,1
+خون گشتہ,;xuun-gashtah,1
+تاریکی,taariikii,1
+زندان خانہ,zindaan-;xaanah,1
+کثرت آرائی,ka;srat-aaraa))ii,1
 شاہ پر,shaah-par,1
 تنگنا,tangnaa,1
 خیمہ,;xemah,1
-تاربت,turbat,1
+تربت,turbat,1
 لخّت یاب,la;z;zat-yaab,1
-گام گشتہ,gum-gashtah,1
-رہیاو,rahyo,1
-ڈاباویا,;duboyaa,1
-تغیّار,ta;gayyur,1
-غمّازای,;gammaazii,1
-نکایر,nakiir,1
-بی مزا,be-mazaa,1
+گم گشتہ,gum-gashtah,1
+رہیو,rahyo,1
+ڈبویا,;duboyaa,1
+تغیّر,ta;gayyur,1
+غمّازی,;gammaazii,1
+نکیر,nakiir,1
+بے مزا,be-mazaa,1
 تیز رو,tez-rau,1
-قرایب,qariib,1
+قریب,qariib,1
 خلل,;xalal,1
 چڑھ,cha;rh,1
-کالباد,kaalbud,1
-بارباد,baarbud,1
-ولیکان,valekin,1
-ارزاو),aarzuu),1
+کالبد,kaalbud,1
+باربد,baarbud,1
+ولیکن,valekin,1
+آرزو),aarzuu),1
 فرمانا,farmaanaa,1
 طاعت,:taa((at,1
-ہالال,hilaal,1
-ساپارد,supurd,1
-ائاینہ خانہ,aa))iinah-;xaanah,1
-عقلودالوجان,((aql-o-dil-o-jaa;n,1
-کہہار,kahaar,1
+ہلال,hilaal,1
+سپرد,supurd,1
+آئینہ خانہ,aa))iinah-;xaanah,1
+عقل و دل و جاں,((aql-o-dil-o-jaa;n,1
+کہار,kahaar,1
 سرگشتہ,sargashtah,1
-داونا,duunaa,1
-در ماندگای,dar-maa;ndagii,1
-دال کاشا,dil-kushaa,1
-شش جاہت,shash-jihat,1
-ماوتای,motii,1
-ظالمت گاسترای,:zulmat-gustarii,1
-ماردن,murdan,1
-فارسای,faarsii,1
-دردولم,dard-o-alam,1
+دونا,duunaa,1
+در ماندگی,dar-maa;ndagii,1
+دل کشا,dil-kushaa,1
+شش جہت,shash-jihat,1
+موتی,motii,1
+ظلمت گستری,:zulmat-gustarii,1
+مردن,murdan,1
+فارسی,faarsii,1
+درد و الم,dard-o-alam,1
 ہتھ کنڈا,hath-ka;n;daa,1
 ورق,varaq,1
 زکات,zakaat,1
-تحصایل,ta;h.siil,1
-باطال,baa:til,1
-فزائاش,afzaa))ish,1
-الیٰہای,il;aahii,1
-بر راو,bar-ruu,1
-خاطّہ,;xi:t:tah,1
-جاناو,jaano,1
-راساوموقایاود,rusuum-o-quyuud,1
-راوح ال قاداس,ruu;h-ul-qudus,1
-پا نداز,paa-andaaz,1
-نا سازای,naa-saazii,1
-حایلہ,;hiilah,1
-مانکر,munkar,1
-ماثال,mi;saal,1
-داے,dai,1
-ٹھانای,;thaanii,1
+تحصیل,ta;h.siil,1
+باطل,baa:til,1
+افزائش,afzaa))ish,1
+الیٰہی,il;aahii,1
+بر رو,bar-ruu,1
+خطّہ,;xi:t:tah,1
+جانو,jaano,1
+رسوم و قیود,rusuum-o-quyuud,1
+روح ال قدس,ruu;h-ul-qudus,1
+پا انداز,paa-andaaz,1
+نا سازی,naa-saazii,1
+حیلہ,;hiilah,1
+منکر,munkar,1
+مثال,mi;saal,1
+دے,dai,1
+ٹھانی,;thaanii,1
 ثبات,;sabaat,1
-نا ساز گارای,naa-saaz-gaarii,1
-عانوان,((unvaan,1
-ائاین,aa))iin,1
-تئمّال,ta))ammul,1
-سابحہوزانّار,sub;hah-o-zunnaar,1
-شاکیبوصبر,shikeb-o-.sabr,1
-داوئای,duu))ii,1
-گاران مایگای,giraan-maayagii,1
-خانہ ارائای,;xaanah-aaraa))ii,1
+نا ساز گاری,naa-saaz-gaarii,1
+عنوان,((unvaan,1
+آئین,aa))iin,1
+تئمّل,ta))ammul,1
+سبحہ و زنّار,sub;hah-o-zunnaar,1
+شکیب و صبر,shikeb-o-.sabr,1
+دوئی,duu))ii,1
+گران مایگی,giraan-maayagii,1
+خانہ آرائی,;xaanah-aaraa))ii,1
 خارا,;xaaraa,1
-کاےفایّت,kaifiyyat,1
-قہروغضب,qahr-o-;ga.zab,1
-شاکستہ,shikastah,1
-غم خوارگای,;gam-;xvaaragii,1
-ہم طرحایودرد,ham-:tar;hii-o-dard,1
-ناقسان,nuqsaan,1
+کیفیّت,kaifiyyat,1
+قہر و غضب,qahr-o-;ga.zab,1
+شکستہ,shikastah,1
+غم خوارگی,;gam-;xvaaragii,1
+ہم طرحی و درد,ham-:tar;hii-o-dard,1
+نقسان,nuqsaan,1
 طواف,:tavaaf,1
-ناکاو نامای,niko-naamii,1
-مشغاول,mash;guul,1
-داےر,dair,1
-بی دالای,be-dilii,1
-مسائال,masaa))il,1
-واقاعہ,vaaqi((ah,1
-شایراین بیانای,shiiriin-bayaanii,1
-ہم دمای,ham-damii,1
+نکو نامی,niko-naamii,1
+مشغول,mash;guul,1
+دیر,dair,1
+بے دلی,be-dilii,1
+مسائل,masaa))il,1
+واقعہ,vaaqi((ah,1
+شیرین بیانی,shiiriin-bayaanii,1
+ہم دمی,ham-damii,1
 ریزہ,rezah,1
-پاگھلنا,pighalnaa,1
-ماشک باو,mushk-buu,1
-کاشتای,kishtii,1
+پگھلنا,pighalnaa,1
+مشک بو,mushk-buu,1
+کشتی,kishtii,1
 نا حق,naa-;haq,1
 سونپ,sau;np,1
 شغل,sha;gl,1
-گافتہ,guftah,1
-ہالنا,hilnaa,1
+گفتہ,guftah,1
+ہلنا,hilnaa,1
 ہول,haul,1
-حاےرانای,;hairaanii,1
-دالودال,dil-o-dil,1
+حیرانی,;hairaanii,1
+دل و دل,dil-o-dil,1
 بغل,ba;gal,1
-سر نگاشت,sar-angusht,1
-ہم پیشہوہم مشربوہم راز,ham-peshah-o-ham-mashrab-o-ham-raaz,1
-زباونای کش,zabuunii-kash,1
-تعزایت,ta((ziyat,1
+سر انگشت,sar-angusht,1
+ہم پیشہ و ہم مشرب و ہم راز,ham-peshah-o-ham-mashrab-o-ham-raaz,1
+زبونی کش,zabuunii-kash,1
+تعزیت,ta((ziyat,1
 خراش,;xaraash,1
-چشموچاراغ,chashm-o-chiraa;g,1
+چشم و چراغ,chashm-o-chiraa;g,1
 وصف,va.sf,1
 حظّ,;ha:z:z,1
 جلوہ گر,jalvah-gar,1
-شانا,shinaa,1
-ناےساتان,naisitaan,1
-کاجا,kujaa,1
+شنا,shinaa,1
+نیستان,naisitaan,1
+کجا,kujaa,1
 شیر,sher,1
-انتاخاب,inti;xaab,1
-خارد,;xirad,1
-دھاوان,dhuvaan,1
-گال فام,gul-faam,1
-بی گارہ,be-girah,1
-ساوکھ,suukh,1
-دالوچشم,dil-o-chashm,1
-خواد دارای,;xvud-daarii,1
-داکھلاونا,dikhlaavnaa,1
+انتخاب,inti;xaab,1
+خرد,;xirad,1
+دھوان,dhuvaan,1
+گل فام,gul-faam,1
+بے گرہ,be-girah,1
+سوکھ,suukh,1
+دل و چشم,dil-o-chashm,1
+خود داری,;xvud-daarii,1
+دکھلاونا,dikhlaavnaa,1
 دست گردان,dast-gardaan,1
-کھاونا,khonaa,1
-فاراوزان,furozaan,1
-ماہ راخ,maah-ru;x,1
-ظاہاور,:zuhuur,1
+کھونا,khonaa,1
+فروزان,furozaan,1
+ماہ رخ,maah-ru;x,1
+ظہور,:zuhuur,1
 زمان,zamaan,1
-قدوراخ,qad-o-ru;x,1
-ظاہاورای,:zuhuurii,1
+قد و رخ,qad-o-ru;x,1
+ظہوری,:zuhuurii,1
 کھپانا,khapaanaa,1
-تذکارہ,ta;zkirah,1
-محشراستان,ma;hsharistaan,1
+تذکرہ,ta;zkirah,1
+محشرستان,ma;hsharistaan,1
 چھلا,chhallaa,1
-کھائایاو,khaa))iyo,1
+کھائیو,khaa))iyo,1
 پتہ,patah,1
 ذات,;zaat,1
 شبنم استان,shabnam-istaan,1
-سایہ مستای,siyah-mastii,1
-دادوساتد,daad-o-sitad,1
-راو سایاہ,ruu-siyaah,1
-عاےب,((aib,1
+سیہ مستی,siyah-mastii,1
+داد و ستد,daad-o-sitad,1
+رو سیاہ,ruu-siyaah,1
+عیب,((aib,1
 سفال,safaal,1
-زایارت کدہ,ziyaarat-kadah,1
-پرای وش,parii-vash,1
-واجاب,vaajib,1
-خستہ جان,;xastah-jaa;n,1
-داو دم,do-dam,1
-طارفہ,:turfah,1
-خلوتوجلوت,;xalvat-o-jalvat,1
-عناصار,((anaa.sir,1
-ارزاو خارامای,aarzuu-;xiraamii,1
-باےراون,bairuun,1
+زیارت کدہ,ziyaarat-kadah,1
+پری وش,parii-vash,1
+واجب,vaajib,1
+خستہ جاں,;xastah-jaa;n,1
+دو دم,do-dam,1
+طرفہ,:turfah,1
+خلوت و جلوت,;xalvat-o-jalvat,1
+عناصر,((anaa.sir,1
+آرزو خرامی,aarzuu-;xiraamii,1
+بیرون,bairuun,1
 چارہ ساز,chaarah-saaz,1
-ہل مان مزاید,hal-min-maziid,1
-پاینس,piinas,1
-جانّت,jinnat,1
+ہل من مزید,hal-min-maziid,1
+پینس,piinas,1
+جنّت,jinnat,1
 لطافت,la:taafat,1
-ماسلمان,musalmaan,1
+مسلمان,musalmaan,1
 صفا,.safaa,1
-تاخم,tu;xm,1
+تخم,tu;xm,1
 طوف,:tauf,1
-گاداختہ,gudaa;xtah,1
-باہاشت شمائال,bihisht-shamaa))il,1
-باطان,baa:tin,1
+گداختہ,gudaa;xtah,1
+بہشت شمائل,bihisht-shamaa))il,1
+باطن,baa:tin,1
 نا یاب,naa-yaab,1
-حاکم,;hukm,1
-دالانا,dilaanaa,1
-دال ازار,dil-aazaar,1
+حکم,;hukm,1
+دلانا,dilaanaa,1
+دل آزار,dil-aazaar,1
 باز گشت,baaz-gasht,1
-چایرنا,chiirnaa,1
-حیاتوبند,;hayaat-o-band,1
-ماے کش,mai-kash,1
-خاو,;xo,1
-بی ہوا,be-havaa,1
-تعلاق,ta((alluq,1
-لئایم,la))iim,1
-جان گادازای,jaan-gudaazii,1
-سادہ دالای,saadah-dilii,1
-پئی ہم,pa))e-ham,1
-تجمّال,tajammul,1
+چیرنا,chiirnaa,1
+حیات و بند,;hayaat-o-band,1
+مے کش,mai-kash,1
+خو,;xo,1
+بے ہوا,be-havaa,1
+تعلق,ta((alluq,1
+لئیم,la))iim,1
+جان گدازی,jaan-gudaazii,1
+سادہ دلی,saadah-dilii,1
+پئے ہم,pa))e-ham,1
+تجمّل,tajammul,1
 یگانہ,yagaanah,1
 درخشان,dara;xshaan,1
 فرمان روا,farmaan-ravaa,1
-کاریدنا,kurednaa,1
-ماعیّن,mu((ayyan,1
-ماٹانا,mi;taanaa,1
+کریدنا,kurednaa,1
+معیّن,mu((ayyan,1
+مٹانا,mi;taanaa,1
