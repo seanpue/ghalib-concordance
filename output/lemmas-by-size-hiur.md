@@ -86,18 +86,18 @@
 دل दिल dil 235
   - دل दिल dil 195
   - دلِ दिल‐ए‐ dil-e 27
-  - دلودستِ दिल‐ओ‐दसत‐ए‐ dil-o-dast-e 1
-  - دلوچشمِ दिल‐ओ‐चशम‐ए‐ dil-o-chashm-e 1
-  - دلومژگاں दिल‐ओ‐मिझ़गाँ dil-o-mizhgaa;n 1
-  - دیدہودل दीदा‐ओ‐दिल diidah-o-dil 1
-  - دلوجگر दिल‐ओ‐जिगर dil-o-jigar 1
-  - دینودل दीन‐ओ‐दिल diin-o-dil 1
-  - دلودل दिल‐ओ‐दिल dil-o-dil 1
-  - عقلودلوجاں अक़ल‐ओ‐दिल‐ओ‐जाँ ((aql-o-dil-o-jaa;n 1
-  - بے شرابودلِ बेशराब‐ओ‐दिल‐ए‐ be-sharaab-o-dil-e 1
-  - دلودیدہ दिल‐ओ‐दीदा dil-o-diidah 1
-  - دلودیں दिल‐ओ‐दीं dil-o-dii;n 1
-  - دلوجاں दिल‐ओ‐जाँ dil-o-jaa;n 1
+  - دل و دستِ दिल‐ओ‐दसत‐ए‐ dil-o-dast-e 1
+  - دل و چشمِ दिल‐ओ‐चशम‐ए‐ dil-o-chashm-e 1
+  - دل و مژگاں दिल‐ओ‐मिझ़गाँ dil-o-mizhgaa;n 1
+  - دیدہ و دل दीदा‐ओ‐दिल diidah-o-dil 1
+  - دل و جگر दिल‐ओ‐जिगर dil-o-jigar 1
+  - دین و دل दीन‐ओ‐दिल diin-o-dil 1
+  - دل و دل दिल‐ओ‐दिल dil-o-dil 1
+  - عقل و دل و جاں अक़ल‐ओ‐दिल‐ओ‐जाँ ((aql-o-dil-o-jaa;n 1
+  - بے شراب و دلِ बेशराब‐ओ‐दिल‐ए‐ be-sharaab-o-dil-e 1
+  - دل و دیدہ दिल‐ओ‐दीदा dil-o-diidah 1
+  - دل و دیں दिल‐ओ‐दीं dil-o-dii;n 1
+  - دل و جاں दिल‐ओ‐जाँ dil-o-jaa;n 1
   - دلہاے दिलहा‐ए‐ dil'haa-e 1
 ہم हम ham 200
   - ہم हम ham 184
@@ -157,7 +157,7 @@
   - تیرا तेरा teraa 16
 پر पर par 126
   - پر पर par 120
-  - بالوپر बाल‐ओ‐पर baal-o-par 5
+  - بال و پر बाल‐ओ‐पर baal-o-par 5
   - پرِ पर‐ए‐ par-e 1
 اور और aur 125
   - اور और aur 125
@@ -201,17 +201,17 @@
   - پہ पे pah 94
 بہ ब bah 91
   - بہ ब bah 90
-  - بادوبہ बाद‐ओ‐ब baad-o-bah 1
+  - باد و بہ बाद‐ओ‐ब baad-o-bah 1
 گر गर gar 87
   - گر गर gar 87
 گل गुल gul 76
   - گل गुल gul 62
   - گلِ गुल‐ए‐ gul-e 6
-  - سبزہوگل सबज़ा‐ओ‐गुल sabzah-o-gul 2
-  - گلولالہ गुल‐ओ‐लाला gul-o-laalah 2
+  - سبزہ و گل सबज़ा‐ओ‐गुल sabzah-o-gul 2
+  - گل و لالہ गुल‐ओ‐लाला gul-o-laalah 2
   - گلہاے गुलहा‐ए‐ gul'haa-e 1
-  - لالہوگلونسریں लाला‐ओ‐गुल‐ओ‐नसरीं laalah-o-gul-o-nasrii;n 1
-  - لالہوگل लाला‐ओ‐गुल laalah-o-gul 1
+  - لالہ و گل و نسریں लाला‐ओ‐गुल‐ओ‐नसरीं laalah-o-gul-o-nasrii;n 1
+  - لالہ و گل लाला‐ओ‐गुल laalah-o-gul 1
   - گلہاے गुलहा‐ए‐ gulhaa-e 1
 پھر फिर phir 75
   - پھر फिर phir 75
@@ -250,7 +250,7 @@
   - غم ग़म ;gam 35
   - غمِ ग़म‐ए‐ ;gam-e 22
   - غمہاے ग़महा‐ए‐ ;gamhaa-e 1
-  - غموشادی ग़म‐ओ‐शादी ;gam-o-shaadii 1
+  - غم و شادی ग़म‐ओ‐शादी ;gam-o-shaadii 1
 ہوتا होता hotaa 58
   - ہوتا होता hotaa 58
 جس जिस jis 56
@@ -258,24 +258,24 @@
 سر सर sar 55
   - سر सर sar 37
   - سرِ सर‐ए‐ sar-e 14
-  - بے سروپا बेसर‐ओ‐पा be-sar-o-paa 2
-  - سروبرگِ सर‐ओ‐बरग‐ए‐ sar-o-barg-e 1
-  - سروساماں सर‐ओ‐सामाँ sar-o-saamaa;n 1
+  - بے سر و پا बेसर‐ओ‐पा be-sar-o-paa 2
+  - سر و برگِ सर‐ओ‐बरग‐ए‐ sar-o-barg-e 1
+  - سر و ساماں सर‐ओ‐सामाँ sar-o-saamaa;n 1
 اگر अगर agar 55
   - اگر अगर agar 55
 عشق इशक़ ((ishq 51
   - عشق इशक़ ((ishq 45
   - عشقِ इशक़‐ए‐ ((ishq-e 4
-  - عشقونا گزیرِ इशक़‐ओ‐नागुज़ीर‐ए‐ ((ishq-o-naa-guziir-e 1
-  - عشقومزدوریِ इशक़‐ओ‐मज़दूरी‐ए‐ ((ishq-o-mazduurii-e 1
+  - عشق و نا گزیرِ इशक़‐ओ‐नागुज़ीर‐ए‐ ((ishq-o-naa-guziir-e 1
+  - عشق و مزدوریِ इशक़‐ओ‐मज़दूरी‐ए‐ ((ishq-o-mazduurii-e 1
 ایک एक ek 50
   - ایک एक ek 50
 ناز नाज़ naaz 48
   - ناز नाज़ naaz 37
   - نازِ नाज़‐ए‐ naaz-e 7
-  - عزّوناز इज़ज़‐ओ‐नाज़ ((izz-o-naaz 1
-  - نازوغمزہ नाज़‐ओ‐ग़मज़ा naaz-o-;gamzah 1
-  - نازوادا नाज़‐ओ‐अदा naaz-o-adaa 1
+  - عزّ و ناز इज़ज़‐ओ‐नाज़ ((izz-o-naaz 1
+  - ناز و غمزہ नाज़‐ओ‐ग़मज़ा naaz-o-;gamzah 1
+  - ناز و ادا नाज़‐ओ‐अदा naaz-o-adaa 1
   - نازاں नाज़ाँ naazaa;n 1
 مرنا मरना marnaa 46
   - مر मर mar 19
@@ -293,10 +293,10 @@
   - نالاں नालाँ naalaa;n 1
 در दर dar 44
   - در दर dar 19
-  - درودیوار दर‐ओ‐दीवार dar-o-diivaar 14
+  - در و دیوار दर‐ओ‐दीवार dar-o-diivaar 14
   - درِ दर‐ए‐ dar-e 6
-  - دیوارودر दीवार‐ओ‐दर diivaar-o-dar 4
-  - درودیوارِ दर‐ओ‐दीवार‐ए‐ dar-o-diivaar-e 1
+  - دیوار و در दीवार‐ओ‐दर diivaar-o-dar 4
+  - در و دیوارِ दर‐ओ‐दीवार‐ए‐ dar-o-diivaar-e 1
 دن दिन din 42
   - دن दिन din 40
   - دنوں दिनों dino;n 2
@@ -316,15 +316,15 @@
 مے मै mai 40
   - مے मै mai 32
   - مےِ मै‐ए‐ mai-e 5
-  - مےونغمہ मै‐ओ‐नग़मा mai-o-na;gmah 1
-  - مےوانگبیں मै‐ओ‐अंगबीं mai-o-angabii;n 1
-  - مےوساغر मै‐ओ‐साग़र mai-o-saa;gar 1
+  - مے و نغمہ मै‐ओ‐नग़मा mai-o-na;gmah 1
+  - مے و انگبیں मै‐ओ‐अंगबीं mai-o-angabii;n 1
+  - مے و ساغر मै‐ओ‐साग़र mai-o-saa;gar 1
 کہاں कहाँ kahaa;n 40
   - کہاں कहाँ kahaa;n 40
 اسد असद asad 39
   - اسد असद asad 37
   - اسدِ असद‐ए‐ asad-e 1
-  - عمرواسد उमर‐ओ‐असद ((umr-o-asad 1
+  - عمر و اسد उमर‐ओ‐असद ((umr-o-asad 1
 اب अब ab 39
   - اب अब ab 39
 رکھنا रखना rakhnaa 39
@@ -342,7 +342,7 @@
 خیال ख़याल ;xayaal 38
   - خیال ख़याल ;xayaal 29
   - خیالِ ख़याल‐ए‐ ;xayaal-e 8
-  - نظّارہوخیال नज़ज़ारा‐ओ‐ख़याल na:z:zaarah-o-;xayaal 1
+  - نظّارہ و خیال नज़ज़ारा‐ओ‐ख़याल na:z:zaarah-o-;xayaal 1
 چاہیے चाहिये chaahiye 38
   - چاہیے चाहिये chaahiye 38
 یار यार yaar 38
@@ -351,13 +351,13 @@
 جگر जिगर jigar 38
   - جگر जिगर jigar 34
   - جگرِ जिगर‐ए‐ jigar-e 3
-  - دلوجگر दिल‐ओ‐जिगर dil-o-jigar 1
+  - دل و جگر दिल‐ओ‐जिगर dil-o-jigar 1
 سہی सही sahii 38
   - سہی सही sahii 38
 رنگ रंग rang 37
   - رنگ रंग rang 25
   - رنگِ रंग‐ए‐ rang-e 11
-  - رنگوسازہا रंग‐ओ‐साज़हा rang-o-saaz'haa 1
+  - رنگ و سازہا रंग‐ओ‐साज़हा rang-o-saaz'haa 1
 لینا लेना lenaa 37
   - لے ले le 14
   - لیا लिया liyaa 5
@@ -371,7 +371,7 @@
   - لیتے लेते lete 1
 وفا वफ़ा vafaa 37
   - وفا वफ़ा vafaa 33
-  - مہرووفا मिहर‐ओ‐वफ़ा mihr-o-vafaa 2
+  - مہر و وفا मिहर‐ओ‐वफ़ा mihr-o-vafaa 2
   - وفاے वफ़ा‐ए‐ vafaa-e 2
 یوں यूँ yuu;n 37
   - یوں यूँ yuu;n 37
@@ -383,11 +383,11 @@
   - جاں जाँ jaa;n 14
   - جانِ जान‐ए‐ jaan-e 2
   - جاناں जानाँ jaanaa;n 2
-  - دلوجاں दिल‐ओ‐जाँ dil-o-jaa;n 1
+  - دل و جاں दिल‐ओ‐जाँ dil-o-jaa;n 1
 موج मौज mauj 36
   - موجِ मौज‐ए‐ mauj-e 32
   - موج मौज mauj 3
-  - قطرہوموجوحباب क़तरा‐ओ‐मौज‐ओ‐हुबाब qa:trah-o-mauj-o-;hubaab 1
+  - قطرہ و موج و حباب क़तरा‐ओ‐मौज‐ओ‐हुबाब qa:trah-o-mauj-o-;hubaab 1
 ہمارا हमारा hamaaraa 36
   - ہمارے हमारे hamaare 14
   - ہماری हमारी hamaarii 12
@@ -413,7 +413,7 @@
   - یا या yaa 34
 یاد याद yaad 33
   - یاد याद yaad 32
-  - وصلویادِ वसल‐ओ‐याद‐ए‐ va.sl-o-yaad-e 1
+  - وصل و یادِ वसल‐ओ‐याद‐ए‐ va.sl-o-yaad-e 1
 پوچھنا पूछना puuchhnaa 33
   - پوچھ पूछ puuchh 18
   - پوچھے पूछे puuchhe 5
@@ -455,10 +455,10 @@
 چشم चशम chashm 31
   - چشمِ चशम‐ए‐ chashm-e 21
   - چشم चशम chashm 5
-  - پیاموچشم पयाम‐ओ‐चशम payaam-o-chashm 1
-  - دلوچشمِ दिल‐ओ‐चशम‐ए‐ dil-o-chashm-e 1
-  - چشموگوش चशम‐ओ‐गोश chashm-o-gosh 1
-  - چشموچراغِ चशम‐ओ‐चिराग़‐ए‐ chashm-o-chiraa;g-e 1
+  - پیام و چشم पयाम‐ओ‐चशम payaam-o-chashm 1
+  - دل و چشمِ दिल‐ओ‐चशम‐ए‐ dil-o-chashm-e 1
+  - چشم و گوش चशम‐ओ‐गोश chashm-o-gosh 1
+  - چشم و چراغِ चशम‐ओ‐चिराग़‐ए‐ chashm-o-chiraa;g-e 1
   - چشمہاے चशमहा‐ए‐ chashmhaa-e 1
 زخم ज़ख़म za;xm 31
   - زخمِ ज़ख़म‐ए‐ za;xm-e 17
@@ -467,12 +467,12 @@
   - بزم बज़म bazm 16
   - بزمِ बज़म‐ए‐ bazm-e 14
 دیوار दीवार diivaar 30
-  - درودیوار दर‐ओ‐दीवार dar-o-diivaar 14
+  - در و دیوار दर‐ओ‐दीवार dar-o-diivaar 14
   - دیوار दीवार diivaar 6
   - دیوارِ दीवार‐ए‐ diivaar-e 4
-  - دیوارودر दीवार‐ओ‐दर diivaar-o-dar 4
-  - بے درودیوار बेदर‐ओ‐दीवार be-dar-o-diivaar 1
-  - درودیوارِ दर‐ओ‐दीवार‐ए‐ dar-o-diivaar-e 1
+  - دیوار و در दीवार‐ओ‐दर diivaar-o-dar 4
+  - بے در و دیوار बेदर‐ओ‐दीवार be-dar-o-diivaar 1
+  - در و دیوارِ दर‐ओ‐दीवार‐ए‐ dar-o-diivaar-e 1
 ان उन un 30
   - ان उन un 30
 جاننا जानना jaan'naa 30
@@ -518,9 +518,9 @@
   - شبِ शब‐ए‐ shab-e 12
   - شب शब shab 10
   - شبہاے शबहा‐ए‐ shab'haa-e 3
-  - شبوروزوماہوسال शब‐ओ‐रोज़‐ओ‐माह‐ओ‐साल shab-o-roz-o-maah-o-saal 1
-  - ابروشبِ अबर‐ओ‐शब‐ए‐ abr-o-shab-e 1
-  - شبوروز शब‐ओ‐रोज़ shab-o-roz 1
+  - شب و روز و ماہ و سال शब‐ओ‐रोज़‐ओ‐माह‐ओ‐साल shab-o-roz-o-maah-o-saal 1
+  - ابر و شبِ अबर‐ओ‐शब‐ए‐ abr-o-shab-e 1
+  - شب و روز शब‐ओ‐रोज़ shab-o-roz 1
 ہائے हाए haa))e 28
   - ہائے हाए haa))e 28
 حسرت हसरत ;hasrat 28
@@ -547,8 +547,8 @@
   - بار बार baar 14
   - بار ہا बार‐हा baar-haa 6
   - بارِ बार‐ए‐ baar-e 4
-  - کاروبار कार‐ओ‐बार kaar-o-baar 2
-  - کاروبارِ कार‐ओ‐बार‐ए‐ kaar-o-baar-e 1
+  - کار و بار कार‐ओ‐बार kaar-o-baar 2
+  - کار و بارِ कार‐ओ‐बार‐ए‐ kaar-o-baar-e 1
 آگے आगे aage 27
   - آگے आगे aage 27
 قدر क़दर qadar 26
@@ -573,18 +573,18 @@
 تماشا तमाशा tamaashaa 25
   - تماشا तमाशा tamaashaa 19
   - تماشاے तमाशा‐ए‐ tamaashaa-e 5
-  - سیروتماشا सैर‐ओ‐तमाशा sair-o-tamaashaa 1
+  - سیر و تماشا सैर‐ओ‐तमाशा sair-o-tamaashaa 1
 ہوا हवा havaa 25
   - ہوا हवा havaa 14
   - ہواے हवा‐ए‐ havaa-e 9
-  - آبوہوا आब‐ओ‐हवा aab-o-havaa 1
-  - آبوہواے आब‐ओ‐हवा‐ए‐ aab-o-havaa-e 1
+  - آب و ہوا आब‐ओ‐हवा aab-o-havaa 1
+  - آب و ہواے आब‐ओ‐हवा‐ए‐ aab-o-havaa-e 1
 خوں ख़ूँ ;xuu;n 25
   - خوں ख़ूँ ;xuu;n 25
 ذوق ज़ौक़ ;zauq 25
   - ذوقِ ज़ौक़‐ए‐ ;zauq-e 20
   - ذوق ज़ौक़ ;zauq 4
-  - ساقیوذوقِ साक़ी‐ओ‐ज़ौक़‐ए‐ saaqii-o-;zauq-e 1
+  - ساقی و ذوقِ साक़ी‐ओ‐ज़ौक़‐ए‐ saaqii-o-;zauq-e 1
 بہار बहार bahaar 24
   - بہار बहार bahaar 22
   - بہارِ बहार‐ए‐ bahaar-e 2
@@ -600,9 +600,9 @@
 پا पा paa 23
   - پا पा paa 12
   - پاے पा‐ए‐ paa-e 7
-  - بے سروپا बेसर‐ओ‐पा be-sar-o-paa 2
-  - بے دستوپا बेदसत‐ओ‐पा be-dast-o-paa 1
-  - دستوپا दसत‐ओ‐पा dast-o-paa 1
+  - بے سر و پا बेसर‐ओ‐पा be-sar-o-paa 2
+  - بے دست و پا बेदसत‐ओ‐पा be-dast-o-paa 1
+  - دست و پا दसत‐ओ‐पा dast-o-paa 1
 پڑنا पड़ना pa;rnaa 23
   - پڑا पड़ा pa;raa 8
   - پڑے पड़े pa;re 7
@@ -615,15 +615,15 @@
   - قطرہ क़तरा qa:trah 14
   - قطرہِ क़तरा‐ए‐ qa:trah-e 4
   - قطرے क़तरे qa:tre 3
-  - صحرا دست گاہوقطرہ सहरादसतगाह‐ओ‐क़तरा .sa;hraa-dast-gaah-o-qa:trah 1
-  - قطرہوموجوحباب क़तरा‐ओ‐मौज‐ओ‐हुबाब qa:trah-o-mauj-o-;hubaab 1
+  - صحرا دست گاہ و قطرہ सहरादसतगाह‐ओ‐क़तरा .sa;hraa-dast-gaah-o-qa:trah 1
+  - قطرہ و موج و حباب क़तरा‐ओ‐मौज‐ओ‐हुबाब qa:trah-o-mauj-o-;hubaab 1
 جا जा jaa 23
   - جا जा jaa 20
   - جاے जा‐ए‐ jaa-e 3
 عمر उमर ((umr 22
   - عمر उमर ((umr 15
   - عمرِ उमर‐ए‐ ((umr-e 6
-  - عمرواسد उमर‐ओ‐असद ((umr-o-asad 1
+  - عمر و اسد उमर‐ओ‐असद ((umr-o-asad 1
 آئینہ आईना aa))iinah 22
   - آئینہ आईना aa))iinah 15
   - آئینہِ आईना‐ए‐ aa))iinah-e 5
@@ -642,18 +642,18 @@
 کام काम kaam 22
   - کام काम kaam 20
   - کامِ काम‐ए‐ kaam-e 1
-  - کامودہن काम‐ओ‐दहन kaam-o-dahan 1
+  - کام و دہن काम‐ओ‐दहन kaam-o-dahan 1
 درد दरद dard 22
   - درد दरद dard 16
   - دردِ दरद‐ए‐ dard-e 4
-  - ہم طرحیودردِ हमतरही‐ओ‐दरद‐ए‐ ham-:tar;hii-o-dard-e 1
-  - دردوالم दरद‐ओ‐अलम dard-o-alam 1
+  - ہم طرحی و دردِ हमतरही‐ओ‐दरद‐ए‐ ham-:tar;hii-o-dard-e 1
+  - درد و الم दरद‐ओ‐अलम dard-o-alam 1
 دیدہ दीदा diidah 22
   - دیدہِ दीदा‐ए‐ diidah-e 17
   - دیدہ दीदा diidah 2
-  - مدّعیودیدہ मुददी‐ओ‐दीदा mudda((ii-o-diidah 1
-  - دلودیدہ दिल‐ओ‐दीदा dil-o-diidah 1
-  - دیدہودل दीदा‐ओ‐दिल diidah-o-dil 1
+  - مدّعی و دیدہ मुददी‐ओ‐दीदा mudda((ii-o-diidah 1
+  - دل و دیدہ दिल‐ओ‐दीदा dil-o-diidah 1
+  - دیدہ و دل दीदा‐ओ‐दिल diidah-o-dil 1
 لیکن लेकिन lekin 22
   - لیکن लेकिन lekin 22
 اٹھنا उठना u;thnaa 22
@@ -674,16 +674,16 @@
   - لب लब lab 9
   - لبِ लब‐ए‐ lab-e 7
   - لبوں लबों labo;n 3
-  - لبودنداں लब‐ओ‐दंदाँ lab-o-dandaa;n 1
-  - گریہولب गिरया‐ओ‐लब giryah-o-lab 1
+  - لب و دنداں लब‐ओ‐दंदाँ lab-o-dandaa;n 1
+  - گریہ و لب गिरया‐ओ‐लब giryah-o-lab 1
 رب रब rab 21
   - رب रब rab 21
 رہ रा rah 21
   - رہ रा rah 13
   - رہِ रा‐ए‐ rah-e 5
-  - رسمورہِ रसम‐ओ‐रा‐ए‐ rasm-o-rah-e 1
-  - رہوستمِ रा‐ओ‐सितम‐ए‐ rah-o-sitam-e 1
-  - رہورسمِ रा‐ओ‐रसम‐ए‐ rah-o-rasm-e 1
+  - رسم و رہِ रसम‐ओ‐रा‐ए‐ rasm-o-rah-e 1
+  - رہ و ستمِ रा‐ओ‐सितम‐ए‐ rah-o-sitam-e 1
+  - رہ و رسمِ रा‐ओ‐रसम‐ए‐ rah-o-rasm-e 1
 جلنا जलना jalnaa 21
   - جل जल jal 10
   - جلے जले jale 4
@@ -737,9 +737,9 @@
 ادا अदा adaa 19
   - ادا अदा adaa 13
   - اداے अदा‐ए‐ adaa-e 3
-  - غمزہوعشوہوادا ग़मज़ा‐ओ‐इशवा‐ओ‐अदा ;gamzah-o-((ishvah-o-adaa 1
-  - اندازوادا अंदाज़‐ओ‐अदा andaaz-o-adaa 1
-  - نازوادا नाज़‐ओ‐अदा naaz-o-adaa 1
+  - غمزہ و عشوہ و ادا ग़मज़ा‐ओ‐इशवा‐ओ‐अदा ;gamzah-o-((ishvah-o-adaa 1
+  - انداز و ادا अंदाज़‐ओ‐अदा andaaz-o-adaa 1
+  - ناز و ادا नाज़‐ओ‐अदा naaz-o-adaa 1
 کسی किसी kisii 19
   - کسی किसी kisii 19
 کم कम kam 19
@@ -752,7 +752,7 @@
 ساقی साक़ी saaqii 19
   - ساقی साक़ी saaqii 15
   - ساقیِ साक़ी‐ए‐ saaqii-e 3
-  - ساقیوذوقِ साक़ी‐ओ‐ज़ौक़‐ए‐ saaqii-o-;zauq-e 1
+  - ساقی و ذوقِ साक़ी‐ओ‐ज़ौक़‐ए‐ saaqii-o-;zauq-e 1
 برا बुरा buraa 18
   - برا बुरा buraa 16
   - بری बुरी burii 2
@@ -779,11 +779,11 @@
 عالم आलम ((aalam 18
   - عالم आलम ((aalam 13
   - عالمِ आलम‐ए‐ ((aalam-e 4
-  - یک عالموعالم यकआलम‐ओ‐आलम yak-((aalam-o-((aalam 1
+  - یک عالم و عالم यकआलम‐ओ‐आलम yak-((aalam-o-((aalam 1
 عاشق आशिक़ ((aashiq 18
   - عاشق आशिक़ ((aashiq 15
   - عاشقِ आशिक़‐ए‐ ((aashiq-e 2
-  - شوخوعاشقِ शोख़‐ओ‐आशिक़‐ए‐ sho;x-o-((aashiq-e 1
+  - شوخ و عاشقِ शोख़‐ओ‐आशिक़‐ए‐ sho;x-o-((aashiq-e 1
 اٹھانا उठाना u;thaanaa 18
   - اٹھائیے उठाइये u;thaa))iye 6
   - اٹھائے उठाए u;thaa))e 3
@@ -798,11 +798,11 @@
 انداز अंदाज़ andaaz 18
   - اندازِ अंदाज़‐ए‐ andaaz-e 11
   - انداز अंदाज़ andaaz 6
-  - اندازوادا अंदाज़‐ओ‐अदा andaaz-o-adaa 1
+  - انداز و ادا अंदाज़‐ओ‐अदा andaaz-o-adaa 1
 نقش नक़श naqsh 18
   - نقشِ नक़श‐ए‐ naqsh-e 15
   - نقش नक़श naqsh 2
-  - نقشونگارِ नक़श‐ओ‐निगार‐ए‐ naqsh-o-nigaar-e 1
+  - نقش و نگارِ नक़श‐ओ‐निगार‐ए‐ naqsh-o-nigaar-e 1
 نگہ निगा nigah 18
   - نگہ निगा nigah 11
   - نگہِ निगा‐ए‐ nigah-e 7
@@ -828,7 +828,7 @@
 مژگان मिझ़गान mizhgaan 18
   - مژگاں मिझ़गाँ mizhgaa;n 12
   - مژگانِ मिझ़गान‐ए‐ mizhgaan-e 5
-  - دلومژگاں दिल‐ओ‐मिझ़गाँ dil-o-mizhgaa;n 1
+  - دل و مژگاں दिल‐ओ‐मिझ़गाँ dil-o-mizhgaa;n 1
 لکھنا लिखना likhnaa 18
   - لکھا लिखा likhaa 4
   - لکھ लिख likh 4
@@ -859,14 +859,14 @@
 آب आब aab 17
   - آب आब aab 9
   - آبِ आब‐ए‐ aab-e 5
-  - آبوہوا आब‐ओ‐हवा aab-o-havaa 1
-  - آبوگل आब‐ओ‐गिल aab-o-gil 1
-  - آبوہواے आब‐ओ‐हवा‐ए‐ aab-o-havaa-e 1
+  - آب و ہوا आब‐ओ‐हवा aab-o-havaa 1
+  - آب و گل आब‐ओ‐गिल aab-o-gil 1
+  - آب و ہواے आब‐ओ‐हवा‐ए‐ aab-o-havaa-e 1
 راہ राह raah 17
   - راہ राह raah 10
   - راہِ राह‐ए‐ raah-e 5
-  - راہورسمِ राह‐ओ‐रसम‐ए‐ raah-o-rasm-e 1
-  - رسموراہ रसम‐ओ‐राह rasm-o-raah 1
+  - راہ و رسمِ राह‐ओ‐रसम‐ए‐ raah-o-rasm-e 1
+  - رسم و راہ रसम‐ओ‐राह rasm-o-raah 1
 نفس नफ़स nafas 17
   - نفس नफ़स nafas 12
   - نفسِ नफ़स‐ए‐ nafas-e 5
@@ -887,7 +887,7 @@
 وحشت वहशत va;hshat 16
   - وحشت वहशत va;hshat 11
   - وحشتِ वहशत‐ए‐ va;hshat-e 4
-  - وحشتوشیفتہ वहशत‐ओ‐शेफ़ता va;hshat-o-sheftah 1
+  - وحشت و شیفتہ वहशत‐ओ‐शेफ़ता va;hshat-o-sheftah 1
 قسمت क़िसमत qismat 16
   - قسمت क़िसमत qismat 16
 زلف ज़ुलफ़ zulf 16
@@ -908,7 +908,7 @@
   - شعلہ शुला shu((lah 6
   - شعلہِ शुला‐ए‐ shu((lah-e 6
   - شعلے शुले shu((le 3
-  - صاعقہوشعلہوسیماب साइक़ा‐ओ‐शुला‐ओ‐सीमाब .saa((iqah-o-shu((lah-o-siimaab 1
+  - صاعقہ و شعلہ و سیماب साइक़ा‐ओ‐शुला‐ओ‐सीमाब .saa((iqah-o-shu((lah-o-siimaab 1
 ہوتے होते hote 16
   - ہوتے होते hote 16
 بلا बला balaa 16
@@ -923,10 +923,10 @@
   - گریہ गिरया giryah 10
   - گریے गिरये girye 2
   - گریہِ गिरया‐ए‐ giryah-e 2
-  - گریہولب गिरया‐ओ‐लब giryah-o-lab 1
-درودیوار दर‐ओ‐दीवार dar-o-diivaar 15
-  - درودیوار दर‐ओ‐दीवार dar-o-diivaar 14
-  - درودیوارِ दर‐ओ‐दीवार‐ए‐ dar-o-diivaar-e 1
+  - گریہ و لب गिरया‐ओ‐लब giryah-o-lab 1
+در و دیوار दर‐ओ‐दीवार dar-o-diivaar 15
+  - در و دیوار दर‐ओ‐दीवार dar-o-diivaar 14
+  - در و دیوارِ दर‐ओ‐दीवार‐ए‐ dar-o-diivaar-e 1
 خندہ ख़ंदा ;xandah 15
   - خندہ ख़ंदा ;xandah 6
   - خندہِ ख़ंदा‐ए‐ ;xandah-e 6
@@ -938,9 +938,9 @@
   - آہ आह aah 8
   - آہیں आहें aahe;n 2
   - آہِ आह‐ए‐ aah-e 2
-  - فریادوآہوزاری फ़रयाद‐ओ‐आह‐ओ‐ज़ारी faryaad-o-aah-o-zaarii 1
-  - آہوفغاں आह‐ओ‐फ़िग़ाँ aah-o-fi;gaa;n 1
-  - آہوفریاد आह‐ओ‐फ़रयाद aah-o-faryaad 1
+  - فریاد و آہ و زاری फ़रयाद‐ओ‐आह‐ओ‐ज़ारी faryaad-o-aah-o-zaarii 1
+  - آہ و فغاں आह‐ओ‐फ़िग़ाँ aah-o-fi;gaa;n 1
+  - آہ و فریاد आह‐ओ‐फ़रयाद aah-o-faryaad 1
 کب कब kab 15
   - کب कब kab 15
 لگانا लगाना lagaanaa 15
@@ -950,8 +950,8 @@
 ستم सितम sitam 15
   - ستم सितम sitam 11
   - ستمہاے सितमहा‐ए‐ sitamhaa-e 2
-  - ستموجورِ सितम‐ओ‐जोर‐ए‐ sitam-o-jor-e 1
-  - رہوستمِ रा‐ओ‐सितम‐ए‐ rah-o-sitam-e 1
+  - ستم و جورِ सितम‐ओ‐जोर‐ए‐ sitam-o-jor-e 1
+  - رہ و ستمِ रा‐ओ‐सितम‐ए‐ rah-o-sitam-e 1
 سینہ सीना siinah 15
   - سینہ सीना siinah 6
   - سینہِ सीना‐ए‐ siinah-e 5
@@ -1000,10 +1000,10 @@
 تاب ताब taab 14
   - تابِ ताब‐ए‐ taab-e 4
   - تاب ताब taab 4
-  - پیچوتاب पेच‐ओ‐ताब pech-o-taab 3
-  - تابوتواں ताब‐ओ‐तवाँ taab-o-tavaa;n 1
-  - تابوتواں ताब‐ओ‐तुवाँ taab-o-tuvaa;n 1
-  - پیچوتابِ पेच‐ओ‐ताब‐ए‐ pech-o-taab-e 1
+  - پیچ و تاب पेच‐ओ‐ताब pech-o-taab 3
+  - تاب و تواں ताब‐ओ‐तवाँ taab-o-tavaa;n 1
+  - تاب و تواں ताब‐ओ‐तुवाँ taab-o-tuvaa;n 1
+  - پیچ و تابِ पेच‐ओ‐ताब‐ए‐ pech-o-taab-e 1
 خط ख़त ;xa:t 14
   - خط ख़त ;xa:t 12
   - خطِ ख़त‐ए‐ ;xa:t-e 2
@@ -1036,25 +1036,25 @@
   - آئنہِ आइना‐ए‐ aa))inah-e 2
 خوش ख़ुश ;xvush 14
   - خوش ख़ुश ;xvush 13
-  - خوشونا خوش ख़ुश‐ओ‐नाख़ुश ;xvush-o-naa-;xvush 1
+  - خوش و نا خوش ख़ुश‐ओ‐नाख़ुश ;xvush-o-naa-;xvush 1
 تار तार taar 14
   - تارِ तार‐ए‐ taar-e 10
   - تار तार taar 3
-  - دامنوتارِ दामन‐ओ‐तार‐ए‐ daaman-o-taar-e 1
+  - دامن و تارِ दामन‐ओ‐तार‐ए‐ daaman-o-taar-e 1
 ذرّہ ज़ररा ;zarrah 13
   - ذرّہ ज़ररा ;zarrah 11
   - ذرّہِ ज़ररा‐ए‐ ;zarrah-e 2
 خس ख़स ;xas 13
   - خس ख़स ;xas 10
-  - خسوخاشاکِ ख़स‐ओ‐ख़ाशाक‐ए‐ ;xas-o-;xaashaak-e 1
-  - خسوخاشاک ख़स‐ओ‐ख़ाशाक ;xas-o-;xaashaak 1
+  - خس و خاشاکِ ख़स‐ओ‐ख़ाशाक‐ए‐ ;xas-o-;xaashaak-e 1
+  - خس و خاشاک ख़स‐ओ‐ख़ाशाक ;xas-o-;xaashaak 1
   - خسِ ख़स‐ए‐ ;xas-e 1
 ہر چند हरचंद har-chand 13
   - ہر چند हरचंद har-chand 13
 تیغ तेग़ te;g 13
   - تیغِ तेग़‐ए‐ te;g-e 9
   - تیغ तेग़ te;g 3
-  - تیغوکفن तेग़‐ओ‐कफ़न te;g-o-kafan 1
+  - تیغ و کفن तेग़‐ओ‐कफ़न te;g-o-kafan 1
 چاہنا चाहना chaahnaa 13
   - چاہا चाहा chaahaa 5
   - چاہتا चाहता chaahtaa 3
@@ -1065,14 +1065,14 @@
 جوش जोश josh 13
   - جوشِ जोश‐ए‐ josh-e 10
   - جوش जोश josh 2
-  - جوشوخروش जोश‐ओ‐ख़रोश josh-o-;xarosh 1
+  - جوش و خروش जोश‐ओ‐ख़रोश josh-o-;xarosh 1
 ساغر साग़र saa;gar 13
   - ساغر साग़र saa;gar 5
   - ساغرِ साग़र‐ए‐ saa;gar-e 4
-  - مےوساغر मै‐ओ‐साग़र mai-o-saa;gar 1
-  - پیالہوساغر पियाला‐ओ‐साग़र piyaalah-o-saa;gar 1
-  - ساغرومینا साग़र‐ओ‐मीना saa;gar-o-miinaa 1
-  - بادہوساغر बादा‐ओ‐साग़र baadah-o-saa;gar 1
+  - مے و ساغر मै‐ओ‐साग़र mai-o-saa;gar 1
+  - پیالہ و ساغر पियाला‐ओ‐साग़र piyaalah-o-saa;gar 1
+  - ساغر و مینا साग़र‐ओ‐मीना saa;gar-o-miinaa 1
+  - بادہ و ساغر बादा‐ओ‐साग़र baadah-o-saa;gar 1
 صورت सूरत .suurat 13
   - صورتِ सूरत‐ए‐ .suurat-e 8
   - صورت सूरत .suurat 5
@@ -1096,7 +1096,7 @@
 نام नाम naam 13
   - نام नाम naam 10
   - نامِ नाम‐ए‐ naam-e 2
-  - بے ننگونام बेनंग‐ओ‐नाम be-nang-o-naam 1
+  - بے ننگ و نام बेनंग‐ओ‐नाम be-nang-o-naam 1
 خواب ख़वाब ;xvaab 13
   - خواب ख़वाब ;xvaab 8
   - خوابِ ख़वाब‐ए‐ ;xvaab-e 5
@@ -1109,14 +1109,14 @@
 سنگ संग sang 13
   - سنگ संग sang 6
   - سنگِ संग‐ए‐ sang-e 5
-  - سنگوخشت संग‐ओ‐ख़िशत sang-o-;xisht 2
+  - سنگ و خشت संग‐ओ‐ख़िशत sang-o-;xisht 2
 آتش आतिश aatish 13
   - آتش आतिश aatish 7
   - آتشِ आतिश‐ए‐ aatish-e 6
 بادہ बादा baadah 13
   - بادہ बादा baadah 8
   - بادہِ बादा‐ए‐ baadah-e 4
-  - بادہوساغر बादा‐ओ‐साग़र baadah-o-saa;gar 1
+  - بادہ و ساغر बादा‐ओ‐साग़र baadah-o-saa;gar 1
 خوب ख़ूब ;xuub 13
   - خوباں ख़ूबाँ ;xuubaa;n 7
   - خوب ख़ूब ;xuub 6
@@ -1139,7 +1139,7 @@
   - یہی यही yihii 13
 چمن चमन chaman 13
   - چمن चमन chaman 12
-  - چمنوخوبیِ चमन‐ओ‐ख़ूबी‐ए‐ chaman-o-;xuubii-e 1
+  - چمن و خوبیِ चमन‐ओ‐ख़ूबी‐ए‐ chaman-o-;xuubii-e 1
 الفت उलफ़त ulfat 13
   - الفت उलफ़त ulfat 10
   - الفتِ उलफ़त‐ए‐ ulfat-e 3
@@ -1179,10 +1179,10 @@
 دست दसत dast 12
   - دستِ दसत‐ए‐ dast-e 5
   - دست दसत dast 3
-  - دلودستِ दिल‐ओ‐दसत‐ए‐ dil-o-dast-e 1
-  - دستوبازو दसत‐ओ‐बाज़ू dast-o-baazuu 1
-  - دستوخنجرِ दसत‐ओ‐ख़ंजर‐ए‐ dast-o-;xanjar-e 1
-  - دستوپا दसत‐ओ‐पा dast-o-paa 1
+  - دل و دستِ दिल‐ओ‐दसत‐ए‐ dil-o-dast-e 1
+  - دست و بازو दसत‐ओ‐बाज़ू dast-o-baazuu 1
+  - دست و خنجرِ दसत‐ओ‐ख़ंजर‐ए‐ dast-o-;xanjar-e 1
+  - دست و پا दसत‐ओ‐पा dast-o-paa 1
 خون ख़ून ;xuun 12
   - خونِ ख़ून‐ए‐ ;xuun-e 12
 بستر बिसतर bistar 12
@@ -1208,14 +1208,14 @@
   - کون कौन kaun 12
 حق हक़ ;haq 12
   - حق हक़ ;haq 10
-  - بے گنہ کشوحق बेगुनाकुश‐ओ‐हक़ be-gunah-kush-o-;haq 1
+  - بے گنہ کش و حق बेगुनाकुश‐ओ‐हक़ be-gunah-kush-o-;haq 1
   - حقِ हक़‐ए‐ ;haq-e 1
 کہو कहो kaho 12
   - کہو कहो kaho 12
 صبح सुबह .sub;h 11
   - صبحِ सुबह‐ए‐ .sub;h-e 5
   - صبح सुबह .sub;h 5
-  - صبحومہر सुबह‐ओ‐मिहर .sub;h-o-mihr 1
+  - صبح و مہر सुबह‐ओ‐मिहर .sub;h-o-mihr 1
 جوہر जौहर jauhar 11
   - جوہرِ जौहर‐ए‐ jauhar-e 7
   - جوہر जौहर jauhar 4
@@ -1228,11 +1228,11 @@
   - رگِ रग‐ए‐ rag-e 7
   - رگ रग rag 2
   - رگوں रगों rago;n 1
-  - رگوپے रग‐ओ‐पै rag-o-pai 1
+  - رگ و پے रग‐ओ‐पै rag-o-pai 1
 سیر सैर sair 11
   - سیرِ सैर‐ए‐ sair-e 8
   - سیر सैर sair 2
-  - سیروتماشا सैर‐ओ‐तमाशा sair-o-tamaashaa 1
+  - سیر و تماشا सैर‐ओ‐तमाशा sair-o-tamaashaa 1
 پینا पीना piinaa 11
   - پیتا पीता piitaa 2
   - پی पी pii 2
@@ -1257,7 +1257,7 @@
   - حلقہہاے हलक़हहा‐ए‐ ;halqah'haa-e 1
 داد दाद daad 11
   - داد दाद daad 10
-  - دادوستد दाद‐ओ‐सितद daad-o-sitad 1
+  - داد و ستد दाद‐ओ‐सितद daad-o-sitad 1
 دام दाम daam 11
   - دامِ दाम‐ए‐ daam-e 6
   - دام दाम daam 5
@@ -1292,7 +1292,7 @@
 بے خودی बेख़ुदी be-;xvudii 11
   - بے خودی बेख़ुदी be-;xvudii 9
   - بے خودیِ बेख़ुदी‐ए‐ be-;xvudii-e 1
-  - بے خودیوہشیاری बेख़ुदी‐ओ‐हुशयारी be-;xvudii-o-hushyaarii 1
+  - بے خودی و ہشیاری बेख़ुदी‐ओ‐हुशयारी be-;xvudii-o-hushyaarii 1
 ضعف ज़ुफ़ .zu((f 11
   - ضعف ज़ुफ़ .zu((f 10
   - ضعفِ ज़ुफ़‐ए‐ .zu((f-e 1
@@ -1304,13 +1304,13 @@
 جام जाम jaam 11
   - جامِ जाम‐ए‐ jaam-e 6
   - جام जाम jaam 4
-  - جاموسبو जाम‐ओ‐सुबू jaam-o-subuu 1
+  - جام و سبو जाम‐ओ‐सुबू jaam-o-subuu 1
 زندگی ज़िंदगी zindagii 11
   - زندگی ज़िंदगी zindagii 11
 دامن दामन daaman 11
   - دامن दामन daaman 8
-  - دامنوتارِ दामन‐ओ‐तार‐ए‐ daaman-o-taar-e 1
-  - جیبودامن जेब‐ओ‐दामन jeb-o-daaman 1
+  - دامن و تارِ दामन‐ओ‐तार‐ए‐ daaman-o-taar-e 1
+  - جیب و دامن जेब‐ओ‐दामन jeb-o-daaman 1
   - داماں दामाँ daamaa;n 1
 دیدار दीदार diidaar 11
   - دیدار दीदार diidaar 9
@@ -1324,15 +1324,15 @@
 عیش ऐश ((aish 10
   - عیش ऐश ((aish 5
   - عیشِ ऐश‐ए‐ ((aish-e 4
-  - عیشوجاہ ऐश‐ओ‐जाह ((aish-o-jaah 1
+  - عیش و جاہ ऐश‐ओ‐जाह ((aish-o-jaah 1
 خو ख़ू ;xuu 10
   - خو ख़ू ;xuu 8
   - خوے ख़ू‐ए‐ ;xuu-e 2
 روز रोज़ roz 10
   - روزِ रोज़‐ए‐ roz-e 5
   - روز रोज़ roz 3
-  - شبوروز शब‐ओ‐रोज़ shab-o-roz 1
-  - شبوروزوماہوسال शब‐ओ‐रोज़‐ओ‐माह‐ओ‐साल shab-o-roz-o-maah-o-saal 1
+  - شب و روز शब‐ओ‐रोज़ shab-o-roz 1
+  - شب و روز و ماہ و سال शब‐ओ‐रोज़‐ओ‐माह‐ओ‐साल shab-o-roz-o-maah-o-saal 1
 حاصل हासिल ;haa.sil 10
   - حاصل हासिल ;haa.sil 8
   - حاصلِ हासिल‐ए‐ ;haa.sil-e 2
@@ -1366,7 +1366,7 @@
   - جیتا जीता jiitaa 1
 کف कफ़ kaf 10
   - کفِ कफ़‐ए‐ kaf-e 9
-  - باغ بانوکفِ बाग़बान‐ओ‐कफ़‐ए‐ baa;g-baan-o-kaf-e 1
+  - باغ بان و کفِ बाग़बान‐ओ‐कफ़‐ए‐ baa;g-baan-o-kaf-e 1
 کہہ का kah 10
   - کہہ का kah 10
 آسمان आसमान aasmaan 10
@@ -1389,29 +1389,29 @@
 مہر मिहर mihr 10
   - مہرِ मिहर‐ए‐ mihr-e 3
   - مہر मिहर mihr 2
-  - مہرووفا मिहर‐ओ‐वफ़ा mihr-o-vafaa 2
-  - مہروماہ मिहर‐ओ‐माह mihr-o-maah 1
-  - مہرومہ मिहर‐ओ‐मा mihr-o-mah 1
-  - صبحومہر सुबह‐ओ‐मिहर .sub;h-o-mihr 1
+  - مہر و وفا मिहर‐ओ‐वफ़ा mihr-o-vafaa 2
+  - مہر و ماہ मिहर‐ओ‐माह mihr-o-maah 1
+  - مہر و مہ मिहर‐ओ‐मा mihr-o-mah 1
+  - صبح و مہر सुबह‐ओ‐मिहर .sub;h-o-mihr 1
 وا वा vaa 10
   - وا वा vaa 10
 وگرنہ वगरना vagarnah 10
   - وگرنہ वगरना vagarnah 10
 چراغ चिराग़ chiraa;g 10
   - چراغِ चिराग़‐ए‐ chiraa;g-e 8
-  - چشموچراغِ चशम‐ओ‐चिराग़‐ए‐ chashm-o-chiraa;g-e 1
+  - چشم و چراغِ चशम‐ओ‐चिराग़‐ए‐ chashm-o-chiraa;g-e 1
   - چراغ चिराग़ chiraa;g 1
 بال बाल baal 9
-  - بالوپر बाल‐ओ‐पर baal-o-par 5
+  - بال و پر बाल‐ओ‐पर baal-o-par 5
   - بالِ बाल‐ए‐ baal-e 4
 کاش काश kaash 9
   - کاش काश kaash 7
   - کاش کے काशके kaash-ke 2
 فریاد फ़रयाद faryaad 9
   - فریاد फ़रयाद faryaad 6
-  - آہوفریاد आह‐ओ‐फ़रयाद aah-o-faryaad 1
+  - آہ و فریاد आह‐ओ‐फ़रयाद aah-o-faryaad 1
   - فریادِ फ़रयाद‐ए‐ faryaad-e 1
-  - فریادوآہوزاری फ़रयाद‐ओ‐आह‐ओ‐ज़ारी faryaad-o-aah-o-zaarii 1
+  - فریاد و آہ و زاری फ़रयाद‐ओ‐आह‐ओ‐ज़ारी faryaad-o-aah-o-zaarii 1
 کوچہ कूचा kuuchah 9
   - کوچے कूचे kuuche 7
   - کوچہِ कूचा‐ए‐ kuuchah-e 2
@@ -1437,7 +1437,7 @@
   - نظّارے नज़ज़ारे na:z:zaare 3
   - نظّارہ नज़ज़ारा na:z:zaarah 3
   - نظّارہِ नज़ज़ारा‐ए‐ na:z:zaarah-e 2
-  - نظّارہوخیال नज़ज़ारा‐ओ‐ख़याल na:z:zaarah-o-;xayaal 1
+  - نظّارہ و خیال नज़ज़ारा‐ओ‐ख़याल na:z:zaarah-o-;xayaal 1
 وائے वाए vaa))e 9
   - وائے वाए vaa))e 9
 گرچہ गरचे garchih 9
@@ -1445,8 +1445,8 @@
 ابر अबर abr 9
   - ابرِ अबर‐ए‐ abr-e 4
   - ابر अबर abr 3
-  - ابروباد अबर‐ओ‐बाद abr-o-baad 1
-  - ابروشبِ अबर‐ओ‐शब‐ए‐ abr-o-shab-e 1
+  - ابر و باد अबर‐ओ‐बाद abr-o-baad 1
+  - ابر و شبِ अबर‐ओ‐शब‐ए‐ abr-o-shab-e 1
 شرم शरम sharm 9
   - شرم शरम sharm 7
   - شرمِ शरम‐ए‐ sharm-e 2
@@ -1460,14 +1460,14 @@
 سبزہ सबज़ा sabzah 9
   - سبزہ सबज़ा sabzah 3
   - سبزہِ सबज़ा‐ए‐ sabzah-e 3
-  - سبزہوگل सबज़ा‐ओ‐गुल sabzah-o-gul 2
+  - سبزہ و گل सबज़ा‐ओ‐गुल sabzah-o-gul 2
   - سبزے सबज़े sabze 1
 بن बिन bin 9
   - بن बिन bin 9
 ساز साज़ saaz 9
   - سازِ साज़‐ए‐ saaz-e 6
   - ساز साज़ saaz 2
-  - رنگوسازہا रंग‐ओ‐साज़हा rang-o-saaz'haa 1
+  - رنگ و سازہا रंग‐ओ‐साज़हा rang-o-saaz'haa 1
 مانگنا मांगना maa;ngnaa 9
   - مانگے मांगे maa;nge 5
   - مانگ मांग maa;ng 3
@@ -1491,7 +1491,7 @@
   - سامانِ सामान‐ए‐ saamaan-e 5
   - ساماں सामाँ saamaa;n 2
   - سامان सामान saamaan 1
-  - سروساماں सर‐ओ‐सामाँ sar-o-saamaa;n 1
+  - سر و ساماں सर‐ओ‐सामाँ sar-o-saamaa;n 1
 رشتہ रिशता rishtah 9
   - رشتہِ रिशता‐ए‐ rishtah-e 7
   - رشتہ रिशता rishtah 2
@@ -1502,7 +1502,7 @@
   - بارے बारे baare 9
 وصل वसल va.sl 9
   - وصل वसल va.sl 7
-  - وصلویادِ वसल‐ओ‐याद‐ए‐ va.sl-o-yaad-e 1
+  - وصل و یادِ वसल‐ओ‐याद‐ए‐ va.sl-o-yaad-e 1
   - وصلِ वसल‐ए‐ va.sl-e 1
 مدّعا मुददआ mudda((aa 9
   - مدّعا मुददआ mudda((aa 8
@@ -1518,16 +1518,16 @@
 خم ख़म ;xam 8
   - خمِ ख़म‐ए‐ ;xam-e 3
   - خم ख़म ;xam 3
-  - پر پیچوخم पुरपेच‐ओ‐ख़म pur-pech-o-;xam 1
-  - پیچوخم पेच‐ओ‐ख़म pech-o-;xam 1
+  - پر پیچ و خم पुरपेच‐ओ‐ख़म pur-pech-o-;xam 1
+  - پیچ و خم पेच‐ओ‐ख़म pech-o-;xam 1
 سیلاب सैलाब sailaab 8
   - سیلاب सैलाब sailaab 5
   - سیلابِ सैलाब‐ए‐ sailaab-e 3
 بند बंद band 8
   - بند बंद band 3
   - بندِ बंद‐ए‐ band-e 3
-  - بندوبست बंद‐ओ‐बसत band-o-bast 1
-  - حیاتوبندِ हयात‐ओ‐बंद‐ए‐ ;hayaat-o-band-e 1
+  - بند و بست बंद‐ओ‐बसत band-o-bast 1
+  - حیات و بندِ हयात‐ओ‐बंद‐ए‐ ;hayaat-o-band-e 1
 کعبہ काबा ka((bah 8
   - کعبے काबे ka((be 5
   - کعبہ काबा ka((bah 3
@@ -1536,7 +1536,7 @@
 فصل फ़सल fa.sl 8
   - فصلِ फ़सल‐ए‐ fa.sl-e 5
   - فصل फ़सल fa.sl 2
-  - ساختہوفصلِ साख़ता‐ओ‐फ़सल‐ए‐ saa;xtah-o-fa.sl-e 1
+  - ساختہ و فصلِ साख़ता‐ओ‐फ़सल‐ए‐ saa;xtah-o-fa.sl-e 1
 بس बस bas 8
   - بس बस bas 8
 چراغ चिराग़ chiraa;ga 8
@@ -1549,10 +1549,10 @@
   - فریبِ फ़रेब‐ए‐ fareb-e 4
 لالہ लाला laalah 8
   - لالہ लाला laalah 3
-  - گلولالہ गुल‐ओ‐लाला gul-o-laalah 2
+  - گل و لالہ गुल‐ओ‐लाला gul-o-laalah 2
   - لالے लाले laale 1
-  - لالہوگل लाला‐ओ‐गुल laalah-o-gul 1
-  - لالہوگلونسریں लाला‐ओ‐गुल‐ओ‐नसरीं laalah-o-gul-o-nasrii;n 1
+  - لالہ و گل लाला‐ओ‐गुल laalah-o-gul 1
+  - لالہ و گل و نسریں लाला‐ओ‐गुल‐ओ‐नसरीं laalah-o-gul-o-nasrii;n 1
 روزن रौज़न rauzan 8
   - روزن रौज़न rauzan 6
   - روزنِ रौज़न‐ए‐ rauzan-e 2
@@ -1575,7 +1575,7 @@
 مہ मा mah 8
   - مہ मा mah 5
   - مہِ मा‐ए‐ mah-e 2
-  - مہرومہ मिहर‐ओ‐मा mihr-o-mah 1
+  - مہر و مہ मिहर‐ओ‐मा mihr-o-mah 1
 قدر क़दर qadr 8
   - قدرِ क़दर‐ए‐ qadr-e 6
   - قدر क़दर qadr 2
@@ -1585,17 +1585,17 @@
 رخ रुख़ ru;x 8
   - رخ रुख़ ru;x 5
   - رخِ रुख़‐ए‐ ru;x-e 2
-  - قدورخ क़द‐ओ‐रुख़ qad-o-ru;x 1
+  - قد و رخ क़द‐ओ‐रुख़ qad-o-ru;x 1
 بلبل बुलबुल bulbul 8
   - بلبل बुलबुल bulbul 5
   - بلبلیں बुलबुलें bulbule;n 1
-  - خاکستروبلبل ख़ाकिसतर‐ओ‐बुलबुल ;xaakistar-o-bulbul 1
+  - خاکستر و بلبل ख़ाकिसतर‐ओ‐बुलबुल ;xaakistar-o-bulbul 1
   - بلبلِ बुलबुल‐ए‐ bulbul-e 1
 باد बाद baad 8
   - باد बाद baad 4
   - بادِ बाद‐ए‐ baad-e 2
-  - بادوبہ बाद‐ओ‐ब baad-o-bah 1
-  - ابروباد अबर‐ओ‐बाद abr-o-baad 1
+  - باد و بہ बाद‐ओ‐ब baad-o-bah 1
+  - ابر و باد अबर‐ओ‐बाद abr-o-baad 1
 شوخی शोख़ी sho;xii 8
   - شوخیِ शोख़ी‐ए‐ sho;xii-e 6
   - شوخی शोख़ी sho;xii 2
@@ -1618,7 +1618,7 @@
 جیب जेब jeb 8
   - جیب जेब jeb 4
   - جیبِ जेब‐ए‐ jeb-e 3
-  - جیبودامن जेब‐ओ‐दामन jeb-o-daaman 1
+  - جیب و دامن जेब‐ओ‐दामन jeb-o-daaman 1
 راز राज़ raaz 8
   - رازِ राज़‐ए‐ raaz-e 5
   - راز राज़ raaz 2
@@ -1632,7 +1632,7 @@
   - رو रू ruu 3
 نغمہ नग़मा na;gmah 8
   - نغمہ नग़मा na;gmah 5
-  - مےونغمہ मै‐ओ‐नग़मा mai-o-na;gmah 1
+  - مے و نغمہ मै‐ओ‐नग़मा mai-o-na;gmah 1
   - نغمہِ नग़मा‐ए‐ na;gmah-e 1
   - نغمہہاے नग़महहा‐ए‐ na;gmah'haa-e 1
 زمین ज़मीन zamiin 8
@@ -1646,7 +1646,7 @@
   - فتنہ फ़ितना fitnah 2
   - فتنوں फ़ितनों fitno;n 1
   - فتنے फ़ितने fitne 1
-  - فتنہوفساد फ़ितना‐ओ‐फ़साद fitnah-o-fasaad 1
+  - فتنہ و فساد फ़ितना‐ओ‐फ़साद fitnah-o-fasaad 1
 نشاط नशात nashaa:t 8
   - نشاط नशात nashaa:t 5
   - نشاطِ नशात‐ए‐ nashaa:t-e 3
@@ -1664,8 +1664,8 @@
   - دشت दशत dasht 4
 خنجر ख़ंजर ;xanjar 8
   - خنجر ख़ंजर ;xanjar 6
-  - دشنہوخنجر दशना‐ओ‐ख़ंजर dashnah-o-;xanjar 1
-  - دستوخنجرِ दसत‐ओ‐ख़ंजर‐ए‐ dast-o-;xanjar-e 1
+  - دشنہ و خنجر दशना‐ओ‐ख़ंजर dashnah-o-;xanjar 1
+  - دست و خنجرِ दसत‐ओ‐ख़ंजर‐ए‐ dast-o-;xanjar-e 1
 وہ वा vah 8
   - انہیں उंहें u;nhe;n 8
 زنجیر ज़ंजीर zanjiir 8
@@ -1705,7 +1705,7 @@
 وداع विदा vidaa(( 7
   - وداعِ विदा‐ए‐ vidaa((-e 3
   - وداع विदा vidaa(( 3
-  - حجابووداعِ हिजाब‐ओ‐विदा‐ए‐ ;hijaab-o-vidaa((-e 1
+  - حجاب و وداعِ हिजाब‐ओ‐विदा‐ए‐ ;hijaab-o-vidaa((-e 1
 تنگ तंग tang 7
   - تنگ तंग tang 7
 ناخن नाख़ुन naa;xun 7
@@ -1746,16 +1746,16 @@
   - غنچہِ ग़ुंचा‐ए‐ ;gunchah-e 2
 عدم अदम ((adam 7
   - عدم अदम ((adam 6
-  - وجودوعدم वुजूद‐ओ‐अदम vujuud-o-((adam 1
+  - وجود و عدم वुजूद‐ओ‐अदम vujuud-o-((adam 1
 حیرت हैरत ;hairat 7
   - حیرت हैरत ;hairat 5
   - حیرتِ हैरत‐ए‐ ;hairat-e 2
 ماہ माह maah 7
   - ماہِ माह‐ए‐ maah-e 3
-  - مہروماہ मिहर‐ओ‐माह mihr-o-maah 1
-  - شبوروزوماہوسال शब‐ओ‐रोज़‐ओ‐माह‐ओ‐साल shab-o-roz-o-maah-o-saal 1
+  - مہر و ماہ मिहर‐ओ‐माह mihr-o-maah 1
+  - شب و روز و ماہ و سال शब‐ओ‐रोज़‐ओ‐माह‐ओ‐साल shab-o-roz-o-maah-o-saal 1
   - ماہ माह maah 1
-  - خورشیدوماہ ख़ुरशीद‐ओ‐माह ;xvurshiid-o-maah 1
+  - خورشید و ماہ ख़ुरशीद‐ओ‐माह ;xvurshiid-o-maah 1
 قتل क़तल qatl 7
   - قتل क़तल qatl 7
 تسکین तसकीन taskiin 7
@@ -1772,7 +1772,7 @@
 سرو सरव sarv 7
   - سرو सरव sarv 3
   - سروِ सरव‐ए‐ sarv-e 3
-  - سرووصنوبر सरव‐ओ‐सनोबर sarv-o-.sanobar 1
+  - سرو و صنوبر सरव‐ओ‐सनोबर sarv-o-.sanobar 1
 اتنا इतना itnaa 7
   - اتنا इतना itnaa 6
   - اتنے इतने itne 1
@@ -1784,7 +1784,7 @@
 گوش गोश gosh 7
   - گوش गोश gosh 3
   - گوشِ गोश‐ए‐ gosh-e 3
-  - چشموگوش चशम‐ओ‐गोश chashm-o-gosh 1
+  - چشم و گوش चशम‐ओ‐गोश chashm-o-gosh 1
 خانہ ख़ाना ;xaanah 7
   - خانہِ ख़ाना‐ए‐ ;xaanah-e 7
 امید उमीद umiid 7
@@ -1814,7 +1814,7 @@
 خورشید ख़ुरशीद ;xvurshiid 7
   - خورشیدِ ख़ुरशीद‐ए‐ ;xvurshiid-e 4
   - خورشید ख़ुरशीद ;xvurshiid 2
-  - خورشیدوماہ ख़ुरशीद‐ओ‐माह ;xvurshiid-o-maah 1
+  - خورشید و ماہ ख़ुरशीद‐ओ‐माह ;xvurshiid-o-maah 1
 بھولنا भूलना bhuulnaa 7
   - بھول भूल bhuul 5
   - بھولا भूला bhuulaa 1
@@ -1876,11 +1876,11 @@
   - حناے हिना‐ए‐ ;hinaa-e 1
 گوہر गौहर gauhar 7
   - گوہر गौहर gauhar 5
-  - لعلوزمرّدوزروگوہر लाल‐ओ‐ज़ुमुररुद‐ओ‐ज़र‐ओ‐गौहर la((l-o-zumurrud-o-zar-o-gauhar 1
+  - لعل و زمرّد و زر و گوہر लाल‐ओ‐ज़ुमुररुद‐ओ‐ज़र‐ओ‐गौहर la((l-o-zumurrud-o-zar-o-gauhar 1
   - گوہرِ गौहर‐ए‐ gauhar-e 1
 جواب जवाब javaab 7
   - جواب जवाब javaab 6
-  - سوالوجواب सवाल‐ओ‐जवाब savaal-o-javaab 1
+  - سوال و جواب सवाल‐ओ‐जवाब savaal-o-javaab 1
 بو बू buu 7
   - بوے बू‐ए‐ buu-e 4
   - بو बू buu 3
@@ -1920,7 +1920,7 @@
   - فراقِ फ़िराक़‐ए‐ firaaq-e 2
 مقابل मुक़ाबिल muqaabil 6
   - مقابل मुक़ाबिल muqaabil 5
-  - مقابلودعواے मुक़ाबिल‐ओ‐दावा‐ए‐ muqaabil-o-da((vaa-e 1
+  - مقابل و دعواے मुक़ाबिल‐ओ‐दावा‐ए‐ muqaabil-o-da((vaa-e 1
 ظاہر ज़ाहिर :zaahir 6
   - ظاہر ज़ाहिर :zaahir 6
 ان इन in 6
@@ -1934,7 +1934,7 @@
   - مدّت मुददत muddat 6
 سوز सोज़ soz 6
   - سوزِ सोज़‐ए‐ soz-e 5
-  - سروروسوز सुरूर‐ओ‐सोज़ suruur-o-soz 1
+  - سرور و سوز सुरूर‐ओ‐सोज़ suruur-o-soz 1
 حقیقت हक़ीक़त ;haqiiqat 6
   - حقیقت हक़ीक़त ;haqiiqat 5
   - حقیقتِ हक़ीक़त‐ए‐ ;haqiiqat-e 1
@@ -1973,7 +1973,7 @@
 دشنہ दशना dashnah 6
   - دشنہ दशना dashnah 2
   - دشنہِ दशना‐ए‐ dashnah-e 2
-  - دشنہوخنجر दशना‐ओ‐ख़ंजर dashnah-o-;xanjar 1
+  - دشنہ و خنجر दशना‐ओ‐ख़ंजर dashnah-o-;xanjar 1
   - دشنے दशने dashne 1
 اجزا अजज़ा ajzaa 6
   - اجزاے अजज़ा‐ए‐ ajzaa-e 5
@@ -1987,9 +1987,9 @@
   - بیکسی ہاے बेकसी‐हा-ए- bekasii-haa-e 1
 غمزہ ग़मज़ा ;gamzah 6
   - غمزہ ग़मज़ा ;gamzah 2
-  - غمزہوعشوہوادا ग़मज़ा‐ओ‐इशवा‐ओ‐अदा ;gamzah-o-((ishvah-o-adaa 1
+  - غمزہ و عشوہ و ادا ग़मज़ा‐ओ‐इशवा‐ओ‐अदा ;gamzah-o-((ishvah-o-adaa 1
   - غمزے ग़मज़े ;gamze 1
-  - نازوغمزہ नाज़‐ओ‐ग़मज़ा naaz-o-;gamzah 1
+  - ناز و غمزہ नाज़‐ओ‐ग़मज़ा naaz-o-;gamzah 1
   - غمزہِ ग़मज़ा‐ए‐ ;gamzah-e 1
 واہ वाह vaah 6
   - واہ वाह vaah 6
@@ -2006,7 +2006,7 @@
   - تمہارے तुमहारे tumhaare 3
 طرز तरज़ :tarz 6
   - طرزِ तरज़‐ए‐ :tarz-e 5
-  - طرزوروش तरज़‐ओ‐रविश :tarz-o-ravish 1
+  - طرز و روش तरज़‐ओ‐रविश :tarz-o-ravish 1
 مے خانہ मैख़ाना mai-;xaanah 6
   - مے خانہِ मैख़ाना‐ए‐ mai-;xaanah-e 3
   - مے خانہ मैख़ाना mai-;xaanah 2
@@ -2022,7 +2022,7 @@
   - نیرنگ नैरंग nairang 1
 دندان दंदान dandaan 6
   - دنداں दंदाँ dandaa;n 5
-  - لبودنداں लब‐ओ‐दंदाँ lab-o-dandaa;n 1
+  - لب و دنداں लब‐ओ‐दंदाँ lab-o-dandaa;n 1
 گرفتار गिरिफ़तार giriftaar 6
   - گرفتارِ गिरिफ़तार‐ए‐ giriftaar-e 3
   - گرفتار गिरिफ़तार giriftaar 3
@@ -2042,18 +2042,18 @@
 مینا मीना miinaa 6
   - مینا मीना miinaa 3
   - میناے मीना‐ए‐ miinaa-e 2
-  - ساغرومینا साग़र‐ओ‐मीना saa;gar-o-miinaa 1
+  - ساغر و مینا साग़र‐ओ‐मीना saa;gar-o-miinaa 1
 قدح क़दह qada;h 6
   - قدح क़दह qada;h 5
-  - شیشہوقدحوکوزہوسبو शीशा‐ओ‐क़दह‐ओ‐कूज़ा‐ओ‐सबू shiishah-o-qada;h-o-kuuzah-o-sabuu 1
+  - شیشہ و قدح و کوزہ و سبو शीशा‐ओ‐क़दह‐ओ‐कूज़ा‐ओ‐सबू shiishah-o-qada;h-o-kuuzah-o-sabuu 1
 سادگی सादगी saadagii 6
   - سادگی सादगी saadagii 4
-  - سادگیوپرکاری सादगी‐ओ‐पुरकारी saadagii-o-purkaarii 1
+  - سادگی و پرکاری सादगी‐ओ‐पुरकारी saadagii-o-purkaarii 1
   - سادگیہاے सादगीहा‐ए‐ saadagiihaa-e 1
 شوخ शोख़ sho;x 6
   - شوخ शोख़ sho;x 4
   - شوخِ शोख़‐ए‐ sho;x-e 1
-  - شوخوعاشقِ शोख़‐ओ‐आशिक़‐ए‐ sho;x-o-((aashiq-e 1
+  - شوخ و عاشقِ शोख़‐ओ‐आशिक़‐ए‐ sho;x-o-((aashiq-e 1
 حیف हैफ़ ;haif 6
   - حیف हैफ़ ;haif 6
 حیراں हैराँ ;hairaa;n 6
@@ -2090,7 +2090,7 @@
   - شیشے शीशे shiishe 3
   - شیشہِ शीशा‐ए‐ shiishah-e 1
   - شیشہ शीशा shiishah 1
-  - شیشہوقدحوکوزہوسبو शीशा‐ओ‐क़दह‐ओ‐कूज़ा‐ओ‐सबू shiishah-o-qada;h-o-kuuzah-o-sabuu 1
+  - شیشہ و قدح و کوزہ و سبو शीशा‐ओ‐क़दह‐ओ‐कूज़ा‐ओ‐सबू shiishah-o-qada;h-o-kuuzah-o-sabuu 1
 مانع माना maana(( 6
   - مانعِ माना‐ए‐ maana((-e 4
   - مانع माना maana(( 2
@@ -2135,8 +2135,8 @@
 قد क़द qad 5
   - قدِ क़द‐ए‐ qad-e 2
   - قد क़द qad 1
-  - قدورخ क़द‐ओ‐रुख़ qad-o-ru;x 1
-  - قدوگیسو क़द‐ओ‐गेसू qad-o-gesuu 1
+  - قد و رخ क़द‐ओ‐रुख़ qad-o-ru;x 1
+  - قد و گیسو क़द‐ओ‐गेसू qad-o-gesuu 1
 جمع जमा jam((a 5
   - جمع जमा jam((a 5
 گدا गदा gadaa 5
@@ -2163,8 +2163,8 @@
 سزا सज़ा sazaa 5
   - سزا सज़ा sazaa 4
   - سزاے सज़ा‐ए‐ sazaa-e 1
-بالوپر बाल‐ओ‐पर baal-o-par 5
-  - بالوپر बाल‐ओ‐पर baal-o-par 5
+بال و پر बाल‐ओ‐पर baal-o-par 5
+  - بال و پر बाल‐ओ‐पर baal-o-par 5
 تصویر तसवीर ta.sviir 5
   - تصویر तसवीर ta.sviir 5
 عجب अजब ((ajab 5
@@ -2213,45 +2213,45 @@
 خلوت ख़लवत ;xalvat 5
   - خلوت ख़लवत ;xalvat 3
   - خلوتِ ख़लवत‐ए‐ ;xalvat-e 1
-  - خلوتوجلوت ख़लवत‐ओ‐जलवत ;xalvat-o-jalvat 1
+  - خلوت و جلوت ख़लवत‐ओ‐जलवत ;xalvat-o-jalvat 1
 روشن रौशन raushan 5
   - روشن रौशन raushan 5
 خرمن ख़िरमन ;xirman 5
   - خرمن ख़िरमन ;xirman 4
   - خرمنِ ख़िरमन‐ए‐ ;xirman-e 1
 پیچ पेच pech 5
-  - پیچوتاب पेच‐ओ‐ताब pech-o-taab 3
-  - پیچوخم पेच‐ओ‐ख़म pech-o-;xam 1
-  - پیچوتابِ पेच‐ओ‐ताब‐ए‐ pech-o-taab-e 1
+  - پیچ و تاب पेच‐ओ‐ताब pech-o-taab 3
+  - پیچ و خم पेच‐ओ‐ख़म pech-o-;xam 1
+  - پیچ و تابِ पेच‐ओ‐ताब‐ए‐ pech-o-taab-e 1
 سا सा saa 5
   - سا सा saa 5
 چاہے चाहे chaahe 5
   - چاہے चाहे chaahe 5
 تمکین तमकीन tamkiin 5
   - تمکیں तमकीं tamkii;n 2
-  - تمکینوہوش तमकीन‐ओ‐होश tamkiin-o-hosh 1
+  - تمکین و ہوش तमकीन‐ओ‐होश tamkiin-o-hosh 1
   - تمکینِ तमकीन‐ए‐ tamkiin-e 1
-  - تمکینوضبط तमकीन‐ओ‐ज़बत tamkiin-o-.zab:t 1
+  - تمکین و ضبط तमकीन‐ओ‐ज़बत tamkiin-o-.zab:t 1
 ایمان ईमान iimaan 5
   - ایماں ईमाँ iimaa;n 3
   - ایمان ईमान iimaan 1
-  - ایمانوآگہی ईमान‐ओ‐आगही iimaan-o-aagahii 1
+  - ایمان و آگہی ईमान‐ओ‐आगही iimaan-o-aagahii 1
 سویدا सुवैदा suvaidaa 5
   - سویدا सुवैदा suvaidaa 4
   - سویداے सुवैदा‐ए‐ suvaidaa-e 1
 دہن दहन dahan 5
   - دہن दहन dahan 3
   - دہنِ दहन‐ए‐ dahan-e 1
-  - کامودہن काम‐ओ‐दहन kaam-o-dahan 1
+  - کام و دہن काम‐ओ‐दहन kaam-o-dahan 1
 کار कार kaar 5
-  - کاروبار कार‐ओ‐बार kaar-o-baar 2
+  - کار و بار कार‐ओ‐बार kaar-o-baar 2
   - کار कार kaar 2
-  - کاروبارِ कार‐ओ‐बार‐ए‐ kaar-o-baar-e 1
+  - کار و بارِ कार‐ओ‐बार‐ए‐ kaar-o-baar-e 1
 گردون गरदून garduun 5
   - گردوں गरदूँ garduu;n 5
 نگار निगार nigaar 5
   - نگار निगार nigaar 4
-  - نقشونگارِ नक़श‐ओ‐निगार‐ए‐ naqsh-o-nigaar-e 1
+  - نقش و نگارِ नक़श‐ओ‐निगार‐ए‐ naqsh-o-nigaar-e 1
 تقریر तक़रीर taqriir 5
   - تقریر तक़रीर taqriir 5
 دیوانہ दीवाना diivaanah 5
@@ -2276,13 +2276,13 @@
 ضبط ज़बत .zab:t 5
   - ضبط ज़बत .zab:t 2
   - ضبطِ ज़बत‐ए‐ .zab:t-e 2
-  - تمکینوضبط तमकीन‐ओ‐ज़बत tamkiin-o-.zab:t 1
+  - تمکین و ضبط तमकीन‐ओ‐ज़बत tamkiin-o-.zab:t 1
 باب बाब baab 5
   - باب बाब baab 4
   - بابِ बाब‐ए‐ baab-e 1
 گہر गुहर guhar 5
   - گہر गुहर guhar 3
-  - لعلوگہر लाल‐ओ‐गुहर la((l-o-guhar 1
+  - لعل و گہر लाल‐ओ‐गुहर la((l-o-guhar 1
   - گہرہاے गुहरहा‐ए‐ guharhaa-e 1
 موجہ मौजा maujah 5
   - موجہِ मौजा‐ए‐ maujah-e 5
@@ -2306,7 +2306,7 @@
 وجود वुजूद vujuud 5
   - وجود वुजूद vujuud 3
   - وجودِ वुजूद‐ए‐ vujuud-e 1
-  - وجودوعدم वुजूद‐ओ‐अदम vujuud-o-((adam 1
+  - وجود و عدم वुजूद‐ओ‐अदम vujuud-o-((adam 1
 وسعت वुसअत vus((at 5
   - وسعتِ वुसअत‐ए‐ vus((at-e 3
   - وسعت वुसअत vus((at 2
@@ -2319,13 +2319,13 @@
   - خریدارِ ख़रीदार‐ए‐ ;xariidaar-e 2
 کوہکن कोहकन kohkan 5
   - کوہکن कोहकन kohkan 4
-  - قیسوکوہکن क़ैस‐ओ‐कोहकन qais-o-kohkan 1
+  - قیس و کوہکن क़ैस‐ओ‐कोहकन qais-o-kohkan 1
 ساحل साहिल saa;hil 5
   - ساحل साहिल saa;hil 4
   - ساحلِ साहिल‐ए‐ saa;hil-e 1
 قیس क़ैस qais 5
   - قیس क़ैस qais 4
-  - قیسوکوہکن क़ैस‐ओ‐कोहकन qais-o-kohkan 1
+  - قیس و کوہکن क़ैस‐ओ‐कोहकन qais-o-kohkan 1
 اعتبار एतबार i((tibaar 5
   - اعتبار एतबार i((tibaar 3
   - اعتبارِ एतबार‐ए‐ i((tibaar-e 2
@@ -2356,7 +2356,7 @@
   - شام शाम shaam 2
 کفن कफ़न kafan 5
   - کفن कफ़न kafan 4
-  - تیغوکفن तेग़‐ओ‐कफ़न te;g-o-kafan 1
+  - تیغ و کفن तेग़‐ओ‐कफ़न te;g-o-kafan 1
 نشّہ नशशा nashshah 5
   - نشّہِ नशशा‐ए‐ nashshah-e 2
   - نشّہ नशशा nashshah 1
@@ -2364,16 +2364,16 @@
   - نشّہہا नशशहहा nashshah'haa 1
 آگہی आगही aagahii 5
   - آگہی आगही aagahii 4
-  - ایمانوآگہی ईमान‐ओ‐आगही iimaan-o-aagahii 1
+  - ایمان و آگہی ईमान‐ओ‐आगही iimaan-o-aagahii 1
 گفتار गुफ़तार guftaar 5
   - گفتار गुफ़तार guftaar 4
   - گفتارِ गुफ़तार‐ए‐ guftaar-e 1
 مستی मसती mastii 5
   - مستی मसती mastii 4
-  - روشومستیِ रविश‐ओ‐मसती‐ए‐ ravish-o-mastii-e 1
+  - روش و مستیِ रविश‐ओ‐मसती‐ए‐ ravish-o-mastii-e 1
 شادی शादी shaadii 5
   - شادی शादी shaadii 4
-  - غموشادی ग़म‐ओ‐शादी ;gam-o-shaadii 1
+  - غم و شادی ग़म‐ओ‐शादी ;gam-o-shaadii 1
 روتے रोते rote 5
   - روتے रोते rote 5
 آفتاب आफ़ताब aaftaab 5
@@ -2385,7 +2385,7 @@
   - کاوش काविश kaavish 1
 ہوش होश hosh 5
   - ہوش होश hosh 4
-  - تمکینوہوش तमकीन‐ओ‐होश tamkiin-o-hosh 1
+  - تمکین و ہوش तमकीन‐ओ‐होश tamkiin-o-hosh 1
 طرف तरफ़ :taraf 5
   - طرف तरफ़ :taraf 5
 سودا सौदा saudaa 5
@@ -2453,7 +2453,7 @@
 تسلیم तसलीम tasliim 4
   - تسلیم तसलीम tasliim 2
   - تسلیمِ तसलीम‐ए‐ tasliim-e 1
-  - تسلیموبدا तसलीम‐ओ‐बदा tasliim-o-badaa 1
+  - تسلیم و بدا तसलीम‐ओ‐बदा tasliim-o-badaa 1
 قبلہ क़िबला qiblah 4
   - قبلہِ क़िबला‐ए‐ qiblah-e 2
   - قبلے क़िबले qible 1
@@ -2497,7 +2497,7 @@
   - قاصد क़ासिद qaa.sid 4
 جم जम jam 4
   - جم जम jam 3
-  - فریدونوجموکیخسروودارابوبہمن फ़रीदून‐ओ‐जम‐ओ‐कैख़ुसरव‐ओ‐दाराब‐ओ‐बहमन fariiduun-o-jam-o-kai;xusrav-o-daaraab-o-bahman 1
+  - فریدون و جم و کیخسرو و داراب و بہمن फ़रीदून‐ओ‐जम‐ओ‐कैख़ुसरव‐ओ‐दाराब‐ओ‐बहमन fariiduun-o-jam-o-kai;xusrav-o-daaraab-o-bahman 1
 بد گمانی बदगुमानी bad-gumaanii 4
   - بد گمانی बदगुमानी bad-gumaanii 3
   - بد گمانیِ बदगुमानी‐ए‐ bad-gumaanii-e 1
@@ -2511,7 +2511,7 @@
   - فکر फ़िकर fikr 1
 سوال सवाल savaal 4
   - سوال सवाल savaal 3
-  - سوالوجواب सवाल‐ओ‐जवाब savaal-o-javaab 1
+  - سوال و جواب सवाल‐ओ‐जवाब savaal-o-javaab 1
 ٹپکنا टपकना ;tapknaa 4
   - ٹپکا टपका ;tapkaa 2
   - ٹپکے टपके ;tapke 2
@@ -2534,11 +2534,11 @@
   - ادھر उधर udhar 4
 قہر क़हर qahr 4
   - قہر क़हर qahr 2
-  - قہروعتاب क़हर‐ओ‐अताब qahr-o-((ataab 1
-  - قہروغضب क़हर‐ओ‐ग़ज़ब qahr-o-;ga.zab 1
+  - قہر و عتاب क़हर‐ओ‐अताब qahr-o-((ataab 1
+  - قہر و غضب क़हर‐ओ‐ग़ज़ब qahr-o-;ga.zab 1
 مدّعی मुददी mudda((ii 4
   - مدّعی मुददी mudda((ii 3
-  - مدّعیودیدہ मुददी‐ओ‐दीदा mudda((ii-o-diidah 1
+  - مدّعی و دیدہ मुददी‐ओ‐दीदा mudda((ii-o-diidah 1
 حضرت हज़रत ;ha.zrat 4
   - حضرت हज़रत ;ha.zrat 2
   - حضرتِ हज़रत‐ए‐ ;ha.zrat-e 2
@@ -2555,11 +2555,11 @@
   - پریشانیاں परेशानियाँ pareshaaniyaa;n 1
 زنّار ज़ुन्नार zunnaar 4
   - زنّار ज़ुन्नार zunnaar 3
-  - سبحہوزنّار सुबहा‐ओ‐ज़ुन्नार sub;hah-o-zunnaar 1
+  - سبحہ و زنّار सुबहा‐ओ‐ज़ुन्नार sub;hah-o-zunnaar 1
 الم अलम alam 4
   - الم अलम alam 2
   - المِ अलम‐ए‐ alam-e 1
-  - دردوالم दरद‐ओ‐अलम dard-o-alam 1
+  - درد و الم दरद‐ओ‐अलम dard-o-alam 1
 راحت राहत raa;hat 4
   - راحت राहत raa;hat 4
 چھٹنا छुटना chhu;tnaa 4
@@ -2571,9 +2571,9 @@
   - دوڑتے दौड़ते dau;rte 1
 خرابی ख़राबी ;xaraabii 4
   - خرابی ख़राबी ;xaraabii 4
-پیچوتاب पेच‐ओ‐ताब pech-o-taab 4
-  - پیچوتاب पेच‐ओ‐ताब pech-o-taab 3
-  - پیچوتابِ पेच‐ओ‐ताब‐ए‐ pech-o-taab-e 1
+پیچ و تاب पेच‐ओ‐ताब pech-o-taab 4
+  - پیچ و تاب पेच‐ओ‐ताब pech-o-taab 3
+  - پیچ و تابِ पेच‐ओ‐ताब‐ए‐ pech-o-taab-e 1
 ٹوٹنا टूटना ;tuu;tnaa 4
   - ٹوٹ टूट ;tuu;t 3
   - ٹوٹے टूटे ;tuu;te 1
@@ -2608,7 +2608,7 @@
 حجاب हिजाब ;hijaab 4
   - حجاب हिजाब ;hijaab 2
   - حجابِ हिजाब‐ए‐ ;hijaab-e 1
-  - حجابووداعِ हिजाब‐ओ‐विदा‐ए‐ ;hijaab-o-vidaa((-e 1
+  - حجاب و وداعِ हिजाब‐ओ‐विदा‐ए‐ ;hijaab-o-vidaa((-e 1
 بد خو बदख़ू bad-;xuu 4
   - بد خو बदख़ू bad-;xuu 3
   - بد خویاں बदख़ूयाँ bad-;xuuyaa;n 1
@@ -2689,7 +2689,7 @@
   - نازک नाज़ुक naazuk 4
 شاہد शाहिद shaahid 4
   - شاہدِ शाहिद‐ए‐ shaahid-e 2
-  - شہودوشاہدومشہود शुहूद‐ओ‐शाहिद‐ओ‐मशहूद shuhuud-o-shaahid-o-mashhuud 1
+  - شہود و شاہد و مشہود शुहूद‐ओ‐शाहिद‐ओ‐मशहूद shuhuud-o-shaahid-o-mashhuud 1
   - شاہد शाहिद shaahid 1
 خوشا ख़ुशा ;xvushaa 4
   - خوشا ख़ुशा ;xvushaa 4
@@ -2724,8 +2724,8 @@
   - پارہہاے पारहहा‐ए‐ paarah'haa-e 1
 دعوا दावा da((vaa 4
   - دعواے दावा‐ए‐ da((vaa-e 2
-  - مقابلودعواے मुक़ाबिल‐ओ‐दावा‐ए‐ muqaabil-o-da((vaa-e 1
-  - مجبوریودعواے मजबूरी‐ओ‐दावा‐ए‐ majbuurii-o-da((vaa-e 1
+  - مقابل و دعواے मुक़ाबिल‐ओ‐दावा‐ए‐ muqaabil-o-da((vaa-e 1
+  - مجبوری و دعواے मजबूरी‐ओ‐दावा‐ए‐ majbuurii-o-da((vaa-e 1
 لڑنا लड़ना la;rnaa 4
   - لڑتے लड़ते la;rte 1
   - لڑیے लड़िये la;riye 1
@@ -2736,15 +2736,15 @@
   - روانیِ रवानी‐ए‐ ravaanii-e 1
 در خور दरख़ुर dar-;xvur 4
   - در خورِ दरख़ुर‐ए‐ dar-;xvur-e 4
-دیوارودر दीवार‐ओ‐दर diivaar-o-dar 4
-  - دیوارودر दीवार‐ओ‐दर diivaar-o-dar 4
+دیوار و در दीवार‐ओ‐दर diivaar-o-dar 4
+  - دیوار و در दीवार‐ओ‐दर diivaar-o-dar 4
 طالع ताला :taala(( 4
   - طالعِ ताला‐ए‐ :taala((-e 4
 رسم रसम rasm 4
-  - رسمورہِ रसम‐ओ‐रा‐ए‐ rasm-o-rah-e 1
-  - راہورسمِ राह‐ओ‐रसम‐ए‐ raah-o-rasm-e 1
-  - رسموراہ रसम‐ओ‐राह rasm-o-raah 1
-  - رہورسمِ रा‐ओ‐रसम‐ए‐ rah-o-rasm-e 1
+  - رسم و رہِ रसम‐ओ‐रा‐ए‐ rasm-o-rah-e 1
+  - راہ و رسمِ राह‐ओ‐रसम‐ए‐ raah-o-rasm-e 1
+  - رسم و راہ रसम‐ओ‐राह rasm-o-raah 1
+  - رہ و رسمِ रा‐ओ‐रसम‐ए‐ rah-o-rasm-e 1
 کاغذ काग़ज़ kaa;ga;z 4
   - کاغذِ काग़ज़‐ए‐ kaa;ga;z-e 2
   - کاغذ काग़ज़ kaa;ga;z 2
@@ -2780,7 +2780,7 @@
   - قمری क़ुमरी qumrii 4
 سبحہ सुबहा sub;hah 4
   - سبحہِ सुबहा‐ए‐ sub;hah-e 2
-  - سبحہوزنّار सुबहा‐ओ‐ज़ुन्नार sub;hah-o-zunnaar 1
+  - سبحہ و زنّار सुबहा‐ओ‐ज़ुन्नार sub;hah-o-zunnaar 1
   - سبحہ सुबहा sub;hah 1
 سحر सहर sa;har 4
   - سحر सहर sa;har 4
@@ -2814,9 +2814,9 @@
   - طعنہِ ताना‐ए‐ :ta((nah-e 2
   - طعنہ ताना :ta((nah 1
 روش रविश ravish 3
-  - روشومستیِ रविश‐ओ‐मसती‐ए‐ ravish-o-mastii-e 1
+  - روش و مستیِ रविश‐ओ‐मसती‐ए‐ ravish-o-mastii-e 1
   - روشِ रविश‐ए‐ ravish-e 1
-  - طرزوروش तरज़‐ओ‐रविश :tarz-o-ravish 1
+  - طرز و روش तरज़‐ओ‐रविश :tarz-o-ravish 1
 مضمون मज़मून ma.zmuun 3
   - مضموں मज़मूँ ma.zmuu;n 3
 ہمہ हमा hamah 3
@@ -2855,7 +2855,7 @@
   - گورِ गोर‐ए‐ gor-e 1
 خطّ ख़तत ;xa:t:t 3
   - خطِّ ख़तत‐ए‐ ;xa:t:t-e 2
-  - خطّوخال ख़तत‐ओ‐ख़ाल ;xa:t:t-o-;xaal 1
+  - خطّ و خال ख़तत‐ओ‐ख़ाल ;xa:t:t-o-;xaal 1
 دبنا दबना dabnaa 3
   - دب दब dab 1
   - دبا दबा dabaa 1
@@ -2863,7 +2863,7 @@
 خموش ख़मोश ;xamosh 3
   - خموش ख़मोश ;xamosh 3
 نشو नशव nashv 3
-  - نشوونما नशव‐ओ‐नुमा nashv-o-numaa 3
+  - نشو و نما नशव‐ओ‐नुमा nashv-o-numaa 3
 کمین कमीन kamiin 3
   - کمیں कमीं kamii;n 2
   - کمینِ कमीन‐ए‐ kamiin-e 1
@@ -2891,10 +2891,10 @@
   - بیش बेश besh 3
 پیالہ पियाला piyaalah 3
   - پیالہ पियाला piyaalah 2
-  - پیالہوساغر पियाला‐ओ‐साग़र piyaalah-o-saa;gar 1
+  - پیالہ و ساغر पियाला‐ओ‐साग़र piyaalah-o-saa;gar 1
 خاشاک ख़ाशाक ;xaashaak 3
-  - خسوخاشاکِ ख़स‐ओ‐ख़ाशाक‐ए‐ ;xas-o-;xaashaak-e 1
-  - خسوخاشاک ख़स‐ओ‐ख़ाशाक ;xas-o-;xaashaak 1
+  - خس و خاشاکِ ख़स‐ओ‐ख़ाशाक‐ए‐ ;xas-o-;xaashaak-e 1
+  - خس و خاشاک ख़स‐ओ‐ख़ाशाक ;xas-o-;xaashaak 1
   - خاشاک ख़ाशाक ;xaashaak 1
 بے حجاب बेहिजाब be-;hijaab 3
   - بے حجاب बेहिजाब be-;hijaab 2
@@ -2905,7 +2905,7 @@
   - شیریں शीरीं shiirii;n 3
 یاس यास yaas 3
   - یاس यास yaas 2
-  - یاسوامّید यास‐ओ‐उममीद yaas-o-ummiid 1
+  - یاس و امّید यास‐ओ‐उममीद yaas-o-ummiid 1
 حرم हरम ;haram 3
   - حرم हरम ;haram 3
 عنقا अंक़ा ((anqaa 3
@@ -2990,8 +2990,8 @@
   - ندیم नदीम nadiim 2
   - ندیمِ नदीम‐ए‐ nadiim-e 1
 لعل लाल la((l 3
-  - لعلوگہر लाल‐ओ‐गुहर la((l-o-guhar 1
-  - لعلوزمرّدوزروگوہر लाल‐ओ‐ज़ुमुररुद‐ओ‐ज़र‐ओ‐गौहर la((l-o-zumurrud-o-zar-o-gauhar 1
+  - لعل و گہر लाल‐ओ‐गुहर la((l-o-guhar 1
+  - لعل و زمرّد و زر و گوہر लाल‐ओ‐ज़ुमुररुद‐ओ‐ज़र‐ओ‐गौहर la((l-o-zumurrud-o-zar-o-gauhar 1
   - لعلِ लाल‐ए‐ la((l-e 1
 زہر ज़हर zahr 3
   - زہر ज़हर zahr 2
@@ -3006,7 +3006,7 @@
   - آفتِ आफ़त‐ए‐ aafat-e 1
 خود آرا ख़ुदआरा ;xvud-aaraa 3
   - خود آرا ख़ुदआरा ;xvud-aaraa 2
-  - خود بینوخود آرا ख़ुदबीन‐ओ‐ख़ुदआरा ;xvud-biin-o-;xvud-aaraa 1
+  - خود بین و خود آرا ख़ुदबीन‐ओ‐ख़ुदआरा ;xvud-biin-o-;xvud-aaraa 1
 زخمی ज़ख़मी za;xmii 3
   - زخمی ज़ख़मी za;xmii 2
   - زخمیوں ज़ख़मियों za;xmiyo;n 1
@@ -3024,9 +3024,9 @@
 گرہ गिरा girah 3
   - گرہ गिरा girah 2
   - گرہِ गिरा‐ए‐ girah-e 1
-کاروبار कार‐ओ‐बार kaar-o-baar 3
-  - کاروبار कार‐ओ‐बार kaar-o-baar 2
-  - کاروبارِ कार‐ओ‐बार‐ए‐ kaar-o-baar-e 1
+کار و بار कार‐ओ‐बार kaar-o-baar 3
+  - کار و بار कार‐ओ‐बार kaar-o-baar 2
+  - کار و بارِ कार‐ओ‐बार‐ए‐ kaar-o-baar-e 1
 رخصت रुख़सत ru;x.sat 3
   - رخصتِ रुख़सत‐ए‐ ru;x.sat-e 2
   - رخصت रुख़सत ru;x.sat 1
@@ -3045,7 +3045,7 @@
   - رندِ रिंद‐ए‐ rind-e 1
 زر ज़र zar 3
   - زرِ ज़र‐ए‐ zar-e 1
-  - لعلوزمرّدوزروگوہر लाल‐ओ‐ज़ुमुररुद‐ओ‐ज़र‐ओ‐गौहर la((l-o-zumurrud-o-zar-o-gauhar 1
+  - لعل و زمرّد و زر و گوہر लाल‐ओ‐ज़ुमुररुद‐ओ‐ज़र‐ओ‐गौहर la((l-o-zumurrud-o-zar-o-gauhar 1
   - زر ज़र zar 1
 دوزخ दोज़ख़ doza;x 3
   - دوزخ दोज़ख़ doza;x 3
@@ -3063,7 +3063,7 @@
 چرچا चरचा charchaa 3
   - چرچا चरचा charchaa 3
 نما नुमा numaa 3
-  - نشوونما नशव‐ओ‐नुमा nashv-o-numaa 3
+  - نشو و نما नशव‐ओ‐नुमा nashv-o-numaa 3
 زیر ज़ेर zer 3
   - زیرِ ज़ेर‐ए‐ zer-e 3
 ذرا ज़रा ;zaraa 3
@@ -3094,7 +3094,7 @@
   - حوادث हवादिस ;havaadi;s 3
 پے पै pai 3
   - پے पै pai 2
-  - رگوپے रग‐ओ‐पै rag-o-pai 1
+  - رگ و پے रग‐ओ‐पै rag-o-pai 1
 حالت हालत ;haalat 3
   - حالت हालत ;haalat 3
 کان कान kaan 3
@@ -3213,7 +3213,7 @@
 نقد नक़द naqd 3
   - نقدِ नक़द‐ए‐ naqd-e 1
   - نقد नक़द naqd 1
-  - نسیہونقدِ निसया‐ओ‐नक़द‐ए‐ nisyah-o-naqd-e 1
+  - نسیہ و نقدِ निसया‐ओ‐नक़द‐ए‐ nisyah-o-naqd-e 1
 کرو करो karo 3
   - کرو करो karo 3
 تلافی तलाफ़ी talaafii 3
@@ -3238,7 +3238,7 @@
   - بجھتے बुझते bujhte 1
 گستاخی गुसताख़ी gustaa;xii 3
   - گستاخی गुसताख़ी gustaa;xii 1
-  - بیباکیوگستاخی बेबाकी‐ओ‐गुसताख़ी bebaakii-o-gustaa;xii 1
+  - بیباکی و گستاخی बेबाकी‐ओ‐गुसताख़ी bebaakii-o-gustaa;xii 1
   - گستاخیِ गुसताख़ी‐ए‐ gustaa;xii-e 1
 بے مہر बेमिहर be-mihr 3
   - بے مہر बेमिहर be-mihr 3
@@ -3258,12 +3258,12 @@
   - شخص शख़स sha;x.s 3
 زمرّد ज़ुमुररुद zumurrud 3
   - زمرّد ज़ुमुररुद zumurrud 2
-  - لعلوزمرّدوزروگوہر लाल‐ओ‐ज़ुमुररुद‐ओ‐ज़र‐ओ‐गौहर la((l-o-zumurrud-o-zar-o-gauhar 1
+  - لعل و زمرّد و زر و گوہر लाल‐ओ‐ज़ुमुररुद‐ओ‐ज़र‐ओ‐गौहर la((l-o-zumurrud-o-zar-o-gauhar 1
 خاں ख़ाँ ;xaa;n 3
   - خاں ख़ाँ ;xaa;n 3
 سال साल saal 3
   - سال साल saal 2
-  - شبوروزوماہوسال शब‐ओ‐रोज़‐ओ‐माह‐ओ‐साल shab-o-roz-o-maah-o-saal 1
+  - شب و روز و ماہ و سال शब‐ओ‐रोज़‐ओ‐माह‐ओ‐साल shab-o-roz-o-maah-o-saal 1
 التفات इलतिफ़ात iltifaat 3
   - التفات इलतिफ़ात iltifaat 2
   - التفاتِ इलतिफ़ात‐ए‐ iltifaat-e 1
@@ -3275,8 +3275,8 @@
 آزادی आज़ादी aazaadii 3
   - آزادی आज़ादी aazaadii 2
   - آزادیِ आज़ादी‐ए‐ aazaadii-e 1
-نشوونما नशव‐ओ‐नुमा nashv-o-numaa 3
-  - نشوونما नशव‐ओ‐नुमा nashv-o-numaa 3
+نشو و نما नशव‐ओ‐नुमा nashv-o-numaa 3
+  - نشو و نما नशव‐ओ‐नुमा nashv-o-numaa 3
 آرائش आराइश aaraa))ish 3
   - آرائشِ आराइश‐ए‐ aaraa))ish-e 2
   - آرائش आराइश aaraa))ish 1
@@ -3371,7 +3371,7 @@
   - صید सैद .said 1
 برگ बरग barg 3
   - برگِ बरग‐ए‐ barg-e 2
-  - سروبرگِ सर‐ओ‐बरग‐ए‐ sar-o-barg-e 1
+  - سر و برگِ सर‐ओ‐बरग‐ए‐ sar-o-barg-e 1
 جلاد जललाद jallaad 3
   - جلاد जललाद jallaad 3
 غربت ग़ुरबत ;gurbat 3
@@ -3434,9 +3434,9 @@
 دید दीद diid 3
   - دید दीद diid 3
 دین दीन diin 3
-  - دلودیں दिल‐ओ‐दीं dil-o-dii;n 1
-  - دولتودیں दौलत‐ओ‐दीं daulat-o-dii;n 1
-  - دینودل दीन‐ओ‐दिल diin-o-dil 1
+  - دل و دیں दिल‐ओ‐दीं dil-o-dii;n 1
+  - دولت و دیں दौलत‐ओ‐दीं daulat-o-dii;n 1
+  - دین و دل दीन‐ओ‐दिल diin-o-dil 1
 کتنا कितना kitnaa 3
   - کتنے कितने kitne 2
   - کتنا कितना kitnaa 1
@@ -3462,12 +3462,12 @@
   - پیغام पैग़ाम pai;gaam 1
 خوبی ख़ूबी ;xuubii 3
   - خوبیِ ख़ूबी‐ए‐ ;xuubii-e 2
-  - چمنوخوبیِ चमन‐ओ‐ख़ूबी‐ए‐ chaman-o-;xuubii-e 1
+  - چمن و خوبیِ चमन‐ओ‐ख़ूबी‐ए‐ chaman-o-;xuubii-e 1
 حالانکہ हालांकिह ;haalaa;nkih 2
   - حالانکہ हालांकिह ;haalaa;nkih 2
 جمع जम jam(( 2
-  - جمعوخرج जम‐ओ‐ख़रज jam((-o-;xarj 1
-  - جمعوخرجِ जम‐ओ‐ख़रज‐ए‐ jam((-o-;xarj-e 1
+  - جمع و خرج जम‐ओ‐ख़रज jam((-o-;xarj 1
+  - جمع و خرجِ जम‐ओ‐ख़रज‐ए‐ jam((-o-;xarj-e 1
 بے زبانی बेज़बानी be-zabaanii 2
   - بے زبانی बेज़बानी be-zabaanii 2
 آہنگ आहंग aahang 2
@@ -3542,7 +3542,7 @@
   - اقلیمِ इक़लीम‐ए‐ iqliim-e 1
   - اقلیم इक़लीम iqliim 1
 سرور सुरूर suruur 2
-  - سروروسوز सुरूर‐ओ‐सोज़ suruur-o-soz 1
+  - سرور و سوز सुरूर‐ओ‐सोज़ suruur-o-soz 1
   - سرورِ सुरूर‐ए‐ suruur-e 1
 یاران यारान yaaraan 2
   - یارانِ यारान‐ए‐ yaaraan-e 2
@@ -3568,7 +3568,7 @@
   - ادراک इदराक idraak 1
   - ادراکِ इदराक‐ए‐ idraak-e 1
 طوف तौफ़ :tauf 2
-  - نجفوطوفِ नजफ़‐ओ‐तौफ़‐ए‐ najaf-o-:tauf-e 1
+  - نجف و طوفِ नजफ़‐ओ‐तौफ़‐ए‐ najaf-o-:tauf-e 1
   - طوفِ तौफ़‐ए‐ :tauf-e 1
 عیسیٰ ईसा ((iis;aa 2
   - عیسیٰ ईसा ((iis;aa 2
@@ -3584,7 +3584,7 @@
   - رو रो ro 2
 جرئت जुरअत jur))at 2
   - جرئتِ जुरअत‐ए‐ jur))at-e 1
-  - فضولوجرئتِ फ़ुज़ूल‐ओ‐जुरअत‐ए‐ fu.zuul-o-jur))at-e 1
+  - فضول و جرئتِ फ़ुज़ूल‐ओ‐जुरअत‐ए‐ fu.zuul-o-jur))at-e 1
 دانہ दाना daanah 2
   - دانہ दाना daanah 2
 مشکین मुशकीन mushkiin 2
@@ -3673,7 +3673,7 @@
   - زمزم ज़मज़म zamzam 2
 زہد ज़ुहद zuhd 2
   - زہد ज़ुहद zuhd 1
-  - طاعتوزہد ताअत‐ओ‐ज़ुहद :taa((at-o-zuhd 1
+  - طاعت و زہد ताअत‐ओ‐ज़ुहद :taa((at-o-zuhd 1
 نرگس नरगिस nargis 2
   - نرگس नरगिस nargis 2
 اسیری असीरी asiirii 2
@@ -3709,7 +3709,7 @@
   - طفلاں तिफ़लाँ :tiflaa;n 2
 حیات हयात ;hayaat 2
   - حیاتِ हयात‐ए‐ ;hayaat-e 1
-  - حیاتوبندِ हयात‐ओ‐बंद‐ए‐ ;hayaat-o-band-e 1
+  - حیات و بندِ हयात‐ओ‐बंद‐ए‐ ;hayaat-o-band-e 1
 لباس लिबास libaas 2
   - لباسِ लिबास‐ए‐ libaas-e 1
   - لباس लिबास libaas 1
@@ -3736,11 +3736,11 @@
 رکھیو रखयो rakhyo 2
   - رکھیو रखयो rakhyo 2
 خشت ख़िशत ;xisht 2
-  - سنگوخشت संग‐ओ‐ख़िशत sang-o-;xisht 2
+  - سنگ و خشت संग‐ओ‐ख़िशत sang-o-;xisht 2
 نسبت निसबत nisbat 2
   - نسبت निसबत nisbat 2
 صبر सबर .sabr 2
-  - شکیبوصبرِ शिकेब‐ओ‐सबर‐ए‐ shikeb-o-.sabr-e 1
+  - شکیب و صبرِ शिकेब‐ओ‐सबर‐ए‐ shikeb-o-.sabr-e 1
   - صبرِ सबर‐ए‐ .sabr-e 1
 لفظ लफ़ज़ laf:z 2
   - لفظ लफ़ज़ laf:z 2
@@ -3780,9 +3780,9 @@
   - ٹھنڈا ठंडा ;than;daa 2
 حجر हिजर ;hijr 2
   - حجر हिजर ;hijr 2
-جمعوخرج जम‐ओ‐ख़रज jam((-o-;xarj 2
-  - جمعوخرج जम‐ओ‐ख़रज jam((-o-;xarj 1
-  - جمعوخرجِ जम‐ओ‐ख़रज‐ए‐ jam((-o-;xarj-e 1
+جمع و خرج जम‐ओ‐ख़रज jam((-o-;xarj 2
+  - جمع و خرج जम‐ओ‐ख़रज jam((-o-;xarj 1
+  - جمع و خرجِ जम‐ओ‐ख़रज‐ए‐ jam((-o-;xarj-e 1
 جاؤ जाओ jaa))o 2
   - جاؤ जाओ jaa))o 2
 موقوف मौक़ूफ़ mauquuf 2
@@ -3792,7 +3792,7 @@
   - صرصرِ सरसर‐ए‐ .sar.sar-e 1
 نا خوش नाख़ुश naa-;xvush 2
   - نا خوش नाख़ुश naa-;xvush 1
-  - خوشونا خوش ख़ुश‐ओ‐नाख़ुश ;xvush-o-naa-;xvush 1
+  - خوش و نا خوش ख़ुश‐ओ‐नाख़ुश ;xvush-o-naa-;xvush 1
 سحر सिहर si;hr 2
   - سحر सिहर si;hr 2
 کاکل काकुल kaakul 2
@@ -3813,7 +3813,7 @@
   - نظارہِ नज़ारा‐ए‐ na:zaarah-e 1
   - نظارہ नज़ारा na:zaarah 1
 پیام पयाम payaam 2
-  - پیاموچشم पयाम‐ओ‐चशम payaam-o-chashm 1
+  - پیام و چشم पयाम‐ओ‐चशम payaam-o-chashm 1
   - پیامِ पयाम‐ए‐ payaam-e 1
 نعش नाश na((sh 2
   - نعش नाश na((sh 2
@@ -3980,8 +3980,8 @@
   - طاقِ ताक़‐ए‐ :taaq-e 2
 جہان تاب जहानताब jahaan-taab 2
   - جہاں تاب जहाँताब jahaa;n-taab 2
-سروپا सर‐ओ‐पा sar-o-paa 2
-  - بے سروپا बेसर‐ओ‐पा be-sar-o-paa 2
+سر و پا सर‐ओ‐पा sar-o-paa 2
+  - بے سر و پا बेसर‐ओ‐पा be-sar-o-paa 2
 گنجینہ गंजीना ganjiinah 2
   - گنجینہِ गंजीना‐ए‐ ganjiinah-e 2
 جور जौर jaur 2
@@ -4016,7 +4016,7 @@
   - ظن ज़न :zan 1
 کشاد कुशाद kushaad 2
   - کشادِ कुशाद‐ए‐ kushaad-e 1
-  - کشادوبستِ कुशाद‐ओ‐बसत‐ए‐ kushaad-o-bast-e 1
+  - کشاد و بستِ कुशाद‐ओ‐बसत‐ए‐ kushaad-o-bast-e 1
 لگاؤ लगाओ lagaa))o 2
   - لگاؤ लगाओ lagaa))o 2
 پشت पुशत pusht 2
@@ -4026,7 +4026,7 @@
 اندھیر अंधेर andher 2
   - اندھیر अंधेर andher 2
 شہود शुहूद shuhuud 2
-  - شہودوشاہدومشہود शुहूद‐ओ‐शाहिद‐ओ‐मशहूद shuhuud-o-shaahid-o-mashhuud 1
+  - شہود و شاہد و مشہود शुहूद‐ओ‐शाहिद‐ओ‐मशहूद shuhuud-o-shaahid-o-mashhuud 1
   - شہود शुहूद shuhuud 1
 مرد मरद mard 2
   - مرد मरद mard 2
@@ -4060,7 +4060,7 @@
   - درمیاں दरमियाँ darmiyaa;n 2
 عتاب अताब ((ataab 2
   - عتاب अताब ((ataab 1
-  - قہروعتاب क़हर‐ओ‐अताब qahr-o-((ataab 1
+  - قہر و عتاب क़हर‐ओ‐अताब qahr-o-((ataab 1
 ووہی वोही vohii 2
   - ووہی वोही vohii 2
 اعجاز इजाज़ i((jaaz 2
@@ -4085,7 +4085,7 @@
 غزل ग़ज़ल ;gazal 2
   - غزل ग़ज़ल ;gazal 2
 رسوم रुसूम rusuum 2
-  - رسوموقیود रुसूम‐ओ‐क़ुयूद rusuum-o-quyuud 1
+  - رسوم و قیود रुसूम‐ओ‐क़ुयूद rusuum-o-quyuud 1
   - رسوم रुसूम rusuum 1
 شگفتن शुगुफ़तन shuguftan 2
   - شگفتن ہا शुगुफ़तन‐हा shuguftan-haa 1
@@ -4145,8 +4145,8 @@
 بتانا बताना bataanaa 2
   - بتا बता bataa 1
   - بتاؤں बताऊँ bataa))uu;n 1
-بے سروپا बेसर‐ओ‐पा be-sar-o-paa 2
-  - بے سروپا बेसर‐ओ‐पा be-sar-o-paa 2
+بے سر و پا बेसर‐ओ‐पा be-sar-o-paa 2
+  - بے سر و پا बेसर‐ओ‐पा be-sar-o-paa 2
 جنازہ जनाज़ा janaazah 2
   - جنازے जनाज़े janaaze 1
   - جنازہ जनाज़ा janaazah 1
@@ -4180,7 +4180,7 @@
 روتا रोता rotaa 2
   - روتا रोता rotaa 2
 بازو बाज़ू baazuu 2
-  - دستوبازو दसत‐ओ‐बाज़ू dast-o-baazuu 1
+  - دست و بازو दसत‐ओ‐बाज़ू dast-o-baazuu 1
   - بازو बाज़ू baazuu 1
 ہزارو हज़ारो hazaaro 2
   - ہزاروں हज़ारों hazaaro;n 2
@@ -4194,16 +4194,16 @@
   - زندانیِ ज़िंदानी‐ए‐ zindaanii-e 1
   - زندانیوں ज़िंदानियों zindaaniyo;n 1
 بست बसत bast 2
-  - کشادوبستِ कुशाद‐ओ‐बसत‐ए‐ kushaad-o-bast-e 1
-  - بندوبست बंद‐ओ‐बसत band-o-bast 1
+  - کشاد و بستِ कुशाद‐ओ‐बसत‐ए‐ kushaad-o-bast-e 1
+  - بند و بست बंद‐ओ‐बसत band-o-bast 1
 کنج कुंज kunj 2
   - کنجِ कुंज‐ए‐ kunj-e 2
 ناوک नावुक naavuk 2
   - ناوکِ नावुक‐ए‐ naavuk-e 2
-مہرووفا मिहर‐ओ‐वफ़ा mihr-o-vafaa 2
-  - مہرووفا मिहर‐ओ‐वफ़ा mihr-o-vafaa 2
-سنگوخشت संग‐ओ‐ख़िशत sang-o-;xisht 2
-  - سنگوخشت संग‐ओ‐ख़िशत sang-o-;xisht 2
+مہر و وفا मिहर‐ओ‐वफ़ा mihr-o-vafaa 2
+  - مہر و وفا मिहर‐ओ‐वफ़ा mihr-o-vafaa 2
+سنگ و خشت संग‐ओ‐ख़िशत sang-o-;xisht 2
+  - سنگ و خشت संग‐ओ‐ख़िशत sang-o-;xisht 2
 تیسہ तेसा tesah 2
   - تیشے तेशे teshe 2
 کشت किशत kisht 2
@@ -4214,7 +4214,7 @@
 غم خواری ग़मख़वारी ;gam-;xvaarii 2
   - غم خواری ग़मख़वारी ;gam-;xvaarii 2
 سیماب सीमाब siimaab 2
-  - صاعقہوشعلہوسیماب साइक़ा‐ओ‐शुला‐ओ‐सीमाब .saa((iqah-o-shu((lah-o-siimaab 1
+  - صاعقہ و شعلہ و سیماب साइक़ा‐ओ‐शुला‐ओ‐सीमाब .saa((iqah-o-shu((lah-o-siimaab 1
   - سیماب सीमाब siimaab 1
 پیٹنا पीटना pii;tnaa 2
   - پیٹنے पीटने pii;tne 1
@@ -4228,10 +4228,10 @@
 رنگین रंगीन rangiin 2
   - رنگیں रंगीं rangii;n 2
 بے دست बेदसत be-dast 2
-  - بے دستوپا बेदसत‐ओ‐पा be-dast-o-paa 1
-  - بے دستوپائی बेदसत‐ओ‐पाई be-dast-o-paa))ii 1
-سبزہوگل सबज़ा‐ओ‐गुल sabzah-o-gul 2
-  - سبزہوگل सबज़ा‐ओ‐गुल sabzah-o-gul 2
+  - بے دست و پا बेदसत‐ओ‐पा be-dast-o-paa 1
+  - بے دست و پائی बेदसत‐ओ‐पाई be-dast-o-paa))ii 1
+سبزہ و گل सबज़ा‐ओ‐गुल sabzah-o-gul 2
+  - سبزہ و گل सबज़ा‐ओ‐गुल sabzah-o-gul 2
 مندنا मुंदना mu;ndnaa 2
   - مند मुंद mu;nd 2
 قصّہ क़िससा qi.s.sah 2
@@ -4266,8 +4266,8 @@
 پئے पए pa))e 2
   - پئے पए pa))e 2
 خرج ख़रज ;xarj 2
-  - جمعوخرج जम‐ओ‐ख़रज jam((-o-;xarj 1
-  - جمعوخرجِ जम‐ओ‐ख़रज‐ए‐ jam((-o-;xarj-e 1
+  - جمع و خرج जम‐ओ‐ख़रज jam((-o-;xarj 1
+  - جمع و خرجِ जम‐ओ‐ख़रज‐ए‐ jam((-o-;xarj-e 1
 تھکنا थकना thaknaa 2
   - تھک थक thak 2
 نا دان नादान naa-daan 2
@@ -4350,7 +4350,7 @@
   - جواں जवाँ javaa;n 2
 خال ख़ाल ;xaal 2
   - خالِ ख़ाल‐ए‐ ;xaal-e 1
-  - خطّوخال ख़तत‐ओ‐ख़ाल ;xa:t:t-o-;xaal 1
+  - خطّ و خال ख़तत‐ओ‐ख़ाल ;xa:t:t-o-;xaal 1
 بے نیازی बेनियाज़ी be-niyaazii 2
   - بے نیازی बेनियाज़ी be-niyaazii 2
 آب گینہ आबगीना aab-giinah 2
@@ -4358,7 +4358,7 @@
 مان मान maan 2
   - مان मान maan 2
 امّید उममीद ummiid 2
-  - یاسوامّید यास‐ओ‐उममीद yaas-o-ummiid 1
+  - یاس و امّید यास‐ओ‐उममीद yaas-o-ummiid 1
   - امّید उममेद ummed 1
 سمندر समंदर samandar 2
   - سمندر समंदर samandar 2
@@ -4378,7 +4378,7 @@
 دریغ दरेग़ dare;g 2
   - دریغ दरेग़ dare;g 2
 باغ بان बाग़बान baa;g-baan 2
-  - باغ بانوکفِ बाग़बान‐ओ‐कफ़‐ए‐ baa;g-baan-o-kaf-e 1
+  - باغ بان و کفِ बाग़बान‐ओ‐कफ़‐ए‐ baa;g-baan-o-kaf-e 1
   - باغ بان बाग़बान baa;g-baan 1
 آشفتہ سر आशुफ़तासर aashuftah-sar 2
   - آشفتہ سر आशुफ़तासर aashuftah-sar 2
@@ -4395,7 +4395,7 @@
 مقدّمہ मुक़ददमा muqaddamah 2
   - مقدّمہ मुक़ददमा muqaddamah 2
 عقل अक़ल ((aql 2
-  - عقلودلوجاں अक़ल‐ओ‐दिल‐ओ‐जाँ ((aql-o-dil-o-jaa;n 1
+  - عقل و دل و جاں अक़ल‐ओ‐दिल‐ओ‐जाँ ((aql-o-dil-o-jaa;n 1
   - عقل अक़ल ((aql 1
 زیارت گاہ ज़ियारतगाह ziyaarat-gaah 2
   - زیارت گاہِ ज़ियारतगाह‐ए‐ ziyaarat-gaah-e 2
@@ -4411,7 +4411,7 @@
   - نمایاں नुमायाँ numaayaa;n 2
 چنگ चंग chang 2
   - چنگ चंग chang 1
-  - چنگورباب चंग‐ओ‐रबाब chang-o-rabaab 1
+  - چنگ و رباب चंग‐ओ‐रबाब chang-o-rabaab 1
 حسرت پرست हसरतपरसत ;hasrat-parast 2
   - حسرت پرست हसरतपरसत ;hasrat-parast 1
   - حسرت پرستِ हसरतपरसत‐ए‐ ;hasrat-parast-e 1
@@ -4434,7 +4434,7 @@
 گوں गौं gau;n 2
   - گوں गौं gau;n 2
 بے در बेदर be-dar 2
-  - بے درودیوار बेदर‐ओ‐दीवार be-dar-o-diivaar 1
+  - بے در و دیوار बेदर‐ओ‐दीवार be-dar-o-diivaar 1
   - بے در बेदर be-dar 1
 رنجور रंजूर ranjuur 2
   - رنجور रंजूर ranjuur 2
@@ -4517,15 +4517,15 @@
   - صاحب साहिब .saa;hib 2
 بھید भेद bhed 2
   - بھید भेद bhed 2
-خسوخاشاک ख़स‐ओ‐ख़ाशाक ;xas-o-;xaashaak 2
-  - خسوخاشاکِ ख़स‐ओ‐ख़ाशाक‐ए‐ ;xas-o-;xaashaak-e 1
-  - خسوخاشاک ख़स‐ओ‐ख़ाशाक ;xas-o-;xaashaak 1
+خس و خاشاک ख़स‐ओ‐ख़ाशाक ;xas-o-;xaashaak 2
+  - خس و خاشاکِ ख़स‐ओ‐ख़ाशाक‐ए‐ ;xas-o-;xaashaak-e 1
+  - خس و خاشاک ख़स‐ओ‐ख़ाशाक ;xas-o-;xaashaak 1
 احوال अहवाल a;hvaal 2
   - احوال अहवाल a;hvaal 1
   - احوالِ अहवाल‐ए‐ a;hvaal-e 1
 غضب ग़ज़ब ;ga.zab 2
   - غضب ग़ज़ब ;ga.zab 1
-  - قہروغضب क़हर‐ओ‐ग़ज़ब qahr-o-;ga.zab 1
+  - قہر و غضب क़हर‐ओ‐ग़ज़ब qahr-o-;ga.zab 1
 حذر हज़र ;ha;zar 2
   - حذر हज़र ;ha;zar 2
 بناؤ बनाओ banaa))o 2
@@ -4546,8 +4546,8 @@
   - قطعِ क़त‐ए‐ qa:t((-e 2
 کہانی कहानी kahaanii 2
   - کہانی कहानी kahaanii 2
-گلولالہ गुल‐ओ‐लाला gul-o-laalah 2
-  - گلولالہ गुल‐ओ‐लाला gul-o-laalah 2
+گل و لالہ गुल‐ओ‐लाला gul-o-laalah 2
+  - گل و لالہ गुल‐ओ‐लाला gul-o-laalah 2
 قبا क़बा qabaa 2
   - قبا क़बा qabaa 1
   - قباے क़बा‐ए‐ qabaa-e 1
@@ -4560,7 +4560,7 @@
   - شمار शुमार shumaar 1
 ملت मिललत millat 2
   - ملتیں मिललतें millate;n 1
-  - ملتوملک मिललत‐ओ‐मुलक millat-o-mulk 1
+  - ملت و ملک मिललत‐ओ‐मुलक millat-o-mulk 1
 استوار उसतुवार ustuvaar 2
   - استوار उसतुवार ustuvaar 2
 سرد सरद sard 2
@@ -4569,7 +4569,7 @@
   - اسد ال لیٰہ असदउललाह asad-ul-l;aah 2
 طاعت ताअत :taa((at 2
   - طاعت ताअत :taa((at 1
-  - طاعتوزہد ताअत‐ओ‐ज़ुहद :taa((at-o-zuhd 1
+  - طاعت و زہد ताअत‐ओ‐ज़ुहद :taa((at-o-zuhd 1
 پر خون पुरख़ून pur-;xuun 2
   - پر خوں पुरख़ूँ pur-;xuu;n 2
 خور ख़ुर ;xvur 2
@@ -4589,7 +4589,7 @@
   - ہم سفر हमसफ़र ham-safar 2
 آئین आईन aa))iin 2
   - آئینِ आईन‐ए‐ aa))iin-e 1
-  - شرعوآئین शर‐ओ‐आईन shar((-o-aa))iin 1
+  - شرع و آئین शर‐ओ‐आईन shar((-o-aa))iin 1
 غش ग़श ;gash 2
   - غش ग़श ;gash 2
 پوجنا पूजना puujnaa 2
@@ -4632,9 +4632,9 @@
   - عذر خواہ उज़रख़वाह ((u;zr-;xvaah 1
 آشفتگی आशुफ़तगी aashuftagii 2
   - آشفتگی आशुफ़तगी aashuftagii 2
-آبوہوا आब‐ओ‐हवा aab-o-havaa 2
-  - آبوہوا आब‐ओ‐हवा aab-o-havaa 1
-  - آبوہواے आब‐ओ‐हवा‐ए‐ aab-o-havaa-e 1
+آب و ہوا आब‐ओ‐हवा aab-o-havaa 2
+  - آب و ہوا आब‐ओ‐हवा aab-o-havaa 1
+  - آب و ہواے आब‐ओ‐हवा‐ए‐ aab-o-havaa-e 1
 بھیس भेस bhes 2
   - بھیس भेस bhes 2
 لالہ کاری लालाकारी laalah-kaarii 2
@@ -4702,8 +4702,8 @@
   - داستانِ दासतान‐ए‐ daastaan-e 1
 بد نام बदनाम bad-naam 1
   - بد نام बदनाम bad-naam 1
-ستموجور सितम‐ओ‐जोर sitam-o-jor 1
-  - ستموجورِ सितम‐ओ‐जोर‐ए‐ sitam-o-jor-e 1
+ستم و جور सितम‐ओ‐जोर sitam-o-jor 1
+  - ستم و جورِ सितम‐ओ‐जोर‐ए‐ sitam-o-jor-e 1
 التہاب इलतिहाब iltihaab 1
   - التہاب इलतिहाब iltihaab 1
 گومگو गोमगो gomago 1
@@ -4734,8 +4734,8 @@
   - ریشہ دوانی रेशादवानी reshah-davaanii 1
 اعظم आज़म a((:zam 1
   - اعظم आज़म a((:zam 1
-ناقصوکامل नाक़िस‐ओ‐कामिल naaqi.s-o-kaamil 1
-  - ناقصوکامل नाक़िस‐ओ‐कामिल naaqi.s-o-kaamil 1
+ناقص و کامل नाक़िस‐ओ‐कामिल naaqi.s-o-kaamil 1
+  - ناقص و کامل नाक़िस‐ओ‐कामिल naaqi.s-o-kaamil 1
 عیار अयार ((ayaar 1
   - عیارِ अयार‐ए‐ ((ayaar-e 1
 بر رو बररू bar-ruu 1
@@ -4747,7 +4747,7 @@
 افزائش अफ़ज़ाइश afzaa))ish 1
   - افزائشِ अफ़ज़ाइश‐ए‐ afzaa))ish-e 1
 خود بین ख़ुदबीन ;xvud-biin 1
-  - خود بینوخود آرا ख़ुदबीन‐ओ‐ख़ुदआरा ;xvud-biin-o-;xvud-aaraa 1
+  - خود بین و خود آرا ख़ुदबीन‐ओ‐ख़ुदआरा ;xvud-biin-o-;xvud-aaraa 1
 قدم بوس क़दमबोस qadam-bos 1
   - قدم بوس क़दमबोस qadam-bos 1
 ورطہ वरता var:tah 1
@@ -4768,14 +4768,14 @@
   - پکڑا पकड़ा pak;raa 1
 اکبر अकबर akbar 1
   - اکبر अकबर akbar 1
-مجبوریودعوا मजबूरी‐ओ‐दावा majbuurii-o-da((vaa 1
-  - مجبوریودعواے मजबूरी‐ओ‐दावा‐ए‐ majbuurii-o-da((vaa-e 1
+مجبوری و دعوا मजबूरी‐ओ‐दावा majbuurii-o-da((vaa 1
+  - مجبوری و دعواے मजबूरी‐ओ‐दावा‐ए‐ majbuurii-o-da((vaa-e 1
 بھرم भरम bharam 1
   - بھرم भरम bharam 1
 صلح सुलह .sul;h 1
   - صلح सुलह .sul;h 1
 بے ننگ बेनंग be-nang 1
-  - بے ننگونام बेनंग‐ओ‐नाम be-nang-o-naam 1
+  - بے ننگ و نام बेनंग‐ओ‐नाम be-nang-o-naam 1
 مغفرت मग़फ़रत ma;gfarat 1
   - مغفرت मग़फ़रत ma;gfarat 1
 کل कुल kul 1
@@ -4818,18 +4818,18 @@
   - حاجات हाजात ;haajaat 1
 آذر فشاں आज़रफ़िशाँ aa;zar-fishaa;n 1
   - آذر فشاں आज़रफ़िशाँ aa;zar-fishaa;n 1
-دلومژگاں दिल‐ओ‐मिझ़गाँ dil-o-mizhgaa;n 1
-  - دلومژگاں दिल‐ओ‐मिझ़गाँ dil-o-mizhgaa;n 1
+دل و مژگاں दिल‐ओ‐मिझ़गाँ dil-o-mizhgaa;n 1
+  - دل و مژگاں दिल‐ओ‐मिझ़गाँ dil-o-mizhgaa;n 1
 پرداز परदाज़ pardaaz 1
   - پرداز परदाज़ pardaaz 1
 بہ ذرّہ बज़ररा bah-;zarrah 1
   - بہ ذرّہ बज़ररा bah-;zarrah 1
-دردوالم दरद‐ओ‐अलम dard-o-alam 1
-  - دردوالم दरद‐ओ‐अलम dard-o-alam 1
+درد و الم दरद‐ओ‐अलम dard-o-alam 1
+  - درد و الم दरद‐ओ‐अलम dard-o-alam 1
 پریزاد परीज़ाद pariizaad 1
   - پریزادوں परीज़ादों pariizaado;n 1
 جلوت जलवत jalvat 1
-  - خلوتوجلوت ख़लवत‐ओ‐जलवत ;xalvat-o-jalvat 1
+  - خلوت و جلوت ख़लवत‐ओ‐जलवत ;xalvat-o-jalvat 1
 سنگ دل संगदिल sang-dil 1
   - سنگ دل संगदिल sang-dil 1
 مرغوب मरग़ूब mar;guub 1
@@ -4839,7 +4839,7 @@
 دست گاہ दसतगाह dast-gaah 1
   - دست گاہِ दसतगाह‐ए‐ dast-gaah-e 1
 مزدوری मज़दूरी mazduurii 1
-  - عشقومزدوریِ इशक़‐ओ‐मज़दूरी‐ए‐ ((ishq-o-mazduurii-e 1
+  - عشق و مزدوریِ इशक़‐ओ‐मज़दूरी‐ए‐ ((ishq-o-mazduurii-e 1
 تیغ آزما तेग़आज़मा te;g-aazmaa 1
   - تیغ آزما तेग़आज़मा te;g-aazmaa 1
 حیرت کدہ हैरतकदा ;hairat-kadah 1
@@ -4852,14 +4852,14 @@
   - امتیازِ इमतियाज़‐ए‐ imtiyaaz-e 1
 ستم کش सितमकश sitam-kash 1
   - ستم کش सितमकश sitam-kash 1
-پیالہوساغر पियाला‐ओ‐साग़र piyaalah-o-saa;gar 1
-  - پیالہوساغر पियाला‐ओ‐साग़र piyaalah-o-saa;gar 1
+پیالہ و ساغر पियाला‐ओ‐साग़र piyaalah-o-saa;gar 1
+  - پیالہ و ساغر पियाला‐ओ‐साग़र piyaalah-o-saa;gar 1
 اشارا इशारा ishaaraa 1
   - اشارا इशारा ishaaraa 1
 تھوڑی थोड़ी tho;rii 1
   - تھوڑی थोड़ी tho;rii 1
-صحرا دست گاہوقطرہ सहरादसतगाह‐ओ‐क़तरा .sa;hraa-dast-gaah-o-qa:trah 1
-  - صحرا دست گاہوقطرہ सहरादसतगाह‐ओ‐क़तरा .sa;hraa-dast-gaah-o-qa:trah 1
+صحرا دست گاہ و قطرہ सहरादसतगाह‐ओ‐क़तरा .sa;hraa-dast-gaah-o-qa:trah 1
+  - صحرا دست گاہ و قطرہ सहरादसतगाह‐ओ‐क़तरा .sa;hraa-dast-gaah-o-qa:trah 1
 ہرزہ हरज़ा harzah 1
   - ہرزہ हरज़ा harzah 1
 اشارت इशारत ishaarat 1
@@ -4872,8 +4872,8 @@
   - دفن दफ़न dafn 1
 نور ال عین नूरउलऐन nuur-ul-((ain 1
   - نور ال عینِ नूरउलऐन‐ए‐ nuur-ul-((ain-e 1
-لبودنداں लब‐ओ‐दंदाँ lab-o-dandaa;n 1
-  - لبودنداں लब‐ओ‐दंदाँ lab-o-dandaa;n 1
+لب و دنداں लब‐ओ‐दंदाँ lab-o-dandaa;n 1
+  - لب و دنداں लब‐ओ‐दंदाँ lab-o-dandaa;n 1
 بے داد گر बेदादगर be-daad-gar 1
   - بیداد گر बेदादगर bedaad-gar 1
 حسرت سنج हसरतसंज ;hasrat-sanj 1
@@ -4907,7 +4907,7 @@
 لت लत lat 1
   - لت लत lat 1
 بے گنہ کش बेगुनाकुश be-gunah-kush 1
-  - بے گنہ کشوحق बेगुनाकुश‐ओ‐हक़ be-gunah-kush-o-;haq 1
+  - بے گنہ کش و حق बेगुनाकुश‐ओ‐हक़ be-gunah-kush-o-;haq 1
 جناب जनाब janaab 1
   - جناب जनाब janaab 1
 گفتہ गुफ़ता guftah 1
@@ -4931,15 +4931,15 @@
 برہنگی बरहनगी barahnagii 1
   - برہنگی बरहनगी barahnagii 1
 بیباکی बेबाकी bebaakii 1
-  - بیباکیوگستاخی बेबाकी‐ओ‐गुसताख़ी bebaakii-o-gustaa;xii 1
+  - بیباکی و گستاخی बेबाकी‐ओ‐गुसताख़ी bebaakii-o-gustaa;xii 1
 نہی नही nahii 1
   - نہی नही nahii 1
-بے گنہ کشوحق बेगुनाकुश‐ओ‐हक़ be-gunah-kush-o-;haq 1
-  - بے گنہ کشوحق बेगुनाकुश‐ओ‐हक़ be-gunah-kush-o-;haq 1
-شبوروزوماہوسال शब‐ओ‐रोज़‐ओ‐माह‐ओ‐साल shab-o-roz-o-maah-o-saal 1
-  - شبوروزوماہوسال शब‐ओ‐रोज़‐ओ‐माह‐ओ‐साल shab-o-roz-o-maah-o-saal 1
-حجابووداع हिजाब‐ओ‐विदा ;hijaab-o-vidaa(( 1
-  - حجابووداعِ हिजाब‐ओ‐विदा‐ए‐ ;hijaab-o-vidaa((-e 1
+بے گنہ کش و حق बेगुनाकुश‐ओ‐हक़ be-gunah-kush-o-;haq 1
+  - بے گنہ کش و حق बेगुनाकुश‐ओ‐हक़ be-gunah-kush-o-;haq 1
+شب و روز و ماہ و سال शब‐ओ‐रोज़‐ओ‐माह‐ओ‐साल shab-o-roz-o-maah-o-saal 1
+  - شب و روز و ماہ و سال शब‐ओ‐रोज़‐ओ‐माह‐ओ‐साल shab-o-roz-o-maah-o-saal 1
+حجاب و وداع हिजाब‐ओ‐विदा ;hijaab-o-vidaa(( 1
+  - حجاب و وداعِ हिजाब‐ओ‐विदा‐ए‐ ;hijaab-o-vidaa((-e 1
 زبون ज़बून zabuun 1
   - زبوں ज़बूँ zabuu;n 1
 عہدہ उहदा ((uhdah 1
@@ -4950,8 +4950,8 @@
   - خود رفتہِ ख़ुदरफ़ता‐ए‐ ;xvud-raftah-e 1
 دیجیو दीजियो diijiyo 1
   - دیجیو दीजियो diijiyo 1
-خود بینوخود آرا ख़ुदबीन‐ओ‐ख़ुदआरा ;xvud-biin-o-;xvud-aaraa 1
-  - خود بینوخود آرا ख़ुदबीन‐ओ‐ख़ुदआरा ;xvud-biin-o-;xvud-aaraa 1
+خود بین و خود آرا ख़ुदबीन‐ओ‐ख़ुदआरा ;xvud-biin-o-;xvud-aaraa 1
+  - خود بین و خود آرا ख़ुदबीन‐ओ‐ख़ुदआरा ;xvud-biin-o-;xvud-aaraa 1
 نمرود नमरूद namruud 1
   - نمرود नमरूद namruud 1
 دو نیم दोनीम do-niim 1
@@ -4968,8 +4968,8 @@
   - فانوس फ़ानूस faanuus 1
 انتظام इंतिज़ाम inti:zaam 1
   - انتظام इंतिज़ाम inti:zaam 1
-پیچوخم पेच‐ओ‐ख़म pech-o-;xam 1
-  - پیچوخم पेच‐ओ‐ख़म pech-o-;xam 1
+پیچ و خم पेच‐ओ‐ख़म pech-o-;xam 1
+  - پیچ و خم पेच‐ओ‐ख़म pech-o-;xam 1
 ناصیہ فرسا नासियाफ़रसा naa.siyah-farsaa 1
   - ناصیہ فرسا नासियाफ़रसा naa.siyah-farsaa 1
 مطلق मतलक़ ma:tlaq 1
@@ -4980,10 +4980,10 @@
   - گراں باریِ गिराँबारी‐ए‐ giraa;n-baarii-e 1
 کوکبہ कौकबा kaukabah 1
   - کوکبہِ कौकबा‐ए‐ kaukabah-e 1
-ساقیوذوق साक़ी‐ओ‐ज़ौक़ saaqii-o-;zauq 1
-  - ساقیوذوقِ साक़ी‐ओ‐ज़ौक़‐ए‐ saaqii-o-;zauq-e 1
-عیشوجاہ ऐश‐ओ‐जाह ((aish-o-jaah 1
-  - عیشوجاہ ऐश‐ओ‐जाह ((aish-o-jaah 1
+ساقی و ذوق साक़ी‐ओ‐ज़ौक़ saaqii-o-;zauq 1
+  - ساقی و ذوقِ साक़ी‐ओ‐ज़ौक़‐ए‐ saaqii-o-;zauq-e 1
+عیش و جاہ ऐश‐ओ‐जाह ((aish-o-jaah 1
+  - عیش و جاہ ऐश‐ओ‐जाह ((aish-o-jaah 1
 باندھا बांधा baa;ndhaa 1
   - باندھیے बांधिये baa;ndhiye 1
 چشمک चशमक chashmak 1
@@ -4992,8 +4992,8 @@
   - سوختہ सोख़ता so;xtah 1
 پلک पलक palak 1
   - پلکوں पलकों palko;n 1
-دارورسن दार‐ओ‐रसन daar-o-rasan 1
-  - دارورسن दार‐ओ‐रसन daar-o-rasan 1
+دار و رسن दार‐ओ‐रसन daar-o-rasan 1
+  - دار و رسن दार‐ओ‐रसन daar-o-rasan 1
 شائبہ शाइबा shaa))ibah 1
   - شائبہِ शाइबा‐ए‐ shaa))ibah-e 1
 مناجات मुनाजात munaajaat 1
@@ -5006,8 +5006,8 @@
   - ناداں नादाँ naadaa;n 1
 سہل सहल sahl 1
   - سہل सहल sahl 1
-چنگورباب चंग‐ओ‐रबाब chang-o-rabaab 1
-  - چنگورباب चंग‐ओ‐रबाब chang-o-rabaab 1
+چنگ و رباب चंग‐ओ‐रबाब chang-o-rabaab 1
+  - چنگ و رباب चंग‐ओ‐रबाब chang-o-rabaab 1
 جان ستان تر जानसितानतर jaan-sitaan-tar 1
   - جاں ستاں تر जाँसिताँतर jaa;n-sitaa;n-tar 1
 صورتیں सूरतें .suurate;n 1
@@ -5018,8 +5018,8 @@
   - قائل क़ाइल qaa))il 1
 غارت گری ग़ारतगरी ;gaarat-garii 1
   - غارت گری ग़ारतगरी ;gaarat-garii 1
-کامودہن काम‐ओ‐दहन kaam-o-dahan 1
-  - کامودہن काम‐ओ‐दहन kaam-o-dahan 1
+کام و دہن काम‐ओ‐दहन kaam-o-dahan 1
+  - کام و دہن काम‐ओ‐दहन kaam-o-dahan 1
 پے روی पैरवी pai-ravii 1
   - پے روی पैरवी pai-ravii 1
 رنگین نوائی रंगीननवाई rangiin-navaa))ii 1
@@ -5041,11 +5041,11 @@
 بوند बूंद buu;nd 1
   - بوند बूंद buu;nd 1
 رسن रसन rasan 1
-  - دارورسن दार‐ओ‐रसन daar-o-rasan 1
+  - دار و رسن दार‐ओ‐रसन daar-o-rasan 1
 دل دار दिलदार dil-daar 1
   - دل دار दिलदार dil-daar 1
-شیشہوقدحوکوزہوسبو शीशा‐ओ‐क़दह‐ओ‐कूज़ा‐ओ‐सबू shiishah-o-qada;h-o-kuuzah-o-sabuu 1
-  - شیشہوقدحوکوزہوسبو शीशा‐ओ‐क़दह‐ओ‐कूज़ा‐ओ‐सबू shiishah-o-qada;h-o-kuuzah-o-sabuu 1
+شیشہ و قدح و کوزہ و سبو शीशा‐ओ‐क़दह‐ओ‐कूज़ा‐ओ‐सबू shiishah-o-qada;h-o-kuuzah-o-sabuu 1
+  - شیشہ و قدح و کوزہ و سبو शीशा‐ओ‐क़दह‐ओ‐कूज़ा‐ओ‐सबू shiishah-o-qada;h-o-kuuzah-o-sabuu 1
 بدلنا बदलना badalnaa 1
   - بدلنے बदलने badalne 1
 اعتدال एतदाल i((tidaal 1
@@ -5084,8 +5084,8 @@
   - لہنا लहना lahnaa 1
 غزل خواں ग़ज़लख़वाँ ;gazal-;xvaa;n 1
   - غزل خواں ग़ज़लख़वाँ ;gazal-;xvaa;n 1
-عمرواسد उमर‐ओ‐असद ((umr-o-asad 1
-  - عمرواسد उमर‐ओ‐असद ((umr-o-asad 1
+عمر و اسد उमर‐ओ‐असद ((umr-o-asad 1
+  - عمر و اسد उमर‐ओ‐असद ((umr-o-asad 1
 گل کتر गुलकतर gul-katar 1
   - گل کتر गुलकतर gul-katar 1
 اتّفاقی इततिफ़ाक़ी ittifaaqii 1
@@ -5104,12 +5104,12 @@
   - دام گاہ दामगाह daam-gaah 1
 مکوکب मुकौकब mukaukab 1
   - مکوکب मुकौकब mukaukab 1
-قدوگیسو क़द‐ओ‐गेसू qad-o-gesuu 1
-  - قدوگیسو क़द‐ओ‐गेसू qad-o-gesuu 1
+قد و گیسو क़द‐ओ‐गेसू qad-o-gesuu 1
+  - قد و گیسو क़द‐ओ‐गेसू qad-o-gesuu 1
 مدفن मदफ़न madfan 1
   - مدفن मदफ़न madfan 1
 فردا फ़रदा fardaa 1
-  - فرداودی फ़रदा‐ओ‐दी fardaa-o-dii 1
+  - فردا و دی फ़रदा‐ओ‐दी fardaa-o-dii 1
 نیک नेक nek 1
   - نیک नेक nek 1
 خوش نوایان ख़ुशनवायान ;xvush-navaayaan 1
@@ -5137,13 +5137,13 @@
 ریشگی रेशगी reshagii 1
   - ریشگی रेशगी reshagii 1
 بدا बदा badaa 1
-  - تسلیموبدا तसलीम‐ओ‐बदा tasliim-o-badaa 1
-فرداودی फ़रदा‐ओ‐दी fardaa-o-dii 1
-  - فرداودی फ़रदा‐ओ‐दी fardaa-o-dii 1
+  - تسلیم و بدا तसलीम‐ओ‐बदा tasliim-o-badaa 1
+فردا و دی फ़रदा‐ओ‐दी fardaa-o-dii 1
+  - فردا و دی फ़रदा‐ओ‐दी fardaa-o-dii 1
 جتنی जितनी jitnii 1
   - جتنی जितनी jitnii 1
 صحرا دست گاہ सहरादसतगाह .sa;hraa-dast-gaah 1
-  - صحرا دست گاہوقطرہ सहरादसतगाह‐ओ‐क़तरा .sa;hraa-dast-gaah-o-qa:trah 1
+  - صحرا دست گاہ و قطرہ सहरादसतगाह‐ओ‐क़तरा .sa;hraa-dast-gaah-o-qa:trah 1
 کوند कोंद ko;nd 1
   - کوند कोंद ko;nd 1
 صورت خانہ सूरतख़ाना .suurat-;xaanah 1
@@ -5176,12 +5176,12 @@
   - سبک सुबुक subuk 1
 خواستہ ख़वासता ;xvaastah 1
   - خواستہ ख़वासता ;xvaastah 1
-نجفوطوف नजफ़‐ओ‐तौफ़ najaf-o-:tauf 1
-  - نجفوطوفِ नजफ़‐ओ‐तौफ़‐ए‐ najaf-o-:tauf-e 1
+نجف و طوف नजफ़‐ओ‐तौफ़ najaf-o-:tauf 1
+  - نجف و طوفِ नजफ़‐ओ‐तौफ़‐ए‐ najaf-o-:tauf-e 1
 کوزہ कूज़ा kuuzah 1
-  - شیشہوقدحوکوزہوسبو शीशा‐ओ‐क़दह‐ओ‐कूज़ा‐ओ‐सबू shiishah-o-qada;h-o-kuuzah-o-sabuu 1
+  - شیشہ و قدح و کوزہ و سبو शीशा‐ओ‐क़दह‐ओ‐कूज़ा‐ओ‐सबू shiishah-o-qada;h-o-kuuzah-o-sabuu 1
 خرقہ ख़िरक़ा ;xirqah 1
-  - خرقہوسجّادہ ख़िरक़ा‐ओ‐सजजादा ;xirqah-o-sajjaadah 1
+  - خرقہ و سجّادہ ख़िरक़ा‐ओ‐सजजादा ;xirqah-o-sajjaadah 1
 گہوارہ جنبانی गहवाराजुंबानी gahvaarah-junbaanii 1
   - گہوارہ جنبانی गहवाराजुंबानी gahvaarah-junbaanii 1
 عالم تاب आलमताब ((aalam-taab 1
@@ -5200,8 +5200,8 @@
   - جلوہ فرمائی जलवाफ़रमाई jalvah-farmaa))ii 1
 آشفتہ سروں आशुफ़तासरों aashuftah-saro;n 1
   - آشفتہ سروں आशुफ़तासरों aashuftah-saro;n 1
-وجودوعدم वुजूद‐ओ‐अदम vujuud-o-((adam 1
-  - وجودوعدم वुजूद‐ओ‐अदम vujuud-o-((adam 1
+وجود و عدم वुजूद‐ओ‐अदम vujuud-o-((adam 1
+  - وجود و عدم वुजूद‐ओ‐अदम vujuud-o-((adam 1
 خیالی ख़याली ;xayaalii 1
   - خیالی ख़याली ;xayaalii 1
 مرتبہ मरतबा martabah 1
@@ -5226,18 +5226,18 @@
   - دل فروز दिलफ़ुरोज़ dil-furoz 1
 خستہ جاں ख़सताजाँ ;xastah-jaa;n 1
   - خستہ جاں ख़सताजाँ ;xastah-jaa;n 1
-دلوجاں दिल‐ओ‐जाँ dil-o-jaa;n 1
-  - دلوجاں दिल‐ओ‐जाँ dil-o-jaa;n 1
+دل و جاں दिल‐ओ‐जाँ dil-o-jaa;n 1
+  - دل و جاں दिल‐ओ‐जाँ dil-o-jaa;n 1
 سیکھنا सीखना siikhnaa 1
   - سیکھے सीखे siikhe 1
 منحرف मुंहरिफ़ mun;harif 1
   - منحرف मुंहरिफ़ mun;harif 1
-دستوبازو दसत‐ओ‐बाज़ू dast-o-baazuu 1
-  - دستوبازو दसत‐ओ‐बाज़ू dast-o-baazuu 1
+دست و بازو दसत‐ओ‐बाज़ू dast-o-baazuu 1
+  - دست و بازو दसत‐ओ‐बाज़ू dast-o-baazuu 1
 ذلیل ज़लील ;zaliil 1
   - ذلیل ज़लील ;zaliil 1
 رباب रबाब rabaab 1
-  - چنگورباب चंग‐ओ‐रबाब chang-o-rabaab 1
+  - چنگ و رباب चंग‐ओ‐रबाब chang-o-rabaab 1
 بے صدا बेसदा be-.sadaa 1
   - بے صدا बेसदा be-.sadaa 1
 ذلت ज़िललत ;zillat 1
@@ -5245,27 +5245,27 @@
 خیر ख़ैर ;xair 1
   - خیر ख़ैर ;xair 1
 انگبین अंगबीन angabiin 1
-  - مےوانگبیں मै‐ओ‐अंगबीं mai-o-angabii;n 1
+  - مے و انگبیں मै‐ओ‐अंगबीं mai-o-angabii;n 1
 ظاہرً ज़ाहिरन :zaahira:n 1
   - ظاہرً ज़ाहिरन :zaahira:n 1
-قہروعتاب क़हर‐ओ‐अताब qahr-o-((ataab 1
-  - قہروعتاب क़हर‐ओ‐अताब qahr-o-((ataab 1
+قہر و عتاب क़हर‐ओ‐अताब qahr-o-((ataab 1
+  - قہر و عتاب क़हर‐ओ‐अताब qahr-o-((ataab 1
 طولانی तूलानी :tuulaanii 1
   - طولانی तूलानी :tuulaanii 1
 بووے बोवे bove 1
   - بووے बोवे bove 1
 خودا ख़ुदा ;xvudaa 1
   - خودا ख़ुदा ;xvudaa 1
-مےوساغر मै‐ओ‐साग़र mai-o-saa;gar 1
-  - مےوساغر मै‐ओ‐साग़र mai-o-saa;gar 1
-جیبودامن जेब‐ओ‐दामन jeb-o-daaman 1
-  - جیبودامن जेब‐ओ‐दामन jeb-o-daaman 1
+مے و ساغر मै‐ओ‐साग़र mai-o-saa;gar 1
+  - مے و ساغر मै‐ओ‐साग़र mai-o-saa;gar 1
+جیب و دامن जेब‐ओ‐दामन jeb-o-daaman 1
+  - جیب و دامن जेब‐ओ‐दामन jeb-o-daaman 1
 ایاغ अयाग़ ayaa;g 1
   - ایاغ अयाग़ ayaa;g 1
 خطر ख़तर ;xa:tar 1
   - خطر ख़तर ;xa:tar 1
-شہودوشاہدومشہود शुहूद‐ओ‐शाहिद‐ओ‐मशहूद shuhuud-o-shaahid-o-mashhuud 1
-  - شہودوشاہدومشہود शुहूद‐ओ‐शाहिद‐ओ‐मशहूद shuhuud-o-shaahid-o-mashhuud 1
+شہود و شاہد و مشہود शुहूद‐ओ‐शाहिद‐ओ‐मशहूद shuhuud-o-shaahid-o-mashhuud 1
+  - شہود و شاہد و مشہود शुहूद‐ओ‐शाहिद‐ओ‐मशहूद shuhuud-o-shaahid-o-mashhuud 1
 شناور शिनावर shinaavar 1
   - شناور शिनावर shinaavar 1
 بکنا बकना baknaa 1
@@ -5279,7 +5279,7 @@
 نظر گاہ नज़रगाह na:zar-gaah 1
   - نظر گاہِ नज़रगाह‐ए‐ na:zar-gaah-e 1
 یک عالم यकआलम yak-((aalam 1
-  - یک عالموعالم यकआलम‐ओ‐आलम yak-((aalam-o-((aalam 1
+  - یک عالم و عالم यकआलम‐ओ‐आलम yak-((aalam-o-((aalam 1
 رہزنی रहज़नी rahzanii 1
   - رہزنی रहज़नी rahzanii 1
 ہموار हमवार hamvaar 1
@@ -5301,7 +5301,7 @@
 کروڑ करोड़ karo;r 1
   - کروڑوں करोड़ों karo;ro;n 1
 کیخسرو कैख़ुसरव kai;xusrav 1
-  - فریدونوجموکیخسروودارابوبہمن फ़रीदून‐ओ‐जम‐ओ‐कैख़ुसरव‐ओ‐दाराब‐ओ‐बहमन fariiduun-o-jam-o-kai;xusrav-o-daaraab-o-bahman 1
+  - فریدون و جم و کیخسرو و داراب و بہمن फ़रीदून‐ओ‐जम‐ओ‐कैख़ुसरव‐ओ‐दाराब‐ओ‐बहमन fariiduun-o-jam-o-kai;xusrav-o-daaraab-o-bahman 1
 طی तय :tay 1
   - طی तय :tay 1
 لرزنّا लरज़नना laraznnaa 1
@@ -5314,8 +5314,8 @@
   - ہما हुमा humaa 1
 رندانہ रिंदाना rindaanah 1
   - رندانہ रिंदाना rindaanah 1
-صبحومہر सुबह‐ओ‐मिहर .sub;h-o-mihr 1
-  - صبحومہر सुबह‐ओ‐मिहर .sub;h-o-mihr 1
+صبح و مہر सुबह‐ओ‐मिहर .sub;h-o-mihr 1
+  - صبح و مہر सुबह‐ओ‐मिहर .sub;h-o-mihr 1
 یہاں यहाँ yahaa;n 1
   - یہاں यहाँ yahaa;n 1
 شیر शीर shiir 1
@@ -5336,12 +5336,12 @@
   - تباہی तबाही tabaahii 1
 محرمی महरमी ma;hramii 1
   - محرمیِ महरमी‐ए‐ ma;hramii-e 1
-دیدہودل दीदा‐ओ‐दिल diidah-o-dil 1
-  - دیدہودل दीदा‐ओ‐दिल diidah-o-dil 1
+دیدہ و دل दीदा‐ओ‐दिल diidah-o-dil 1
+  - دیدہ و دل दीदा‐ओ‐दिल diidah-o-dil 1
 صنوبر सनोबर .sanobar 1
-  - سرووصنوبر सरव‐ओ‐सनोबर sarv-o-.sanobar 1
+  - سرو و صنوبر सरव‐ओ‐सनोबर sarv-o-.sanobar 1
 ناقص नाक़िस naaqi.s 1
-  - ناقصوکامل नाक़िस‐ओ‐कामिल naaqi.s-o-kaamil 1
+  - ناقص و کامل नाक़िस‐ओ‐कामिल naaqi.s-o-kaamil 1
 تراشا तराशा taraashaa 1
   - تراشا तराशा taraashaa 1
 اسیروں असीरों asiiro;n 1
@@ -5351,7 +5351,7 @@
 ریائی रियाई riyaa))ii 1
   - ریائی रियाई riyaa))ii 1
 ساختہ साख़ता saa;xtah 1
-  - ساختہوفصلِ साख़ता‐ओ‐फ़सल‐ए‐ saa;xtah-o-fa.sl-e 1
+  - ساختہ و فصلِ साख़ता‐ओ‐फ़सल‐ए‐ saa;xtah-o-fa.sl-e 1
 فرماؤ फ़रमाओ farmaa))o 1
   - فرماؤ फ़रमाओ farmaa))o 1
 دیوار جو दीवारजू diivaar-juu 1
@@ -5362,8 +5362,8 @@
   - تریاکیِ तिरयाकी‐ए‐ tiryaakii-e 1
 چھپنا छुपना chhupnaa 1
   - چھپنا छुपना chhupnaa 1
-آزادہوخود بیں आज़ादा‐ओ‐ख़ुदबीं aazaadah-o-;xvud-bii;n 1
-  - آزادہوخود بیں आज़ादा‐ओ‐ख़ुदबीं aazaadah-o-;xvud-bii;n 1
+آزادہ و خود بیں आज़ादा‐ओ‐ख़ुदबीं aazaadah-o-;xvud-bii;n 1
+  - آزادہ و خود بیں आज़ादा‐ओ‐ख़ुदबीं aazaadah-o-;xvud-bii;n 1
 دریا آشنا दरयाआशना daryaa-aashnaa 1
   - دریا آشنا दरयाआशना daryaa-aashnaa 1
 گھاس घास ghaas 1
@@ -5379,15 +5379,15 @@
 لکیر लकीर lakiir 1
   - لکیریں लकीरें lakiire;n 1
 بے پر बेपर be-par 1
-  - بے پروبالی बेपर‐ओ‐बाली be-par-o-baalii 1
+  - بے پر و بالی बेपर‐ओ‐बाली be-par-o-baalii 1
 بولے बोले bole 1
   - بولے बोले bole 1
 گلدستہ गुलदसता guldastah 1
   - گلدستہ गुलदसता guldastah 1
 سیم تن सीमतन siim-tan 1
   - سیم تن सीमतन siim-tan 1
-ملتوملک मिललत‐ओ‐मुलक millat-o-mulk 1
-  - ملتوملک मिललत‐ओ‐मुलक millat-o-mulk 1
+ملت و ملک मिललत‐ओ‐मुलक millat-o-mulk 1
+  - ملت و ملک मिललत‐ओ‐मुलक millat-o-mulk 1
 شکیب शकेब shakeb 1
   - شکیبِ शकेब‐ए‐ shakeb-e 1
 تجاہل پیشگی तजाहुलपेशगी tajaahul-peshagii 1
@@ -5396,12 +5396,12 @@
   - خواب ناک ख़वाबनाक ;xvaab-naak 1
 نکتہ دان नुकतादान nuktah-daan 1
   - نکتہ داں नुकतादाँ nuktah-daa;n 1
-سروروسوز सुरूर‐ओ‐सोज़ suruur-o-soz 1
-  - سروروسوز सुरूर‐ओ‐सोज़ suruur-o-soz 1
+سرور و سوز सुरूर‐ओ‐सोज़ suruur-o-soz 1
+  - سرور و سوز सुरूर‐ओ‐सोज़ suruur-o-soz 1
 سیہ सिया siyah 1
   - سیہ सिया siyah 1
-بے شرابودل बेशराब‐ओ‐दिल be-sharaab-o-dil 1
-  - بے شرابودلِ बेशराब‐ओ‐दिल‐ए‐ be-sharaab-o-dil-e 1
+بے شراب و دل बेशराब‐ओ‐दिल be-sharaab-o-dil 1
+  - بے شراب و دلِ बेशराब‐ओ‐दिल‐ए‐ be-sharaab-o-dil-e 1
 او ओ o 1
   - او ओ o 1
 کامیاب कामयाब kaamyaab 1
@@ -5412,12 +5412,12 @@
   - قفاے क़फ़ा‐ए‐ qafaa-e 1
 منسوب मंसूब mansuub 1
   - منسوب मंसूब mansuub 1
-سروبرگ सर‐ओ‐बरग sar-o-barg 1
-  - سروبرگِ सर‐ओ‐बरग‐ए‐ sar-o-barg-e 1
+سر و برگ सर‐ओ‐बरग sar-o-barg 1
+  - سر و برگِ सर‐ओ‐बरग‐ए‐ sar-o-barg-e 1
 دفینہ दफ़ीना dafiinah 1
   - دفینہ दफ़ीना dafiinah 1
 جاہ जाह jaah 1
-  - عیشوجاہ ऐश‐ओ‐जाह ((aish-o-jaah 1
+  - عیش و جاہ ऐश‐ओ‐जाह ((aish-o-jaah 1
 اداس उदास udaas 1
   - اداس उदास udaas 1
 بارش बारिश baarish 1
@@ -5429,19 +5429,19 @@
 بہرا बहरा bahraa 1
   - بہرا बहरा bahraa 1
 آزادہ आज़ादा aazaadah 1
-  - آزادہوخود بیں आज़ादा‐ओ‐ख़ुदबीं aazaadah-o-;xvud-bii;n 1
+  - آزادہ و خود بیں आज़ादा‐ओ‐ख़ुदबीं aazaadah-o-;xvud-bii;n 1
 معین मुईन mu((iin 1
   - معینِ मुईन‐ए‐ mu((iin-e 1
 سفرہ सुफ़रा sufrah 1
   - سفرہ सुफ़रा sufrah 1
 گل गिल gil 1
-  - آبوگل आब‐ओ‐गिल aab-o-gil 1
+  - آب و گل आब‐ओ‐गिल aab-o-gil 1
 فردوس फ़िरदौस firdaus 1
   - فردوسِ फ़िरदौस‐ए‐ firdaus-e 1
 اگانا उगाना ugaanaa 1
   - اگاتا उगाता ugaataa 1
-تابوتواں ताब‐ओ‐तवाँ taab-o-tavaa;n 1
-  - تابوتواں ताब‐ओ‐तवाँ taab-o-tavaa;n 1
+تاب و تواں ताब‐ओ‐तवाँ taab-o-tavaa;n 1
+  - تاب و تواں ताब‐ओ‐तवाँ taab-o-tavaa;n 1
 فاقہ مستی फ़ाक़ामसती faaqah-mastii 1
   - فاقہ مستی फ़ाक़ामसती faaqah-mastii 1
 صد ہزار सदहज़ार .sad-hazaar 1
@@ -5451,7 +5451,7 @@
 رفت रफ़त raft 1
   - رفت रफ़त raft 1
 نسرین नसरीन nasriin 1
-  - لالہوگلونسریں लाला‐ओ‐गुल‐ओ‐नसरीं laalah-o-gul-o-nasrii;n 1
+  - لالہ و گل و نسریں लाला‐ओ‐गुल‐ओ‐नसरीं laalah-o-gul-o-nasrii;n 1
 پیو पियो piyo 1
   - پیو पियो piyo 1
 انجم अंजुम anjum 1
@@ -5471,7 +5471,7 @@
 خوشامد طلبوں ख़ुशामदतलबों ;xvushaamad-:talabo;n 1
   - خوشامد طلبوں ख़ुशामदतलबों ;xvushaamad-:talabo;n 1
 عزّ इज़ज़ ((izz 1
-  - عزّوناز इज़ज़‐ओ‐नाज़ ((izz-o-naaz 1
+  - عزّ و ناز इज़ज़‐ओ‐नाज़ ((izz-o-naaz 1
 ہم راہ हमराह ham-raah 1
   - ہم رہاں हमरहाँ ham-rahaa;n 1
 ایک سا एकसा ek-saa 1
@@ -5482,8 +5482,8 @@
   - خوں ناب ख़ूँनाब ;xuu;n-naab 1
 ڈرانا डराना ;daraanaa 1
   - ڈراتا डराता ;daraataa 1
-دولتودیں दौलत‐ओ‐दीं daulat-o-dii;n 1
-  - دولتودیں दौलत‐ओ‐दीं daulat-o-dii;n 1
+دولت و دیں दौलत‐ओ‐दीं daulat-o-dii;n 1
+  - دولت و دیں दौलत‐ओ‐दीं daulat-o-dii;n 1
 خون ریز ख़ूनरेज़ ;xuun-rez 1
   - خوں ریز ख़ूँरेज़ ;xuu;n-rez 1
 زنگ ज़ंग zang 1
@@ -5496,8 +5496,8 @@
   - شراب خانے शराबख़ाने sharaab-;xaane 1
 لوح लौह lau;h 1
   - لوحِ लौह‐ए‐ lau;h-e 1
-نقشونگار नक़श‐ओ‐निगार naqsh-o-nigaar 1
-  - نقشونگارِ नक़श‐ओ‐निगार‐ए‐ naqsh-o-nigaar-e 1
+نقش و نگار नक़श‐ओ‐निगार naqsh-o-nigaar 1
+  - نقش و نگارِ नक़श‐ओ‐निगार‐ए‐ naqsh-o-nigaar-e 1
 صحرا گرد सहरागरद .sa;hraa-gard 1
   - صحرا گرد सहरागरद .sa;hraa-gard 1
 ڈوبنا डूबना ;duubnaa 1
@@ -5542,16 +5542,16 @@
   - برش کال बरशकाल barsh-kaal 1
 عقیدہ अक़ीदा ((aqiidah 1
   - عقیدہ अक़ीदा ((aqiidah 1
-فضولوجرئت फ़ुज़ूल‐ओ‐जुरअत fu.zuul-o-jur))at 1
-  - فضولوجرئتِ फ़ुज़ूल‐ओ‐जुरअत‐ए‐ fu.zuul-o-jur))at-e 1
+فضول و جرئت फ़ुज़ूल‐ओ‐जुरअत fu.zuul-o-jur))at 1
+  - فضول و جرئتِ फ़ुज़ूल‐ओ‐जुरअत‐ए‐ fu.zuul-o-jur))at-e 1
 آتش پرست आतिशपरसत aatish-parast 1
   - آتش پرست आतिशपरसत aatish-parast 1
 بے حاصل बेहासिल be-;haa.sil 1
   - بے حاصل बेहासिल be-;haa.sil 1
 بازیچہ बाज़ीचा baaziichah 1
   - بازیچہِ बाज़ीचा‐ए‐ baaziichah-e 1
-تابوتواں ताब‐ओ‐तुवाँ taab-o-tuvaa;n 1
-  - تابوتواں ताब‐ओ‐तुवाँ taab-o-tuvaa;n 1
+تاب و تواں ताब‐ओ‐तुवाँ taab-o-tuvaa;n 1
+  - تاب و تواں ताब‐ओ‐तुवाँ taab-o-tuvaa;n 1
 خامہ فرسا ख़ामाफ़रसा ;xaamah-farsaa 1
   - خامہ فرسا ख़ामाफ़रसा ;xaamah-farsaa 1
 صدمہ सदमा .sadmah 1
@@ -5561,7 +5561,7 @@
 تراوش तराविश taraavish 1
   - تراوش तराविश taraavish 1
 دی दी dii 1
-  - فرداودی फ़रदा‐ओ‐दी fardaa-o-dii 1
+  - فردا و دی फ़रदा‐ओ‐दी fardaa-o-dii 1
 بے التفاتی बेइलतिफ़ाती be-iltifaatii 1
   - بے التفاتی बेइलतिफ़ाती be-iltifaatii 1
 انجام अंजाम anjaam 1
@@ -5587,7 +5587,7 @@
 کائنات काइनात kaa))inaat 1
   - کائنات काइनात kaa))inaat 1
 ہم طرحی हमतरही ham-:tar;hii 1
-  - ہم طرحیودردِ हमतरही‐ओ‐दरद‐ए‐ ham-:tar;hii-o-dard-e 1
+  - ہم طرحی و دردِ हमतरही‐ओ‐दरद‐ए‐ ham-:tar;hii-o-dard-e 1
 بکھرنا बिखरना bikharnaa 1
   - بکھر बिखर bikhar 1
 دھول دھپّا धौलधपपा dhaul-dhappaa 1
@@ -5601,7 +5601,7 @@
 ناصیہ سا नासियासा naa.siyah-saa 1
   - ناصیہ سا नासियासा naa.siyah-saa 1
 دار दार daar 1
-  - دارورسن दार‐ओ‐रसन daar-o-rasan 1
+  - دار و رسن दार‐ओ‐रसन daar-o-rasan 1
 جان کاہی जानकाही jaan-kaahii 1
   - جاں کاہیِ जाँकाही‐ए‐ jaa;n-kaahii-e 1
 مرہون मरहून marhuun 1
@@ -5610,8 +5610,8 @@
   - خستہ تن ख़सतातन ;xastah-tan 1
 بوس बोस bos 1
   - بوسِ बोस‐ए‐ bos-e 1
-دامنوتار दामन‐ओ‐तार daaman-o-taar 1
-  - دامنوتارِ दामन‐ओ‐तार‐ए‐ daaman-o-taar-e 1
+دامن و تار दामन‐ओ‐तार daaman-o-taar 1
+  - دامن و تارِ दामन‐ओ‐तार‐ए‐ daaman-o-taar-e 1
 خفتہ ख़ुफ़ता ;xuftah 1
   - خفتہ ख़ुफ़ता ;xuftah 1
 نوا پرداز नवापरदाज़ navaa-pardaaz 1
@@ -5650,8 +5650,8 @@
   - سوارِ सवार‐ए‐ savaar-e 1
 مافات माफ़ात maafaat 1
   - مافات माफ़ात maafaat 1
-ساغرومینا साग़र‐ओ‐मीना saa;gar-o-miinaa 1
-  - ساغرومینا साग़र‐ओ‐मीना saa;gar-o-miinaa 1
+ساغر و مینا साग़र‐ओ‐मीना saa;gar-o-miinaa 1
+  - ساغر و مینا साग़र‐ओ‐मीना saa;gar-o-miinaa 1
 طوفانی तूफ़ानी :tuufaanii 1
   - طوفانیِ तूफ़ानी‐ए‐ :tuufaanii-e 1
 شفق शफ़क़ shafaq 1
@@ -5672,20 +5672,20 @@
   - نصیحت نیوش नसीहतनियोश na.sii;hat-niyosh 1
 نا شناس नाशिनास naa-shinaas 1
   - نا شناس नाशिनास naa-shinaas 1
-شوخوعاشق शोख़‐ओ‐आशिक़ sho;x-o-((aashiq 1
-  - شوخوعاشقِ शोख़‐ओ‐आशिक़‐ए‐ sho;x-o-((aashiq-e 1
+شوخ و عاشق शोख़‐ओ‐आशिक़ sho;x-o-((aashiq 1
+  - شوخ و عاشقِ शोख़‐ओ‐आशिक़‐ए‐ sho;x-o-((aashiq-e 1
 مرد افگن मरदअफ़गन mard-afgan 1
   - مرد افگنِ मरदअफ़गन‐ए‐ mard-afgan-e 1
 دجلہ दिजला dijlah 1
   - دجلہ दिजला dijlah 1
 شوریدہ حال शोरीदाहाल shoriidah-;haal 1
   - شوریدہ حال शोरीदाहाल shoriidah-;haal 1
-جوشوخروش जोश‐ओ‐ख़रोश josh-o-;xarosh 1
-  - جوشوخروش जोश‐ओ‐ख़रोश josh-o-;xarosh 1
+جوش و خروش जोश‐ओ‐ख़रोश josh-o-;xarosh 1
+  - جوش و خروش जोश‐ओ‐ख़रोश josh-o-;xarosh 1
 شیخ शैख़ shai;x 1
-  - شیخوبرہمن शैख़‐ओ‐बरहमन shai;x-o-barhaman 1
+  - شیخ و برہمن शैख़‐ओ‐बरहमन shai;x-o-barhaman 1
 شیفتہ शेफ़ता sheftah 1
-  - وحشتوشیفتہ वहशत‐ओ‐शेफ़ता va;hshat-o-sheftah 1
+  - وحشت و شیفتہ वहशत‐ओ‐शेफ़ता va;hshat-o-sheftah 1
 بے اعتدالی बेएतदाली be-i((tidaalii 1
   - بے اعتدالیوں बेएतदालियों be-i((tidaaliyo;n 1
 بر پا बरपा bar-paa 1
@@ -5736,8 +5736,8 @@
   - کیموس कैमूस kaimuus 1
 معانی मआनी ma((aanii 1
   - معانی मआनी ma((aanii 1
-فریدونوجموکیخسروودارابوبہمن फ़रीदून‐ओ‐जम‐ओ‐कैख़ुसरव‐ओ‐दाराब‐ओ‐बहमन fariiduun-o-jam-o-kai;xusrav-o-daaraab-o-bahman 1
-  - فریدونوجموکیخسروودارابوبہمن फ़रीदून‐ओ‐जम‐ओ‐कैख़ुसरव‐ओ‐दाराब‐ओ‐बहमन fariiduun-o-jam-o-kai;xusrav-o-daaraab-o-bahman 1
+فریدون و جم و کیخسرو و داراب و بہمن फ़रीदून‐ओ‐जम‐ओ‐कैख़ुसरव‐ओ‐दाराब‐ओ‐बहमन fariiduun-o-jam-o-kai;xusrav-o-daaraab-o-bahman 1
+  - فریدون و جم و کیخسرو و داراب و بہمن फ़रीदून‐ओ‐जम‐ओ‐कैख़ुसरव‐ओ‐दाराब‐ओ‐बहमन fariiduun-o-jam-o-kai;xusrav-o-daaraab-o-bahman 1
 دشنام दुशनाम dushnaam 1
   - دشنام दुशनाम dushnaam 1
 نوک नोक nok 1
@@ -5752,8 +5752,8 @@
   - سپاری सिपारी sipaarii 1
 زنان ज़नान zanaan 1
   - زنانِ ज़नान‐ए‐ zanaan-e 1
-پیاموچشم पयाम‐ओ‐चशम payaam-o-chashm 1
-  - پیاموچشم पयाम‐ओ‐चशम payaam-o-chashm 1
+پیام و چشم पयाम‐ओ‐चशम payaam-o-chashm 1
+  - پیام و چشم पयाम‐ओ‐चशम payaam-o-chashm 1
 غریب ग़रीब ;gariib 1
   - غریب ग़रीब ;gariib 1
 وام वाम vaam 1
@@ -5769,9 +5769,9 @@
 اندوہ ربا अंदोहरुबा andoh-rubaa 1
   - اندوہ ربا अंदोहरुबा andoh-rubaa 1
 گیسو गेसू gesuu 1
-  - قدوگیسو क़द‐ओ‐गेसू qad-o-gesuu 1
-دادوستد दाद‐ओ‐सितद daad-o-sitad 1
-  - دادوستد दाद‐ओ‐सितद daad-o-sitad 1
+  - قد و گیسو क़द‐ओ‐गेसू qad-o-gesuu 1
+داد و ستد दाद‐ओ‐सितद daad-o-sitad 1
+  - داد و ستد दाद‐ओ‐सितद daad-o-sitad 1
 مذکور मज़कूर ma;zkuur 1
   - مذکور मज़कूर ma;zkuur 1
 گفتگو गुफ़तगू guftguu 1
@@ -5782,8 +5782,8 @@
   - معاملہ मुआमला mu((aamalah 1
 برین बरीन bariin 1
   - بریں बरीं barii;n 1
-رگوپے रग‐ओ‐पै rag-o-pai 1
-  - رگوپے रग‐ओ‐पै rag-o-pai 1
+رگ و پے रग‐ओ‐पै rag-o-pai 1
+  - رگ و پے रग‐ओ‐पै rag-o-pai 1
 جلوہ ریزی जलवारेज़ी jalvah-rezii 1
   - جلوہ ریزیِ जलवारेज़ी‐ए‐ jalvah-rezii-e 1
 سبک سر सुबुकसर subuk-sar 1
@@ -5806,8 +5806,8 @@
   - جنوں جولاں जुनूँजौलाँ junuu;n-jaulaa;n 1
 جلوہ زار जलवाज़ार jalvah-zaar 1
   - جلوہ زارِ जलवाज़ार‐ए‐ jalvah-zaar-e 1
-بے ننگونام बेनंग‐ओ‐नाम be-nang-o-naam 1
-  - بے ننگونام बेनंग‐ओ‐नाम be-nang-o-naam 1
+بے ننگ و نام बेनंग‐ओ‐नाम be-nang-o-naam 1
+  - بے ننگ و نام बेनंग‐ओ‐नाम be-nang-o-naam 1
 پلنگ पलंग palang 1
   - پلنگ पलंग palang 1
 گفتگو गुफ़तगो guftago 1
@@ -5815,15 +5815,15 @@
 بردہ बुरदा burdah 1
   - بردہ बुरदा burdah 1
 فریدون फ़रीदून fariiduun 1
-  - فریدونوجموکیخسروودارابوبہمن फ़रीदून‐ओ‐जम‐ओ‐कैख़ुसरव‐ओ‐दाराब‐ओ‐बहमन fariiduun-o-jam-o-kai;xusrav-o-daaraab-o-bahman 1
+  - فریدون و جم و کیخسرو و داراب و بہمن फ़रीदून‐ओ‐जम‐ओ‐कैख़ुसरव‐ओ‐दाराब‐ओ‐बहमन fariiduun-o-jam-o-kai;xusrav-o-daaraab-o-bahman 1
 ٹھانی ठानी ;thaanii 1
   - ٹھانی ठानी ;thaanii 1
 رخشندہ रख़शिंदा ra;xshindah 1
   - رخشندہ रख़शिंदा ra;xshindah 1
 بر سبیل बरसबील bar-sabiil 1
   - بر سبیلِ बरसबील‐ए‐ bar-sabiil-e 1
-عزّوناز इज़ज़‐ओ‐नाज़ ((izz-o-naaz 1
-  - عزّوناز इज़ज़‐ओ‐नाज़ ((izz-o-naaz 1
+عزّ و ناز इज़ज़‐ओ‐नाज़ ((izz-o-naaz 1
+  - عزّ و ناز इज़ज़‐ओ‐नाज़ ((izz-o-naaz 1
 نیّر नययर nayyar 1
   - نیّر नययर nayyar 1
 سحری सहरी sa;harii 1
@@ -5849,7 +5849,7 @@
 غرّہ ग़ररा ;garrah 1
   - غرّہِ ग़ररा‐ए‐ ;garrah-e 1
 فراز फ़राज़ faraaz 1
-  - نشیبوفراز नशेब‐ओ‐फ़राज़ nasheb-o-faraaz 1
+  - نشیب و فراز नशेब‐ओ‐फ़राज़ nasheb-o-faraaz 1
 مہمان मिहमान mihmaan 1
   - مہماں मिहमाँ mihmaa;n 1
 گل افشانی गुलअफ़शानी gul-afshaanii 1
@@ -5857,13 +5857,13 @@
 پہنچانا पहुंचाना pahu;nchaanaa 1
   - پہنچائیں पहुंचाएं pahu;nchaa))e;n 1
 ہم پیشہ हमपेशा ham-peshah 1
-  - ہم پیشہوہم مشربوہم راز हमपेशा‐ओ‐हममशरब‐ओ‐हमराज़ ham-peshah-o-ham-mashrab-o-ham-raaz 1
+  - ہم پیشہ و ہم مشرب و ہم راز हमपेशा‐ओ‐हममशरब‐ओ‐हमराज़ ham-peshah-o-ham-mashrab-o-ham-raaz 1
 شایان शायान shaayaan 1
   - شایانِ शायान‐ए‐ shaayaan-e 1
 پائداری पाइदारी paa))idaarii 1
   - پائداری पाइदारी paa))idaarii 1
-بادہوساغر बादा‐ओ‐साग़र baadah-o-saa;gar 1
-  - بادہوساغر बादा‐ओ‐साग़र baadah-o-saa;gar 1
+بادہ و ساغر बादा‐ओ‐साग़र baadah-o-saa;gar 1
+  - بادہ و ساغر बादा‐ओ‐साग़र baadah-o-saa;gar 1
 نیم جان नीमजान niim-jaan 1
   - نیم جاں नीमजाँ niim-jaa;n 1
 سم सम sam 1
@@ -5874,8 +5874,8 @@
   - انگیز अंगेज़ angez 1
 پیوند पैवंद paivand 1
   - پیوند पैवंद paivand 1
-سیروتماشا सैर‐ओ‐तमाशा sair-o-tamaashaa 1
-  - سیروتماشا सैर‐ओ‐तमाशा sair-o-tamaashaa 1
+سیر و تماشا सैर‐ओ‐तमाशा sair-o-tamaashaa 1
+  - سیر و تماشا सैर‐ओ‐तमाशा sair-o-tamaashaa 1
 خفقانی ख़फ़क़ानी ;xafaqaanii 1
   - خفقانی ख़फ़क़ानी ;xafaqaanii 1
 تماشا دوست तमाशादोसत tamaashaa-dost 1
@@ -5974,8 +5974,8 @@
   - گلبانگِ गुलबांग‐ए‐ gulbaa;ng-e 1
 اعضا आज़ा a((.zaa 1
   - اعضا आज़ा a((.zaa 1
-طرزوروش तरज़‐ओ‐रविश :tarz-o-ravish 1
-  - طرزوروش तरज़‐ओ‐रविश :tarz-o-ravish 1
+طرز و روش तरज़‐ओ‐रविश :tarz-o-ravish 1
+  - طرز و روش तरज़‐ओ‐रविश :tarz-o-ravish 1
 انفعال इंफ़िाल infi((aal 1
   - انفعال इंफ़िाल infi((aal 1
 آفتاب پرست आफ़ताबपरसत aaftaab-parast 1
@@ -5997,7 +5997,7 @@
 ستائش सताइश sataa))ish 1
   - ستائش सताइश sataa))ish 1
 جور जोर jor 1
-  - ستموجورِ सितम‐ओ‐जोर‐ए‐ sitam-o-jor-e 1
+  - ستم و جورِ सितम‐ओ‐जोर‐ए‐ sitam-o-jor-e 1
 پئے ہم पएहम pa))e-ham 1
   - پئے ہم पएहम pa))e-ham 1
 متقابل मुतक़ाबिल mutaqaabil 1
@@ -6024,8 +6024,8 @@
   - معزولیِ माज़ूली‐ए‐ ma((zuulii-e 1
 ناچنا नाचना naachnaa 1
   - ناچتے नाचते naachte 1
-خوشونا خوش ख़ुश‐ओ‐नाख़ुश ;xvush-o-naa-;xvush 1
-  - خوشونا خوش ख़ुश‐ओ‐नाख़ुश ;xvush-o-naa-;xvush 1
+خوش و نا خوش ख़ुश‐ओ‐नाख़ुश ;xvush-o-naa-;xvush 1
+  - خوش و نا خوش ख़ुश‐ओ‐नाख़ुश ;xvush-o-naa-;xvush 1
 مسجود मसजूद masjuud 1
   - مسجود मसजूद masjuud 1
 بیگانہ बेगाना begaanah 1
@@ -6036,22 +6036,22 @@
   - ساماں طرازِ सामाँतराज़‐ए‐ saamaa;n-:taraaz-e 1
 نظّارگی नज़ज़ारगी na:z:zaaragii 1
   - نظّارگی नज़ज़ारगी na:z:zaaragii 1
-چشموگوش चशम‐ओ‐गोश chashm-o-gosh 1
-  - چشموگوش चशम‐ओ‐गोश chashm-o-gosh 1
+چشم و گوش चशम‐ओ‐गोश chashm-o-gosh 1
+  - چشم و گوش चशम‐ओ‐गोश chashm-o-gosh 1
 مقبول मक़बूल maqbuul 1
   - مقبول मक़बूल maqbuul 1
-آبوگل आब‐ओ‐गिल aab-o-gil 1
-  - آبوگل आब‐ओ‐गिल aab-o-gil 1
+آب و گل आब‐ओ‐गिल aab-o-gil 1
+  - آب و گل आब‐ओ‐गिल aab-o-gil 1
 بہائی बहाई bahaa))ii 1
   - بہائی बहाई bahaa))ii 1
 شرع शर shar(( 1
-  - شرعوآئین शर‐ओ‐आईन shar((-o-aa))iin 1
+  - شرع و آئین शर‐ओ‐आईन shar((-o-aa))iin 1
 پاسخ पासुख़ paasu;x 1
   - پاسخِ पासुख़‐ए‐ paasu;x-e 1
 یاس خیز यासख़ेज़ yaas-;xez 1
   - یاس خیز यासख़ेज़ yaas-;xez 1
 خود بیں ख़ुदबीं ;xvud-bii;n 1
-  - آزادہوخود بیں आज़ादा‐ओ‐ख़ुदबीं aazaadah-o-;xvud-bii;n 1
+  - آزادہ و خود بیں आज़ादा‐ओ‐ख़ुदबीं aazaadah-o-;xvud-bii;n 1
 افشردہ अफ़शरदा afshardah 1
   - افشردہِ अफ़शरदा‐ए‐ afshardah-e 1
 چکّر चककर chakkar 1
@@ -6072,8 +6072,8 @@
   - کروگے करोगे karoge 1
 کاغض काग़ज़ kaa;ga.z 1
   - کاغض काग़ज़ kaa;ga.z 1
-رنگوساز रंग‐ओ‐साज़ rang-o-saaz 1
-  - رنگوسازہا रंग‐ओ‐साज़हा rang-o-saaz'haa 1
+رنگ و ساز रंग‐ओ‐साज़ rang-o-saaz 1
+  - رنگ و سازہا रंग‐ओ‐साज़हा rang-o-saaz'haa 1
 ضرر ज़रर .zarar 1
   - ضرر ज़रर .zarar 1
 سفیدی सफ़ेदी safedii 1
@@ -6089,7 +6089,7 @@
 معاف मुआफ़ mu((aaf 1
   - معاف मुआफ़ mu((aaf 1
 داراب दाराब daaraab 1
-  - فریدونوجموکیخسروودارابوبہمن फ़रीदून‐ओ‐जम‐ओ‐कैख़ुसरव‐ओ‐दाराब‐ओ‐बहमन fariiduun-o-jam-o-kai;xusrav-o-daaraab-o-bahman 1
+  - فریدون و جم و کیخسرو و داراب و بہمن फ़रीदून‐ओ‐जम‐ओ‐कैख़ुसरव‐ओ‐दाराब‐ओ‐बहमन fariiduun-o-jam-o-kai;xusrav-o-daaraab-o-bahman 1
 فتنہ خو फ़ितनाख़ू fitnah-;xuu 1
   - فتنہ خو फ़ितनाख़ू fitnah-;xuu 1
 انا ال بحر अनाअलबहर anaa-al-ba;hr 1
@@ -6111,11 +6111,11 @@
 یک جنبش यकजुंबिश yak-junbish 1
   - یک جنبشِ यकजुंबिश‐ए‐ yak-junbish-e 1
 حباب हुबाब ;hubaab 1
-  - قطرہوموجوحباب क़तरा‐ओ‐मौज‐ओ‐हुबाब qa:trah-o-mauj-o-;hubaab 1
+  - قطرہ و موج و حباب क़तरा‐ओ‐मौज‐ओ‐हुबाब qa:trah-o-mauj-o-;hubaab 1
 فسانہ خوانی फ़सानाख़वानी fasaanah-;xvaanii 1
   - فسانہ خوانیِ फ़सानाख़वानी‐ए‐ fasaanah-;xvaanii-e 1
-سادگیوپرکاری सादगी‐ओ‐पुरकारी saadagii-o-purkaarii 1
-  - سادگیوپرکاری सादगी‐ओ‐पुरकारी saadagii-o-purkaarii 1
+سادگی و پرکاری सादगी‐ओ‐पुरकारी saadagii-o-purkaarii 1
+  - سادگی و پرکاری सादगी‐ओ‐पुरकारी saadagii-o-purkaarii 1
 م آل मआल ma-aal 1
   - م آل मआल ma-aal 1
 کوشش कोशिश koshish 1
@@ -6133,11 +6133,11 @@
 انصاف इंसाफ़ in.saaf 1
   - انصاف इंसाफ़ in.saaf 1
 ہم راز हमराज़ ham-raaz 1
-  - ہم پیشہوہم مشربوہم راز हमपेशा‐ओ‐हममशरब‐ओ‐हमराज़ ham-peshah-o-ham-mashrab-o-ham-raaz 1
+  - ہم پیشہ و ہم مشرب و ہم راز हमपेशा‐ओ‐हममशरब‐ओ‐हमराज़ ham-peshah-o-ham-mashrab-o-ham-raaz 1
 غازہ ग़ाज़ा ;gaazah 1
   - غازہ ग़ाज़ा ;gaazah 1
-شبوروز शब‐ओ‐रोज़ shab-o-roz 1
-  - شبوروز शब‐ओ‐रोज़ shab-o-roz 1
+شب و روز शब‐ओ‐रोज़ shab-o-roz 1
+  - شب و روز शब‐ओ‐रोज़ shab-o-roz 1
 طرب انشا तरबइंशा :tarab-inshaa 1
   - طرب انشاے तरबइंशा‐ए‐ :tarab-inshaa-e 1
 امّت उममत ummat 1
@@ -6152,8 +6152,8 @@
   - بت شکنی बुतशिकनी but-shikanii 1
 کاف काफ़ kaaf 1
   - کافِ काफ़‐ए‐ kaaf-e 1
-تیغوکفن तेग़‐ओ‐कफ़न te;g-o-kafan 1
-  - تیغوکفن तेग़‐ओ‐कफ़न te;g-o-kafan 1
+تیغ و کفن तेग़‐ओ‐कफ़न te;g-o-kafan 1
+  - تیغ و کفن तेग़‐ओ‐कफ़न te;g-o-kafan 1
 چاہو चाहो chaaho 1
   - چاہو चाहो chaaho 1
 نیستان नयसतान nayastaan 1
@@ -6173,7 +6173,7 @@
 خار خار ख़ारख़ार ;xaar-;xaar 1
   - خار خارِ ख़ारख़ार‐ए‐ ;xaar-;xaar-e 1
 معشوقی माशूक़ी ma((shuuqii 1
-  - معشوقیوبے حوصلگی माशूक़ी‐ओ‐बेहौसलगी ma((shuuqii-o-be-;hau.salagii 1
+  - معشوقی و بے حوصلگی माशूक़ी‐ओ‐बेहौसलगी ma((shuuqii-o-be-;hau.salagii 1
 خیمہ ख़ेमा ;xemah 1
   - خیمے ख़ेमे ;xeme 1
 فرض फ़रज़ far.z 1
@@ -6190,8 +6190,8 @@
   - پھونکا फूंका phuu;nkaa 1
 مکافات मुकाफ़ात mukaafaat 1
   - مکافات मुकाफ़ात mukaafaat 1
-وصلویاد वसल‐ओ‐याद va.sl-o-yaad 1
-  - وصلویادِ वसल‐ओ‐याद‐ए‐ va.sl-o-yaad-e 1
+وصل و یاد वसल‐ओ‐याद va.sl-o-yaad 1
+  - وصل و یادِ वसल‐ओ‐याद‐ए‐ va.sl-o-yaad-e 1
 مغنّی मुग़न्नी mu;gannii 1
   - مغنّیِ मुग़न्नी‐ए‐ mu;gannii-e 1
 گنجفہ باز गंजिफ़ाबाज़ ganjifah-baaz 1
@@ -6214,14 +6214,14 @@
   - خاک انداز ख़ाकअंदाज़ ;xaak-andaaz 1
 غزل سرا ग़ज़लसरा ;gazal-saraa 1
   - غزل سرا ग़ज़लसरा ;gazal-saraa 1
-رسموراہ रसम‐ओ‐राह rasm-o-raah 1
-  - رسموراہ रसम‐ओ‐राह rasm-o-raah 1
+رسم و راہ रसम‐ओ‐राह rasm-o-raah 1
+  - رسم و راہ रसम‐ओ‐राह rasm-o-raah 1
 بزرگ बुज़ुरग buzurg 1
   - بزرگ बुज़ुरग buzurg 1
 شنیدن शुनीदन shuniidan 1
   - شنیدن शुनीदन shuniidan 1
 نوش नोश nosh 1
-  - نایونوش नाय‐ओ‐नोश naay-o-nosh 1
+  - نای و نوش नाय‐ओ‐नोश naay-o-nosh 1
 غم ناک ग़मनाक ;gam-naak 1
   - غم ناک ग़मनाक ;gam-naak 1
 معدن मादन ma((dan 1
@@ -6232,10 +6232,10 @@
   - عطرِ इतर‐ए‐ ((i:tr-e 1
 تشنہ کامی तिशनाकामी tishnah-kaamii 1
   - تشنہ کامی तिशनाकामी tishnah-kaamii 1
-کشادوبست कुशाद‐ओ‐बसत kushaad-o-bast 1
-  - کشادوبستِ कुशाद‐ओ‐बसत‐ए‐ kushaad-o-bast-e 1
-بے درودیوار बेदर‐ओ‐दीवार be-dar-o-diivaar 1
-  - بے درودیوار बेदर‐ओ‐दीवार be-dar-o-diivaar 1
+کشاد و بست कुशाद‐ओ‐बसत kushaad-o-bast 1
+  - کشاد و بستِ कुशाद‐ओ‐बसत‐ए‐ kushaad-o-bast-e 1
+بے در و دیوار बेदर‐ओ‐दीवार be-dar-o-diivaar 1
+  - بے در و دیوار बेदर‐ओ‐दीवार be-dar-o-diivaar 1
 مقدّر मुक़ददर muqaddar 1
   - مقدّر मुक़ददर muqaddar 1
 نار नार naar 1
@@ -6245,7 +6245,7 @@
 نا انصاف नाइंसाफ़ naa-in.saaf 1
   - نا انصاف नाइंसाफ़ naa-in.saaf 1
 نای नाय naay 1
-  - نایونوش नाय‐ओ‐नोश naay-o-nosh 1
+  - نای و نوش नाय‐ओ‐नोश naay-o-nosh 1
 ترانہ तराना taraanah 1
   - ترانہِ तराना‐ए‐ taraanah-e 1
 آشنائی आशनाई aashnaa))ii 1
@@ -6266,16 +6266,16 @@
   - طومارِ तूमार‐ए‐ :tuumaar-e 1
 برائے बराए baraa))e 1
   - برائے बराए baraa))e 1
-دلودست दिल‐ओ‐दसत dil-o-dast 1
-  - دلودستِ दिल‐ओ‐दसत‐ए‐ dil-o-dast-e 1
+دل و دست दिल‐ओ‐दसत dil-o-dast 1
+  - دل و دستِ दिल‐ओ‐दसत‐ए‐ dil-o-dast-e 1
 پھرو फिरो phiro 1
   - پھرو फिरो phiro 1
-غمزہوعشوہوادا ग़मज़ा‐ओ‐इशवा‐ओ‐अदा ;gamzah-o-((ishvah-o-adaa 1
-  - غمزہوعشوہوادا ग़मज़ा‐ओ‐इशवा‐ओ‐अदा ;gamzah-o-((ishvah-o-adaa 1
+غمزہ و عشوہ و ادا ग़मज़ा‐ओ‐इशवा‐ओ‐अदा ;gamzah-o-((ishvah-o-adaa 1
+  - غمزہ و عشوہ و ادا ग़मज़ा‐ओ‐इशवा‐ओ‐अदा ;gamzah-o-((ishvah-o-adaa 1
 در خور दरख़वर dar-;xvar 1
   - در خور दरख़वर dar-;xvar 1
-یک عالموعالم यकआलम‐ओ‐आलम yak-((aalam-o-((aalam 1
-  - یک عالموعالم यकआलम‐ओ‐आलम yak-((aalam-o-((aalam 1
+یک عالم و عالم यकआलम‐ओ‐आलम yak-((aalam-o-((aalam 1
+  - یک عالم و عالم यकआलम‐ओ‐आलम yak-((aalam-o-((aalam 1
 اوک ओक ok 1
   - اوک ओक ok 1
 خرابات ख़राबात ;xaraabaat 1
@@ -6305,9 +6305,9 @@
 عقوبت उक़ूबत ((uquubat 1
   - عقوبت उक़ूबत ((uquubat 1
 عشوہ इशवा ((ishvah 1
-  - غمزہوعشوہوادا ग़मज़ा‐ओ‐इशवा‐ओ‐अदा ;gamzah-o-((ishvah-o-adaa 1
+  - غمزہ و عشوہ و ادا ग़मज़ा‐ओ‐इशवा‐ओ‐अदा ;gamzah-o-((ishvah-o-adaa 1
 دولت दौलत daulat 1
-  - دولتودیں दौलत‐ओ‐दीं daulat-o-dii;n 1
+  - دولت و دیں दौलत‐ओ‐दीं daulat-o-dii;n 1
 نیام नियाम niyaam 1
   - نیامِ नियाम‐ए‐ niyaam-e 1
 غم گساری ग़मगुसारी ;gam-gusaarii 1
@@ -6338,16 +6338,16 @@
   - سر کش सरकश sar-kash 1
 نافہ नाफ़ा naafah 1
   - نافہ नाफ़ा naafah 1
-نشیبوفراز नशेब‐ओ‐फ़राज़ nasheb-o-faraaz 1
-  - نشیبوفراز नशेब‐ओ‐फ़राज़ nasheb-o-faraaz 1
+نشیب و فراز नशेब‐ओ‐फ़राज़ nasheb-o-faraaz 1
+  - نشیب و فراز नशेब‐ओ‐फ़राज़ nasheb-o-faraaz 1
 چڑھ चढ़ cha;rh 1
   - چڑھ चढ़ cha;rh 1
 معرض मारिज़ ma((ri.z 1
   - معرضِ मारिज़‐ए‐ ma((ri.z-e 1
-بے خودیوہشیاری बेख़ुदी‐ओ‐हुशयारी be-;xvudii-o-hushyaarii 1
-  - بے خودیوہشیاری बेख़ुदी‐ओ‐हुशयारी be-;xvudii-o-hushyaarii 1
+بے خودی و ہشیاری बेख़ुदी‐ओ‐हुशयारी be-;xvudii-o-hushyaarii 1
+  - بے خودی و ہشیاری बेख़ुदी‐ओ‐हुशयारी be-;xvudii-o-hushyaarii 1
 خروش ख़रोश ;xarosh 1
-  - جوشوخروش जोश‐ओ‐ख़रोश josh-o-;xarosh 1
+  - جوش و خروش जोश‐ओ‐ख़रोश josh-o-;xarosh 1
 رعنائی रानाई ra((naa))ii 1
   - رعنائیِ रानाई‐ए‐ ra((naa))ii-e 1
 پشت خار पुशतख़ार pusht-;xaar 1
@@ -6399,7 +6399,7 @@
 صیّاد सैयाद .saiyaad 1
   - صیّاد सैयाद .saiyaad 1
 کواکب سپہ कवाकिबसिपा kavaakib-sipah 1
-  - کواکب سپہومہر علم कवाकिबसिपा‐ओ‐मिहरअलम kavaakib-sipah-o-mihr-((alam 1
+  - کواکب سپہ و مہر علم कवाकिबसिपा‐ओ‐मिहरअलम kavaakib-sipah-o-mihr-((alam 1
 خزانی ख़िज़ानी ;xizaanii 1
   - خزانیِ ख़िज़ानी‐ए‐ ;xizaanii-e 1
 پاداش पादाश paadaash 1
@@ -6420,12 +6420,12 @@
   - ہنگامہ آرا हंगामाआरा hangaamah-aaraa 1
 روداد रूदाद ruudaad 1
   - رودادِ रूदाद‐ए‐ ruudaad-e 1
-دستوپا दसत‐ओ‐पा dast-o-paa 1
-  - دستوپا दसत‐ओ‐पा dast-o-paa 1
+دست و پا दसत‐ओ‐पा dast-o-paa 1
+  - دست و پا दसत‐ओ‐पा dast-o-paa 1
 دو عالم دشت दोआलमदशत do-((aalam-dasht 1
   - دو عالم دشت दोआलमदशत do-((aalam-dasht 1
-معشوقیوبے حوصلگی माशूक़ी‐ओ‐बेहौसलगी ma((shuuqii-o-be-;hau.salagii 1
-  - معشوقیوبے حوصلگی माशूक़ी‐ओ‐बेहौसलगी ma((shuuqii-o-be-;hau.salagii 1
+معشوقی و بے حوصلگی माशूक़ी‐ओ‐बेहौसलगी ma((shuuqii-o-be-;hau.salagii 1
+  - معشوقی و بے حوصلگی माशूक़ी‐ओ‐बेहौसलगी ma((shuuqii-o-be-;hau.salagii 1
 طبیعتوں तबीअतों :tabii((ato;n 1
   - طبیعتوں तबीअतों :tabii((ato;n 1
 آب جو आबजू aab-juu 1
@@ -6437,15 +6437,15 @@
 مے پرست मैपरसत mai-parast 1
   - مے پرستاں मैपरसताँ mai-parastaa;n 1
 سبو सबू sabuu 1
-  - شیشہوقدحوکوزہوسبو शीशा‐ओ‐क़दह‐ओ‐कूज़ा‐ओ‐सबू shiishah-o-qada;h-o-kuuzah-o-sabuu 1
+  - شیشہ و قدح و کوزہ و سبو शीशा‐ओ‐क़दह‐ओ‐कूज़ा‐ओ‐सबू shiishah-o-qada;h-o-kuuzah-o-sabuu 1
 بے عشق बेइशक़ be-((ishq 1
   - بے عشق बेइशक़ be-((ishq 1
 سلوانا सिलवाना silvaanaa 1
   - سلوانے सिलवाने silvaane 1
 سر پنجہ सरपंजा sar-panjah 1
   - سر پنجہِ सरपंजा‐ए‐ sar-panjah-e 1
-گریہولب गिरया‐ओ‐लब giryah-o-lab 1
-  - گریہولب गिरया‐ओ‐लब giryah-o-lab 1
+گریہ و لب गिरया‐ओ‐लब giryah-o-lab 1
+  - گریہ و لب गिरया‐ओ‐लब giryah-o-lab 1
 پری چہرہ परीचहरा parii-chahrah 1
   - پری چہرہ परीचहरा parii-chahrah 1
 بے پردہ बेपरदा be-pardah 1
@@ -6453,21 +6453,21 @@
 جنگل जंगल jangal 1
   - جنگل जंगल jangal 1
 ملک मुलक mulk 1
-  - ملتوملک मिललत‐ओ‐मुलक millat-o-mulk 1
+  - ملت و ملک मिललत‐ओ‐मुलक millat-o-mulk 1
 سمجھیو समझयो samajhyo 1
   - سمجھیو समझयो samajhyo 1
 شاعر शाइर shaa((ir 1
   - شاعر शाइर shaa((ir 1
-بیباکیوگستاخی बेबाकी‐ओ‐गुसताख़ी bebaakii-o-gustaa;xii 1
-  - بیباکیوگستاخی बेबाकी‐ओ‐गुसताख़ी bebaakii-o-gustaa;xii 1
+بیباکی و گستاخی बेबाकी‐ओ‐गुसताख़ी bebaakii-o-gustaa;xii 1
+  - بیباکی و گستاخی बेबाकी‐ओ‐गुसताख़ी bebaakii-o-gustaa;xii 1
 غلام ग़ुलाम ;gulaam 1
   - غلامِ ग़ुलाम‐ए‐ ;gulaam-e 1
-صاعقہوشعلہوسیماب साइक़ा‐ओ‐शुला‐ओ‐सीमाब .saa((iqah-o-shu((lah-o-siimaab 1
-  - صاعقہوشعلہوسیماب साइक़ा‐ओ‐शुला‐ओ‐सीमाब .saa((iqah-o-shu((lah-o-siimaab 1
+صاعقہ و شعلہ و سیماب साइक़ा‐ओ‐शुला‐ओ‐सीमाब .saa((iqah-o-shu((lah-o-siimaab 1
+  - صاعقہ و شعلہ و سیماب साइक़ा‐ओ‐शुला‐ओ‐सीमाब .saa((iqah-o-shu((lah-o-siimaab 1
 سوتا सोता sotaa 1
   - سوتا सोता sotaa 1
-باغ بانوکف बाग़बान‐ओ‐कफ़ baa;g-baan-o-kaf 1
-  - باغ بانوکفِ बाग़बान‐ओ‐कफ़‐ए‐ baa;g-baan-o-kaf-e 1
+باغ بان و کف बाग़बान‐ओ‐कफ़ baa;g-baan-o-kaf 1
+  - باغ بان و کفِ बाग़बान‐ओ‐कफ़‐ए‐ baa;g-baan-o-kaf-e 1
 ارم इरम iram 1
   - ارم इरम iram 1
 تالیف तालीफ़ taaliif 1
@@ -6504,8 +6504,8 @@
   - گل دستہِ गुलदसता‐ए‐ gul-dastah-e 1
 ہم دیگر हमदीगर ham-diigar 1
   - ہم دیگر हमदीगर ham-diigar 1
-نسیہونقد निसया‐ओ‐नक़द nisyah-o-naqd 1
-  - نسیہونقدِ निसया‐ओ‐नक़द‐ए‐ nisyah-o-naqd-e 1
+نسیہ و نقد निसया‐ओ‐नक़द nisyah-o-naqd 1
+  - نسیہ و نقدِ निसया‐ओ‐नक़द‐ए‐ nisyah-o-naqd-e 1
 ہوجیو हूजियो huujiyo 1
   - ہوجیو हूजियो huujiyo 1
 سیہ پوش सियापोश siyah-posh 1
@@ -6518,8 +6518,8 @@
   - بے خودوں बेख़ुदों be-;xvudo;n 1
 مہجور महजूर mahjuur 1
   - مہجورِ महजूर‐ए‐ mahjuur-e 1
-دلودیں दिल‐ओ‐दीं dil-o-dii;n 1
-  - دلودیں दिल‐ओ‐दीं dil-o-dii;n 1
+دل و دیں दिल‐ओ‐दीं dil-o-dii;n 1
+  - دل و دیں दिल‐ओ‐दीं dil-o-dii;n 1
 عذاب अज़ाब ((a;zaab 1
   - عذاب अज़ाब ((a;zaab 1
 فضا फ़ज़ा fa.zaa 1
@@ -6534,8 +6534,8 @@
   - دکانِ दुकान‐ए‐ dukaan-e 1
 فسردگی फ़ुसुरदगी fusurdagii 1
   - فسردگی फ़ुसुरदगी fusurdagii 1
-جاموسبو जाम‐ओ‐सुबू jaam-o-subuu 1
-  - جاموسبو जाम‐ओ‐सुबू jaam-o-subuu 1
+جام و سبو जाम‐ओ‐सुबू jaam-o-subuu 1
+  - جام و سبو जाम‐ओ‐सुबू jaam-o-subuu 1
 مرض मरज़ mara.z 1
   - مرض मरज़ mara.z 1
 زکات ज़कात zakaat 1
@@ -6562,12 +6562,12 @@
   - شجرِ शजर‐ए‐ shajar-e 1
 وا ماندگیان वामांदगियान vaa-maa;ndagiyaan 1
   - وا ماندگیاں वामांदगियाँ vaa-maa;ndagiyaa;n 1
-نظّارہوخیال नज़ज़ारा‐ओ‐ख़याल na:z:zaarah-o-;xayaal 1
-  - نظّارہوخیال नज़ज़ारा‐ओ‐ख़याल na:z:zaarah-o-;xayaal 1
+نظّارہ و خیال नज़ज़ारा‐ओ‐ख़याल na:z:zaarah-o-;xayaal 1
+  - نظّارہ و خیال नज़ज़ारा‐ओ‐ख़याल na:z:zaarah-o-;xayaal 1
 اشتیاق انگیز इशतियाक़अंगेज़ ishtiyaaq-angez 1
   - اشتیاق انگیز इशतियाक़अंगेज़ ishtiyaaq-angez 1
-چمنوخوبی चमन‐ओ‐ख़ूबी chaman-o-;xuubii 1
-  - چمنوخوبیِ चमन‐ओ‐ख़ूबी‐ए‐ chaman-o-;xuubii-e 1
+چمن و خوبی चमन‐ओ‐ख़ूबी chaman-o-;xuubii 1
+  - چمن و خوبیِ चमन‐ओ‐ख़ूबी‐ए‐ chaman-o-;xuubii-e 1
 تسبیح तसबीह tasbii;h 1
   - تسبیحِ तसबीह‐ए‐ tasbii;h-e 1
 سلام सलाम salaam 1
@@ -6581,7 +6581,7 @@
 پیغارہ جو पैग़ाराजू pai;gaarah-juu 1
   - پیغارہ جو पैग़ाराजू pai;gaarah-juu 1
 ہشیاری हुशयारी hushyaarii 1
-  - بے خودیوہشیاری बेख़ुदी‐ओ‐हुशयारी be-;xvudii-o-hushyaarii 1
+  - بے خودی و ہشیاری बेख़ुदी‐ओ‐हुशयारी be-;xvudii-o-hushyaarii 1
 محمل महमिल ma;hmil 1
   - محمل महमिल ma;hmil 1
 مریض मरीज़ marii.z 1
@@ -6623,7 +6623,7 @@
 باگ बाग baag 1
   - باگ बाग baag 1
 کامل कामिल kaamil 1
-  - ناقصوکامل नाक़िस‐ओ‐कामिल naaqi.s-o-kaamil 1
+  - ناقص و کامل नाक़िस‐ओ‐कामिल naaqi.s-o-kaamil 1
 بے پناہ बेपनाह be-panaah 1
   - بے پناہ बेपनाह be-panaah 1
 کرشمہ करिशमा karishmah 1
@@ -6635,9 +6635,9 @@
 خو کردہ ख़ूकरदा ;xuu-kardah 1
   - خو کردہِ ख़ूकरदा‐ए‐ ;xuu-kardah-e 1
 قیود क़ुयूद quyuud 1
-  - رسوموقیود रुसूम‐ओ‐क़ुयूद rusuum-o-quyuud 1
+  - رسوم و قیود रुसूम‐ओ‐क़ुयूद rusuum-o-quyuud 1
 بہمن बहमन bahman 1
-  - فریدونوجموکیخسروودارابوبہمن फ़रीदून‐ओ‐जम‐ओ‐कैख़ुसरव‐ओ‐दाराब‐ओ‐बहमन fariiduun-o-jam-o-kai;xusrav-o-daaraab-o-bahman 1
+  - فریدون و جم و کیخسرو و داراب و بہمن फ़रीदून‐ओ‐जम‐ओ‐कैख़ुसरव‐ओ‐दाराब‐ओ‐बहमन fariiduun-o-jam-o-kai;xusrav-o-daaraab-o-bahman 1
 اختر شماری अख़तरशुमारी a;xtar-shumaarii 1
   - اختر شماری अख़तरशुमारी a;xtar-shumaarii 1
 نباتی नबाती nabaatii 1
@@ -6653,7 +6653,7 @@
 مبتلا मुबतला mubtalaa 1
   - مبتلاے मुबतला‐ए‐ mubtalaa-e 1
 شکیب शिकेब shikeb 1
-  - شکیبوصبرِ शिकेब‐ओ‐सबर‐ए‐ shikeb-o-.sabr-e 1
+  - شکیب و صبرِ शिकेब‐ओ‐सबर‐ए‐ shikeb-o-.sabr-e 1
 گرم بازار गरमबाज़ार garm-baazaar 1
   - گرم بازارِ गरमबाज़ार‐ए‐ garm-baazaar-e 1
 گلو गुलू guluu 1
@@ -6662,8 +6662,8 @@
   - عیماے ईमा‐ए‐ ((iimaa-e 1
 مقطع मक़ता maq:ta(( 1
   - مقطعِ मक़ता‐ए‐ maq:ta((-e 1
-شرعوآئین शर‐ओ‐आईन shar((-o-aa))iin 1
-  - شرعوآئین शर‐ओ‐आईन shar((-o-aa))iin 1
+شرع و آئین शर‐ओ‐आईन shar((-o-aa))iin 1
+  - شرع و آئین शर‐ओ‐आईन shar((-o-aa))iin 1
 اشیا अशया ashyaa 1
   - اشیا अशया ashyaa 1
 غم گسار ग़मगुसार ;gam-gusaar 1
@@ -6687,17 +6687,17 @@
 معذور माज़ूर ma((;zuur 1
   - معذور माज़ूर ma((;zuur 1
 فضول फ़ुज़ूल fu.zuul 1
-  - فضولوجرئتِ फ़ुज़ूल‐ओ‐जुरअत‐ए‐ fu.zuul-o-jur))at-e 1
+  - فضول و جرئتِ फ़ुज़ूल‐ओ‐जुरअत‐ए‐ fu.zuul-o-jur))at-e 1
 لاغر लाग़र laa;gar 1
   - لاغر लाग़र laa;gar 1
-روشومستی रविश‐ओ‐मसती ravish-o-mastii 1
-  - روشومستیِ रविश‐ओ‐मसती‐ए‐ ravish-o-mastii-e 1
+روش و مستی रविश‐ओ‐मसती ravish-o-mastii 1
+  - روش و مستیِ रविश‐ओ‐मसती‐ए‐ ravish-o-mastii-e 1
 ذاہر ज़ाहिर ;zaahir 1
   - ذاہر ज़ाहिर ;zaahir 1
-قطرہوموجوحباب क़तरा‐ओ‐मौज‐ओ‐हुबाब qa:trah-o-mauj-o-;hubaab 1
-  - قطرہوموجوحباب क़तरा‐ओ‐मौज‐ओ‐हुबाब qa:trah-o-mauj-o-;hubaab 1
-تمکینوضبط तमकीन‐ओ‐ज़बत tamkiin-o-.zab:t 1
-  - تمکینوضبط तमकीन‐ओ‐ज़बत tamkiin-o-.zab:t 1
+قطرہ و موج و حباب क़तरा‐ओ‐मौज‐ओ‐हुबाब qa:trah-o-mauj-o-;hubaab 1
+  - قطرہ و موج و حباب क़तरा‐ओ‐मौज‐ओ‐हुबाब qa:trah-o-mauj-o-;hubaab 1
+تمکین و ضبط तमकीन‐ओ‐ज़बत tamkiin-o-.zab:t 1
+  - تمکین و ضبط तमकीन‐ओ‐ज़बत tamkiin-o-.zab:t 1
 ظلمت کدہ ज़ुलमतकदा :zulmat-kadah 1
   - ظلمت کدے ज़ुलमतकदे :zulmat-kade 1
 خانہ ویران سازی ख़ानावीरानसाज़ी ;xaanah-viiraan-saazii 1
@@ -6718,30 +6718,30 @@
   - موجود मौजूद maujuud 1
 مدام मुदाम mudaam 1
   - مدام मुदाम mudaam 1
-بادوبہ बाद‐ओ‐ब baad-o-bah 1
-  - بادوبہ बाद‐ओ‐ब baad-o-bah 1
+باد و بہ बाद‐ओ‐ब baad-o-bah 1
+  - باد و بہ बाद‐ओ‐ब baad-o-bah 1
 قلزم آشامی क़ुलज़ुमआशामी qulzum-aashaamii 1
   - قلزم آشامی क़ुलज़ुमआशामी qulzum-aashaamii 1
 مہر علم मिहरअलम mihr-((alam 1
-  - کواکب سپہومہر علم कवाकिबसिपा‐ओ‐मिहरअलम kavaakib-sipah-o-mihr-((alam 1
+  - کواکب سپہ و مہر علم कवाकिबसिपा‐ओ‐मिहरअलम kavaakib-sipah-o-mihr-((alam 1
 نزدیک नज़दीक nazdiik 1
   - نزدیک नज़दीक nazdiik 1
-نازوغمزہ नाज़‐ओ‐ग़मज़ा naaz-o-;gamzah 1
-  - نازوغمزہ नाज़‐ओ‐ग़मज़ा naaz-o-;gamzah 1
+ناز و غمزہ नाज़‐ओ‐ग़मज़ा naaz-o-;gamzah 1
+  - ناز و غمزہ नाज़‐ओ‐ग़मज़ा naaz-o-;gamzah 1
 عربدہ جو अरबदाजू ((arbadah-juu 1
   - عربدہ جو अरबदाजू ((arbadah-juu 1
 کوس कोस kos 1
   - کوسوں कोसों koso;n 1
-دلوجگر दिल‐ओ‐जिगर dil-o-jigar 1
-  - دلوجگر दिल‐ओ‐जिगर dil-o-jigar 1
+دل و جگر दिल‐ओ‐जिगर dil-o-jigar 1
+  - دل و جگر दिल‐ओ‐जिगर dil-o-jigar 1
 صد جلوہ सदजलवा .sad-jalvah 1
   - صد جلوہِ सदजलवा‐ए‐ .sad-jalvah-e 1
-شکیبوصبر शिकेब‐ओ‐सबर shikeb-o-.sabr 1
-  - شکیبوصبرِ शिकेब‐ओ‐सबर‐ए‐ shikeb-o-.sabr-e 1
+شکیب و صبر शिकेब‐ओ‐सबर shikeb-o-.sabr 1
+  - شکیب و صبرِ शिकेब‐ओ‐सबर‐ए‐ shikeb-o-.sabr-e 1
 سرشک सिरिशक sirishk 1
   - سرشکِ सिरिशक‐ए‐ sirishk-e 1
 صاعقہ साइक़ा .saa((iqah 1
-  - صاعقہوشعلہوسیماب साइक़ा‐ओ‐शुला‐ओ‐सीमाब .saa((iqah-o-shu((lah-o-siimaab 1
+  - صاعقہ و شعلہ و سیماب साइक़ा‐ओ‐शुला‐ओ‐सीमाब .saa((iqah-o-shu((lah-o-siimaab 1
 مضمحل मुज़महिल mu.zma;hil 1
   - مضمحل मुज़महिल mu.zma;hil 1
 خاکستر نشینی ख़ाकिसतरनिशीनी ;xaakistar-nishiinii 1
@@ -6750,8 +6750,8 @@
   - معشوق فریبی माशूक़फ़रेबी ma((shuuq-farebii 1
 صد نظر सदनज़र .sad-na:zar 1
   - صد نظر सदनज़र .sad-na:zar 1
-تمکینوہوش तमकीन‐ओ‐होश tamkiin-o-hosh 1
-  - تمکینوہوش तमकीन‐ओ‐होश tamkiin-o-hosh 1
+تمکین و ہوش तमकीन‐ओ‐होश tamkiin-o-hosh 1
+  - تمکین و ہوش तमकीन‐ओ‐होश tamkiin-o-hosh 1
 آس आस aas 1
   - آس आस aas 1
 پھوڑ फोड़ pho;r 1
@@ -6786,8 +6786,8 @@
   - زوال ज़वाल zavaal 1
 سادہ सादा saadah 1
   - سادہ सादा saadah 1
-مہرومہ मिहर‐ओ‐मा mihr-o-mah 1
-  - مہرومہ मिहर‐ओ‐मा mihr-o-mah 1
+مہر و مہ मिहर‐ओ‐मा mihr-o-mah 1
+  - مہر و مہ मिहर‐ओ‐मा mihr-o-mah 1
 بھائی भाई bhaa))ii 1
   - بھائی भाई bhaa))ii 1
 بچھانا बिछाना bichhaanaa 1
@@ -6806,12 +6806,12 @@
   - دوڑائے दौड़ाए dau;raa))e 1
 مفلس मुफ़लिस muflis 1
   - مفلساں मुफ़लिसाँ muflisaa;n 1
-سوالوجواب सवाल‐ओ‐जवाब savaal-o-javaab 1
-  - سوالوجواب सवाल‐ओ‐जवाब savaal-o-javaab 1
+سوال و جواب सवाल‐ओ‐जवाब savaal-o-javaab 1
+  - سوال و جواب सवाल‐ओ‐जवाब savaal-o-javaab 1
 کار گاہ कारगाह kaar-gaah 1
   - کار گاہِ कारगाह‐ए‐ kaar-gaah-e 1
-سروسامان सर‐ओ‐सामान sar-o-saamaan 1
-  - سروساماں सर‐ओ‐सामाँ sar-o-saamaa;n 1
+سر و سامان सर‐ओ‐सामान sar-o-saamaan 1
+  - سر و ساماں सर‐ओ‐सामाँ sar-o-saamaa;n 1
 روندنا रौंदना rau;ndnaa 1
   - روندی रौंदी rau;ndii 1
 راگ राग raag 1
@@ -6823,7 +6823,7 @@
 بد خواہ बदख़वाह bad-;xvaah 1
   - بد خواہ बदख़वाह bad-;xvaah 1
 جاں जाँ jaa;n 1
-  - عقلودلوجاں अक़ल‐ओ‐दिल‐ओ‐जाँ ((aql-o-dil-o-jaa;n 1
+  - عقل و دل و جاں अक़ल‐ओ‐दिल‐ओ‐जाँ ((aql-o-dil-o-jaa;n 1
 آتشین आतिशीन aatishiin 1
   - آتشیں आतिशीं aatishii;n 1
 استواری उसतुवारी ustuvaarii 1
@@ -6864,8 +6864,8 @@
   - چشم نمائی चशमनुमाई chashm-numaa))ii 1
 ورع वरा vara(( 1
   - ورع वरा vara(( 1
-فتنہوفساد फ़ितना‐ओ‐फ़साद fitnah-o-fasaad 1
-  - فتنہوفساد फ़ितना‐ओ‐फ़साद fitnah-o-fasaad 1
+فتنہ و فساد फ़ितना‐ओ‐फ़साद fitnah-o-fasaad 1
+  - فتنہ و فساد फ़ितना‐ओ‐फ़साद fitnah-o-fasaad 1
 سنبھلنا संभलना sa;nbhalnaa 1
   - سنبھلنے संभलने sa;nbhalne 1
 گرداب गिरदाब girdaab 1
@@ -6925,9 +6925,9 @@
 سرشتہ داری सरिशतादारी sarishtah-daarii 1
   - سرشتہ داری सरिशतादारी sarishtah-daarii 1
 پرکاری पुरकारी purkaarii 1
-  - سادگیوپرکاری सादगी‐ओ‐पुरकारी saadagii-o-purkaarii 1
-عشقونا گزیر इशक़‐ओ‐नागुज़ीर ((ishq-o-naa-guziir 1
-  - عشقونا گزیرِ इशक़‐ओ‐नागुज़ीर‐ए‐ ((ishq-o-naa-guziir-e 1
+  - سادگی و پرکاری सादगी‐ओ‐पुरकारी saadagii-o-purkaarii 1
+عشق و نا گزیر इशक़‐ओ‐नागुज़ीर ((ishq-o-naa-guziir 1
+  - عشق و نا گزیرِ इशक़‐ओ‐नागुज़ीर‐ए‐ ((ishq-o-naa-guziir-e 1
 وفور वुफ़ूर vufuur 1
   - وفورِ वुफ़ूर‐ए‐ vufuur-e 1
 خوبان ख़ूबान ;xuubaan 1
@@ -6935,7 +6935,7 @@
 سر ب سر सरबसर sar-ba-sar 1
   - سر ب سر सरबसर sar-ba-sar 1
 برہمن बरहमन barhaman 1
-  - شیخوبرہمن शैख़‐ओ‐बरहमन shai;x-o-barhaman 1
+  - شیخ و برہمن शैख़‐ओ‐बरहमन shai;x-o-barhaman 1
 گران مایگی गिरानमायगी giraan-maayagii 1
   - گراں مایگیِ गिराँमायगी‐ए‐ giraa;n-maayagii-e 1
 جمعیّت जमिययत jam((iyyat 1
@@ -6946,8 +6946,8 @@
   - بوتے बोते bote 1
 کافی काफ़ी kaafii 1
   - کافی काफ़ी kaafii 1
-راہورسم राह‐ओ‐रसम raah-o-rasm 1
-  - راہورسمِ राह‐ओ‐रसम‐ए‐ raah-o-rasm-e 1
+راہ و رسم राह‐ओ‐रसम raah-o-rasm 1
+  - راہ و رسمِ राह‐ओ‐रसम‐ए‐ raah-o-rasm-e 1
 گزشتہ गुज़शता guzashtah 1
   - گزشتہ गुज़शता guzashtah 1
 مواخذہ मुवाख़ज़ा muvaa;xa;zah 1
@@ -6968,8 +6968,8 @@
   - غم خانے ग़मख़ाने ;gam-;xaane 1
 گز गज़ gaz 1
   - گز गज़ gaz 1
-حیاتوبند हयात‐ओ‐बंद ;hayaat-o-band 1
-  - حیاتوبندِ हयात‐ओ‐बंद‐ए‐ ;hayaat-o-band-e 1
+حیات و بند हयात‐ओ‐बंद ;hayaat-o-band 1
+  - حیات و بندِ हयात‐ओ‐बंद‐ए‐ ;hayaat-o-band-e 1
 کھینچو खेंचो khe;ncho 1
   - کھینچو खेंचो khe;ncho 1
 کالبد कालबुद kaalbud 1
@@ -6977,7 +6977,7 @@
 رنجوری रंजूरी ranjuurii 1
   - رنجوری रंजूरी ranjuurii 1
 گہ गा gah 1
-  - گہوبے گہ गा‐ओ‐बेगा gah-o-be-gah 1
+  - گہ و بے گہ गा‐ओ‐बेगा gah-o-be-gah 1
 فقیر फ़क़ीर faqiir 1
   - فقیروں फ़क़ीरों faqiiro;n 1
 کلیجا कलेजा kalejaa 1
@@ -6987,7 +6987,7 @@
 سیاست सियासत siyaasat 1
   - سیاستِ सियासत‐ए‐ siyaasat-e 1
 ہم مشرب हममशरब ham-mashrab 1
-  - ہم پیشہوہم مشربوہم راز हमपेशा‐ओ‐हममशरब‐ओ‐हमराज़ ham-peshah-o-ham-mashrab-o-ham-raaz 1
+  - ہم پیشہ و ہم مشرب و ہم راز हमपेशा‐ओ‐हममशरब‐ओ‐हमराज़ ham-peshah-o-ham-mashrab-o-ham-raaz 1
 لیالی लियाली liyaalii 1
   - لیالی लियाली liyaalii 1
 پیاس पयास pyaas 1
@@ -6998,14 +6998,14 @@
   - لگن लगन lagan 1
 ابرو अबरू abruu 1
   - ابرو अबरू abruu 1
-بے دستوپائی बेदसत‐ओ‐पाई be-dast-o-paa))ii 1
-  - بے دستوپائی बेदसत‐ओ‐पाई be-dast-o-paa))ii 1
+بے دست و پائی बेदसत‐ओ‐पाई be-dast-o-paa))ii 1
+  - بے دست و پائی बेदसत‐ओ‐पाई be-dast-o-paa))ii 1
 ستد सितद sitad 1
-  - دادوستد दाद‐ओ‐सितद daad-o-sitad 1
+  - داد و ستد दाद‐ओ‐सितद daad-o-sitad 1
 اوضاع औज़ा au.zaa(( 1
   - اوضاعِ औज़ा‐ए‐ au.zaa((-e 1
-کواکب سپہومہر علم कवाकिबसिपा‐ओ‐मिहरअलम kavaakib-sipah-o-mihr-((alam 1
-  - کواکب سپہومہر علم कवाकिबसिपा‐ओ‐मिहरअलम kavaakib-sipah-o-mihr-((alam 1
+کواکب سپہ و مہر علم कवाकिबसिपा‐ओ‐मिहरअलम kavaakib-sipah-o-mihr-((alam 1
+  - کواکب سپہ و مہر علم कवाकिबसिपा‐ओ‐मिहरअलम kavaakib-sipah-o-mihr-((alam 1
 آئنہ خانہ आइनाख़ाना aa))inah-;xaanah 1
   - آئنہ خانے आइनाख़ाने aa))inah-;xaane 1
 واژ گون वाझ़गून vaazh-guun 1
@@ -7014,8 +7014,8 @@
   - غریب نواز ग़रीबनवाज़ ;gariib-navaaz 1
 بیماری बीमारी biimaarii 1
   - بیماریِ बीमारी‐ए‐ biimaarii-e 1
-خطّوخال ख़तत‐ओ‐ख़ाल ;xa:t:t-o-;xaal 1
-  - خطّوخال ख़तत‐ओ‐ख़ाल ;xa:t:t-o-;xaal 1
+خطّ و خال ख़तत‐ओ‐ख़ाल ;xa:t:t-o-;xaal 1
+  - خطّ و خال ख़तत‐ओ‐ख़ाल ;xa:t:t-o-;xaal 1
 بانگ बांग baa;ng 1
   - بانگِ बांग‐ए‐ baa;ng-e 1
 شق शक़ shaq 1
@@ -7032,8 +7032,8 @@
   - زیاد ज़ियाद ziyaad 1
 در پ दरप dar-pa 1
   - در پِ दरप‐ए‐ dar-pa-e 1
-لالہوگلونسرین लाला‐ओ‐गुल‐ओ‐नसरीन laalah-o-gul-o-nasriin 1
-  - لالہوگلونسریں लाला‐ओ‐गुल‐ओ‐नसरीं laalah-o-gul-o-nasrii;n 1
+لالہ و گل و نسرین लाला‐ओ‐गुल‐ओ‐नसरीन laalah-o-gul-o-nasriin 1
+  - لالہ و گل و نسریں लाला‐ओ‐गुल‐ओ‐नसरीं laalah-o-gul-o-nasrii;n 1
 قے क़ै qai 1
   - قے क़ै qai 1
 خود داری ख़ुददारी ;xvud-daarii 1
@@ -7044,10 +7044,10 @@
   - کانٹوں कांटों kaa;n;to;n 1
 فسان फ़सान fasaan 1
   - فساں फ़साँ fasaa;n 1
-نایونوش नाय‐ओ‐नोश naay-o-nosh 1
-  - نایونوش नाय‐ओ‐नोश naay-o-nosh 1
+نای و نوش नाय‐ओ‐नोश naay-o-nosh 1
+  - نای و نوش नाय‐ओ‐नोश naay-o-nosh 1
 خاکستر ख़ाकिसतर ;xaakistar 1
-  - خاکستروبلبل ख़ाकिसतर‐ओ‐बुलबुल ;xaakistar-o-bulbul 1
+  - خاکستر و بلبل ख़ाकिसतर‐ओ‐बुलबुल ;xaakistar-o-bulbul 1
 بے شمع बेशमा be-sham((a 1
   - بے شمع बेशमा be-sham((a 1
 لکد کوب लकदकोब lakad-kob 1
@@ -7062,20 +7062,20 @@
   - طبعِ तब‐ए‐ :tab((-e 1
 اخفا इख़फ़ा i;xfaa 1
   - اخفاے इख़फ़ा‐ए‐ i;xfaa-e 1
-مےوانگبین मै‐ओ‐अंगबीन mai-o-angabiin 1
-  - مےوانگبیں मै‐ओ‐अंगबीं mai-o-angabii;n 1
+مے و انگبین मै‐ओ‐अंगबीन mai-o-angabiin 1
+  - مے و انگبیں मै‐ओ‐अंगबीं mai-o-angabii;n 1
 نا گزیر नागुज़ीर naa-guziir 1
-  - عشقونا گزیرِ इशक़‐ओ‐नागुज़ीर‐ए‐ ((ishq-o-naa-guziir-e 1
+  - عشق و نا گزیرِ इशक़‐ओ‐नागुज़ीर‐ए‐ ((ishq-o-naa-guziir-e 1
 پائی पाई paa))ii 1
-  - بے دستوپائی बेदसत‐ओ‐पाई be-dast-o-paa))ii 1
+  - بے دست و پائی बेदसत‐ओ‐पाई be-dast-o-paa))ii 1
 خو گر ख़ूगर ;xuu-gar 1
   - خو گر ख़ूगर ;xuu-gar 1
-خرقہوسجّادہ ख़िरक़ा‐ओ‐सजजादा ;xirqah-o-sajjaadah 1
-  - خرقہوسجّادہ ख़िरक़ा‐ओ‐सजजादा ;xirqah-o-sajjaadah 1
+خرقہ و سجّادہ ख़िरक़ा‐ओ‐सजजादा ;xirqah-o-sajjaadah 1
+  - خرقہ و سجّادہ ख़िरक़ा‐ओ‐सजजादा ;xirqah-o-sajjaadah 1
 تصویر نما तसवीरनुमा ta.sviir-numaa 1
   - تصویر نما तसवीरनुमा ta.sviir-numaa 1
-ہم پیشہوہم مشربوہم راز हमपेशा‐ओ‐हममशरब‐ओ‐हमराज़ ham-peshah-o-ham-mashrab-o-ham-raaz 1
-  - ہم پیشہوہم مشربوہم راز हमपेशा‐ओ‐हममशरब‐ओ‐हमराज़ ham-peshah-o-ham-mashrab-o-ham-raaz 1
+ہم پیشہ و ہم مشرب و ہم راز हमपेशा‐ओ‐हममशरब‐ओ‐हमराज़ ham-peshah-o-ham-mashrab-o-ham-raaz 1
+  - ہم پیشہ و ہم مشرب و ہم راز हमपेशा‐ओ‐हममशरब‐ओ‐हमराज़ ham-peshah-o-ham-mashrab-o-ham-raaz 1
 خود آرائی ख़ुदआराई ;xvud-aaraa))ii 1
   - خود آرائی ख़ुदआराई ;xvud-aaraa))ii 1
 حسود हसूद ;hasuud 1
@@ -7084,18 +7084,18 @@
   - جدائی जुदाई judaa))ii 1
 شفق آلودہ शफ़क़आलूदा shafaq-aaluudah 1
   - شفق آلودہ शफ़क़आलूदा shafaq-aaluudah 1
-پر پیچوخم पुरपेच‐ओ‐ख़म pur-pech-o-;xam 1
-  - پر پیچوخم पुरपेच‐ओ‐ख़म pur-pech-o-;xam 1
+پر پیچ و خم पुरपेच‐ओ‐ख़म pur-pech-o-;xam 1
+  - پر پیچ و خم पुरपेच‐ओ‐ख़म pur-pech-o-;xam 1
 چاہ चाह chaah 1
   - چاہ चाह chaah 1
 بط बत ba:t 1
   - بطِ बत‐ए‐ ba:t-e 1
 سر سبز सरसबज़ sar-sabz 1
   - سر سبز सरसबज़ sar-sabz 1
-عشقومزدوری इशक़‐ओ‐मज़दूरी ((ishq-o-mazduurii 1
-  - عشقومزدوریِ इशक़‐ओ‐मज़दूरी‐ए‐ ((ishq-o-mazduurii-e 1
+عشق و مزدوری इशक़‐ओ‐मज़दूरी ((ishq-o-mazduurii 1
+  - عشق و مزدوریِ इशक़‐ओ‐मज़दूरी‐ए‐ ((ishq-o-mazduurii-e 1
 بے شراب बेशराब be-sharaab 1
-  - بے شرابودلِ बेशराब‐ओ‐दिल‐ए‐ be-sharaab-o-dil-e 1
+  - بے شراب و دلِ बेशराब‐ओ‐दिल‐ए‐ be-sharaab-o-dil-e 1
 پر شکن पुरशिकन pur-shikan 1
   - پر شکن पुरशिकन pur-shikan 1
 مہ طلعت मातलअत mah-:tal((at 1
@@ -7122,12 +7122,12 @@
   - لاشِ लाश‐ए‐ laash-e 1
 اردی उरदी urdii 1
   - اردی उरदी urdii 1
-رہورسم रा‐ओ‐रसम rah-o-rasm 1
-  - رہورسمِ रा‐ओ‐रसम‐ए‐ rah-o-rasm-e 1
+رہ و رسم रा‐ओ‐रसम rah-o-rasm 1
+  - رہ و رسمِ रा‐ओ‐रसम‐ए‐ rah-o-rasm-e 1
 پینس पीनस piinas 1
   - پینس पीनस piinas 1
-مدّعیودیدہ मुददी‐ओ‐दीदा mudda((ii-o-diidah 1
-  - مدّعیودیدہ मुददी‐ओ‐दीदा mudda((ii-o-diidah 1
+مدّعی و دیدہ मुददी‐ओ‐दीदा mudda((ii-o-diidah 1
+  - مدّعی و دیدہ मुददी‐ओ‐दीदा mudda((ii-o-diidah 1
 آتش دیدہ आतिशदीदा aatish-diidah 1
   - آتش دیدہ आतिशदीदा aatish-diidah 1
 وا گردیدہ वागरदीदा vaa-gardiidah 1
@@ -7162,8 +7162,8 @@
   - خان ماں ख़ानमाँ ;xaan-maa;n 1
 بھوں भों bho;n 1
   - بھوں भों bho;n 1
-دلودیدہ दिल‐ओ‐दीदा dil-o-diidah 1
-  - دلودیدہ दिल‐ओ‐दीदा dil-o-diidah 1
+دل و دیدہ दिल‐ओ‐दीदा dil-o-diidah 1
+  - دل و دیدہ दिल‐ओ‐दीदा dil-o-diidah 1
 ارمغاں अरमुग़ाँ armu;gaa;n 1
   - ارمغاں अरमुग़ाँ armu;gaa;n 1
 حظّ हज़ज़ ;ha:z:z 1
@@ -7204,8 +7204,8 @@
   - حلِ हलल‐ए‐ ;hall-e 1
 غالیہ مو ग़ालियामो ;gaaliyah-mo 1
   - غالیہ مو ग़ालियामो ;gaaliyah-mo 1
-رسمورہ रसम‐ओ‐रा rasm-o-rah 1
-  - رسمورہِ रसम‐ओ‐रा‐ए‐ rasm-o-rah-e 1
+رسم و رہ रसम‐ओ‐रा rasm-o-rah 1
+  - رسم و رہِ रसम‐ओ‐रा‐ए‐ rasm-o-rah-e 1
 ذمّہ ज़िममा ;zimmah 1
   - ذمّہ ज़िममा ;zimmah 1
 بنات ال نعش बनातउलनाश banaat-ul-na((sh 1
@@ -7275,7 +7275,7 @@
 افسوس अफ़सूस afsuus 1
   - افسوس अफ़सूस afsuus 1
 بالی बाली baalii 1
-  - بے پروبالی बेपर‐ओ‐बाली be-par-o-baalii 1
+  - بے پر و بالی बेपर‐ओ‐बाली be-par-o-baalii 1
 سر نامہ सरनामा sar-naamah 1
   - سر نامے सरनामे sar-naame 1
 نبرد پیشہ नबरदपेशा nabard-peshah 1
@@ -7297,11 +7297,11 @@
 نم नम nam 1
   - نمِ नम‐ए‐ nam-e 1
 مشہود मशहूद mashhuud 1
-  - شہودوشاہدومشہود शुहूद‐ओ‐शाहिद‐ओ‐मशहूद shuhuud-o-shaahid-o-mashhuud 1
+  - شہود و شاہد و مشہود शुहूद‐ओ‐शाहिद‐ओ‐मशहूद shuhuud-o-shaahid-o-mashhuud 1
 ہفت हफ़त haft 1
   - ہفت हफ़त haft 1
 توان तवान tavaan 1
-  - تابوتواں ताब‐ओ‐तवाँ taab-o-tavaa;n 1
+  - تاب و تواں ताब‐ओ‐तवाँ taab-o-tavaa;n 1
 آغوش کشا आग़ोशकुशा aa;gosh-kushaa 1
   - آغوش کشا आग़ोशकुशा aa;gosh-kushaa 1
 جوّالہ जववाला javvaalah 1
@@ -7332,8 +7332,8 @@
   - راس रास raas 1
 یک شہر यकशहर yak-shahr 1
   - یک شہر यकशहर yak-shahr 1
-رہوستم रा‐ओ‐सितम rah-o-sitam 1
-  - رہوستمِ रा‐ओ‐सितम‐ए‐ rah-o-sitam-e 1
+رہ و ستم रा‐ओ‐सितम rah-o-sitam 1
+  - رہ و ستمِ रा‐ओ‐सितम‐ए‐ rah-o-sitam-e 1
 سرو قد सरवक़द sarv-qad 1
   - سرو قد सरवक़द sarv-qad 1
 پیش دستی पेशदसती pesh-dastii 1
@@ -7359,7 +7359,7 @@
 سر چشمہ सरचशमा sar-chashmah 1
   - سر چشمہِ सरचशमा‐ए‐ sar-chashmah-e 1
 فساد फ़साद fasaad 1
-  - فتنہوفساد फ़ितना‐ओ‐फ़साद fitnah-o-fasaad 1
+  - فتنہ و فساد फ़ितना‐ओ‐फ़साद fitnah-o-fasaad 1
 مجبور मजबूर majbuur 1
   - مجبور मजबूर majbuur 1
 جھاڑنا झाड़ना jhaa;rnaa 1
@@ -7388,14 +7388,14 @@
   - زیست ज़ीसत ziist 1
 فتراک फ़ितराक fitraak 1
   - فتراک फ़ितराक fitraak 1
-گہوبے گہ गा‐ओ‐बेगा gah-o-be-gah 1
-  - گہوبے گہ गा‐ओ‐बेगा gah-o-be-gah 1
+گہ و بے گہ गा‐ओ‐बेगा gah-o-be-gah 1
+  - گہ و بے گہ गा‐ओ‐बेगा gah-o-be-gah 1
 رہائی रिहाई rihaa))ii 1
   - رہائی रिहाई rihaa))ii 1
-قیسوکوہکن क़ैस‐ओ‐कोहकन qais-o-kohkan 1
-  - قیسوکوہکن क़ैस‐ओ‐कोहकन qais-o-kohkan 1
-نازوادا नाज़‐ओ‐अदा naaz-o-adaa 1
-  - نازوادا नाज़‐ओ‐अदा naaz-o-adaa 1
+قیس و کوہکن क़ैस‐ओ‐कोहकन qais-o-kohkan 1
+  - قیس و کوہکن क़ैस‐ओ‐कोहकन qais-o-kohkan 1
+ناز و ادا नाज़‐ओ‐अदा naaz-o-adaa 1
+  - ناز و ادا नाज़‐ओ‐अदा naaz-o-adaa 1
 خداوند ख़ुदावंद ;xudaavand 1
   - خداوندِ ख़ुदावंद‐ए‐ ;xudaavand-e 1
 بعید बीद ba((iid 1
@@ -7413,9 +7413,9 @@
 سمائی समाई samaa))ii 1
   - سمائی समाई samaa))ii 1
 زاری ज़ारी zaarii 1
-  - فریادوآہوزاری फ़रयाद‐ओ‐आह‐ओ‐ज़ारी faryaad-o-aah-o-zaarii 1
-آہوفریاد आह‐ओ‐फ़रयाद aah-o-faryaad 1
-  - آہوفریاد आह‐ओ‐फ़रयाद aah-o-faryaad 1
+  - فریاد و آہ و زاری फ़रयाद‐ओ‐आह‐ओ‐ज़ारी faryaad-o-aah-o-zaarii 1
+آہ و فریاد आह‐ओ‐फ़रयाद aah-o-faryaad 1
+  - آہ و فریاد आह‐ओ‐फ़रयाद aah-o-faryaad 1
 ہوا خواہی हवाख़वाही havaa-;xvaahii 1
   - ہوا خواہی हवाख़वाही havaa-;xvaahii 1
 آئنہ داری आइनादारी aa))inah-daarii 1
@@ -7431,13 +7431,13 @@
 رقم रक़म raqam 1
   - رقم रक़म raqam 1
 بے حوصلگی बेहौसलगी be-;hau.salagii 1
-  - معشوقیوبے حوصلگی माशूक़ी‐ओ‐बेहौसलगी ma((shuuqii-o-be-;hau.salagii 1
+  - معشوقی و بے حوصلگی माशूक़ी‐ओ‐बेहौसलगी ma((shuuqii-o-be-;hau.salagii 1
 باغ بانی बाग़बानी baa;g-baanii 1
   - باغ بانیِ बाग़बानी‐ए‐ baa;g-baanii-e 1
 مہر وش मिहरवश mihr-vash 1
   - مہر وش मिहरवश mihr-vash 1
-لعلوگہر लाल‐ओ‐गुहर la((l-o-guhar 1
-  - لعلوگہر लाल‐ओ‐गुहर la((l-o-guhar 1
+لعل و گہر लाल‐ओ‐गुहर la((l-o-guhar 1
+  - لعل و گہر लाल‐ओ‐गुहर la((l-o-guhar 1
 آفاق आफ़ाक़ aafaaq 1
   - آفاق आफ़ाक़ aafaaq 1
 نالہ فرسائی नालाफ़रसाई naalah-farsaa))ii 1
@@ -7464,8 +7464,8 @@
   - دریغا दरेग़ा dare;gaa 1
 چاہنے والا चाहनेवाला chaahne-vaalaa 1
   - چاہنے والا चाहनेवाला chaahne-vaalaa 1
-مقابلودعوا मुक़ाबिल‐ओ‐दावा muqaabil-o-da((vaa 1
-  - مقابلودعواے मुक़ाबिल‐ओ‐दावा‐ए‐ muqaabil-o-da((vaa-e 1
+مقابل و دعوا मुक़ाबिल‐ओ‐दावा muqaabil-o-da((vaa 1
+  - مقابل و دعواے मुक़ाबिल‐ओ‐दावा‐ए‐ muqaabil-o-da((vaa-e 1
 فسون گر फ़ुसूनगर fusuun-gar 1
   - فسوں گر फ़ुसूँगर fusuu;n-gar 1
 گلفام गुलफ़ाम gulfaam 1
@@ -7504,8 +7504,8 @@
   - بے خوابی बेख़वाबी be-;xvaabii 1
 زبونی ज़बूनी zabuunii 1
   - زبونیِ ज़बूनी‐ए‐ zabuunii-e 1
-مہروماہ मिहर‐ओ‐माह mihr-o-maah 1
-  - مہروماہ मिहर‐ओ‐माह mihr-o-maah 1
+مہر و ماہ मिहर‐ओ‐माह mihr-o-maah 1
+  - مہر و ماہ मिहर‐ओ‐माह mihr-o-maah 1
 خون نابہ مشرب ख़ूननाबामशरब ;xuun-naabah-mashrab 1
   - خوں نابہ مشرب ख़ूँनाबामशरब ;xuu;n-naabah-mashrab 1
 دروازہ दरवाज़ा darvaazah 1
@@ -7530,18 +7530,18 @@
   - گوشت गोशत gosht 1
 از دست رفتہ अज़दसतरफ़ता az-dast-raftah 1
   - از دست رفتہ अज़दसतरफ़ता az-dast-raftah 1
-مےونغمہ मै‐ओ‐नग़मा mai-o-na;gmah 1
-  - مےونغمہ मै‐ओ‐नग़मा mai-o-na;gmah 1
+مے و نغمہ मै‐ओ‐नग़मा mai-o-na;gmah 1
+  - مے و نغمہ मै‐ओ‐नग़मा mai-o-na;gmah 1
 خدا ساز ख़ुदासाज़ ;xudaa-saaz 1
   - خدا ساز ख़ुदासाज़ ;xudaa-saaz 1
 ستم ایجاد सितमईजाद sitam-iijaad 1
   - ستم ایجاد सितमईजाद sitam-iijaad 1
 بوجھ बोझ bojh 1
   - بوجھ बोझ bojh 1
-یاسوامّید यास‐ओ‐उममीद yaas-o-ummiid 1
-  - یاسوامّید यास‐ओ‐उममीद yaas-o-ummiid 1
-بے دستوپا बेदसत‐ओ‐पा be-dast-o-paa 1
-  - بے دستوپا बेदसत‐ओ‐पा be-dast-o-paa 1
+یاس و امّید यास‐ओ‐उममीद yaas-o-ummiid 1
+  - یاس و امّید यास‐ओ‐उममीद yaas-o-ummiid 1
+بے دست و پا बेदसत‐ओ‐पा be-dast-o-paa 1
+  - بے دست و پا बेदसत‐ओ‐पा be-dast-o-paa 1
 بے کران बेकरान be-karaan 1
   - بے کراں बेकराँ be-karaa;n 1
 تف तफ़ taf 1
@@ -7554,10 +7554,10 @@
   - طبیعی तबीई :tabii((ii 1
 خون نابہ فشانی ख़ूननाबाफ़िशानी ;xuun-naabah-fishaanii 1
   - خوں نابہ فشانی ख़ूँनाबाफ़िशानी ;xuu;n-naabah-fishaanii 1
-ایمانوآگہی ईमान‐ओ‐आगही iimaan-o-aagahii 1
-  - ایمانوآگہی ईमान‐ओ‐आगही iimaan-o-aagahii 1
-فریادوآہوزاری फ़रयाद‐ओ‐आह‐ओ‐ज़ारी faryaad-o-aah-o-zaarii 1
-  - فریادوآہوزاری फ़रयाद‐ओ‐आह‐ओ‐ज़ारी faryaad-o-aah-o-zaarii 1
+ایمان و آگہی ईमान‐ओ‐आगही iimaan-o-aagahii 1
+  - ایمان و آگہی ईमान‐ओ‐आगही iimaan-o-aagahii 1
+فریاد و آہ و زاری फ़रयाद‐ओ‐आह‐ओ‐ज़ारी faryaad-o-aah-o-zaarii 1
+  - فریاد و آہ و زاری फ़रयाद‐ओ‐आह‐ओ‐ज़ारी faryaad-o-aah-o-zaarii 1
 قطع क़ता qa:t((a 1
   - قطع क़ता qa:t((a 1
 تشنگی तिशनगी tishnagii 1
@@ -7588,8 +7588,8 @@
   - گریبانی गरेबानी garebaanii 1
 مونس मूनिस muunis 1
   - مونس मूनिस muunis 1
-وحشتوشیفتہ वहशत‐ओ‐शेफ़ता va;hshat-o-sheftah 1
-  - وحشتوشیفتہ वहशत‐ओ‐शेफ़ता va;hshat-o-sheftah 1
+وحشت و شیفتہ वहशत‐ओ‐शेफ़ता va;hshat-o-sheftah 1
+  - وحشت و شیفتہ वहशत‐ओ‐शेफ़ता va;hshat-o-sheftah 1
 عربدہ میداں अरबदामैदाँ ((arbadah-maidaa;n 1
   - عربدہ میداں अरबदामैदाँ ((arbadah-maidaa;n 1
 آفرینش आफ़िरीनिश aafiriinish 1
@@ -7624,8 +7624,8 @@
   - مردہ मुरदा murdah 1
 پر گل पुरगुल pur-gul 1
   - پر گل पुरगुल pur-gul 1
-شیخوبرہمن शैख़‐ओ‐बरहमन shai;x-o-barhaman 1
-  - شیخوبرہمن शैख़‐ओ‐बरहमन shai;x-o-barhaman 1
+شیخ و برہمن शैख़‐ओ‐बरहमन shai;x-o-barhaman 1
+  - شیخ و برہمن शैख़‐ओ‐बरहमन shai;x-o-barhaman 1
 شگاف शिगाफ़ shigaaf 1
   - شگاف शिगाफ़ shigaaf 1
 صدف सदफ़ .sadaf 1
@@ -7635,7 +7635,7 @@
 عبرت نگاہ इबरतनिगाह ((ibrat-nigaah 1
   - عبرت نگاہ इबरतनिगाह ((ibrat-nigaah 1
 مجبوری मजबूरी majbuurii 1
-  - مجبوریودعواے मजबूरी‐ओ‐दावा‐ए‐ majbuurii-o-da((vaa-e 1
+  - مجبوری و دعواے मजबूरी‐ओ‐दावा‐ए‐ majbuurii-o-da((vaa-e 1
 غارت ग़ारत ;gaarat 1
   - غارت ग़ारत ;gaarat 1
 دھبّہ धबबा dhabbah 1
@@ -7644,8 +7644,8 @@
   - رو سیاہ रूसियाह ruu-siyaah 1
 جان گدازی जानगुदाज़ी jaan-gudaazii 1
   - جاں گدازیِ जाँगुदाज़ी‐ए‐ jaa;n-gudaazii-e 1
-خورشیدوماہ ख़ुरशीद‐ओ‐माह ;xvurshiid-o-maah 1
-  - خورشیدوماہ ख़ुरशीद‐ओ‐माह ;xvurshiid-o-maah 1
+خورشید و ماہ ख़ुरशीद‐ओ‐माह ;xvurshiid-o-maah 1
+  - خورشید و ماہ ख़ुरशीद‐ओ‐माह ;xvurshiid-o-maah 1
 طاقت ربا ताक़तरुबा :taaqat-rubaa 1
   - طاقت ربا ताक़तरुबा :taaqat-rubaa 1
 نوکر नौकर naukar 1
@@ -7663,7 +7663,7 @@
 قناعت क़नाअत qanaa((at 1
   - قناعت क़नाअत qanaa((at 1
 فغاں फ़िग़ाँ fi;gaa;n 1
-  - آہوفغاں आह‐ओ‐फ़िग़ाँ aah-o-fi;gaa;n 1
+  - آہ و فغاں आह‐ओ‐फ़िग़ाँ aah-o-fi;gaa;n 1
 ابنا अबना abnaa 1
   - ابناے अबना‐ए‐ abnaa-e 1
 ساقی گری साक़ीगरी saaqii-garii 1
@@ -7680,8 +7680,8 @@
   - شکستن शिकसतन shikastan 1
 نہنگ निहंग nihang 1
   - نہنگ निहंग nihang 1
-غموشادی ग़म‐ओ‐शादी ;gam-o-shaadii 1
-  - غموشادی ग़म‐ओ‐शादी ;gam-o-shaadii 1
+غم و شادی ग़म‐ओ‐शादी ;gam-o-shaadii 1
+  - غم و شادی ग़म‐ओ‐शादी ;gam-o-shaadii 1
 تاراج ताराज taaraaj 1
   - تاراجِ ताराज‐ए‐ taaraaj-e 1
 سر بر सरबर sar-bar 1
@@ -7698,26 +7698,26 @@
   - برجا ماندہ बरजामांदा barjaa-maa;ndah 1
 راحت طلبی राहततलबी raa;hat-:talabii 1
   - راحت طلبی राहततलबी raa;hat-:talabii 1
-دستوخنجر दसत‐ओ‐ख़ंजर dast-o-;xanjar 1
-  - دستوخنجرِ दसत‐ओ‐ख़ंजर‐ए‐ dast-o-;xanjar-e 1
+دست و خنجر दसत‐ओ‐ख़ंजर dast-o-;xanjar 1
+  - دست و خنجرِ दसत‐ओ‐ख़ंजर‐ए‐ dast-o-;xanjar-e 1
 یاری यारी yaarii 1
   - یاری यारी yaarii 1
 مہربانی मिहरबानी mihrbaanii 1
   - مہربانیہاے मिहरबानीहा‐ए‐ mihrbaaniihaa-e 1
-بے پروبالی बेपर‐ओ‐बाली be-par-o-baalii 1
-  - بے پروبالی बेपर‐ओ‐बाली be-par-o-baalii 1
+بے پر و بالی बेपर‐ओ‐बाली be-par-o-baalii 1
+  - بے پر و بالی बेपर‐ओ‐बाली be-par-o-baalii 1
 داد خواہ दादख़वाह daad-;xvaah 1
   - داد خواہ दादख़वाह daad-;xvaah 1
-طاعتوزہد ताअत‐ओ‐ज़ुहद :taa((at-o-zuhd 1
-  - طاعتوزہد ताअत‐ओ‐ज़ुहद :taa((at-o-zuhd 1
+طاعت و زہد ताअत‐ओ‐ज़ुहद :taa((at-o-zuhd 1
+  - طاعت و زہد ताअत‐ओ‐ज़ुहद :taa((at-o-zuhd 1
 باوجود बावुजूद baavujuud 1
   - باوجودِ बावुजूद‐ए‐ baavujuud-e 1
 کڑا कड़ा ka;raa 1
   - کڑی कड़ी ka;rii 1
 عالم آرائی आलमआराई ((aalam-aaraa))ii 1
   - عالم آرائی आलमआराई ((aalam-aaraa))ii 1
-بندوبست बंद‐ओ‐बसत band-o-bast 1
-  - بندوبست बंद‐ओ‐बसत band-o-bast 1
+بند و بست बंद‐ओ‐बसत band-o-bast 1
+  - بند و بست बंद‐ओ‐बसत band-o-bast 1
 لڑکا लड़का la;rkaa 1
   - لڑکوں लड़कों la;rko;n 1
 بینائی बीनाई biinaa))ii 1
@@ -7734,8 +7734,8 @@
   - طلبگارِ तलबगार‐ए‐ :talabgaar-e 1
 طول तूल :tuul 1
   - طول तूल :tuul 1
-تسلیموبدا तसलीम‐ओ‐बदा tasliim-o-badaa 1
-  - تسلیموبدا तसलीम‐ओ‐बदा tasliim-o-badaa 1
+تسلیم و بدا तसलीम‐ओ‐बदा tasliim-o-badaa 1
+  - تسلیم و بدا तसलीम‐ओ‐बदा tasliim-o-badaa 1
 آتش نفس आतिशनफ़स aatish-nafas 1
   - آتش نفس आतिशनफ़स aatish-nafas 1
 خسّت ख़िससत ;xissat 1
@@ -7816,14 +7816,14 @@
   - رعونت रूनत ra((uunat 1
 تعریف तारीफ़ ta((riif 1
   - تعریف तारीफ़ ta((riif 1
-لعلوزمرّدوزروگوہر लाल‐ओ‐ज़ुमुररुद‐ओ‐ज़र‐ओ‐गौहर la((l-o-zumurrud-o-zar-o-gauhar 1
-  - لعلوزمرّدوزروگوہر लाल‐ओ‐ज़ुमुररुद‐ओ‐ज़र‐ओ‐गौहर la((l-o-zumurrud-o-zar-o-gauhar 1
+لعل و زمرّد و زر و گوہر लाल‐ओ‐ज़ुमुररुद‐ओ‐ज़र‐ओ‐गौहर la((l-o-zumurrud-o-zar-o-gauhar 1
+  - لعل و زمرّد و زر و گوہر लाल‐ओ‐ज़ुमुररुद‐ओ‐ज़र‐ओ‐गौहर la((l-o-zumurrud-o-zar-o-gauhar 1
 حج हज ;haj 1
   - حج हज ;haj 1
 رنج آشنا रंजआशना ranj-aashnaa 1
   - رنج آشنا रंजआशना ranj-aashnaa 1
 سبو सुबू subuu 1
-  - جاموسبو जाम‐ओ‐सुबू jaam-o-subuu 1
+  - جام و سبو जाम‐ओ‐सुबू jaam-o-subuu 1
 تلخی तलख़ी tal;xii 1
   - تلخیِ तलख़ी‐ए‐ tal;xii-e 1
 پابند पाबंद paaband 1
@@ -7831,7 +7831,7 @@
 کنار किनार kinaar 1
   - کنارِ किनार‐ए‐ kinaar-e 1
 بے گہ बेगा be-gah 1
-  - گہوبے گہ गा‐ओ‐बेगा gah-o-be-gah 1
+  - گہ و بے گہ गा‐ओ‐बेगा gah-o-be-gah 1
 صحّت सिहहत .si;h;hat 1
   - صحّت सिहहत .si;h;hat 1
 ثانی सानी ;saanii 1
@@ -7878,8 +7878,8 @@
   - ارمان अरमान armaan 1
 مطلوب मतलूब ma:tluub 1
   - مطلوب मतलूब ma:tluub 1
-سرووصنوبر सरव‐ओ‐सनोबर sarv-o-.sanobar 1
-  - سرووصنوبر सरव‐ओ‐सनोबर sarv-o-.sanobar 1
+سرو و صنوبر सरव‐ओ‐सनोबर sarv-o-.sanobar 1
+  - سرو و صنوبر सरव‐ओ‐सनोबर sarv-o-.sanobar 1
 جوئبار जूइबार juu))ibaar 1
   - جوئبارِ जूइबार‐ए‐ juu))ibaar-e 1
 بیرون बैरून bairuun 1
@@ -7901,17 +7901,17 @@
 رندان रिंदान rindaan 1
   - رندانِ रिंदान‐ए‐ rindaan-e 1
 نسیہ निसया nisyah 1
-  - نسیہونقدِ निसया‐ओ‐नक़द‐ए‐ nisyah-o-naqd-e 1
+  - نسیہ و نقدِ निसया‐ओ‐नक़द‐ए‐ nisyah-o-naqd-e 1
 توفیر तौफ़ीर taufiir 1
   - توفیرِ तौफ़ीर‐ए‐ taufiir-e 1
 جلوہ نما जलवानुमा jalvah-numaa 1
   - جلوہ نما जलवानुमा jalvah-numaa 1
-اندازوادا अंदाज़‐ओ‐अदा andaaz-o-adaa 1
-  - اندازوادا अंदाज़‐ओ‐अदा andaaz-o-adaa 1
+انداز و ادا अंदाज़‐ओ‐अदा andaaz-o-adaa 1
+  - انداز و ادا अंदाज़‐ओ‐अदा andaaz-o-adaa 1
 ارزاں अरज़ाँ arzaa;n 1
   - ارزاں अरज़ाँ arzaa;n 1
 توان तुवान tuvaan 1
-  - تابوتواں ताब‐ओ‐तुवाँ taab-o-tuvaa;n 1
+  - تاب و تواں ताब‐ओ‐तुवाँ taab-o-tuvaa;n 1
 بے صرفہ बेसरफ़ा be-.sarfah 1
   - بے صرفہ बेसरफ़ा be-.sarfah 1
 درازی दराज़ी daraazii 1
@@ -7924,8 +7924,8 @@
   - بیکار बेकार bekaar 1
 منصب मंसब man.sab 1
   - منصبِ मंसब‐ए‐ man.sab-e 1
-ابروباد अबर‐ओ‐बाद abr-o-baad 1
-  - ابروباد अबर‐ओ‐बाद abr-o-baad 1
+ابر و باد अबर‐ओ‐बाद abr-o-baad 1
+  - ابر و باد अबर‐ओ‐बाद abr-o-baad 1
 ضرور ज़रूर .zaruur 1
   - ضرور ज़रूर .zaruur 1
 قاطع क़ाता qaa:ta(( 1
@@ -7935,7 +7935,7 @@
 پنبہ آگین पुंबाआगीन punbah-aagiin 1
   - پنبہ آگیں पुंबाआगीं punbah-aagii;n 1
 نشیب नशेब nasheb 1
-  - نشیبوفراز नशेब‐ओ‐फ़राज़ nasheb-o-faraaz 1
+  - نشیب و فراز नशेब‐ओ‐फ़राज़ nasheb-o-faraaz 1
 خون غلتیدہ ख़ूनग़लतीदा ;xuun-;galtiidah 1
   - خوں غلتیدہِ ख़ूँग़लतीदा‐ए‐ ;xuu;n-;galtiidah-e 1
 خون غلتیدن ख़ूनग़लतीदन ;xuun-;galtiidan 1
@@ -7977,9 +7977,9 @@
 تیز رو तेज़रौ tez-rau 1
   - تیز رو तेज़रौ tez-rau 1
 پر پیچ पुरपेच pur-pech 1
-  - پر پیچوخم पुरपेच‐ओ‐ख़म pur-pech-o-;xam 1
-خاکستروبلبل ख़ाकिसतर‐ओ‐बुलबुल ;xaakistar-o-bulbul 1
-  - خاکستروبلبل ख़ाकिसतर‐ओ‐बुलबुल ;xaakistar-o-bulbul 1
+  - پر پیچ و خم पुरपेच‐ओ‐ख़म pur-pech-o-;xam 1
+خاکستر و بلبل ख़ाकिसतर‐ओ‐बुलबुल ;xaakistar-o-bulbul 1
+  - خاکستر و بلبل ख़ाकिसतर‐ओ‐बुलबुल ;xaakistar-o-bulbul 1
 باربد बारबुद baarbud 1
   - باربدِ बारबुद‐ए‐ baarbud-e 1
 ولیکن वलेकिन valekin 1
@@ -7992,8 +7992,8 @@
   - سپرد सुपुरद supurd 1
 آئینہ خانہ आईनाख़ाना aa))iinah-;xaanah 1
   - آئینہ خانے आईनाख़ाने aa))iinah-;xaane 1
-عقلودلوجاں अक़ल‐ओ‐दिल‐ओ‐जाँ ((aql-o-dil-o-jaa;n 1
-  - عقلودلوجاں अक़ल‐ओ‐दिल‐ओ‐जाँ ((aql-o-dil-o-jaa;n 1
+عقل و دل و جاں अक़ल‐ओ‐दिल‐ओ‐जाँ ((aql-o-dil-o-jaa;n 1
+  - عقل و دل و جاں अक़ल‐ओ‐दिल‐ओ‐जाँ ((aql-o-dil-o-jaa;n 1
 کہار कहार kahaar 1
   - کہاروں कहारों kahaaro;n 1
 سرگشتہ सरगशता sargashtah 1
@@ -8036,8 +8036,8 @@
   - الیٰہی इलाही il;aahii 1
 خطّہ ख़ितता ;xi:t:tah 1
   - خطّہِ ख़ितता‐ए‐ ;xi:t:tah-e 1
-رسوموقیود रुसूम‐ओ‐क़ुयूद rusuum-o-quyuud 1
-  - رسوموقیود रुसूम‐ओ‐क़ुयूद rusuum-o-quyuud 1
+رسوم و قیود रुसूम‐ओ‐क़ुयूद rusuum-o-quyuud 1
+  - رسوم و قیود रुसूम‐ओ‐क़ुयूद rusuum-o-quyuud 1
 روح ال قدس रूहउलक़ुदुस ruu;h-ul-qudus 1
   - روح ال قدس रूहउलक़ुदुस ruu;h-ul-qudus 1
 پا انداز पाअंदाज़ paa-andaaz 1
@@ -8062,8 +8062,8 @@
   - عنوانِ उंवान‐ए‐ ((unvaan-e 1
 تئمّل तअममुल ta))ammul 1
   - تئمّل तअममुल ta))ammul 1
-سبحہوزنّار सुबहा‐ओ‐ज़ुन्नार sub;hah-o-zunnaar 1
-  - سبحہوزنّار सुबहा‐ओ‐ज़ुन्नार sub;hah-o-zunnaar 1
+سبحہ و زنّار सुबहा‐ओ‐ज़ुन्नार sub;hah-o-zunnaar 1
+  - سبحہ و زنّار सुबहा‐ओ‐ज़ुन्नार sub;hah-o-zunnaar 1
 دوئی दूई duu))ii 1
   - دوئی दूई duu))ii 1
 ال امان अलअमान al-amaan 1
@@ -8074,16 +8074,16 @@
   - خارا ख़ारा ;xaaraa 1
 کیفیّت कैफ़िययत kaifiyyat 1
   - کیفیّتِ कैफ़िययत‐ए‐ kaifiyyat-e 1
-قہروغضب क़हर‐ओ‐ग़ज़ब qahr-o-;ga.zab 1
-  - قہروغضب क़हर‐ओ‐ग़ज़ब qahr-o-;ga.zab 1
+قہر و غضب क़हर‐ओ‐ग़ज़ब qahr-o-;ga.zab 1
+  - قہر و غضب क़हर‐ओ‐ग़ज़ब qahr-o-;ga.zab 1
 غم خوارگی ग़मख़वारगी ;gam-;xvaaragii 1
   - غم خوارگی ग़मख़वारगी ;gam-;xvaaragii 1
-ہم طرحیودرد हमतरही‐ओ‐दरद ham-:tar;hii-o-dard 1
-  - ہم طرحیودردِ हमतरही‐ओ‐दरद‐ए‐ ham-:tar;hii-o-dard-e 1
+ہم طرحی و درد हमतरही‐ओ‐दरद ham-:tar;hii-o-dard 1
+  - ہم طرحی و دردِ हमतरही‐ओ‐दरद‐ए‐ ham-:tar;hii-o-dard-e 1
 نقسان नुक़सान nuqsaan 1
   - نقساں नुक़साँ nuqsaa;n 1
-دینودل दीन‐ओ‐दिल diin-o-dil 1
-  - دینودل दीन‐ओ‐दिल diin-o-dil 1
+دین و دل दीन‐ओ‐दिल diin-o-dil 1
+  - دین و دل दीन‐ओ‐दिल diin-o-dil 1
 نکو نامی निकोनामी niko-naamii 1
   - نکو نامیِ निकोनामी‐ए‐ niko-naamii-e 1
 مشغول मशग़ूल mash;guul 1
@@ -8092,8 +8092,8 @@
   - دیر दैर dair 1
 بے دلی बेदिली be-dilii 1
   - بے دلی बेदिली be-dilii 1
-ابروشب अबर‐ओ‐शब abr-o-shab 1
-  - ابروشبِ अबर‐ओ‐शब‐ए‐ abr-o-shab-e 1
+ابر و شب अबर‐ओ‐शब abr-o-shab 1
+  - ابر و شبِ अबर‐ओ‐शब‐ए‐ abr-o-shab-e 1
 مسائل मसाइल masaa))il 1
   - مسائلِ मसाइल‐ए‐ masaa))il-e 1
 واقعہ वाक़िअह vaaqi((ah 1
@@ -8126,8 +8126,8 @@
   - ہولِ हौल‐ए‐ haul-e 1
 حیرانی हैरानी ;hairaanii 1
   - حیرانی हैरानी ;hairaanii 1
-دلودل दिल‐ओ‐दिल dil-o-dil 1
-  - دلودل दिल‐ओ‐दिल dil-o-dil 1
+دل و دل दिल‐ओ‐दिल dil-o-dil 1
+  - دل و دل दिल‐ओ‐दिल dil-o-dil 1
 بغل बग़ल ba;gal 1
   - بغل बग़ल ba;gal 1
 حاجت مند हाजतमंद ;haajat-mand 1
@@ -8138,8 +8138,8 @@
   - مشتمل मुशतमिल mushtamil 1
 جانو जानो jaano 1
   - جانو जानो jaano 1
-چشموچراغ चशम‐ओ‐चिराग़ chashm-o-chiraa;g 1
-  - چشموچراغِ चशम‐ओ‐चिराग़‐ए‐ chashm-o-chiraa;g-e 1
+چشم و چراغ चशम‐ओ‐चिराग़ chashm-o-chiraa;g 1
+  - چشم و چراغِ चशम‐ओ‐चिराग़‐ए‐ chashm-o-chiraa;g-e 1
 وصف वसफ़ va.sf 1
   - وصفِ वसफ़‐ए‐ va.sf-e 1
 ولی वली valii 1
@@ -8147,7 +8147,7 @@
 جلوہ گر जलवागर jalvah-gar 1
   - جلوہ گر जलवागर jalvah-gar 1
 نجف नजफ़ najaf 1
-  - نجفوطوفِ नजफ़‐ओ‐तौफ़‐ए‐ najaf-o-:tauf-e 1
+  - نجف و طوفِ नजफ़‐ओ‐तौफ़‐ए‐ najaf-o-:tauf-e 1
 شنا शिना shinaa 1
   - شنا शिना shinaa 1
 نیستان नैसितान naisitaan 1
@@ -8164,14 +8164,14 @@
   - چرانا चुराना churaanaa 1
 بے باک बेबाक be-baak 1
   - بے باک बेबाक be-baak 1
-ساختہوفصل साख़ता‐ओ‐फ़सल saa;xtah-o-fa.sl 1
-  - ساختہوفصلِ साख़ता‐ओ‐फ़सल‐ए‐ saa;xtah-o-fa.sl-e 1
+ساختہ و فصل साख़ता‐ओ‐फ़सल saa;xtah-o-fa.sl 1
+  - ساختہ و فصلِ साख़ता‐ओ‐फ़सल‐ए‐ saa;xtah-o-fa.sl-e 1
 بے گرہ बेगिरा be-girah 1
   - بے گرہ बेगिरा be-girah 1
 سوکھ सूख suukh 1
   - سوکھ सूख suukh 1
-دلوچشم दिल‐ओ‐चशम dil-o-chashm 1
-  - دلوچشمِ दिल‐ओ‐चशम‐ए‐ dil-o-chashm-e 1
+دل و چشم दिल‐ओ‐चशम dil-o-chashm 1
+  - دل و چشمِ दिल‐ओ‐चशम‐ए‐ dil-o-chashm-e 1
 غیور ग़यूर ;gayuur 1
   - غیور ग़यूर ;gayuur 1
 وا شد वाशुद vaa-shud 1
@@ -8190,8 +8190,8 @@
   - زماں ज़माँ zamaa;n 1
 کودکی कूदकी kuudakii 1
   - کودکی कूदकी kuudakii 1
-قدورخ क़द‐ओ‐रुख़ qad-o-ru;x 1
-  - قدورخ क़द‐ओ‐रुख़ qad-o-ru;x 1
+قد و رخ क़द‐ओ‐रुख़ qad-o-ru;x 1
+  - قد و رخ क़द‐ओ‐रुख़ qad-o-ru;x 1
 ظہوری ज़ुहूरी :zuhuurii 1
   - ظہوری ज़ुहूरी :zuhuurii 1
 حق شناس हक़शिनास ;haq-shinaas 1
@@ -8214,8 +8214,8 @@
   - سفال सफ़ाल safaal 1
 ٹیڑھا टेढ़ा ;te;rhaa 1
   - ٹیڑھا टेढ़ा ;te;rhaa 1
-لالہوگل लाला‐ओ‐गुल laalah-o-gul 1
-  - لالہوگل लाला‐ओ‐गुल laalah-o-gul 1
+لالہ و گل लाला‐ओ‐गुल laalah-o-gul 1
+  - لالہ و گل लाला‐ओ‐गुल laalah-o-gul 1
 زیارت کدہ ज़ियारतकदा ziyaarat-kadah 1
   - زیارت کدہ ज़ियारतकदा ziyaarat-kadah 1
 پری وش परीवश parii-vash 1
@@ -8224,14 +8224,14 @@
   - واجب वाजिब vaajib 1
 آرے आरे aare 1
   - آرے आरे aare 1
-آہوفغاں आह‐ओ‐फ़िग़ाँ aah-o-fi;gaa;n 1
-  - آہوفغاں आह‐ओ‐फ़िग़ाँ aah-o-fi;gaa;n 1
+آہ و فغاں आह‐ओ‐फ़िग़ाँ aah-o-fi;gaa;n 1
+  - آہ و فغاں आह‐ओ‐फ़िग़ाँ aah-o-fi;gaa;n 1
 دو دم दोदम do-dam 1
   - دو دم दोदम do-dam 1
 فقط फ़क़त faqa:t 1
   - فقط फ़क़त faqa:t 1
-خلوتوجلوت ख़लवत‐ओ‐जलवत ;xalvat-o-jalvat 1
-  - خلوتوجلوت ख़लवत‐ओ‐जलवत ;xalvat-o-jalvat 1
+خلوت و جلوت ख़लवत‐ओ‐जलवत ;xalvat-o-jalvat 1
+  - خلوت و جلوت ख़लवत‐ओ‐जलवत ;xalvat-o-jalvat 1
 نا ساز گاری नासाज़गारी naa-saaz-gaarii 1
   - نا ساز گاری नासाज़गारी naa-saaz-gaarii 1
 پا بوس पाबूस paa-buus 1
@@ -8289,7 +8289,7 @@
 بے ہوا बेहवा be-havaa 1
   - بے ہواے बेहवा‐ए‐ be-havaa-e 1
 سجّادہ सजजादा sajjaadah 1
-  - خرقہوسجّادہ ख़िरक़ा‐ओ‐सजजादा ;xirqah-o-sajjaadah 1
+  - خرقہ و سجّادہ ख़िरक़ा‐ओ‐सजजादा ;xirqah-o-sajjaadah 1
 خرد ख़िरद ;xirad 1
   - خرد ख़िरद ;xirad 1
 لئیم लईम la))iim 1
@@ -8302,8 +8302,8 @@
   - سیہ مستیِ सियामसती‐ए‐ siyah-mastii-e 1
 سادہ دلی सादादिली saadah-dilii 1
   - سادہ دلی सादादिली saadah-dilii 1
-دشنہوخنجر दशना‐ओ‐ख़ंजर dashnah-o-;xanjar 1
-  - دشنہوخنجر दशना‐ओ‐ख़ंजर dashnah-o-;xanjar 1
+دشنہ و خنجر दशना‐ओ‐ख़ंजर dashnah-o-;xanjar 1
+  - دشنہ و خنجر दशना‐ओ‐ख़ंजर dashnah-o-;xanjar 1
 یگانہ यगाना yagaanah 1
   - یگانہ यगाना yagaanah 1
 درخشان दरख़शान dara;xshaan 1

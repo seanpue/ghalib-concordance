@@ -461,34 +461,47 @@ def md_link(s,urdu=True):
     out += ") "#
     return out
 
-def gen_hiur_lemmas_by_size_with_verses(truncate=True,truncate_limit=50):
-    with codecs.open('output/lemmas-by-size-w-verses-hiur.md','w','utf-8') as f:
+def gen_hiur_lemmas_by_size_hiur(file_name, with_verses=False, truncate=True,truncate_limit=50):
+    with codecs.open(file_name,'w','utf-8') as f:
         for x in sorted(lemma_instance_count, key=lemma_instance_count.get,reverse=True):
             words=lemmas_out[x]
             words = sorted(words,key=token_instance_count.get, reverse=True)
 
-            f.write(out_hiur(x)+' '+str(lemma_instance_count[x])+'\n')
+            f.write(' '+out_hiur(x)+' '+str(lemma_instance_count[x])+'\n')
+
             for w in words:
+                f.write("  - ")
                 f.write("  - "+out_hiur(w)+' '+str(token_instance_count[w])+'\n')
                 vi = set(x[:-5] for x in token_instances[w]) # eg001.01 from 001.01.01.0
-                if truncate==True and len (vi)< truncate_limit:
-#                print list(vi)[0]
-                    f.write("    - ")# nested indent
-                    f.write(', '.join([md_link(v) for v in vi]))
-                    f.write('\n')
+
+                if with_verses==True:
+                    if (truncate==False) or (truncate==True and len (vi)< truncate_limit):
+    #                print list(vi)[0]
+                        f.write("    - ")# nested indent
+                        f.write(', '.join([md_link(v) for v in vi]))
+                        f.write('\n')
 
 # <codecell>
 
 md_link('001.03')
+print urdup.parse('aab-o-gil').output
 
 # <codecell>
 
-#gen_hiur_lemmas_by_size()
-gen_hiur_lemmas_by_size_with_verses()
+gen_hiur_lemmas_by_size()
+#gen_hiur_lemmas_by_size_with_verses()
+gen_hiur_lemmas_by_size_hiur('output/lemmas-by-size-w-verses-all-hiur.md', with_verses=True, truncate=False)#True,truncate_limit=50):
+gen_hiur_lemmas_by_size_hiur('output/lemmas-by-size-countsonly.md', with_verses=False)#True,truncate_limit=50):
 
 # <codecell>
 
-t
+import markdown
+
+# <codecell>
+
+input_file = codecs.open("output/lemmas-by-size-countsonly.md", mode="r", encoding="utf-8")
+text = input_file.read()
+print markdown.markdown(text)
 
 # <codecell>
 
