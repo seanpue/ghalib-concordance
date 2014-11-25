@@ -450,8 +450,21 @@ def gen_hiur_lemmas_by_size():
                 f.write("  - "+out_hiur(w)+' '+str(token_instance_count[w])+'\n')
                 
 def out_hiur(w):
+    print w
+    print 'urdu: '+urdup.parse(w).output
+    print 'devanagari '+nagarip.parse(w).output
     return urdup.parse(w).output+' '+nagarip.parse(w).output+' '+w
 
+def out_hiur_csv(w):
+    return urdup.parse(w).output+','+nagarip.parse(w).output+','+w
+def html_out(w):
+    return td(urdup.parse(w).output)+td(nagarip.parse(w).output)+td(w)
+
+def td(x):
+    return '<td>'+x+'</td>'
+
+def li(x):
+    return ('<li>'+x+'</li>')
 def md_link(s,urdu=True):
     out =  " ["+s+"]"
     out += "("+'http://www.columbia.edu/itc/mealac/pritchett/00ghalib/'
@@ -462,11 +475,12 @@ def md_link(s,urdu=True):
     return out
 
 def gen_hiur_lemmas_by_size_hiur(file_name, with_verses=False, truncate=True,truncate_limit=50):
+
     with codecs.open(file_name,'w','utf-8') as f:
         for x in sorted(lemma_instance_count, key=lemma_instance_count.get,reverse=True):
             words=lemmas_out[x]
             words = sorted(words,key=token_instance_count.get, reverse=True)
-
+            
             f.write(' '+out_hiur(x)+' '+str(lemma_instance_count[x])+'\n')
 
             for w in words:
@@ -481,17 +495,40 @@ def gen_hiur_lemmas_by_size_hiur(file_name, with_verses=False, truncate=True,tru
                         f.write(', '.join([md_link(v) for v in vi]))
                         f.write('\n')
 
+def gen_hiur_lemmas_by_size_ul(file_name='output/hiur-lemmas-by-size-ul.html'):
+    with codecs.open(file_name,'w','utf-8') as f:
+        f.write('<!DOCTYPE html>\n')
+        f.write('<html lang="en-GB">\n')
+        f.write('<head><meta charset="utf-8"></head>\n')
+        f.write('<body>')
+
+
+        f.write('<table>')
+        for x in sorted(lemma_instance_count, key=lemma_instance_count.get,reverse=True):
+            words=lemmas_out[x]
+            words = sorted(words,key=token_instance_count.get, reverse=True)
+            f.write('<p><b>'+out_hiur(x)+' '+str(lemma_instance_count[x])+'</b></p>\n')
+            f.write('<ul>')
+            for w in words:
+                f.write('<li>'+out_hiur(w)+' '+str(token_instance_count[w])+'</li>\n')
+            f.write("</ul>")
+
+        f.write("</body></html>")
+
+
 # <codecell>
 
-md_link('001.03')
-print urdup.parse('aab-o-gil').output
+#md_link('001.03')
+print urdup.parse('hu))e').output#ab-o-gil').output
+print nagarip.parse('kyaa se').output
 
 # <codecell>
 
-gen_hiur_lemmas_by_size()
+#gen_hiur_lemmas_by_size()
 #gen_hiur_lemmas_by_size_with_verses()
-gen_hiur_lemmas_by_size_hiur('output/lemmas-by-size-w-verses-all-hiur.md', with_verses=True, truncate=False)#True,truncate_limit=50):
-gen_hiur_lemmas_by_size_hiur('output/lemmas-by-size-countsonly.md', with_verses=False)#True,truncate_limit=50):
+#gen_hiur_lemmas_by_size_hiur('output/lemmas-by-size-w-verses-all-hiur.md', with_verses=True, truncate=False)#True,truncate_limit=50):
+#gen_hiur_lemmas_by_size_hiur('output/lemmas-by-size-countsonly.md', with_verses=False)#True,truncate_limit=50):
+gen_hiur_lemmas_by_size_ul()
 
 # <codecell>
 
@@ -499,9 +536,27 @@ import markdown
 
 # <codecell>
 
-input_file = codecs.open("output/lemmas-by-size-countsonly.md", mode="r", encoding="utf-8")
-text = input_file.read()
-print markdown.markdown(text)
+nagarip.parse('kyaa').output
+
+# <codecell>
+
+print nagarip.parse('se').output
+
+# <codecell>
+
+urdup.tokenize('shaan-eshaan')
+
+# <codecell>
+
+urdup.parse('shaan-eshaan')
+
+# <codecell>
+
+urdup.rules
+
+# <codecell>
+
+urdup.DG.nodes(data=True)
 
 # <codecell>
 

@@ -210,7 +210,7 @@ urdu,transliteration,count
 بلا,balaa,16
 ہوس,havas,15
 گریہ,giryah,15
-در و دیوار,dar-o-diivaar,15
+درودیوار,dar-o-diivaar,15
 خندہ,;xandah,15
 کافر,kaafir,15
 آہ,aah,15
@@ -599,7 +599,7 @@ urdu,transliteration,count
 ہجر,hijr,5
 خون چکاں,;xuun-chakaa;n,5
 سزا,sazaa,5
-بال و پر,baal-o-par,5
+بالوپر,baal-o-par,5
 تصویر,ta.sviir,5
 عجب,((ajab,5
 چپنا,chupnaa,5
@@ -744,7 +744,7 @@ urdu,transliteration,count
 چھٹنا,chhu;tnaa,4
 دوڑنا,dau;rnaa,4
 خرابی,;xaraabii,4
-پیچ و تاب,pech-o-taab,4
+پیچوتاب,pech-o-taab,4
 ٹوٹنا,;tuu;tnaa,4
 بہشت,bihisht,4
 انگشت,angusht,4
@@ -802,7 +802,7 @@ urdu,transliteration,count
 لڑنا,la;rnaa,4
 روانی,ravaanii,4
 در خور,dar-;xvur,4
-دیوار و در,diivaar-o-dar,4
+دیوارودر,diivaar-o-dar,4
 طالع,:taala((,4
 رسم,rasm,4
 کاغذ,kaa;ga;z,4
@@ -915,7 +915,7 @@ urdu,transliteration,count
 حوصلہ,;hau.slah,3
 ظرف,:zarf,3
 گرہ,girah,3
-کار و بار,kaar-o-baar,3
+کاروبار,kaar-o-baar,3
 رخصت,ru;x.sat,3
 عاجز,((aajiz,3
 عریانی,((uryaanii,3
@@ -1014,7 +1014,7 @@ urdu,transliteration,count
 آزردہ,aazurdah,3
 ثواب,;savaab,3
 آزادی,aazaadii,3
-نشو و نما,nashv-o-numaa,3
+نشوونما,nashv-o-numaa,3
 آرائش,aaraa))ish,3
 فغان,fi;gaan,3
 ہووے,hove,3
@@ -1226,7 +1226,7 @@ urdu,transliteration,count
 افعی,af((ii,2
 ٹھنڈا,;than;daa,2
 حجر,;hijr,2
-جمع و خرج,jam((-o-;xarj,2
+جمعوخرج,jam((-o-;xarj,2
 جاؤ,jaa))o,2
 موقوف,mauquuf,2
 صرصر,.sar.sar,2
@@ -1311,7 +1311,7 @@ urdu,transliteration,count
 تکرار,takraar,2
 طاق,:taaq,2
 جہان تاب,jahaan-taab,2
-سر و پا,sar-o-paa,2
+سروپا,sar-o-paa,2
 گنجینہ,ganjiinah,2
 جور,jaur,2
 گیتی,giitii,2
@@ -1382,7 +1382,7 @@ urdu,transliteration,count
 پر,pur,2
 کار فرما,kaar-farmaa,2
 بتانا,bataanaa,2
-بے سر و پا,be-sar-o-paa,2
+بے سروپا,be-sar-o-paa,2
 جنازہ,janaazah,2
 گل فشانی,gul-fishaanii,2
 راز دان,raaz-daan,2
@@ -1406,8 +1406,8 @@ urdu,transliteration,count
 بست,bast,2
 کنج,kunj,2
 ناوک,naavuk,2
-مہر و وفا,mihr-o-vafaa,2
-سنگ و خشت,sang-o-;xisht,2
+مہرووفا,mihr-o-vafaa,2
+سنگوخشت,sang-o-;xisht,2
 تیسہ,tesah,2
 کشت,kisht,2
 آن,aan,2
@@ -1419,7 +1419,7 @@ urdu,transliteration,count
 استاد,ustaad,2
 رنگین,rangiin,2
 بے دست,be-dast,2
-سبزہ و گل,sabzah-o-gul,2
+سبزہوگل,sabzah-o-gul,2
 مندنا,mu;ndnaa,2
 قصّہ,qi.s.sah,2
 تعلیم,ta((liim,2
@@ -1548,7 +1548,7 @@ urdu,transliteration,count
 قلزم,qulzum,2
 صاحب,.saa;hib,2
 بھید,bhed,2
-خس و خاشاک,;xas-o-;xaashaak,2
+خسوخاشاک,;xas-o-;xaashaak,2
 احوال,a;hvaal,2
 غضب,;ga.zab,2
 حذر,;ha;zar,2
@@ -1560,7 +1560,7 @@ urdu,transliteration,count
 شاد,shaad,2
 قطع,qa:t((,2
 کہانی,kahaanii,2
-گل و لالہ,gul-o-laalah,2
+گلولالہ,gul-o-laalah,2
 قبا,qabaa,2
 یک بیابان,yak-bayaabaan,2
 بے قرار,be-qaraar,2
@@ -1597,7 +1597,7 @@ urdu,transliteration,count
 صلا,.salaa,2
 عذر خواہ,((u;zr-;xvaah,2
 آشفتگی,aashuftagii,2
-آب و ہوا,aab-o-havaa,2
+آبوہوا,aab-o-havaa,2
 بھیس,bhes,2
 لالہ کاری,laalah-kaarii,2
 نسخہ,nus;xah,2
@@ -1627,7 +1627,7 @@ urdu,transliteration,count
 پروا,parvaa,2
 داستان,daastaan,1
 بد نام,bad-naam,1
-ستم و جور,sitam-o-jor,1
+ستموجور,sitam-o-jor,1
 التہاب,iltihaab,1
 گومگو,gomago,1
 حقّ,;haqq,1
@@ -1643,7 +1643,7 @@ urdu,transliteration,count
 تپیدن,tapiidan,1
 ریشہ دوانی,reshah-davaanii,1
 اعظم,a((:zam,1
-ناقص و کامل,naaqi.s-o-kaamil,1
+ناقصوکامل,naaqi.s-o-kaamil,1
 عیار,((ayaar,1
 بر رو,bar-ruu,1
 ردیف,radiif,1
@@ -1660,7 +1660,7 @@ urdu,transliteration,count
 بے ایّام,be-ayyaam,1
 پکڑنا,paka;rnaa,1
 اکبر,akbar,1
-مجبوری و دعوا,majbuurii-o-da((vaa,1
+مجبوریودعوا,majbuurii-o-da((vaa,1
 بھرم,bharam,1
 صلح,.sul;h,1
 بے ننگ,be-nang,1
@@ -1685,10 +1685,10 @@ urdu,transliteration,count
 نعمت,ni((mat,1
 حاجات,;haajaat,1
 آذر فشاں,aa;zar-fishaa;n,1
-دل و مژگاں,dil-o-mizhgaa;n,1
+دلومژگاں,dil-o-mizhgaa;n,1
 پرداز,pardaaz,1
 بہ ذرّہ,bah-;zarrah,1
-درد و الم,dard-o-alam,1
+دردوالم,dard-o-alam,1
 پریزاد,pariizaad,1
 جلوت,jalvat,1
 سنگ دل,sang-dil,1
@@ -1702,17 +1702,17 @@ urdu,transliteration,count
 ہیہات,haihaat,1
 امتیاز,imtiyaaz,1
 ستم کش,sitam-kash,1
-پیالہ و ساغر,piyaalah-o-saa;gar,1
+پیالہوساغر,piyaalah-o-saa;gar,1
 اشارا,ishaaraa,1
 تھوڑی,tho;rii,1
-صحرا دست گاہ و قطرہ,.sa;hraa-dast-gaah-o-qa:trah,1
+صحرا دست گاہوقطرہ,.sa;hraa-dast-gaah-o-qa:trah,1
 ہرزہ,harzah,1
 اشارت,ishaarat,1
 نیلی فام,niilii-faam,1
 جست جو,just-juu,1
 دفن,dafn,1
 نور ال عین,nuur-ul-((ain,1
-لب و دنداں,lab-o-dandaa;n,1
+لبودنداں,lab-o-dandaa;n,1
 بے داد گر,be-daad-gar,1
 حسرت سنج,;hasrat-sanj,1
 دست گیری,dast-giirii,1
@@ -1743,15 +1743,15 @@ urdu,transliteration,count
 برہنگی,barahnagii,1
 بیباکی,bebaakii,1
 نہی,nahii,1
-بے گنہ کش و حق,be-gunah-kush-o-;haq,1
-شب و روز و ماہ و سال,shab-o-roz-o-maah-o-saal,1
-حجاب و وداع,;hijaab-o-vidaa((,1
+بے گنہ کشوحق,be-gunah-kush-o-;haq,1
+شبوروزوماہوسال,shab-o-roz-o-maah-o-saal,1
+حجابووداع,;hijaab-o-vidaa((,1
 زبون,zabuun,1
 عہدہ,((uhdah,1
 اقبال,iqbaal,1
 خود رفتہ,;xvud-raftah,1
 دیجیو,diijiyo,1
-خود بین و خود آرا,;xvud-biin-o-;xvud-aaraa,1
+خود بینوخود آرا,;xvud-biin-o-;xvud-aaraa,1
 نمرود,namruud,1
 دو نیم,do-niim,1
 التجا,iltijaa,1
@@ -1760,32 +1760,32 @@ urdu,transliteration,count
 رضامند,ra.zaamand,1
 فانوس,faanuus,1
 انتظام,inti:zaam,1
-پیچ و خم,pech-o-;xam,1
+پیچوخم,pech-o-;xam,1
 ناصیہ فرسا,naa.siyah-farsaa,1
 مطلق,ma:tlaq,1
 ہدیہ,hadyah,1
 گران باری,giraan-baarii,1
 کوکبہ,kaukabah,1
-ساقی و ذوق,saaqii-o-;zauq,1
-عیش و جاہ,((aish-o-jaah,1
+ساقیوذوق,saaqii-o-;zauq,1
+عیشوجاہ,((aish-o-jaah,1
 باندھا,baa;ndhaa,1
 چشمک,chashmak,1
 سوختہ,so;xtah,1
 پلک,palak,1
-دار و رسن,daar-o-rasan,1
+دارورسن,daar-o-rasan,1
 شائبہ,shaa))ibah,1
 مناجات,munaajaat,1
 تشویش,tashviish,1
 آستین,aastiin,1
 نادان,naadaan,1
 سہل,sahl,1
-چنگ و رباب,chang-o-rabaab,1
+چنگورباب,chang-o-rabaab,1
 جان ستان تر,jaan-sitaan-tar,1
 صورتیں,.suurate;n,1
 بے خون,be-;xuun,1
 قائل,qaa))il,1
 غارت گری,;gaarat-garii,1
-کام و دہن,kaam-o-dahan,1
+کامودہن,kaam-o-dahan,1
 پے روی,pai-ravii,1
 رنگین نوائی,rangiin-navaa))ii,1
 جاگنا,jaagnaa,1
@@ -1798,7 +1798,7 @@ urdu,transliteration,count
 بوند,buu;nd,1
 رسن,rasan,1
 دل دار,dil-daar,1
-شیشہ و قدح و کوزہ و سبو,shiishah-o-qada;h-o-kuuzah-o-sabuu,1
+شیشہوقدحوکوزہوسبو,shiishah-o-qada;h-o-kuuzah-o-sabuu,1
 بدلنا,badalnaa,1
 اعتدال,i((tidaal,1
 ماتم خانہ,maatam-;xaanah,1
@@ -1818,7 +1818,7 @@ urdu,transliteration,count
 رو,rau,1
 لہنا,lahnaa,1
 غزل خواں,;gazal-;xvaa;n,1
-عمر و اسد,((umr-o-asad,1
+عمرواسد,((umr-o-asad,1
 گل کتر,gul-katar,1
 اتّفاقی,ittifaaqii,1
 پندار,pindaar,1
@@ -1828,7 +1828,7 @@ urdu,transliteration,count
 قدح خوار,qada;h-;xvaar,1
 دام گاہ,daam-gaah,1
 مکوکب,mukaukab,1
-قد و گیسو,qad-o-gesuu,1
+قدوگیسو,qad-o-gesuu,1
 مدفن,madfan,1
 فردا,fardaa,1
 نیک,nek,1
@@ -1845,7 +1845,7 @@ urdu,transliteration,count
 سپند,sipand,1
 ریشگی,reshagii,1
 بدا,badaa,1
-فردا و دی,fardaa-o-dii,1
+فرداودی,fardaa-o-dii,1
 جتنی,jitnii,1
 صحرا دست گاہ,.sa;hraa-dast-gaah,1
 کوند,ko;nd,1
@@ -1864,7 +1864,7 @@ urdu,transliteration,count
 گوہر فروش,gauhar-farosh,1
 سبک,subuk,1
 خواستہ,;xvaastah,1
-نجف و طوف,najaf-o-:tauf,1
+نجفوطوف,najaf-o-:tauf,1
 کوزہ,kuuzah,1
 خرقہ,;xirqah,1
 گہوارہ جنبانی,gahvaarah-junbaanii,1
@@ -1876,7 +1876,7 @@ urdu,transliteration,count
 گران نشین,giraan-nishiin,1
 جلوہ فرمائی,jalvah-farmaa))ii,1
 آشفتہ سروں,aashuftah-saro;n,1
-وجود و عدم,vujuud-o-((adam,1
+وجودوعدم,vujuud-o-((adam,1
 خیالی,;xayaalii,1
 مرتبہ,martabah,1
 پرنی,parnii,1
@@ -1889,10 +1889,10 @@ urdu,transliteration,count
 دکھنا,dukhnaa,1
 دل فروز,dil-furoz,1
 خستہ جاں,;xastah-jaa;n,1
-دل و جاں,dil-o-jaa;n,1
+دلوجاں,dil-o-jaa;n,1
 سیکھنا,siikhnaa,1
 منحرف,mun;harif,1
-دست و بازو,dast-o-baazuu,1
+دستوبازو,dast-o-baazuu,1
 ذلیل,;zaliil,1
 رباب,rabaab,1
 بے صدا,be-.sadaa,1
@@ -1900,15 +1900,15 @@ urdu,transliteration,count
 خیر,;xair,1
 انگبین,angabiin,1
 ظاہرً,:zaahira:n,1
-قہر و عتاب,qahr-o-((ataab,1
+قہروعتاب,qahr-o-((ataab,1
 طولانی,:tuulaanii,1
 بووے,bove,1
 خودا,;xvudaa,1
-مے و ساغر,mai-o-saa;gar,1
-جیب و دامن,jeb-o-daaman,1
+مےوساغر,mai-o-saa;gar,1
+جیبودامن,jeb-o-daaman,1
 ایاغ,ayaa;g,1
 خطر,;xa:tar,1
-شہود و شاہد و مشہود,shuhuud-o-shaahid-o-mashhuud,1
+شہودوشاہدومشہود,shuhuud-o-shaahid-o-mashhuud,1
 شناور,shinaavar,1
 بکنا,baknaa,1
 دلال,dallaal,1
@@ -1933,7 +1933,7 @@ urdu,transliteration,count
 تشنہ لب,tishnah-lab,1
 ہما,humaa,1
 رندانہ,rindaanah,1
-صبح و مہر,.sub;h-o-mihr,1
+صبحومہر,.sub;h-o-mihr,1
 یہاں,yahaa;n,1
 شیر,shiir,1
 طوفان گاہ,:tuufaan-gaah,1
@@ -1944,7 +1944,7 @@ urdu,transliteration,count
 مبدّل,mubaddal,1
 تباہی,tabaahii,1
 محرمی,ma;hramii,1
-دیدہ و دل,diidah-o-dil,1
+دیدہودل,diidah-o-dil,1
 صنوبر,.sanobar,1
 ناقص,naaqi.s,1
 تراشا,taraashaa,1
@@ -1957,7 +1957,7 @@ urdu,transliteration,count
 نثار,ni;saar,1
 تریاکی,tiryaakii,1
 چھپنا,chhupnaa,1
-آزادہ و خود بیں,aazaadah-o-;xvud-bii;n,1
+آزادہوخود بیں,aazaadah-o-;xvud-bii;n,1
 دریا آشنا,daryaa-aashnaa,1
 گھاس,ghaas,1
 با ہم دگر,baa-ham-digar,1
@@ -1969,20 +1969,20 @@ urdu,transliteration,count
 بولے,bole,1
 گلدستہ,guldastah,1
 سیم تن,siim-tan,1
-ملت و ملک,millat-o-mulk,1
+ملتوملک,millat-o-mulk,1
 شکیب,shakeb,1
 تجاہل پیشگی,tajaahul-peshagii,1
 خواب ناک,;xvaab-naak,1
 نکتہ دان,nuktah-daan,1
-سرور و سوز,suruur-o-soz,1
+سروروسوز,suruur-o-soz,1
 سیہ,siyah,1
-بے شراب و دل,be-sharaab-o-dil,1
+بے شرابودل,be-sharaab-o-dil,1
 او,o,1
 کامیاب,kaamyaab,1
 شفا,shafaa,1
 قفا,qafaa,1
 منسوب,mansuub,1
-سر و برگ,sar-o-barg,1
+سروبرگ,sar-o-barg,1
 دفینہ,dafiinah,1
 جاہ,jaah,1
 اداس,udaas,1
@@ -1996,7 +1996,7 @@ urdu,transliteration,count
 گل,gil,1
 فردوس,firdaus,1
 اگانا,ugaanaa,1
-تاب و تواں,taab-o-tavaa;n,1
+تابوتواں,taab-o-tavaa;n,1
 فاقہ مستی,faaqah-mastii,1
 صد ہزار,.sad-hazaar,1
 بیدا,baidaa,1
@@ -2017,14 +2017,14 @@ urdu,transliteration,count
 کھو,kho,1
 خون ناب,;xuun-naab,1
 ڈرانا,;daraanaa,1
-دولت و دیں,daulat-o-dii;n,1
+دولتودیں,daulat-o-dii;n,1
 خون ریز,;xuun-rez,1
 زنگ,zang,1
 اقامت,iqaamat,1
 تس,tis,1
 شراب خانہ,sharaab-;xaanah,1
 لوح,lau;h,1
-نقش و نگار,naqsh-o-nigaar,1
+نقشونگار,naqsh-o-nigaar,1
 صحرا گرد,.sa;hraa-gard,1
 ڈوبنا,;duubnaa,1
 نازک بدن,naazuk-badan,1
@@ -2047,11 +2047,11 @@ urdu,transliteration,count
 عاشقی,((aashiqii,1
 برش کال,barsh-kaal,1
 عقیدہ,((aqiidah,1
-فضول و جرئت,fu.zuul-o-jur))at,1
+فضولوجرئت,fu.zuul-o-jur))at,1
 آتش پرست,aatish-parast,1
 بے حاصل,be-;haa.sil,1
 بازیچہ,baaziichah,1
-تاب و تواں,taab-o-tuvaa;n,1
+تابوتواں,taab-o-tuvaa;n,1
 خامہ فرسا,;xaamah-farsaa,1
 صدمہ,.sadmah,1
 عنبریں,((anbarii;n,1
@@ -2081,7 +2081,7 @@ urdu,transliteration,count
 مرہون,marhuun,1
 خستہ تن,;xastah-tan,1
 بوس,bos,1
-دامن و تار,daaman-o-taar,1
+دامنوتار,daaman-o-taar,1
 خفتہ,;xuftah,1
 نوا پرداز,navaa-pardaaz,1
 فرقت,farqat,1
@@ -2101,7 +2101,7 @@ urdu,transliteration,count
 شگفتگی,shiguftagii,1
 سوار,savaar,1
 مافات,maafaat,1
-ساغر و مینا,saa;gar-o-miinaa,1
+ساغرومینا,saa;gar-o-miinaa,1
 طوفانی,:tuufaanii,1
 شفق,shafaq,1
 شعا,shu((aa,1
@@ -2112,11 +2112,11 @@ urdu,transliteration,count
 مانی,maanii,1
 نصیحت نیوش,na.sii;hat-niyosh,1
 نا شناس,naa-shinaas,1
-شوخ و عاشق,sho;x-o-((aashiq,1
+شوخوعاشق,sho;x-o-((aashiq,1
 مرد افگن,mard-afgan,1
 دجلہ,dijlah,1
 شوریدہ حال,shoriidah-;haal,1
-جوش و خروش,josh-o-;xarosh,1
+جوشوخروش,josh-o-;xarosh,1
 شیخ,shai;x,1
 شیفتہ,sheftah,1
 بے اعتدالی,be-i((tidaalii,1
@@ -2144,7 +2144,7 @@ urdu,transliteration,count
 ڈبو,;dubo,1
 کیموس,kaimuus,1
 معانی,ma((aanii,1
-فریدون و جم و کیخسرو و داراب و بہمن,fariiduun-o-jam-o-kai;xusrav-o-daaraab-o-bahman,1
+فریدونوجموکیخسروودارابوبہمن,fariiduun-o-jam-o-kai;xusrav-o-daaraab-o-bahman,1
 دشنام,dushnaam,1
 نوک,nok,1
 سبب,sabab,1
@@ -2152,7 +2152,7 @@ urdu,transliteration,count
 آئنہ دار,aa))inah-daar,1
 سپاری,sipaarii,1
 زنان,zanaan,1
-پیام و چشم,payaam-o-chashm,1
+پیاموچشم,payaam-o-chashm,1
 غریب,;gariib,1
 وام,vaam,1
 مگس,magas,1
@@ -2161,13 +2161,13 @@ urdu,transliteration,count
 شانہ,shaanah,1
 اندوہ ربا,andoh-rubaa,1
 گیسو,gesuu,1
-داد و ستد,daad-o-sitad,1
+دادوستد,daad-o-sitad,1
 مذکور,ma;zkuur,1
 گفتگو,guftguu,1
 تحمّل,ta;hammul,1
 معاملہ,mu((aamalah,1
 برین,bariin,1
-رگ و پے,rag-o-pai,1
+رگوپے,rag-o-pai,1
 جلوہ ریزی,jalvah-rezii,1
 سبک سر,subuk-sar,1
 سیاہی,siyaahii,1
@@ -2179,7 +2179,7 @@ urdu,transliteration,count
 آوارہ,aavaarah,1
 جنون جولان,junuun-jaulaan,1
 جلوہ زار,jalvah-zaar,1
-بے ننگ و نام,be-nang-o-naam,1
+بے ننگونام,be-nang-o-naam,1
 پلنگ,palang,1
 گفتگو,guftago,1
 بردہ,burdah,1
@@ -2187,7 +2187,7 @@ urdu,transliteration,count
 ٹھانی,;thaanii,1
 رخشندہ,ra;xshindah,1
 بر سبیل,bar-sabiil,1
-عزّ و ناز,((izz-o-naaz,1
+عزّوناز,((izz-o-naaz,1
 نیّر,nayyar,1
 سحری,sa;harii,1
 طواف,:tavaaf,1
@@ -2207,13 +2207,13 @@ urdu,transliteration,count
 ہم پیشہ,ham-peshah,1
 شایان,shaayaan,1
 پائداری,paa))idaarii,1
-بادہ و ساغر,baadah-o-saa;gar,1
+بادہوساغر,baadah-o-saa;gar,1
 نیم جان,niim-jaan,1
 سم,sam,1
 شرمندگی,sharmindagii,1
 انگیز,angez,1
 پیوند,paivand,1
-سیر و تماشا,sair-o-tamaashaa,1
+سیروتماشا,sair-o-tamaashaa,1
 خفقانی,;xafaqaanii,1
 تماشا دوست,tamaashaa-dost,1
 حباب,;habaab,1
@@ -2263,7 +2263,7 @@ urdu,transliteration,count
 وجد,vajd,1
 گلبانگ,gulbaa;ng,1
 اعضا,a((.zaa,1
-طرز و روش,:tarz-o-ravish,1
+طرزوروش,:tarz-o-ravish,1
 انفعال,infi((aal,1
 آفتاب پرست,aaftaab-parast,1
 خدائی,;xudaa))ii,1
@@ -2288,15 +2288,15 @@ urdu,transliteration,count
 سنگ آمدہ,sang-aamadah,1
 معزولی,ma((zuulii,1
 ناچنا,naachnaa,1
-خوش و نا خوش,;xvush-o-naa-;xvush,1
+خوشونا خوش,;xvush-o-naa-;xvush,1
 مسجود,masjuud,1
 بیگانہ,begaanah,1
 نصیر,na.siir,1
 سامان طراز,saamaan-:taraaz,1
 نظّارگی,na:z:zaaragii,1
-چشم و گوش,chashm-o-gosh,1
+چشموگوش,chashm-o-gosh,1
 مقبول,maqbuul,1
-آب و گل,aab-o-gil,1
+آبوگل,aab-o-gil,1
 بہائی,bahaa))ii,1
 شرع,shar((,1
 پاسخ,paasu;x,1
@@ -2312,7 +2312,7 @@ urdu,transliteration,count
 دیدار جو,diidaar-jo,1
 کروگے,karoge,1
 کاغض,kaa;ga.z,1
-رنگ و ساز,rang-o-saaz,1
+رنگوساز,rang-o-saaz,1
 ضرر,.zarar,1
 سفیدی,safedii,1
 ہوجو,huujo,1
@@ -2333,7 +2333,7 @@ urdu,transliteration,count
 یک جنبش,yak-junbish,1
 حباب,;hubaab,1
 فسانہ خوانی,fasaanah-;xvaanii,1
-سادگی و پرکاری,saadagii-o-purkaarii,1
+سادگیوپرکاری,saadagii-o-purkaarii,1
 م آل,ma-aal,1
 کوشش,koshish,1
 سر نگون,sar-niguun,1
@@ -2344,7 +2344,7 @@ urdu,transliteration,count
 انصاف,in.saaf,1
 ہم راز,ham-raaz,1
 غازہ,;gaazah,1
-شب و روز,shab-o-roz,1
+شبوروز,shab-o-roz,1
 طرب انشا,:tarab-inshaa,1
 امّت,ummat,1
 شہریار,shahryaar,1
@@ -2352,7 +2352,7 @@ urdu,transliteration,count
 بے ربطی,be-rab:tii,1
 بت شکنی,but-shikanii,1
 کاف,kaaf,1
-تیغ و کفن,te;g-o-kafan,1
+تیغوکفن,te;g-o-kafan,1
 چاہو,chaaho,1
 نیستان,nayastaan,1
 خان مان خراب,;xaan-maan-;xaraab,1
@@ -2371,7 +2371,7 @@ urdu,transliteration,count
 رو شناس,ruu-shinaas,1
 پھونکنا,phuu;nknaa,1
 مکافات,mukaafaat,1
-وصل و یاد,va.sl-o-yaad,1
+وصلویاد,va.sl-o-yaad,1
 مغنّی,mu;gannii,1
 گنجفہ باز,ganjifah-baaz,1
 ناسور,naasuur,1
@@ -2383,7 +2383,7 @@ urdu,transliteration,count
 آشتی,aashtii,1
 خاک انداز,;xaak-andaaz,1
 غزل سرا,;gazal-saraa,1
-رسم و راہ,rasm-o-raah,1
+رسموراہ,rasm-o-raah,1
 بزرگ,buzurg,1
 شنیدن,shuniidan,1
 نوش,nosh,1
@@ -2392,8 +2392,8 @@ urdu,transliteration,count
 اسامی,asaamii,1
 عطر,((i:tr,1
 تشنہ کامی,tishnah-kaamii,1
-کشاد و بست,kushaad-o-bast,1
-بے در و دیوار,be-dar-o-diivaar,1
+کشادوبست,kushaad-o-bast,1
+بے درودیوار,be-dar-o-diivaar,1
 مقدّر,muqaddar,1
 نار,naar,1
 سطح,sa:t;h,1
@@ -2409,11 +2409,11 @@ urdu,transliteration,count
 پکڑنا,pak;rnaa,1
 طومار,:tuumaar,1
 برائے,baraa))e,1
-دل و دست,dil-o-dast,1
+دلودست,dil-o-dast,1
 پھرو,phiro,1
-غمزہ و عشوہ و ادا,;gamzah-o-((ishvah-o-adaa,1
+غمزہوعشوہوادا,;gamzah-o-((ishvah-o-adaa,1
 در خور,dar-;xvar,1
-یک عالم و عالم,yak-((aalam-o-((aalam,1
+یک عالموعالم,yak-((aalam-o-((aalam,1
 اوک,ok,1
 خرابات,;xaraabaat,1
 چور,chor,1
@@ -2445,10 +2445,10 @@ urdu,transliteration,count
 غریباں,;gariibaa;n,1
 سر کش,sar-kash,1
 نافہ,naafah,1
-نشیب و فراز,nasheb-o-faraaz,1
+نشیبوفراز,nasheb-o-faraaz,1
 چڑھ,cha;rh,1
 معرض,ma((ri.z,1
-بے خودی و ہشیاری,be-;xvudii-o-hushyaarii,1
+بے خودیوہشیاری,be-;xvudii-o-hushyaarii,1
 خروش,;xarosh,1
 رعنائی,ra((naa))ii,1
 پشت خار,pusht-;xaar,1
@@ -2486,9 +2486,9 @@ urdu,transliteration,count
 بیربطی,berab:tii,1
 ہنگامہ آرا,hangaamah-aaraa,1
 روداد,ruudaad,1
-دست و پا,dast-o-paa,1
+دستوپا,dast-o-paa,1
 دو عالم دشت,do-((aalam-dasht,1
-معشوقی و بے حوصلگی,ma((shuuqii-o-be-;hau.salagii,1
+معشوقیوبے حوصلگی,ma((shuuqii-o-be-;hau.salagii,1
 طبیعتوں,:tabii((ato;n,1
 آب جو,aab-juu,1
 تفرقہ,tafriqah,1
@@ -2498,18 +2498,18 @@ urdu,transliteration,count
 بے عشق,be-((ishq,1
 سلوانا,silvaanaa,1
 سر پنجہ,sar-panjah,1
-گریہ و لب,giryah-o-lab,1
+گریہولب,giryah-o-lab,1
 پری چہرہ,parii-chahrah,1
 بے پردہ,be-pardah,1
 جنگل,jangal,1
 ملک,mulk,1
 سمجھیو,samajhyo,1
 شاعر,shaa((ir,1
-بیباکی و گستاخی,bebaakii-o-gustaa;xii,1
+بیباکیوگستاخی,bebaakii-o-gustaa;xii,1
 غلام,;gulaam,1
-صاعقہ و شعلہ و سیماب,.saa((iqah-o-shu((lah-o-siimaab,1
+صاعقہوشعلہوسیماب,.saa((iqah-o-shu((lah-o-siimaab,1
 سوتا,sotaa,1
-باغ بان و کف,baa;g-baan-o-kaf,1
+باغ بانوکف,baa;g-baan-o-kaf,1
 ارم,iram,1
 تالیف,taaliif,1
 ناگہانی,naagahaanii,1
@@ -2528,14 +2528,14 @@ urdu,transliteration,count
 خجلت,;xajlat,1
 گل دستہ,gul-dastah,1
 ہم دیگر,ham-diigar,1
-نسیہ و نقد,nisyah-o-naqd,1
+نسیہونقد,nisyah-o-naqd,1
 ہوجیو,huujiyo,1
 سیہ پوش,siyah-posh,1
 در تشنگی مردہ,dar-tishnagii-murdah,1
 تنک آبی,tunuk-aabii,1
 بے خود,be-;xvud,1
 مہجور,mahjuur,1
-دل و دیں,dil-o-dii;n,1
+دلودیں,dil-o-dii;n,1
 عذاب,((a;zaab,1
 فضا,fa.zaa,1
 مدّعیٰ,mudda((;aa,1
@@ -2543,7 +2543,7 @@ urdu,transliteration,count
 شرف,sharaf,1
 دکان,dukaan,1
 فسردگی,fusurdagii,1
-جام و سبو,jaam-o-subuu,1
+جاموسبو,jaam-o-subuu,1
 مرض,mara.z,1
 زکات,zakaat,1
 ترسنا,tarasnaa,1
@@ -2557,9 +2557,9 @@ urdu,transliteration,count
 مہشر,mahshar,1
 شجر,shajar,1
 وا ماندگیان,vaa-maa;ndagiyaan,1
-نظّارہ و خیال,na:z:zaarah-o-;xayaal,1
+نظّارہوخیال,na:z:zaarah-o-;xayaal,1
 اشتیاق انگیز,ishtiyaaq-angez,1
-چمن و خوبی,chaman-o-;xuubii,1
+چمنوخوبی,chaman-o-;xuubii,1
 تسبیح,tasbii;h,1
 سلام,salaam,1
 سینہ گداز,siinah-gudaaz,1
@@ -2607,7 +2607,7 @@ urdu,transliteration,count
 گلو,guluu,1
 عیما,((iimaa,1
 مقطع,maq:ta((,1
-شرع و آئین,shar((-o-aa))iin,1
+شرعوآئین,shar((-o-aa))iin,1
 اشیا,ashyaa,1
 غم گسار,;gam-gusaar,1
 پردا,pardaa,1
@@ -2621,10 +2621,10 @@ urdu,transliteration,count
 معذور,ma((;zuur,1
 فضول,fu.zuul,1
 لاغر,laa;gar,1
-روش و مستی,ravish-o-mastii,1
+روشومستی,ravish-o-mastii,1
 ذاہر,;zaahir,1
-قطرہ و موج و حباب,qa:trah-o-mauj-o-;hubaab,1
-تمکین و ضبط,tamkiin-o-.zab:t,1
+قطرہوموجوحباب,qa:trah-o-mauj-o-;hubaab,1
+تمکینوضبط,tamkiin-o-.zab:t,1
 ظلمت کدہ,:zulmat-kadah,1
 خانہ ویران سازی,;xaanah-viiraan-saazii,1
 ضوق,.zauq,1
@@ -2635,23 +2635,23 @@ urdu,transliteration,count
 تمکین آزما,tamkiin-aazmaa,1
 موجود,maujuud,1
 مدام,mudaam,1
-باد و بہ,baad-o-bah,1
+بادوبہ,baad-o-bah,1
 قلزم آشامی,qulzum-aashaamii,1
 مہر علم,mihr-((alam,1
 نزدیک,nazdiik,1
-ناز و غمزہ,naaz-o-;gamzah,1
+نازوغمزہ,naaz-o-;gamzah,1
 عربدہ جو,((arbadah-juu,1
 کوس,kos,1
-دل و جگر,dil-o-jigar,1
+دلوجگر,dil-o-jigar,1
 صد جلوہ,.sad-jalvah,1
-شکیب و صبر,shikeb-o-.sabr,1
+شکیبوصبر,shikeb-o-.sabr,1
 سرشک,sirishk,1
 صاعقہ,.saa((iqah,1
 مضمحل,mu.zma;hil,1
 خاکستر نشینی,;xaakistar-nishiinii,1
 معشوق فریبی,ma((shuuq-farebii,1
 صد نظر,.sad-na:zar,1
-تمکین و ہوش,tamkiin-o-hosh,1
+تمکینوہوش,tamkiin-o-hosh,1
 آس,aas,1
 پھوڑ,pho;r,1
 دشواری,dushvaarii,1
@@ -2669,7 +2669,7 @@ urdu,transliteration,count
 سماع,samaa((,1
 زوال,zavaal,1
 سادہ,saadah,1
-مہر و مہ,mihr-o-mah,1
+مہرومہ,mihr-o-mah,1
 بھائی,bhaa))ii,1
 بچھانا,bichhaanaa,1
 اہتزاز,ihtizaaz,1
@@ -2679,9 +2679,9 @@ urdu,transliteration,count
 مردمک,mardumak,1
 دوڑانا,dau;raanaa,1
 مفلس,muflis,1
-سوال و جواب,savaal-o-javaab,1
+سوالوجواب,savaal-o-javaab,1
 کار گاہ,kaar-gaah,1
-سر و سامان,sar-o-saamaan,1
+سروسامان,sar-o-saamaan,1
 روندنا,rau;ndnaa,1
 راگ,raag,1
 ندامت,nadaamat,1
@@ -2708,7 +2708,7 @@ urdu,transliteration,count
 سلک,silk,1
 چشم نمائی,chashm-numaa))ii,1
 ورع,vara((,1
-فتنہ و فساد,fitnah-o-fasaad,1
+فتنہوفساد,fitnah-o-fasaad,1
 سنبھلنا,sa;nbhalnaa,1
 گرداب,girdaab,1
 کسو,kisuu,1
@@ -2739,7 +2739,7 @@ urdu,transliteration,count
 فشار,fashaar,1
 سرشتہ داری,sarishtah-daarii,1
 پرکاری,purkaarii,1
-عشق و نا گزیر,((ishq-o-naa-guziir,1
+عشقونا گزیر,((ishq-o-naa-guziir,1
 وفور,vufuur,1
 خوبان,;xuubaan,1
 سر ب سر,sar-ba-sar,1
@@ -2749,7 +2749,7 @@ urdu,transliteration,count
 خانہ ویران ساز,;xaanah-viiraan-saaz,1
 بوتے,bote,1
 کافی,kaafii,1
-راہ و رسم,raah-o-rasm,1
+راہورسم,raah-o-rasm,1
 گزشتہ,guzashtah,1
 مواخذہ,muvaa;xa;zah,1
 کیفییت,kaifiiyat,1
@@ -2760,7 +2760,7 @@ urdu,transliteration,count
 پ,pa,1
 غم خانہ,;gam-;xaanah,1
 گز,gaz,1
-حیات و بند,;hayaat-o-band,1
+حیاتوبند,;hayaat-o-band,1
 کھینچو,khe;ncho,1
 کالبد,kaalbud,1
 رنجوری,ranjuurii,1
@@ -2775,15 +2775,15 @@ urdu,transliteration,count
 پچ,pach,1
 لگن,lagan,1
 ابرو,abruu,1
-بے دست و پائی,be-dast-o-paa))ii,1
+بے دستوپائی,be-dast-o-paa))ii,1
 ستد,sitad,1
 اوضاع,au.zaa((,1
-کواکب سپہ و مہر علم,kavaakib-sipah-o-mihr-((alam,1
+کواکب سپہومہر علم,kavaakib-sipah-o-mihr-((alam,1
 آئنہ خانہ,aa))inah-;xaanah,1
 واژ گون,vaazh-guun,1
 غریب نواز,;gariib-navaaz,1
 بیماری,biimaarii,1
-خطّ و خال,;xa:t:t-o-;xaal,1
+خطّوخال,;xa:t:t-o-;xaal,1
 بانگ,baa;ng,1
 شق,shaq,1
 ٹالنا,;taalnaa,1
@@ -2792,13 +2792,13 @@ urdu,transliteration,count
 غرقہ,;garqah,1
 زیاد,ziyaad,1
 در پ,dar-pa,1
-لالہ و گل و نسرین,laalah-o-gul-o-nasriin,1
+لالہوگلونسرین,laalah-o-gul-o-nasriin,1
 قے,qai,1
 خود داری,;xvud-daarii,1
 بے دوا,be-davaa,1
 کانٹا,kaa;n;taa,1
 فسان,fasaan,1
-نای و نوش,naay-o-nosh,1
+نایونوش,naay-o-nosh,1
 خاکستر,;xaakistar,1
 بے شمع,be-sham((a,1
 لکد کوب,lakad-kob,1
@@ -2807,22 +2807,22 @@ urdu,transliteration,count
 آمد آمد,aamad-aamad,1
 طبع,:tab((,1
 اخفا,i;xfaa,1
-مے و انگبین,mai-o-angabiin,1
+مےوانگبین,mai-o-angabiin,1
 نا گزیر,naa-guziir,1
 پائی,paa))ii,1
 خو گر,;xuu-gar,1
-خرقہ و سجّادہ,;xirqah-o-sajjaadah,1
+خرقہوسجّادہ,;xirqah-o-sajjaadah,1
 تصویر نما,ta.sviir-numaa,1
-ہم پیشہ و ہم مشرب و ہم راز,ham-peshah-o-ham-mashrab-o-ham-raaz,1
+ہم پیشہوہم مشربوہم راز,ham-peshah-o-ham-mashrab-o-ham-raaz,1
 خود آرائی,;xvud-aaraa))ii,1
 حسود,;hasuud,1
 جدائی,judaa))ii,1
 شفق آلودہ,shafaq-aaluudah,1
-پر پیچ و خم,pur-pech-o-;xam,1
+پر پیچوخم,pur-pech-o-;xam,1
 چاہ,chaah,1
 بط,ba:t,1
 سر سبز,sar-sabz,1
-عشق و مزدوری,((ishq-o-mazduurii,1
+عشقومزدوری,((ishq-o-mazduurii,1
 بے شراب,be-sharaab,1
 پر شکن,pur-shikan,1
 مہ طلعت,mah-:tal((at,1
@@ -2837,9 +2837,9 @@ urdu,transliteration,count
 عشرت گہ,((ishrat-gah,1
 لاش,laash,1
 اردی,urdii,1
-رہ و رسم,rah-o-rasm,1
+رہورسم,rah-o-rasm,1
 پینس,piinas,1
-مدّعی و دیدہ,mudda((ii-o-diidah,1
+مدّعیودیدہ,mudda((ii-o-diidah,1
 آتش دیدہ,aatish-diidah,1
 وا گردیدہ,vaa-gardiidah,1
 ہم نامی,ham-naamii,1
@@ -2857,7 +2857,7 @@ urdu,transliteration,count
 بعد,bu((d,1
 خان مان,;xaan-maan,1
 بھوں,bho;n,1
-دل و دیدہ,dil-o-diidah,1
+دلودیدہ,dil-o-diidah,1
 ارمغاں,armu;gaa;n,1
 حظّ,;ha:z:z,1
 دکھائی,dikhaa))ii,1
@@ -2878,7 +2878,7 @@ urdu,transliteration,count
 لگاونا,lagaavnaa,1
 حل,;hall,1
 غالیہ مو,;gaaliyah-mo,1
-رسم و رہ,rasm-o-rah,1
+رسمورہ,rasm-o-rah,1
 ذمّہ,;zimmah,1
 بنات ال نعش,banaat-ul-na((sh,1
 با وجود,baa-vujuud,1
@@ -2942,7 +2942,7 @@ urdu,transliteration,count
 جان فزا,jaan-fizaa,1
 راس,raas,1
 یک شہر,yak-shahr,1
-رہ و ستم,rah-o-sitam,1
+رہوستم,rah-o-sitam,1
 سرو قد,sarv-qad,1
 پیش دستی,pesh-dastii,1
 خدا پرست,;xudaa-parast,1
@@ -2970,10 +2970,10 @@ urdu,transliteration,count
 روکے,roke,1
 زیست,ziist,1
 فتراک,fitraak,1
-گہ و بے گہ,gah-o-be-gah,1
+گہوبے گہ,gah-o-be-gah,1
 رہائی,rihaa))ii,1
-قیس و کوہکن,qais-o-kohkan,1
-ناز و ادا,naaz-o-adaa,1
+قیسوکوہکن,qais-o-kohkan,1
+نازوادا,naaz-o-adaa,1
 خداوند,;xudaavand,1
 بعید,ba((iid,1
 مشکل پسند,mushkil-pasand,1
@@ -2983,7 +2983,7 @@ urdu,transliteration,count
 چبھو,chubho,1
 سمائی,samaa))ii,1
 زاری,zaarii,1
-آہ و فریاد,aah-o-faryaad,1
+آہوفریاد,aah-o-faryaad,1
 ہوا خواہی,havaa-;xvaahii,1
 آئنہ داری,aa))inah-daarii,1
 عزم,((azm,1
@@ -2994,7 +2994,7 @@ urdu,transliteration,count
 بے حوصلگی,be-;hau.salagii,1
 باغ بانی,baa;g-baanii,1
 مہر وش,mihr-vash,1
-لعل و گہر,la((l-o-guhar,1
+لعلوگہر,la((l-o-guhar,1
 آفاق,aafaaq,1
 نالہ فرسائی,naalah-farsaa))ii,1
 بے پرتو,be-partav,1
@@ -3008,7 +3008,7 @@ urdu,transliteration,count
 پرکار,purkaar,1
 دریغا,dare;gaa,1
 چاہنے والا,chaahne-vaalaa,1
-مقابل و دعوا,muqaabil-o-da((vaa,1
+مقابلودعوا,muqaabil-o-da((vaa,1
 فسون گر,fusuun-gar,1
 گلفام,gulfaam,1
 کاغذی,kaa;ga;zii,1
@@ -3028,7 +3028,7 @@ urdu,transliteration,count
 خوشتر,;xvushtar,1
 بے خوابی,be-;xvaabii,1
 زبونی,zabuunii,1
-مہر و ماہ,mihr-o-maah,1
+مہروماہ,mihr-o-maah,1
 خون نابہ مشرب,;xuun-naabah-mashrab,1
 دروازہ,darvaazah,1
 معاش,ma((aash,1
@@ -3041,20 +3041,20 @@ urdu,transliteration,count
 زود پشیمان,zuud-pashemaan,1
 گوشت,gosht,1
 از دست رفتہ,az-dast-raftah,1
-مے و نغمہ,mai-o-na;gmah,1
+مےونغمہ,mai-o-na;gmah,1
 خدا ساز,;xudaa-saaz,1
 ستم ایجاد,sitam-iijaad,1
 بوجھ,bojh,1
-یاس و امّید,yaas-o-ummiid,1
-بے دست و پا,be-dast-o-paa,1
+یاسوامّید,yaas-o-ummiid,1
+بے دستوپا,be-dast-o-paa,1
 بے کران,be-karaan,1
 تف,taf,1
 اختر,a;xtar,1
 گیاہ,giyaah,1
 طبیعی,:tabii((ii,1
 خون نابہ فشانی,;xuun-naabah-fishaanii,1
-ایمان و آگہی,iimaan-o-aagahii,1
-فریاد و آہ و زاری,faryaad-o-aah-o-zaarii,1
+ایمانوآگہی,iimaan-o-aagahii,1
+فریادوآہوزاری,faryaad-o-aah-o-zaarii,1
 قطع,qa:t((a,1
 تشنگی,tishnagii,1
 در قفا,dar-qafaa,1
@@ -3070,7 +3070,7 @@ urdu,transliteration,count
 تذکرہ,ta;zkirah,1
 گریبانی,garebaanii,1
 مونس,muunis,1
-وحشت و شیفتہ,va;hshat-o-sheftah,1
+وحشتوشیفتہ,va;hshat-o-sheftah,1
 عربدہ میداں,((arbadah-maidaa;n,1
 آفرینش,aafiriinish,1
 بوریا,boriyaa,1
@@ -3088,7 +3088,7 @@ urdu,transliteration,count
 مہر آسا,mihr-aasaa,1
 مردہ,murdah,1
 پر گل,pur-gul,1
-شیخ و برہمن,shai;x-o-barhaman,1
+شیخوبرہمن,shai;x-o-barhaman,1
 شگاف,shigaaf,1
 صدف,.sadaf,1
 شکستہ,shikastah,1
@@ -3098,7 +3098,7 @@ urdu,transliteration,count
 دھبّہ,dhabbah,1
 رو سیاہ,ruu-siyaah,1
 جان گدازی,jaan-gudaazii,1
-خورشید و ماہ,;xvurshiid-o-maah,1
+خورشیدوماہ,;xvurshiid-o-maah,1
 طاقت ربا,:taaqat-rubaa,1
 نوکر,naukar,1
 مژگانی,mizhgaanii,1
@@ -3116,7 +3116,7 @@ urdu,transliteration,count
 گرد باد,gird-baad,1
 شکستن,shikastan,1
 نہنگ,nihang,1
-غم و شادی,;gam-o-shaadii,1
+غموشادی,;gam-o-shaadii,1
 تاراج,taaraaj,1
 سر بر,sar-bar,1
 بندہ پرور,bandah-parvar,1
@@ -3125,16 +3125,16 @@ urdu,transliteration,count
 ذریعہ,;zarii((ah,1
 برجا ماندہ,barjaa-maa;ndah,1
 راحت طلبی,raa;hat-:talabii,1
-دست و خنجر,dast-o-;xanjar,1
+دستوخنجر,dast-o-;xanjar,1
 یاری,yaarii,1
 مہربانی,mihrbaanii,1
-بے پر و بالی,be-par-o-baalii,1
+بے پروبالی,be-par-o-baalii,1
 داد خواہ,daad-;xvaah,1
-طاعت و زہد,:taa((at-o-zuhd,1
+طاعتوزہد,:taa((at-o-zuhd,1
 باوجود,baavujuud,1
 کڑا,ka;raa,1
 عالم آرائی,((aalam-aaraa))ii,1
-بند و بست,band-o-bast,1
+بندوبست,band-o-bast,1
 لڑکا,la;rkaa,1
 بینائی,biinaa))ii,1
 تازہ واردان,taazah-vaaridaan,1
@@ -3143,7 +3143,7 @@ urdu,transliteration,count
 سوختن,so;xtan,1
 طلبگار,:talabgaar,1
 طول,:tuul,1
-تسلیم و بدا,tasliim-o-badaa,1
+تسلیموبدا,tasliim-o-badaa,1
 آتش نفس,aatish-nafas,1
 خسّت,;xissat,1
 ناوک فگن,naavuk-figan,1
@@ -3184,7 +3184,7 @@ urdu,transliteration,count
 طعن,:ta((n,1
 رعونت,ra((uunat,1
 تعریف,ta((riif,1
-لعل و زمرّد و زر و گوہر,la((l-o-zumurrud-o-zar-o-gauhar,1
+لعلوزمرّدوزروگوہر,la((l-o-zumurrud-o-zar-o-gauhar,1
 حج,;haj,1
 رنج آشنا,ranj-aashnaa,1
 سبو,subuu,1
@@ -3215,7 +3215,7 @@ urdu,transliteration,count
 تند,tund,1
 ارمان,armaan,1
 مطلوب,ma:tluub,1
-سرو و صنوبر,sarv-o-.sanobar,1
+سرووصنوبر,sarv-o-.sanobar,1
 جوئبار,juu))ibaar,1
 بیرون,bairuun,1
 مصوّر,mu.savvir,1
@@ -3229,7 +3229,7 @@ urdu,transliteration,count
 نسیہ,nisyah,1
 توفیر,taufiir,1
 جلوہ نما,jalvah-numaa,1
-انداز و ادا,andaaz-o-adaa,1
+اندازوادا,andaaz-o-adaa,1
 ارزاں,arzaa;n,1
 توان,tuvaan,1
 بے صرفہ,be-.sarfah,1
@@ -3238,7 +3238,7 @@ urdu,transliteration,count
 آئنہ پرداز,aa))inah-pardaaz,1
 بے کار,be-kaar,1
 منصب,man.sab,1
-ابر و باد,abr-o-baad,1
+ابروباد,abr-o-baad,1
 ضرور,.zaruur,1
 قاطع,qaa:ta((,1
 مقتل,maqtal,1
@@ -3265,14 +3265,14 @@ urdu,transliteration,count
 بے مزا,be-mazaa,1
 تیز رو,tez-rau,1
 پر پیچ,pur-pech,1
-خاکستر و بلبل,;xaakistar-o-bulbul,1
+خاکستروبلبل,;xaakistar-o-bulbul,1
 باربد,baarbud,1
 ولیکن,valekin,1
 فرمانا,farmaanaa,1
 ہلال,hilaal,1
 سپرد,supurd,1
 آئینہ خانہ,aa))iinah-;xaanah,1
-عقل و دل و جاں,((aql-o-dil-o-jaa;n,1
+عقلودلوجاں,((aql-o-dil-o-jaa;n,1
 کہار,kahaar,1
 سرگشتہ,sargashtah,1
 دونا,duunaa,1
@@ -3294,7 +3294,7 @@ urdu,transliteration,count
 توڑا,to;raa,1
 الیٰہی,il;aahii,1
 خطّہ,;xi:t:tah,1
-رسوم و قیود,rusuum-o-quyuud,1
+رسوموقیود,rusuum-o-quyuud,1
 روح ال قدس,ruu;h-ul-qudus,1
 پا انداز,paa-andaaz,1
 نا سازی,naa-saazii,1
@@ -3307,22 +3307,22 @@ urdu,transliteration,count
 ثبات,;sabaat,1
 عنوان,((unvaan,1
 تئمّل,ta))ammul,1
-سبحہ و زنّار,sub;hah-o-zunnaar,1
+سبحہوزنّار,sub;hah-o-zunnaar,1
 دوئی,duu))ii,1
 ال امان,al-amaan,1
 خانہ آرائی,;xaanah-aaraa))ii,1
 خارا,;xaaraa,1
 کیفیّت,kaifiyyat,1
-قہر و غضب,qahr-o-;ga.zab,1
+قہروغضب,qahr-o-;ga.zab,1
 غم خوارگی,;gam-;xvaaragii,1
-ہم طرحی و درد,ham-:tar;hii-o-dard,1
+ہم طرحیودرد,ham-:tar;hii-o-dard,1
 نقسان,nuqsaan,1
-دین و دل,diin-o-dil,1
+دینودل,diin-o-dil,1
 نکو نامی,niko-naamii,1
 مشغول,mash;guul,1
 دیر,dair,1
 بے دلی,be-dilii,1
-ابر و شب,abr-o-shab,1
+ابروشب,abr-o-shab,1
 مسائل,masaa))il,1
 واقعہ,vaaqi((ah,1
 نا خدا,naa-;xudaa,1
@@ -3339,13 +3339,13 @@ urdu,transliteration,count
 ہلنا,hilnaa,1
 ہول,haul,1
 حیرانی,;hairaanii,1
-دل و دل,dil-o-dil,1
+دلودل,dil-o-dil,1
 بغل,ba;gal,1
 حاجت مند,;haajat-mand,1
 مجال,majaal,1
 مشتمل,mushtamil,1
 جانو,jaano,1
-چشم و چراغ,chashm-o-chiraa;g,1
+چشموچراغ,chashm-o-chiraa;g,1
 وصف,va.sf,1
 ولی,valii,1
 جلوہ گر,jalvah-gar,1
@@ -3358,10 +3358,10 @@ urdu,transliteration,count
 تعلق,ta((alluq,1
 چرانا,churaanaa,1
 بے باک,be-baak,1
-ساختہ و فصل,saa;xtah-o-fa.sl,1
+ساختہوفصل,saa;xtah-o-fa.sl,1
 بے گرہ,be-girah,1
 سوکھ,suukh,1
-دل و چشم,dil-o-chashm,1
+دلوچشم,dil-o-chashm,1
 غیور,;gayuur,1
 وا شد,vaa-shud,1
 دست گردان,dast-gardaan,1
@@ -3371,7 +3371,7 @@ urdu,transliteration,count
 رخش,ra;xsh,1
 زمان,zamaan,1
 کودکی,kuudakii,1
-قد و رخ,qad-o-ru;x,1
+قدورخ,qad-o-ru;x,1
 ظہوری,:zuhuurii,1
 حق شناس,;haq-shinaas,1
 محشرستان,ma;hsharistaan,1
@@ -3383,15 +3383,15 @@ urdu,transliteration,count
 عیب,((aib,1
 سفال,safaal,1
 ٹیڑھا,;te;rhaa,1
-لالہ و گل,laalah-o-gul,1
+لالہوگل,laalah-o-gul,1
 زیارت کدہ,ziyaarat-kadah,1
 پری وش,parii-vash,1
 واجب,vaajib,1
 آرے,aare,1
-آہ و فغاں,aah-o-fi;gaa;n,1
+آہوفغاں,aah-o-fi;gaa;n,1
 دو دم,do-dam,1
 فقط,faqa:t,1
-خلوت و جلوت,;xalvat-o-jalvat,1
+خلوتوجلوت,;xalvat-o-jalvat,1
 نا ساز گاری,naa-saaz-gaarii,1
 پا بوس,paa-buus,1
 عناصر,((anaa.sir,1
@@ -3427,7 +3427,7 @@ urdu,transliteration,count
 دوشینہ,doshiinah,1
 سیہ مستی,siyah-mastii,1
 سادہ دلی,saadah-dilii,1
-دشنہ و خنجر,dashnah-o-;xanjar,1
+دشنہوخنجر,dashnah-o-;xanjar,1
 یگانہ,yagaanah,1
 درخشان,dara;xshaan,1
 فرمان روا,farmaan-ravaa,1
