@@ -60,6 +60,7 @@ def load_verses(inputfile='input/verses.csv'):
     with open(inputfile,'r') as csvfile:
         versereader = csv.reader(csvfile)
         for row in versereader:
+            if len(row)<3: print row
             (verse_id, input_string, real_scan) = row # 
             if not 'x' in verse_id: # only muravvaj divan for now
                 verses[verse_id] = input_string.strip() 
@@ -450,9 +451,6 @@ def gen_hiur_lemmas_by_size():
                 f.write("  - "+out_hiur(w)+' '+str(token_instance_count[w])+'\n')
                 
 def out_hiur(w):
-    print w
-    print 'urdu: '+urdup.parse(w).output
-    print 'devanagari '+nagarip.parse(w).output
     return urdup.parse(w).output+' '+nagarip.parse(w).output+' '+w
 
 def out_hiur_csv(w):
@@ -518,45 +516,11 @@ def gen_hiur_lemmas_by_size_ul(file_name='output/hiur-lemmas-by-size-ul.html'):
 
 # <codecell>
 
-#md_link('001.03')
-print urdup.parse('hu))e').output#ab-o-gil').output
-print nagarip.parse('kyaa se').output
-
-# <codecell>
-
 #gen_hiur_lemmas_by_size()
 #gen_hiur_lemmas_by_size_with_verses()
 #gen_hiur_lemmas_by_size_hiur('output/lemmas-by-size-w-verses-all-hiur.md', with_verses=True, truncate=False)#True,truncate_limit=50):
 #gen_hiur_lemmas_by_size_hiur('output/lemmas-by-size-countsonly.md', with_verses=False)#True,truncate_limit=50):
 gen_hiur_lemmas_by_size_ul()
-
-# <codecell>
-
-import markdown
-
-# <codecell>
-
-nagarip.parse('kyaa').output
-
-# <codecell>
-
-print nagarip.parse('se').output
-
-# <codecell>
-
-urdup.tokenize('shaan-eshaan')
-
-# <codecell>
-
-urdup.parse('shaan-eshaan')
-
-# <codecell>
-
-urdup.rules
-
-# <codecell>
-
-urdup.DG.nodes(data=True)
 
 # <codecell>
 

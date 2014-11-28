@@ -193,8 +193,8 @@ denaa 102
   - de;n 1
   - diijiye 1
   - denii 1
-kyuu;n 100
-  - kyuu;n 100
+kyuu;n 99
+  - kyuu;n 99
 hii 97
   - hii 97
 pah 94
