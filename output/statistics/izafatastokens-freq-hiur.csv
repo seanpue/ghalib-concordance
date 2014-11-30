@@ -20,7 +20,7 @@ urdu,nagari,transliteration,count
 تھا,था,thaa,146
 دل,दिल,dil,144
 نے,ने,ne,140
-ہوں,हूँ,huu;n,137
+ہوں,हूँ,huu;n,138
 جو,जो,jo,135
 یہ,ये,yih,127
 اور,और,aur,125
@@ -187,9 +187,9 @@ urdu,nagari,transliteration,count
 قسمت,क़िसमत,qismat,14
 ہونا,होना,honaa,14
 لے,ले,le,14
-درودیوار,दर‐ओ‐दीवार,dar-o-diivaar,14
+در و دیوار,दर‐ओ‐दीवार,dar-o-diivaar,14
 عمر,उमर,((umr,13
-ہر چند,हरचंद,har-chand,13
+ہر چند,हर-चंद,har-chand,13
 بغیر,बग़ैर,ba;gair,13
 تماشا,तमाशा,tamaashaa,13
 دریا,दरया,daryaa,13
@@ -335,7 +335,7 @@ urdu,nagari,transliteration,count
 کیجیے,कीजिये,kiijiye,7
 جاوے,जावे,jaave,7
 رسوا,रुसवा,rusvaa,7
-نامہ بر,नामाबर,naamah-bar,7
+نامہ بر,नामा-बर,naamah-bar,7
 حاصل,हासिल,;haa.sil,7
 پہلے,पहले,pahle,7
 آشنا,आशना,aashnaa,7
@@ -483,7 +483,7 @@ urdu,nagari,transliteration,count
 کعبے,काबे,ka((be,5
 جگہ,जगह,jagah,5
 مجنوں,मजनूँ,majnuu;n,5
-بے خودی,बेख़ुदी,be-;xvudii,5
+بے خودی,बे-ख़ुदी,be-;xvudii,5
 بیٹھا,बैठा,bai;thaa,5
 جہان,जहान,jahaan,5
 ظلم,ज़ुलम,:zulm,5
@@ -529,9 +529,9 @@ urdu,nagari,transliteration,count
 دیے,दिये,diye,4
 دنداں,दंदाँ,dandaa;n,4
 جلے,जले,jale,4
-بد گماں,बदगुमाँ,bad-gumaa;n,4
+بد گماں,बद-गुमाँ,bad-gumaa;n,4
 دوں,दूँ,duu;n,4
-بے تکلف,बेतकललुफ़,be-takalluf,4
+بے تکلف,बे-तकललुफ़,be-takalluf,4
 دونوں,दोनों,dono;n,4
 لگی,लगी,lagii,4
 زبان,ज़बान,zabaan,4
@@ -573,7 +573,7 @@ urdu,nagari,transliteration,count
 مرگ,मरग,marg,4
 حسن,हुसन,;husn,4
 سکوں,सकूँ,sakuu;n,4
-بر طرف,बरतरफ़,bar-:taraf,4
+بر طرف,बर-तरफ़,bar-:taraf,4
 سائے,साए,saa))e,4
 قید,क़ैद,qaid,4
 خالی,ख़ाली,;xaalii,4
@@ -584,7 +584,7 @@ urdu,nagari,transliteration,count
 وعدے,वादे,va((de,4
 روشن,रौशन,raushan,4
 سکتی,सकती,saktii,4
-خوں چکاں,ख़ूँचकाँ,;xuu;n-chakaa;n,4
+خوں چکاں,ख़ूँ-चकाँ,;xuu;n-chakaa;n,4
 تسکیں,तसकीं,taskii;n,4
 سینے,सीने,siine,4
 باب,बाब,baab,4
@@ -609,7 +609,7 @@ urdu,nagari,transliteration,count
 ویراں,वीराँ,viiraa;n,4
 خلد,ख़ुलद,;xuld,4
 واعظ,वाइज़,vaa((i:z,4
-ال لیٰہ,अललाह,al-l;aah,4
+ال لیٰہ,अल-लाह,al-l;aah,4
 سکتا,सकता,saktaa,4
 جادہ,जादा,jaadah,4
 بیمار,बीमार,biimaar,4
@@ -628,7 +628,7 @@ urdu,nagari,transliteration,count
 کلام,कलाम,kalaam,4
 شاید,शायद,shaayad,4
 سایہ,साया,saayah,4
-بے سبب,बेसबब,be-sabab,4
+بے سبب,बे-सबब,be-sabab,4
 لگے,लगे,lage,4
 جہت,जिहत,jihat,3
 غنچہ,ग़ुंचा,;gunchah,3
@@ -641,13 +641,13 @@ urdu,nagari,transliteration,count
 سخن,सुख़न,su;xan,3
 خطا,ख़ता,;xa:taa,3
 کہیے,कहये,kahye,3
-کون سے,कौनसे,kaun-se,3
+کون سے,कौन-से,kaun-se,3
 بدلے,बदले,badle,3
 لیتا,लेता,letaa,3
 بند,बंद,band,3
 قرار,क़रार,qaraar,3
-آبلہ پا,आबिलापा,aabilah-paa,3
-ہم سخن,हमसुख़न,ham-su;xan,3
+آبلہ پا,आबिला-पा,aabilah-paa,3
+ہم سخن,हम-सुख़न,ham-su;xan,3
 چھیڑ,छेड़,chhe;r,3
 خموش,ख़मोश,;xamosh,3
 رونے,रोने,rone,3
@@ -663,17 +663,17 @@ urdu,nagari,transliteration,count
 بیش,बेश,besh,3
 سکتے,सकते,sakte,3
 بوسے,बोसे,bose,3
-نا امیدی,नाउमीदी,naa-umiidii,3
+نا امیدی,ना-उमीदी,naa-umiidii,3
 شکوے,शिकवे,shikve,3
 ہجر,हिजर,hijr,3
 دست,दसत,dast,3
 چپ,चुप,chup,3
-نا توانی,नातवानी,naa-tavaanii,3
+نا توانی,ना-तवानी,naa-tavaanii,3
 راضی,राज़ी,raa.zii,3
 دھو,धो,dho,3
 سفینہ,सफ़ीना,safiinah,3
 تلوار,तलवार,talvaar,3
-بالوپر,बाल‐ओ‐पर,baal-o-par,3
+بال و پر,बाल‐ओ‐पर,baal-o-par,3
 زیادہ,ज़ियादा,ziyaadah,3
 ضد,ज़िद,.zid,3
 تصویر,तसवीर,ta.sviir,3
@@ -682,16 +682,16 @@ urdu,nagari,transliteration,count
 حد,हद,;had,3
 خونِ جگر,ख़ून‐ए‐जिगर,;xuun-e jigar,3
 طلب,तलब,:talab,3
-دیوارودر,दीवार‐ओ‐दर,diivaar-o-dar,3
+دیوار و در,दीवार‐ओ‐दर,diivaar-o-dar,3
 گلخن,गुलख़न,gul;xan,3
 غبار,ग़ुबार,;gubaar,3
-پر افشاں,परअफ़शाँ,par-afshaa;n,3
+پر افشاں,पर-अफ़शाँ,par-afshaa;n,3
 عندلیب,अंदलीब,((andaliib,3
 روز,रोज़,roz,3
 بیٹھنا,बैठना,bai;thnaa,3
 رہےگا,रहेगा,rahegaa,3
 کرنا,करना,karnaa,3
-بد گمانی,बदगुमानी,bad-gumaanii,3
+بد گمانی,बद-गुमानी,bad-gumaanii,3
 نکالے,निकाले,nikaale,3
 تمہاری,तुमहारी,tumhaarii,3
 قضا,क़ज़ा,qa.zaa,3
@@ -748,20 +748,20 @@ urdu,nagari,transliteration,count
 شیشے,शीशे,shiishe,3
 ٹھہرا,ठहरा,;thahraa,3
 رکھا,रखा,rakhaa,3
-نا چار,नाचार,naa-chaar,3
+نا چار,ना-चार,naa-chaar,3
 کفِ سیلاب,कफ़‐ए‐सैलाब,kaf-e sailaab,3
 مارے,मारे,maare,3
-یک قلم,यकक़लम,yak-qalam,3
+یک قلم,यक-क़लम,yak-qalam,3
 امید,उमीद,umiid,3
-بد خو,बदख़ू,bad-;xuu,3
+بد خو,बद-ख़ू,bad-;xuu,3
 باز,बाज़,baaz,3
 رنج,रंज,ranj,3
-ہم زباں,हमज़बाँ,ham-zabaa;n,3
-بے وفا,बेवफ़ा,be-vafaa,3
+ہم زباں,हम-ज़बाँ,ham-zabaa;n,3
+بے وفا,बे-वफ़ा,be-vafaa,3
 ٹوٹ,टूट,;tuu;t,3
 دھوکا,धोका,dhokaa,3
 رواں,रवाँ,ravaa;n,3
-مے کدہ,मैकदह,mai-kadah,3
+مے کدہ,मै-कदह,mai-kadah,3
 وطن,वतन,va:tan,3
 پرے,परे,pare,3
 کرو,करो,karo,3
@@ -778,7 +778,7 @@ urdu,nagari,transliteration,count
 چاہتا,चाहता,chaahtaa,3
 سکا,सका,sakaa,3
 بھاگے,भागे,bhaage,3
-بے مہر,बेमिहर,be-mihr,3
+بے مہر,बे-मिहर,be-mihr,3
 کھینچے,खेंचे,khe;nche,3
 سبزہ,सबज़ा,sabzah,3
 خفا,ख़फ़ा,;xafaa,3
@@ -827,10 +827,10 @@ urdu,nagari,transliteration,count
 قطرے,क़तरे,qa:tre,3
 غربت,ग़ुरबत,;gurbat,3
 بہتر,बहतर,bahtar,3
-رہ گزر,रागुज़र,rah-guzar,3
+رہ گزر,रा-गुज़र,rah-guzar,3
 نشاط,नशात,nashaa:t,3
 عریاں,उरयां,((uryaa;n,3
-بال کشا,बालकुशा,baal-kushaa,3
+بال کشا,बाल-कुशा,baal-kushaa,3
 قلم,क़लम,qalam,3
 آگہی,आगही,aagahii,3
 مزا,मज़ा,mazaa,3
@@ -839,7 +839,7 @@ urdu,nagari,transliteration,count
 مستی,मसती,mastii,3
 تار,तार,taar,3
 الفت,उलफ़त,ulfat,3
-آتش کدہ,आतिशकदह,aatish-kadah,3
+آتش کدہ,आतिश-कदह,aatish-kadah,3
 آفتاب,आफ़ताब,aaftaab,3
 نکہتِ گل,नकहत‐ए‐गुल,nak'hat-e gul,3
 پاتا,पाता,paataa,3
@@ -877,7 +877,7 @@ urdu,nagari,transliteration,count
 اختیار,इख़तियार,i;xtiyaar,2
 لیلیٰ,लैला,lail;aa,2
 عذر,उज़र,((u;zr,2
-نمک داں,नमकदाँ,namak-daa;n,2
+نمک داں,नमक-दाँ,namak-daa;n,2
 گوارا,गवारा,gavaaraa,2
 بڑھ,बढ़,ba;rh,2
 علی,अली,((alii,2
@@ -896,7 +896,7 @@ urdu,nagari,transliteration,count
 ہای,हाय,haay,2
 دیجے,दीजे,diije,2
 رضواں,रिज़वाँ,ri.zvaa;n,2
-بے زار,बेज़ार,be-zaar,2
+بے زار,बे-ज़ार,be-zaar,2
 سراسر,सरासर,saraasar,2
 نشتر,नशतर,nashtar,2
 لکھتا,लिखता,likhtaa,2
@@ -921,7 +921,7 @@ urdu,nagari,transliteration,count
 مو,मू,muu,2
 سمجھو,समझो,samjho,2
 سیر,सैर,sair,2
-بے حجاب,बेहिजाब,be-;hijaab,2
+بے حجاب,बे-हिजाब,be-;hijaab,2
 قمری,क़ुमरी,qumrii,2
 نالہِ بلبل,नाला‐ए‐बुलबुल,naalah-e bulbul,2
 شادی,शादी,shaadii,2
@@ -937,10 +937,10 @@ urdu,nagari,transliteration,count
 کیسا,कैसा,kaisaa,2
 نیکی,नेकी,nekii,2
 جیے,जिये,jiye,2
-نا سزا,नासज़ा,naa-sazaa,2
+نا سزا,ना-सज़ा,naa-sazaa,2
 چیز,चीज़,chiiz,2
 گزارا,गुज़ारा,guzaaraa,2
-پردہ داری,परदादारी,pardah-daarii,2
+پردہ داری,परदा-दारी,pardah-daarii,2
 خانہِ آئینہ,ख़ाना‐ए‐आईना,;xaanah-e aa))iinah,2
 چلا,चला,chalaa,2
 جوش,जोश,josh,2
@@ -949,7 +949,7 @@ urdu,nagari,transliteration,count
 سوتے,सोते,sote,2
 وفاداری,वफ़ादारी,vafaadaarii,2
 جذبہِ دل,जज़बा‐ए‐दिल,ja;zbah-e dil,2
-بر ہم,बरहम,bar-ham,2
+بر ہم,बर-हम,bar-ham,2
 خوباں,ख़ूबाँ,;xuubaa;n,2
 اضطراب,इज़तिराब,i.z:tiraab,2
 سنتے,सुनते,sunte,2
@@ -970,15 +970,15 @@ urdu,nagari,transliteration,count
 وہم,वहम,vahm,2
 مجھی,मुझी,mujhii,2
 تعجّب,तजजुब,ta((ajjub,2
-سراپا ناز,सरापानाज़,saraapaa-naaz,2
+سراپا ناز,सरापा-नाज़,saraapaa-naaz,2
 مدار,मदार,madaar,2
-صد رنگ,सदरंग,.sad-rang,2
+صد رنگ,सद-रंग,.sad-rang,2
 بلا,बुला,bulaa,2
 ٹھنڈا,ठंडा,;than;daa,2
 زخمِ جگر,ज़ख़म‐ए‐जिगर,za;xm-e jigar,2
-دل لگی,दिललगी,dil-lagii,2
+دل لگی,दिल-लगी,dil-lagii,2
 سال,साल,saal,2
-صبح دم,सुबहदम,.sub;h-dam,2
+صبح دم,सुबह-दम,.sub;h-dam,2
 جاؤ,जाओ,jaa))o,2
 موقوف,मौक़ूफ़,mauquuf,2
 سنگِ آستاں,संग‐ए‐आसताँ,sang-e aastaa;n,2
@@ -1000,7 +1000,7 @@ urdu,nagari,transliteration,count
 آفت,आफ़त,aafat,2
 زخمی,ज़ख़मी,za;xmii,2
 افسوس,अफ़सोस,afsos,2
-ستم گر,सितमगर,sitam-gar,2
+ستم گر,सितम-गर,sitam-gar,2
 آزاد,आज़ाद,aazaad,2
 لیوے,लेवे,leve,2
 حوصلہ,हौसला,;hau.slah,2
@@ -1008,7 +1008,7 @@ urdu,nagari,transliteration,count
 پوچھتے,पूछते,puuchhte,2
 بنائے,बनाए,banaa))e,2
 گرہ,गिरह,girah,2
-کاروبار,कार‐ओ‐बार,kaar-o-baar,2
+کار و بار,कार‐ओ‐बार,kaar-o-baar,2
 جن,जिन,jin,2
 بتلاؤ,बतलाओ,batlaa))o,2
 کماں,कमाँ,kamaa;n,2
@@ -1029,9 +1029,9 @@ urdu,nagari,transliteration,count
 آؤ,आओ,aa))o,2
 تھک,थक,thak,2
 تحفہ,तुहफ़ा,tu;hfah,2
-بتِ آئنہ سیما,बुत‐ए‐आइनासीमा,but-e aa))inah-siimaa,2
+بتِ آئنہ سیما,बुत‐ए‐आइना-सीमा,but-e aa))inah-siimaa,2
 زور,ज़ोर,zor,2
-آشفتہ بیانی,आशुफ़ताबयानी,aashuftah-bayaanii,2
+آشفتہ بیانی,आशुफ़ता-बयानी,aashuftah-bayaanii,2
 شیوہ,शेवा,shevah,2
 دیکھیں,देखें,dekhe;n,2
 پوچھیں,पूछें,puuchhe;n,2
@@ -1039,7 +1039,7 @@ urdu,nagari,transliteration,count
 ضامن,ज़ामिन,.zaamin,2
 حلقہ,हलक़ा,;halqah,2
 کوے یار,कू‐ए‐यार,kuu-e yaar,2
-بے وفائی,बेवफ़ाई,be-vafaa))ii,2
+بے وفائی,बे-वफ़ाई,be-vafaa))ii,2
 زہے,ज़हे,zahe,2
 زہر,ज़हर,zahr,2
 چھٹا,छुटा,chhu;taa,2
@@ -1081,10 +1081,10 @@ urdu,nagari,transliteration,count
 بھیس,भेस,bhes,2
 کہتی,कहती,kahtii,2
 نگار,निगार,nigaar,2
-جلوہ گری,जलवागरी,jalvah-garii,2
+جلوہ گری,जलवा-गरी,jalvah-garii,2
 لگاؤ,लगाओ,lagaa))o,2
 قیس,क़ैस,qais,2
-بے اثر,बेअसर,be-a;sar,2
+بے اثر,बे-असर,be-a;sar,2
 اندھیر,अंधेर,andher,2
 آویں,आवें,aave;n,2
 دیکھے,देखे,dekhe,2
@@ -1095,7 +1095,7 @@ urdu,nagari,transliteration,count
 آہیں,आहें,aahe;n,2
 ووہی,वोही,vohii,2
 بھاگیں‌گے,भागेंगे,bhaage;nge,2
-پیچوتاب,पेच‐ओ‐ताब,pech-o-taab,2
+پیچ و تاب,पेच‐ओ‐ताब,pech-o-taab,2
 تقریر,तक़रीर,taqriir,2
 ملا,मिला,milaa,2
 تقریب,तक़रीब,taqriib,2
@@ -1121,7 +1121,7 @@ urdu,nagari,transliteration,count
 گوش,गोश,gosh,2
 دکھلائیں,दिखलाएँ,dikhlaa))e;n,2
 فریاد,फ़रयाद,faryaad,2
-کار فرما,कारफ़रमा,kaar-farmaa,2
+کار فرما,कार-फ़रमा,kaar-farmaa,2
 شمشیر,शमशीर,shamshiir,2
 کہنے,कहने,kahne,2
 پوچھا,पूछा,puuchhaa,2
@@ -1136,15 +1136,15 @@ urdu,nagari,transliteration,count
 فگار,फ़िगार,figaar,2
 قدر,क़दर,qadr,2
 آئنے,आइने,aa))ine,2
-ہم آغوشی,हमआग़ोशी,ham-aa;goshii,2
+ہم آغوشی,हम-आग़ोशी,ham-aa;goshii,2
 اٹھتا,उठता,u;thtaa,2
 روتا,रोता,rotaa,2
 قامت,क़ामत,qaamat,2
 روکا,रोका,rokaa,2
 حلقے,हलक़े,;halqe,2
 باد,बाद,baad,2
-خندہِ دنداں نما,ख़ंदा‐ए‐दंदाँनुमा,;xandah-e dandaa;n-numaa,2
-نا مراد,नामुराद,naa-muraad,2
+خندہِ دنداں نما,ख़ंदा‐ए‐दंदाँ-नुमा,;xandah-e dandaa;n-numaa,2
+نا مراد,ना-मुराद,naa-muraad,2
 اکثر,अकसर,ak;sar,2
 بیٹھیے,बैठिये,bai;thiye,2
 رہزن,रहज़न,rahzan,2
@@ -1156,16 +1156,16 @@ urdu,nagari,transliteration,count
 چھوڑ,छोड़,chho;r,2
 پر,पुर,pur,2
 جستجو,जुसतजू,justajuu,2
-خانہ ویرانی,ख़ानावीरानी,;xaanah-viiraanii,2
+خانہ ویرانی,ख़ाना-वीरानी,;xaanah-viiraanii,2
 ڈرے,डरे,;dare,2
 نقش,नक़श,naqsh,2
 کوہ,कोह,koh,2
 طوفاں,तूफ़ाँ,:tuufaa;n,2
 آسمان,आसमान,aasmaan,2
 آن,आन,aan,2
-غم خواری,ग़मख़वारी,;gam-;xvaarii,2
+غم خواری,ग़म-ख़वारी,;gam-;xvaarii,2
 جنبش,जुंबिश,junbish,2
-سنگوخشت,संग‐ओ‐ख़िशत,sang-o-;xisht,2
+سنگ و خشت,संग‐ओ‐ख़िशत,sang-o-;xisht,2
 خیاباں,ख़ियाबाँ,;xiyaabaa;n,2
 خندہہاے گل,ख़ंदहहा‐ए‐गुल,;xandah'haa-e gul,2
 جواں,जवाँ,javaa;n,2
@@ -1184,7 +1184,7 @@ urdu,nagari,transliteration,count
 انجمن,अंजुमन,anjuman,2
 لاگ,लाग,laag,2
 ویرانی,वीरानी,viiraanii,2
-بزم آرائیاں,बज़मआराइयाँ,bazm-aaraa))iyaa;n,2
+بزم آرائیاں,बज़म-आराइयाँ,bazm-aaraa))iyaa;n,2
 داغِ جگر,दाग़‐ए‐जिगर,daa;g-e jigar,2
 دھرا,धरा,dharaa,2
 مکان,मकान,makaan,2
@@ -1199,7 +1199,7 @@ urdu,nagari,transliteration,count
 شہ,शा,shah,2
 شے,शै,shai,2
 بلاے جاں,बला‐ए‐जाँ,balaa-e jaa;n,2
-دعویِٰ وا رستگی,दावा‐ए‐वारसतगी,da((v;aa-e vaa-rastagii,2
+دعویِٰ وا رستگی,दावा‐ए‐वा-रसतगी,da((v;aa-e vaa-rastagii,2
 درباں,दरबां,darbaa;n,2
 وضع,वज़ा,va.z((a,2
 انساں,इंसाँ,insaa;n,2
@@ -1211,7 +1211,7 @@ urdu,nagari,transliteration,count
 جامہِ احرام,जामा‐ए‐अहराम,jaamah-e a;hraam,2
 بری,बुरी,burii,2
 تسلیم,तसलीम,tasliim,2
-خوں بہا,ख़ूँबहा,;xuu;n-bahaa,2
+خوں بہا,ख़ूँ-बहा,;xuu;n-bahaa,2
 پیشتر,पेशतर,peshtar,2
 بہم,बहम,baham,2
 بتاؤ,बताओ,bataa))o,2
@@ -1233,8 +1233,8 @@ urdu,nagari,transliteration,count
 الجھا,उलझा,uljhaa,2
 مشتِ خاک,मुशत‐ए‐ख़ाक,musht-e ;xaak,2
 شکست,शिकसत,shikast,2
-راز داں,राज़दाँ,raaz-daa;n,2
-آب گینہ,आबगीना,aab-giinah,2
+راز داں,राज़-दाँ,raaz-daa;n,2
+آب گینہ,आब-गीना,aab-giinah,2
 کھاتے,खाते,khaate,2
 کھائی,खाई,khaa))ii,2
 بزمِ خیال,बज़म‐ए‐ख़याल,bazm-e ;xayaal,2
@@ -1243,7 +1243,7 @@ urdu,nagari,transliteration,count
 لینے,लेने,lene,2
 پیراہن,पैराहन,pairaahan,2
 نغمہ,नग़मा,na;gmah,2
-اشک باری,अशकबारी,ashk-baarii,2
+اشک باری,अशक-बारी,ashk-baarii,2
 گریے,गिरये,girye,2
 نشانی,निशानी,nishaanii,2
 مژہ,मिझ़ह,mizhah,2
@@ -1256,14 +1256,14 @@ urdu,nagari,transliteration,count
 باتیں,बातें,baate;n,2
 مقدّمہ,मुक़ददमा,muqaddamah,2
 آزمانے,आज़माने,aazmaane,2
-تمثال دار,तिमसालदार,tim;saal-daar,2
+تمثال دار,तिमसाल-दार,tim;saal-daar,2
 نقشِ پا,नक़श‐ए‐पा,naqsh-e paa,2
 پیشِ نظر,पेश‐ए‐नज़र,pesh-e na:zar,2
 اڑتے,उड़ते,u;rte,2
 جلا,जला,jalaa,2
 نمایاں,नुमायाँ,numaayaa;n,2
 خاموشی,ख़ामोशी,;xaamoshii,2
-کاش کے,काशके,kaash-ke,2
+کاش کے,काश-के,kaash-ke,2
 گریزاں,गुरेज़ाँ,gurezaa;n,2
 مند,मुंद,mu;nd,2
 مژدہ,मुझ़दा,muzhdah,2
@@ -1295,7 +1295,7 @@ urdu,nagari,transliteration,count
 کھینچتا,खेंचता,khe;nchtaa,2
 بحر,बहर,ba;hr,2
 سچ,सच,sach,2
-بو ال ہوس,बूउलहवस,buu-ul-havas,2
+بو ال ہوس,बू-उल-हवस,buu-ul-havas,2
 آباد,आबाद,aabaad,2
 نذر,नज़र,na;zr,2
 کھودنے,खोदने,khodne,2
@@ -1322,30 +1322,30 @@ urdu,nagari,transliteration,count
 کہانی,कहानी,kahaanii,2
 کاغذ,काग़ज़,kaa;ga;z,2
 شکل,शकल,shakl,2
-سبزہوگل,सबज़ा‐ओ‐गुल,sabzah-o-gul,2
+سبزہ و گل,सबज़ा‐ओ‐गुल,sabzah-o-gul,2
 ڈالا,डाला,;daalaa,2
 کھڑے,खड़े,kha;re,2
-یک بیاباں,यकबयाबाँ,yak-bayaabaa;n,2
+یک بیاباں,यक-बयाबाँ,yak-bayaabaa;n,2
 چشمِ تر,चशम‐ए‐तर,chashm-e tar,2
 استوار,उसतुवार,ustuvaar,2
 رشتہ,रिशता,rishtah,2
-اسد ال لیٰہ,असदउललाह,asad-ul-l;aah,2
+اسد ال لیٰہ,असद-उल-लाह,asad-ul-l;aah,2
 رکھتی,रखती,rakhtii,2
 گفتار,गुफ़तार,guftaar,2
 موج,मौज,mauj,2
 موجِ خوں,मौज‐ए‐ख़ूँ,mauj-e ;xuu;n,2
 ہیولیٰ,हयूला,hayuul;aa,2
-غم خوار,ग़मख़वार,;gam-;xvaar,2
-بیمار دار,बीमारदार,biimaar-daar,2
+غم خوار,ग़म-ख़वार,;gam-;xvaar,2
+بیمار دار,बीमार-दार,biimaar-daar,2
 خونِ دل,ख़ून‐ए‐दिल,;xuun-e dil,2
-ہم سفر,हमसफ़र,ham-safar,2
+ہم سفر,हम-सफ़र,ham-safar,2
 غش,ग़श,;gash,2
 ہاتھوں,हाथों,haatho;n,2
 ڈال,डाल,;daal,2
 برسات,बरसात,barsaat,2
 زمزم,ज़मज़म,zamzam,2
 آغوشِ وداع,आग़ोश‐ए‐विदा,aa;gosh-e vidaa((,2
-بے نیازی,बेनियाज़ी,be-niyaazii,2
+بے نیازی,बे-नियाज़ी,be-niyaazii,2
 شیرازہ,शीराज़ा,shiiraazah,2
 مبادا,मबादा,mabaadaa,2
 اتر,उतर,utar,2
@@ -1354,7 +1354,7 @@ urdu,nagari,transliteration,count
 تیشے,तेशे,teshe,2
 مٹے,मिटे,mi;te,2
 کشمکش,कशमकश,kashmakash,2
-وعدہِ صبر آزما,वादा‐ए‐सबरआज़मा,va((dah-e .sabr-aazmaa,2
+وعدہِ صبر آزما,वादा‐ए‐सबर-आज़मा,va((dah-e .sabr-aazmaa,2
 مژہِ یار,मिझ़ा‐ए‐यार,mizhah-e yaar,2
 بتلا,बतला,batlaa,2
 آشفتگی,आशुफ़तगी,aashuftagii,2
@@ -1369,7 +1369,7 @@ urdu,nagari,transliteration,count
 گوہر,गौहर,gauhar,2
 گدا,गदा,gadaa,2
 منظر,मंज़र,man:zar,2
-ہم سا,हमसा,ham-saa,2
+ہم سا,हम-सा,ham-saa,2
 نئے,नए,na))e,2
 فغاں,फ़िग़ाँ,fi;gaa;n,2
 صرف,सिरफ़,.sirf,2
@@ -1387,8 +1387,8 @@ urdu,nagari,transliteration,count
 پلا,पिला,pilaa,2
 پروا,परवा,parvaa,2
 مشکیں,मुशकीं,mushkii;n,1
-بد نام,बदनाम,bad-naam,1
-مانندِ صبحومہر,मानिंद‐ए‐सुबह‐ओ‐मिहर,maanind-e .sub;h-o-mihr,1
+بد نام,बद-नाम,bad-naam,1
+مانندِ صبح و مہر,मानिंद‐ए‐सुबह‐ओ‐मिहर,maanind-e .sub;h-o-mihr,1
 سامانِ وجود,सामान‐ए‐वुजूद,saamaan-e vujuud,1
 التہاب,इलतिहाब,iltihaab,1
 زبانیِ شمع,ज़बानी‐ए‐शमा,zabaanii-e sham((a,1
@@ -1396,46 +1396,46 @@ urdu,nagari,transliteration,count
 نبضِ جگر,नबज़‐ए‐जिगर,nab.z-e jigar,1
 دیارِ غیر,दियार‐ए‐ग़ैर,diyaar-e ;gair,1
 سویداے دلِ چشم,सुवैदा‐ए‐दिल‐ए‐चशम,suvaidaa-e dil-e chashm,1
-خوب رویوں,ख़ूबरूयों,;xuub-ruuyo;n,1
-گل چینِ گلستانِ تسلی,गुलचीन‐ए‐गुलिसतान‐ए‐तसलली,gul-chiin-e gulistaan-e tasallii,1
+خوب رویوں,ख़ूब-रूयों,;xuub-ruuyo;n,1
+گل چینِ گلستانِ تسلی,गुल-चीन‐ए‐गुलिसतान‐ए‐तसलली,gul-chiin-e gulistaan-e tasallii,1
 مکتب,मकतब,maktab,1
 طوافِ کوے ملامت,तवाफ़‐ए‐कू‐ए‐मलामत,:tavaaf-e kuu-e malaamat,1
-رہورسمِ ثواب,रा‐ओ‐रसम‐ए‐सवाब,rah-o-rasm-e ;savaab,1
+رہ و رسمِ ثواب,रा‐ओ‐रसम‐ए‐सवाब,rah-o-rasm-e ;savaab,1
 مرغ,मुरग़,mur;g,1
 اوج,औज,auj,1
 اخفاے حال,इख़फ़ा‐ए‐हाल,i;xfaa-e ;haal,1
 حضورِ شاہ,हुज़ूर‐ए‐शाह,;hu.zuur-e shaah,1
 کھلے,खुले,khule,1
 اعجازِ مسیحا,इजाज़‐ए‐मसीहा,i((jaaz-e masii;haa,1
-محیطِ گریہولب,मुहीत‐ए‐गिरया‐ओ‐लब,mu;hii:t-e giryah-o-lab,1
-بت کدے,बुतकदे,but-kade,1
+محیطِ گریہ و لب,मुहीत‐ए‐गिरया‐ओ‐लब,mu;hii:t-e giryah-o-lab,1
+بت کدے,बुत-कदे,but-kade,1
 ماتم,मातम,maatam,1
 گرفتاری,गिरिफ़तारी,giriftaarii,1
-وا شدِ گل,वाशुद‐ए‐गुल,vaa-shud-e gul,1
-ہں,हुं,hu;n,1
+وا شدِ گل,वा-शुद‐ए‐गुल,vaa-shud-e gul,1
+لخّتِ سنگ,लज़ज़त‐ए‐संग,la;z;zat-e sang,1
 ذلت,ज़िललत,;zillat,1
-مے کدہِ بے خروش,मैकदा‐ए‐बेख़रोश,mai-kadah-e be-;xarosh,1
+مے کدہِ بے خروش,मै-कदा‐ए‐बे-ख़रोश,mai-kadah-e be-;xarosh,1
 طومارِ ناز,तूमार‐ए‐नाज़,:tuumaar-e naaz,1
-ہلاکِ حسرتِ پا بوس,हलाक‐ए‐हसरत‐ए‐पाबूस,halaak-e ;hasrat-e paa-buus,1
+ہلاکِ حسرتِ پا بوس,हलाक‐ए‐हसरत‐ए‐पा-बूस,halaak-e ;hasrat-e paa-buus,1
 فروع,फ़ुरू,furuu((,1
 عقدہِ مشکل,उक़दा‐ए‐मुशकिल,((uqdah-e mushkil,1
 خیر,ख़ैर,;xair,1
 تپیدن,तपीदन,tapiidan,1
 کھپاتا,खपाता,khapaataa,1
-ریشہ دوانی,रेशादवानी,reshah-davaanii,1
+ریشہ دوانی,रेशा-दवानी,reshah-davaanii,1
 کھایا,खाया,khaayaa,1
 نشاطِ کار,निशात‐ए‐कार,nishaa:t-e kaar,1
-در خورِ قہروغضب,दरख़ुर‐ए‐क़हर‐ओ‐ग़ज़ब,dar-;xvur-e qahr-o-;ga.zab,1
-دلِ نا عاقبت اندیش,दिल‐ए‐नाआक़िबतअंदेश,dil-e naa-((aaqibat-andesh,1
+در خورِ قہر و غضب,दर-ख़ुर‐ए‐क़हर‐ओ‐ग़ज़ब,dar-;xvur-e qahr-o-;ga.zab,1
+دلِ نا عاقبت اندیش,दिल‐ए‐ना-आक़िबत-अंदेश,dil-e naa-((aaqibat-andesh,1
 سیکھے,सीखे,siikhe,1
 جامِ سفال,जाम‐ए‐सफ़ाल,jaam-e safaal,1
-دریاے بے تابی,दरया‐ए‐बेताबी,daryaa-e be-taabii,1
+دریاے بے تابی,दरया‐ए‐बे-ताबी,daryaa-e be-taabii,1
 وصفِ آزادی,वसफ़‐ए‐आज़ादी,va.sf-e aazaadii,1
 حیلے,हीले,;hiile,1
 التجا,इलतिजा,iltijaa,1
 رنجِ بالیں,रंज‐ए‐बालीं,ranj-e baalii;n,1
 پکڑا,पकड़ा,pak;raa,1
-دیوار جو,दीवारजू,diivaar-juu,1
+دیوار جو,दीवार-जू,diivaar-juu,1
 شعلہِ آتش,शुला‐ए‐आतिश,shu((lah-e aatish,1
 اتنے,उतने,utne,1
 دریاے معاصی,दरया‐ए‐मआसी,daryaa-e ma((aa.sii,1
@@ -1443,7 +1443,7 @@ urdu,nagari,transliteration,count
 ملتیں,मिललतें,millate;n,1
 شگفتن ہا,शुगुफ़तन‐हा,shuguftan-haa,1
 انتظارِ ساغر,इंतिज़ार‐ए‐साग़र,inti:zaar-e saa;gar,1
-آشتیِ چشموگوش,आशती‐ए‐चशम‐ओ‐गोश,aashtii-e chashm-o-gosh,1
+آشتیِ چشم و گوش,आशती‐ए‐चशम‐ओ‐गोश,aashtii-e chashm-o-gosh,1
 محوِ تغافل,महव‐ए‐तग़ाफ़ुल,ma;hv-e ta;gaaful,1
 گرفتارِ چمن,गिरिफ़तार‐ए‐चमन,giriftaar-e chaman,1
 شکلِ قمری,शकल‐ए‐क़ुमरी,shakl-e qumrii,1
@@ -1454,32 +1454,32 @@ urdu,nagari,transliteration,count
 حسبِ گردشِ پیمانہِ صفات,हसब‐ए‐गरदिश‐ए‐पैमाना‐ए‐सिफ़ात,;hasb-e gardish-e paimaanah-e .sifaat,1
 درماندگی,दरमांदगी,darmaa;ndagii,1
 رگِ گردن,रग‐ए‐गरदन,rag-e gardan,1
-جاں ستاں تر,जाँसिताँतर,jaa;n-sitaa;n-tar,1
+جاں ستاں تر,जाँ-सिताँ-तर,jaa;n-sitaa;n-tar,1
 وقتوں,वक़तों,vaqto;n,1
 آتشِ گل,आतिश‐ए‐गुल,aatish-e gul,1
 ساغرِ سرشارِ دوست,साग़र‐ए‐सरशार‐ए‐दोसत,saa;gar-e sarshaar-e dost,1
 طولانی,तूलानी,:tuulaanii,1
 بھرم,भरम,bharam,1
 نیک,नेक,nek,1
-جنوں جولاں,जुनूँजौलाँ,junuu;n-jaulaa;n,1
-دیدہِ پر خوں,दीदा‐ए‐पुरख़ूँ,diidah-e pur-;xuu;n,1
+جنوں جولاں,जुनूँ-जौलाँ,junuu;n-jaulaa;n,1
+دیدہِ پر خوں,दीदा‐ए‐पुर-ख़ूँ,diidah-e pur-;xuu;n,1
 پیرہن,पैरहन,pairahan,1
 حاجتِ رفو,हाजत‐ए‐रफ़ू,;haajat-e rafuu,1
 وحشی,वहशी,va;hshii,1
 کل,कुल,kul,1
 زندہ,ज़िंदा,zindah,1
 محروم,महरूम,ma;hruum,1
-جگر تشنہِ فریاد,जिगरतिशना‐ए‐फ़रयाद,jigar-tishnah-e faryaad,1
+جگر تشنہِ فریاد,जिगर-तिशना‐ए‐फ़रयाद,jigar-tishnah-e faryaad,1
 حناے پاے خزاں,हिना‐ए‐पा‐ए‐ख़िज़ाँ,;hinaa-e paa-e ;xizaa;n,1
 طیور,तयूर,:tayuur,1
 گلِ نغمہ,गुल‐ए‐नग़मा,gul-e na;gmah,1
-دست گاہِ دیدہِ خوں بارِ مجنوں,दसतगाह‐ए‐दीदा‐ए‐ख़ूँबार‐ए‐मजनूँ,dast-gaah-e diidah-e ;xuu;n-baar-e majnuu;n,1
+دست گاہِ دیدہِ خوں بارِ مجنوں,दसत-गाह‐ए‐दीदा‐ए‐ख़ूँ-बार‐ए‐मजनूँ,dast-gaah-e diidah-e ;xuu;n-baar-e majnuu;n,1
 مخالف,मुख़ालिफ़,mu;xaalif,1
 اجارا,इजारा,ijaaraa,1
 شوخیِ تحریر,शोख़ी‐ए‐तहरीर,sho;xii-e ta;hriir,1
-دلودستِ شنا,दिल‐ओ‐दसत‐ए‐शिना,dil-o-dast-e shinaa,1
+دل و دستِ شنا,दिल‐ओ‐दसत‐ए‐शिना,dil-o-dast-e shinaa,1
 چشمکہاے لیلیٰ,चशमकहा‐ए‐लैला,chashmak'haa-e lail;aa,1
-بے ننگونام,बेनंग‐ओ‐नाम,be-nang-o-naam,1
+بے ننگ و نام,बे-नंग‐ओ‐नाम,be-nang-o-naam,1
 لیجو,लीजो,liijo,1
 کاٹے,काटे,kaa;te,1
 علاوہ,अलावा,((alaavah,1
@@ -1489,7 +1489,7 @@ urdu,nagari,transliteration,count
 حجرہ,हुजरा,;hujrah,1
 طرزِ اہلِ فنا,तरज़‐ए‐अहल‐ए‐फ़ना,:tarz-e ahl-e fanaa,1
 دردِ دل,दरद‐ए‐दिल,dard-e dil,1
-زود پشیماں,ज़ूदपशेमाँ,zuud-pashemaa;n,1
+زود پشیماں,ज़ूद-पशेमाँ,zuud-pashemaa;n,1
 پہنچے,पहुंचे,pahu;nche,1
 کھو,खो,kho,1
 بالیں,बालीं,baalii;n,1
@@ -1499,29 +1499,29 @@ urdu,nagari,transliteration,count
 گفتگو,गुफ़तगो,guftago,1
 بردِ لیالی,बरद‐ए‐लियाली,bard-e liyaalii,1
 کوے دوست,कू‐ए‐दोसत,kuu-e dost,1
-خستہ تن,ख़सतातन,;xastah-tan,1
-تابِ زلفِ پر شکن,ताब‐ए‐ज़ुलफ़‐ए‐पुरशिकन,taab-e zulf-e pur-shikan,1
+خستہ تن,ख़सता-तन,;xastah-tan,1
+تابِ زلفِ پر شکن,ताब‐ए‐ज़ुलफ़‐ए‐पुर-शिकन,taab-e zulf-e pur-shikan,1
 چراغِ مردہ,चिराग़‐ए‐मुरदा,chiraa;g-e murdah,1
 لٹاتا,लुटाता,lu;taataa,1
 زہرہ,ज़हरा,zahrah,1
-آذر فشاں,आज़रफ़िशाँ,aa;zar-fishaa;n,1
+آذر فشاں,आज़र-फ़िशाँ,aa;zar-fishaa;n,1
 اندازِ بہ,अंदाज़‐ए‐ब,andaaz-e bah,1
 چھیڑیں‌گے,छेड़ेंगे,chhe;re;nge,1
-بے خودوں,बेख़ुदों,be-;xvudo;n,1
+بے خودوں,बे-ख़ुदों,be-;xvudo;n,1
 سیلابِ گریہ,सैलाब‐ए‐गिरया,sailaab-e giryah,1
 پرداز,परदाज़,pardaaz,1
 ہجومِ گریہ,हुजूम‐ए‐गिरया,hujuum-e giryah,1
 شوقِ دیدار,शौक़‐ए‐दीदार,shauq-e diidaar,1
-بہ ذرّہ,बज़ररा,bah-;zarrah,1
+بہ ذرّہ,ब-ज़ररा,bah-;zarrah,1
 نافِ غزال,नाफ़‐ए‐ग़ज़ाल,naaf-e ;gazaal,1
 خودا,ख़ुदा,;xvudaa,1
 پاے خم,पा‐ए‐ख़ुम,paa-e ;xum,1
-سنگ دل,संगदिल,sang-dil,1
-رہ نما,रानुमा,rah-numaa,1
+سنگ دل,संग-दिल,sang-dil,1
+رہ نما,रा-नुमा,rah-numaa,1
 بنےگی,बनेगी,banegii,1
-بے خودیِ عیشِ مقدمِ سیلاب,बेख़ुदी‐ए‐ऐश‐ए‐मक़दम‐ए‐सैलाब,be-;xvudii-e ((aish-e maqdam-e sailaab,1
+بے خودیِ عیشِ مقدمِ سیلاب,बे-ख़ुदी‐ए‐ऐश‐ए‐मक़दम‐ए‐सैलाब,be-;xvudii-e ((aish-e maqdam-e sailaab,1
 رہبرِ قطرہ,रहबर‐ए‐क़तरा,rahbar-e qa:trah,1
-سر گرانی,सरगिरानी,sar-giraanii,1
+سر گرانی,सर-गिरानी,sar-giraanii,1
 چشمِ سوزن,चशम‐ए‐सोज़न,chashm-e sozan,1
 پہنچا,पहुंचा,pahu;nchaa,1
 اہلِ جنوں,अहल‐ए‐जुनूँ,ahl-e junuu;n,1
@@ -1531,17 +1531,17 @@ urdu,nagari,transliteration,count
 مقصد,मक़सद,maq.sad,1
 مژدہِ وصال,मुझ़दा‐ए‐विसाल,muzhdah-e vi.saal,1
 لڑتے,लड़ते,la;rte,1
-سر گشتگی,सरगशतगी,sar-gashtagii,1
+سر گشتگی,सर-गशतगी,sar-gashtagii,1
 گردشِ رنگِ طرب,गरदिश‐ए‐रंग‐ए‐तरब,gardish-e rang-e :tarab,1
-گرد بادِ رہِ بیتابی,गिरदबाद‐ए‐रह‐ए‐बेताबी,gird-baad-e rah-e betaabii,1
-پیالہوساغر,पियाला‐ओ‐साग़र,piyaalah-o-saa;gar,1
+گرد بادِ رہِ بیتابی,गिरद-बाद‐ए‐रह‐ए‐बेताबी,gird-baad-e rah-e betaabii,1
+پیالہ و ساغر,पियाला‐ओ‐साग़र,piyaalah-o-saa;gar,1
 زخمِ سر,ज़ख़म‐ए‐सर,za;xm-e sar,1
-ہجومِ نا امیدی,हुजूम‐ए‐नाउमीदी,hujuum-e naa-umiidii,1
+ہجومِ نا امیدی,हुजूम‐ए‐ना-उमीदी,hujuum-e naa-umiidii,1
 گلِ جیبِ قباے گل,गुल‐ए‐जेब‐ए‐क़बा‐ए‐गुल,gul-e jeb-e qabaa-e gul,1
 اشارا,इशारा,ishaaraa,1
 تھوڑی,थोड़ी,tho;rii,1
-طوفانِ آمد آمدِ فصلِ بہار,तूफ़ान‐ए‐आमदआमद‐ए‐फ़सल‐ए‐बहार,:tuufaan-e aamad-aamad-e fa.sl-e bahaar,1
-صحرا دست گاہوقطرہ,सहरादसतगाह‐ओ‐क़तरा,.sa;hraa-dast-gaah-o-qa:trah,1
+طوفانِ آمد آمدِ فصلِ بہار,तूफ़ान‐ए‐आमद-आमद‐ए‐फ़सल‐ए‐बहार,:tuufaan-e aamad-aamad-e fa.sl-e bahaar,1
+صحرا دست گاہ و قطرہ,सहरा-दसत-गाह‐ओ‐क़तरा,.sa;hraa-dast-gaah-o-qa:trah,1
 پردہِ تبسّمِ پنہاں,परदा‐ए‐तबससुम‐ए‐पिंहाँ,pardah-e tabassum-e pinhaa;n,1
 بھوکے,भूके,bhuuke,1
 اشارت,इशारत,ishaarat,1
@@ -1550,15 +1550,14 @@ urdu,nagari,transliteration,count
 نقصاں,नुक़साँ,nuq.saa;n,1
 بیدادِ رشکِ غیر,बेदाद‐ए‐रशक‐ए‐ग़ैर,bedaad-e rashk-e ;gair,1
 سینکڑوں,सैंकड़ों,sai;nk;ro;n,1
-غریب نواز,ग़रीबनवाज़,;gariib-navaaz,1
-نور ال عینِ دامن,नूरउलऐन‐ए‐दामन,nuur-ul-((ain-e daaman,1
+غریب نواز,ग़रीब-नवाज़,;gariib-navaaz,1
+نور ال عینِ دامن,नूर-उल-ऐन‐ए‐दामन,nuur-ul-((ain-e daaman,1
 نومیدیِ جاوید,नौमीदी‐ए‐जावेद,naumiidii-e jaaved,1
-نا کام,नाकाम,naa-kaam,1
-لخّتِ سنگ,लज़ज़त‐ए‐संग,la;z;zat-e sang,1
-خود رفتہِ بیداے خیال,ख़ुदरफ़ता‐ए‐बैदा‐ए‐ख़याल,;xvud-raftah-e baidaa-e ;xayaal,1
+نا کام,ना-काम,naa-kaam,1
+خود رفتہِ بیداے خیال,ख़ुद-रफ़ता‐ए‐बैदा‐ए‐ख़याल,;xvud-raftah-e baidaa-e ;xayaal,1
 محوِ آرائش,महव‐ए‐आराइश,ma;hv-e aaraa))ish,1
 غلامِ ساقیِ کوثر,ग़ुलाम‐ए‐साक़ी‐ए‐कौसर,;gulaam-e saaqii-e kau;sar,1
-دست گیری,दसतगीरी,dast-giirii,1
+دست گیری,दसत-गीरी,dast-giirii,1
 ذوقِ درد,ज़ौक़‐ए‐दरद,;zauq-e dard,1
 لبِ عیسیٰ,लब‐ए‐ईसा,lab-e ((iis;aa,1
 آئیو,आइयो,aa))iyo,1
@@ -1571,19 +1570,19 @@ urdu,nagari,transliteration,count
 چندے,चंदे,chande,1
 کوکبہِ شہریار,कौकबा‐ए‐शहरयार,kaukabah-e shahryaar,1
 شام,शाम,shaam,1
-نظارہ سوز,नज़ारासोज़,na:zaarah-soz,1
-خلشِ غمزہِ خوں ریز,ख़लिश‐ए‐ग़मज़ा‐ए‐ख़ूँरेज़,;xalish-e ;gamzah-e ;xuu;n-rez,1
+نظارہ سوز,नज़ारा-सोज़,na:zaarah-soz,1
+خلشِ غمزہِ خوں ریز,ख़लिश‐ए‐ग़मज़ा‐ए‐ख़ूँ-रेज़,;xalish-e ;gamzah-e ;xuu;n-rez,1
 جانو,जानो,jaano,1
 نافِ زمین,नाफ़‐ए‐ज़मीन,naaf-e zamiin,1
 دلِ نازک,दिल‐ए‐नाज़ुक,dil-e naazuk,1
-طعنہِ نا یافت,ताना‐ए‐नायाफ़त,:ta((nah-e naa-yaaft,1
-شمعِ بزمِ بے خودی,शम‐ए‐बज़म‐ए‐बेख़ुदी,sham((-e bazm-e be-;xvudii,1
+طعنہِ نا یافت,ताना‐ए‐ना-याफ़त,:ta((nah-e naa-yaaft,1
+شمعِ بزمِ بے خودی,शम‐ए‐बज़म‐ए‐बे-ख़ुदी,sham((-e bazm-e be-;xvudii,1
 پڑھ,पढ़,pa;rh,1
-سیم تن,सीमतन,siim-tan,1
-نا کامی,नाकामी,naa-kaamii,1
+سیم تن,सीम-तन,siim-tan,1
+نا کامی,ना-कामी,naa-kaamii,1
 آرائشِ خمِ کاکل,आराइश‐ए‐ख़म‐ए‐काकुल,aaraa))ish-e ;xam-e kaakul,1
 ہدیہ,हदया,hadyah,1
-فنا تعلیمِ درسِ بے خودی,फ़नातालीम‐ए‐दरस‐ए‐बेख़ुदी,fanaa-ta((liim-e dars-e be-;xvudii,1
+فنا تعلیمِ درسِ بے خودی,फ़ना-तालीम‐ए‐दरस‐ए‐बे-ख़ुदी,fanaa-ta((liim-e dars-e be-;xvudii,1
 لخّتِ فراغ,लज़ज़त‐ए‐फ़राग़,la;z;zat-e faraa;g,1
 بیم,बीम,biim,1
 لے,लै,lai,1
@@ -1593,8 +1592,8 @@ urdu,nagari,transliteration,count
 اقلیم,इक़लीम,iqliim,1
 حسرتِ اظہار,हसरत‐ए‐इज़हार,;hasrat-e i:zhaar,1
 اندازِ گفتگو,अंदाज़‐ए‐गुफ़तगू,andaaz-e guftaguu,1
-رنگیں نوائی,रंगींनवाई,rangii;n-navaa))ii,1
-دل ستاں,दिलसिताँ,dil-sitaa;n,1
+رنگیں نوائی,रंगीं-नवाई,rangii;n-navaa))ii,1
+دل ستاں,दिल-सिताँ,dil-sitaa;n,1
 تکلیفِ سیرِ باغ,तकलीफ़‐ए‐सैर‐ए‐बाग़,takliif-e sair-e baa;g,1
 سمجھیں,समझें,samjhe;n,1
 غیرِ گل,ग़ैर‐ए‐गुल,;gair-e gul,1
@@ -1608,17 +1607,17 @@ urdu,nagari,transliteration,count
 اٹھیں‌گے,उठेंगे,u;the;nge,1
 میناے مے,मीना‐ए‐मै,miinaa-e mai,1
 آسائش,आसाइश,aasaa))ish,1
-در پردہ,दरपरदा,dar-pardah,1
+در پردہ,दर-परदा,dar-pardah,1
 کھینچونگا,खेंचूंगा,khe;nchuu;ngaa,1
-طراوتِ چمنوخوبیِ ہوا,तरावत‐ए‐चमन‐ओ‐ख़ूबी‐ए‐हवा,:taraavat-e chaman-o-;xuubii-e havaa,1
+طراوتِ چمن و خوبیِ ہوا,तरावत‐ए‐चमन‐ओ‐ख़ूबी‐ए‐हवा,:taraavat-e chaman-o-;xuubii-e havaa,1
 نزع,नज़ा,naz((a,1
 وعدہِ سیرِ گلستاں,वादा‐ए‐सैर‐ए‐गुलिसताँ,va((dah-e sair-e gulistaa;n,1
 مشہدِ عاشق,मशहद‐ए‐आशिक़,mashhad-e ((aashiq,1
 دفعِ پیکانِ قضا,दफ़‐ए‐पैकान‐ए‐क़ज़ा,daf((-e paikaan-e qa.zaa,1
 رفوے زخم,रफ़ू‐ए‐ज़ख़म,rafuu-e za;xm,1
 قدرِ لخّتِ آزار,क़दर‐ए‐लज़ज़त‐ए‐आज़ार,qadr-e la;z;zat-e aazaar,1
-بے گنہ کشوحق,बेगुनहकुश‐ओ‐हक़,be-gunah-kush-o-;haq,1
-شبوروزوماہوسال,शब‐ओ‐रोज़‐ओ‐माह‐ओ‐साल,shab-o-roz-o-maah-o-saal,1
+بے گنہ کش و حق,बे-गुनह-कुश‐ओ‐हक़,be-gunah-kush-o-;haq,1
+شب و روز و ماہ و سال,शब‐ओ‐रोज़‐ओ‐माह‐ओ‐साल,shab-o-roz-o-maah-o-saal,1
 ہنر,हुनर,hunar,1
 جوشِ قدح,जोश‐ए‐क़दह,josh-e qada;h,1
 تماشائی,तमाशाई,tamaashaa))ii,1
@@ -1628,7 +1627,7 @@ urdu,nagari,transliteration,count
 سازِ صداے آب,साज़‐ए‐सदा‐ए‐आब,saaz-e .sadaa-e aab,1
 تبِ گرمیِ رفتار,तब‐ए‐गरमी‐ए‐रफ़तार,tab-e garmii-e raftaar,1
 دیجیے,दीजिये,diijiye,1
-حسن پرستی,हुसनपरसती,;husn-parastii,1
+حسن پرستی,हुसन-परसती,;husn-parastii,1
 ریختہ,रेख़ता,re;xtah,1
 نویدِ امن,नवेद‐ए‐अमन,naved-e amn,1
 دہن,दहन,dahan,1
@@ -1636,7 +1635,7 @@ urdu,nagari,transliteration,count
 بووے,बोवे,bove,1
 انتضار,इंतिज़ार,inti.zaar,1
 سیلیِ خارا,सीली‐ए‐ख़ारा,siilii-e ;xaaraa,1
-دو نیم,दोनीम,do-niim,1
+دو نیم,दो-नीम,do-niim,1
 لخّتِ خوابِ سحر,लज़ज़त‐ए‐ख़वाब‐ए‐सहर,la;z;zat-e ;xvaab-e sa;har,1
 اہلِ شوق,अहल‐ए‐शौक़,ahl-e shauq,1
 چھوڑو,छोड़ो,chho;ro,1
@@ -1649,7 +1648,7 @@ urdu,nagari,transliteration,count
 دلِ نالاں,दिल‐ए‐नालाँ,dil-e naalaa;n,1
 مرغِ اسیر,मुरग़‐ए‐असीर,mur;g-e asiir,1
 شرار,शरार,sharaar,1
-مے کش,मैकश,mai-kash,1
+مے کش,मै-कश,mai-kash,1
 بنتے,बनते,bante,1
 بندھے,बंधे,ba;ndhe,1
 اندوہِ شبِ فرقت,अंदोह‐ए‐शब‐ए‐फ़ुरक़त,andoh-e shab-e furqat,1
@@ -1659,24 +1658,24 @@ urdu,nagari,transliteration,count
 چشمِ مستِ ناز,चशम‐ए‐मसत‐ए‐नाज़,chashm-e mast-e naaz,1
 گردِ راہِ یار,गरद‐ए‐राह‐ए‐यार,gard-e raah-e yaar,1
 جنازہ,जनाज़ा,janaazah,1
-طرّہِ پر پیچوخم,तुररा‐ए‐पुरपेच‐ओ‐ख़म,:turrah-e pur-pech-o-;xam,1
-زیر بارِ منّتِ درباں,ज़ेरबार‐ए‐मिन्नत‐ए‐दरबां,zer-baar-e minnat-e darbaa;n,1
+طرّہِ پر پیچ و خم,तुररा‐ए‐पुर-पेच‐ओ‐ख़म,:turrah-e pur-pech-o-;xam,1
+زیر بارِ منّتِ درباں,ज़ेर-बार‐ए‐मिन्नत‐ए‐दरबां,zer-baar-e minnat-e darbaa;n,1
 سجدہِ بت,सिजदा‐ए‐बुत,sijdah-e but,1
 نازکی,नाज़ुकी,naazukii,1
-داغِ بد گمانیِ شمع,दाग़‐ए‐बदगुमानी‐ए‐शमा,daa;g-e bad-gumaanii-e sham((a,1
+داغِ بد گمانیِ شمع,दाग़‐ए‐बद-गुमानी‐ए‐शमा,daa;g-e bad-gumaanii-e sham((a,1
 قاطعِ اعمار,क़ाता‐ए‐आमार,qaa:ta((-e a((maar,1
-نصیرِ دولتودیں,नसीर‐ए‐दौलत‐ओ‐दीं,na.siir-e daulat-o-dii;n,1
+نصیرِ دولت و دیں,नसीर‐ए‐दौलत‐ओ‐दीं,na.siir-e daulat-o-dii;n,1
 گراں,गिराँ,giraa;n,1
 غیب,ग़ैब,;gaib,1
-مہرِ صد نظر,मुहर‐ए‐सदनज़र,muhr-e .sad-na:zar,1
+مہرِ صد نظر,मुहर‐ए‐सद-नज़र,muhr-e .sad-na:zar,1
 صبحِ عید,सुबह‐ए‐ईद,.sub;h-e ((iid,1
 خوابِ زلیخا,ख़वाब‐ए‐ज़ुलैख़ा,;xvaab-e zulai;xaa,1
 ترکِ نبردِ عشق,तरक‐ए‐नबरद‐ए‐इशक़,tark-e nabard-e ((ishq,1
 بخیے,बख़ये,ba;xye,1
 مقدمِ سیلاب,मक़दम‐ए‐सैलाब,maqdam-e sailaab,1
-سامانِ عیشوجاہ,सामान‐ए‐ऐश‐ओ‐जाह,saamaan-e ((aish-o-jaah,1
+سامانِ عیش و جاہ,सामान‐ए‐ऐश‐ओ‐जाह,saamaan-e ((aish-o-jaah,1
 زخمِ موجہِ دریا,ज़ख़म‐ए‐मौजा‐ए‐दरया,za;xm-e maujah-e daryaa,1
-بنات ال نعشِ گردوں,बनातउलनाश‐ए‐गरदूं,banaat-ul-na((sh-e garduu;n,1
+بنات ال نعشِ گردوں,बनात-उल-नाश‐ए‐गरदूं,banaat-ul-na((sh-e garduu;n,1
 برقِ خرمنِ راحت,बरक़‐ए‐ख़िरमन‐ए‐राहत,barq-e ;xirman-e raa;hat,1
 گردشِ مدام,गरदिश‐ए‐मुदाम,gardish-e mudaam,1
 زخمِ رشک,ज़ख़म‐ए‐रशक,za;xm-e rashk,1
@@ -1689,9 +1688,9 @@ urdu,nagari,transliteration,count
 مرگِ ناگہاں,मरग‐ए‐नागहाँ,marg-e naagahaa;n,1
 ہلاکِ فریبِ وفاے گل,हलाक‐ए‐फ़रेब‐ए‐वफ़ा‐ए‐गुल,halaak-e fareb-e vafaa-e gul,1
 جگرِ تشنہِ آزار,जिगर‐ए‐तिशना‐ए‐आज़ार,jigar-e tishnah-e aazaar,1
-مانعِ دشت نوردی,माना‐ए‐दशतनवरदी,maana((-e dasht-navardii,1
+مانعِ دشت نوردی,माना‐ए‐दशत-नवरदी,maana((-e dasht-navardii,1
 ہستیِ اشیا,हसती‐ए‐अशया,hastii-e ashyaa,1
-خان ماں خراب,ख़ानमाँख़राब,;xaan-maa;n-;xaraab,1
+خان ماں خراب,ख़ान-माँ-ख़राब,;xaan-maa;n-;xaraab,1
 ابرِ بہاری,अबर‐ए‐बहारी,abr-e bahaarii,1
 پرتوِ مہتاب,परतव‐ए‐महताब,partav-e mahtaab,1
 پہنچ,पहुंच,pahu;nch,1
@@ -1700,48 +1699,48 @@ urdu,nagari,transliteration,count
 اعتبارِ عشق,एतबार‐ए‐इशक़,i((tibaar-e ((ishq,1
 ڈوبی,डूबी,;duubii,1
 اعتماد,एतमाद,i((timaad,1
-صحرا نورد,सहरानवरद,.sa;hraa-navard,1
-ہمّتِ دشوار پسند,हिममत‐ए‐दुशवारपसंद,himmat-e dushvaar-pasand,1
+صحرا نورد,सहरा-नवरद,.sa;hraa-navard,1
+ہمّتِ دشوار پسند,हिममत‐ए‐दुशवार-पसंद,himmat-e dushvaar-pasand,1
 صورتیں,सूरतें,.suurate;n,1
-نمک پاشِ خراشِ دل,नमकपाश‐ए‐ख़राश‐ए‐दिल,namak-paash-e ;xaraash-e dil,1
+نمک پاشِ خراشِ دل,नमक-पाश‐ए‐ख़राश‐ए‐दिल,namak-paash-e ;xaraash-e dil,1
 خمارِ شوقِ ساقی,ख़ुमार‐ए‐शौक़‐ए‐साक़ी,;xumaar-e shauq-e saaqii,1
 لگایا,लगाया,lagaayaa,1
 قائل,क़ाइल,qaa))il,1
 فصل,फ़सल,fa.sl,1
 شہیدانِ نگہ,शहीदान‐ए‐निगह,shahiidaan-e nigah,1
 گزرنا,गुज़रना,guzarnaa,1
-پے روی,पैरवी,pai-ravii,1
+پے روی,पै-रवी,pai-ravii,1
 بتاؤں,बताऊँ,bataa))uu;n,1
 پئِ توفیرِ درد,प‐ए‐तौफ़ीर‐ए‐दरद,pa))-e taufiir-e dard,1
 راکھ,राख,raakh,1
 گزرتے,गुज़रते,guzarte,1
 جور,जौर,jaur,1
-دوست داری,दोसतदारी,dost-daarii,1
+دوست داری,दोसत-दारी,dost-daarii,1
 بھولے,भूले,bhuule,1
-یک کف,यककफ़,yak-kaf,1
+یک کف,यक-कफ़,yak-kaf,1
 ودیعتِ مژگانِ یار,वदीअत‐ए‐मिझ़गान‐ए‐यार,vadii((at-e mizhgaan-e yaar,1
 گردشِ مجنوں,गरदिश‐ए‐मजनूँ,gardish-e majnuu;n,1
-غم خوارِ دوست,ग़मख़वार‐ए‐दोसत,;gam-;xvaar-e dost,1
+غم خوارِ دوست,ग़म-ख़वार‐ए‐दोसत,;gam-;xvaar-e dost,1
 شوخیِ اندیشہ,शोख़ी‐ए‐अंदेशा,sho;xii-e andeshah,1
 دھمکی,धमकी,dhamkii,1
 منعِ گستاخی,मं‐ए‐गुसताख़ी,man((-e gustaa;xii,1
 داغِ حسرتِ دل,दाग़‐ए‐हसरत‐ए‐दिल,daa;g-e ;hasrat-e dil,1
 بوند,बूंद,buu;nd,1
-عالمِ تمکینوضبط,आलम‐ए‐तमकीन‐ओ‐ज़बत,((aalam-e tamkiin-o-.zab:t,1
+عالمِ تمکین و ضبط,आलम‐ए‐तमकीन‐ओ‐ज़बत,((aalam-e tamkiin-o-.zab:t,1
 ستارے,सितारे,sitaare,1
-رو سیاہ,रूसियाह,ruu-siyaah,1
+رو سیاہ,रू-सियाह,ruu-siyaah,1
 مثلِ ذرّہ,मिसल‐ए‐ज़ररा,mi;sl-e ;zarrah,1
 اندازہِ خمار,अंदाज़ा‐ए‐ख़ुमार,andaazah-e ;xumaar,1
-سبحہِ صد دانہ,सुबहा‐ए‐सददाना,sub;hah-e .sad-daanah,1
-دل فریبیِ اندازِ نقشِ پا,दिलफ़रेबी‐ए‐अंदाज़‐ए‐नक़श‐ए‐पा,dil-farebii-e andaaz-e naqsh-e paa,1
+سبحہِ صد دانہ,सुबहा‐ए‐सद-दाना,sub;hah-e .sad-daanah,1
+دل فریبیِ اندازِ نقشِ پا,दिल-फ़रेबी‐ए‐अंदाज़‐ए‐नक़श‐ए‐पा,dil-farebii-e andaaz-e naqsh-e paa,1
 اعتدال,एतदाल,i((tidaal,1
 یوسفِ ثانی,यूसुफ़‐ए‐सानी,yuusuf-e ;saanii,1
 دیدہِ بینا,दीदा‐ए‐बीना,diidah-e biinaa,1
-شیریں بیانی,शीरींबयानी,shiirii;n-bayaanii,1
+شیریں بیانی,शीरीं-बयानी,shiirii;n-bayaanii,1
 طور,तूर,:tuur,1
 مضمر,मुज़मर,mu.zmar,1
 وکیل,वकील,vakiil,1
-بے دروازہ,बेदरवाज़ा,be-darvaazah,1
+بے دروازہ,बे-दरवाज़ा,be-darvaazah,1
 درِ یار,दर‐ए‐यार,dar-e yaar,1
 رسواے دہر,रुसवा‐ए‐दहर,rusvaa-e dahr,1
 جوشِ بہار,जोश‐ए‐बहार,josh-e bahaar,1
@@ -1749,7 +1748,7 @@ urdu,nagari,transliteration,count
 حسین,हुसैन,;husain,1
 سنگِ گراں,संग‐ए‐गिराँ,sang-e giraa;n,1
 نیشتر,नेशतर,neshtar,1
-سر پنجہِ مژگانِ آہو,सरपंजा‐ए‐मिझ़गान‐ए‐आहू,sar-panjah-e mizhgaan-e aahuu,1
+سر پنجہِ مژگانِ آہو,सर-पंजा‐ए‐मिझ़गान‐ए‐आहू,sar-panjah-e mizhgaan-e aahuu,1
 محوِ وفا,महव‐ए‐वफ़ा,ma;hv-e vafaa,1
 حیرتِ نقشِ پا,हैरत‐ए‐नक़श‐ए‐पा,;hairat-e naqsh-e paa,1
 خجالت,ख़जालत,;xajaalat,1
@@ -1758,60 +1757,60 @@ urdu,nagari,transliteration,count
 درِ کعبہ,दर‐ए‐काबा,dar-e ka((bah,1
 کاغض,काग़ज़,kaa;ga.z,1
 زیرِ لب,ज़ेर‐ए‐लब,zer-e lab,1
-قمار خانہِ عشق,क़िमारख़ाना‐ए‐इशक़,qimaar-;xaanah-e ((ishq,1
+قمار خانہِ عشق,क़िमार-ख़ाना‐ए‐इशक़,qimaar-;xaanah-e ((ishq,1
 تلے,तले,tale,1
 قطرہِ مے,क़तरा‐ए‐मै,qa:trah-e mai,1
 بیضہِ مور,बैज़ा‐ए‐मोर,bai.zah-e mor,1
-گل کتر,गुलकतर,gul-katar,1
+گل کتر,गुल-कतर,gul-katar,1
 افسونِ انتظار,अफ़सून‐ए‐इंतिज़ार,afsuun-e inti:zaar,1
 اتّفاقی,इततिफ़ाक़ी,ittifaaqii,1
 دوریِ منزل,दूरी‐ए‐मंज़िल,duurii-e manzil,1
 شبِ فراق,शब‐ए‐फ़िराक़,shab-e firaaq,1
-در خورِ محفل,दरख़ुर‐ए‐महफ़िल,dar-;xvur-e ma;hfil,1
+در خورِ محفل,दर-ख़ुर‐ए‐महफ़िल,dar-;xvur-e ma;hfil,1
 پندار,पिंदार,pindaar,1
 وفورِ اشک,वुफ़ूर‐ए‐अशक,vufuur-e ashk,1
 وجودِ بحر,वुजूद‐ए‐बहर,vujuud-e ba;hr,1
-دام گاہ,दामगाह,daam-gaah,1
+دام گاہ,दाम-गाह,daam-gaah,1
 وجہ,वजह,vaj'h,1
 عمرِ ورع,उमर‐ए‐वरा,((umr-e vara((,1
 بیضہِ قمری,बैज़ा‐ए‐क़ुमरी,bai.zah-e qumrii,1
 تمثالِ شیریں,तिमसाल‐ए‐शीरीं,tim;saal-e shiirii;n,1
-قدوگیسو,क़द‐ओ‐गेसू,qad-o-gesuu,1
+قد و گیسو,क़द‐ओ‐गेसू,qad-o-gesuu,1
 رخصتِ نالہ,रुख़सत‐ए‐नाला,ru;x.sat-e naalah,1
 شاہدِ گل,शाहिद‐ए‐गुल,shaahid-e gul,1
 نیستاں,नयसताँ,nayastaa;n,1
 پروانہ,परवाना,parvaanah,1
 قدح,क़दह,qada;h,1
 مدفن,मदफ़न,madfan,1
-پشت گرمیِ آئینہ,पुशतगरमी‐ए‐आईना,pusht-garmii-e aa))iinah,1
+پشت گرمیِ آئینہ,पुशत-गरमी‐ए‐आईना,pusht-garmii-e aa))iinah,1
 صداے خندہِ دل,सदा‐ए‐ख़ंदा‐ए‐दिल,.sadaa-e ;xandah-e dil,1
-مغنّیِ آتش نفس,मुग़न्नी‐ए‐आतिशनफ़स,mu;gannii-e aatish-nafas,1
-حقیقتِ جاں کاہیِ مرض,हक़ीक़त‐ए‐जाँकाही‐ए‐मरज़,;haqiiqat-e jaa;n-kaahii-e mara.z,1
+مغنّیِ آتش نفس,मुग़न्नी‐ए‐आतिश-नफ़स,mu;gannii-e aatish-nafas,1
+حقیقتِ جاں کاہیِ مرض,हक़ीक़त‐ए‐जाँ-काही‐ए‐मरज़,;haqiiqat-e jaa;n-kaahii-e mara.z,1
 باور,बावर,baavar,1
 بودِ چراغِ کشتہ,बूद‐ए‐चिराग़‐ए‐कुशता,buud-e chiraa;g-e kushtah,1
-ستموجورِ نا خدا,सितम‐ओ‐जोर‐ए‐नाख़ुदा,sitam-o-jor-e naa-;xudaa,1
+ستم و جورِ نا خدا,सितम‐ओ‐जोर‐ए‐ना-ख़ुदा,sitam-o-jor-e naa-;xudaa,1
 شبہاے ہجراں,शबहा‐ए‐हिजराँ,shab'haa-e hijraa;n,1
-مےونغمہ,मै‐ओ‐नग़मा,mai-o-na;gmah,1
+مے و نغمہ,मै‐ओ‐नग़मा,mai-o-na;gmah,1
 مثلِ نقشِ مدّعاے غیر,मिसल‐ए‐नक़श‐ए‐मुददआ‐ए‐ग़ैर,mi;sl-e naqsh-e mudda((aa-e ;gair,1
 محرومیِ قسمت,महरूमी‐ए‐क़िसमत,ma;hruumii-e qismat,1
 تشنہِ خوں,तिशना‐ए‐ख़ूँ,tishnah-e ;xuu;n,1
 تہمتیں,तुहमतें,tuhmate;n,1
 داغِ پلنگ,दाग़‐ए‐पलंग,daa;g-e palang,1
-بتِ پیغارہ جو,बुत‐ए‐पैग़ाराजू,but-e pai;gaarah-juu,1
+بتِ پیغارہ جو,बुत‐ए‐पैग़ारा-जू,but-e pai;gaarah-juu,1
 رگِ سنگ,रग‐ए‐संग,rag-e sang,1
 رعنائیِ خیال,रानाई‐ए‐ख़याल,ra((naa))ii-e ;xayaal,1
 داغِ عشق,दाग़‐ए‐इशक़,daa;g-e ((ishq,1
 سروِ چراغاں,सरव‐ए‐चिराग़ाँ,sarv-e chiraa;gaa;n,1
-جنوں علامت,जुनूँअलामत,junuu;n-((alaamat,1
-ہنگامِ بے خودی,हंगाम‐ए‐बेख़ुदी,hangaam-e be-;xvudii,1
-بے قراری,बेक़रारी,be-qaraarii,1
-فسانہ خوانیِ شمع,फ़सानाख़वानी‐ए‐शमा,fasaanah-;xvaanii-e sham((a,1
-نیم غمزہ,नीमग़मज़ा,niim-;gamzah,1
+جنوں علامت,जुनूँ-अलामत,junuu;n-((alaamat,1
+ہنگامِ بے خودی,हंगाम‐ए‐बे-ख़ुदी,hangaam-e be-;xvudii,1
+بے قراری,बे-क़रारी,be-qaraarii,1
+فسانہ خوانیِ شمع,फ़साना-ख़वानी‐ए‐शमा,fasaanah-;xvaanii-e sham((a,1
+نیم غمزہ,नीम-ग़मज़ा,niim-;gamzah,1
 سیرِ عدم,सैर‐ए‐अदम,sair-e ((adam,1
 یقینِ اجابت,यक़ीन‐ए‐इजाबत,yaqiin-e ijaabat,1
 مثلِ دود,मिसल‐ए‐दूद,mi;sl-e duud,1
 وفادار,वफ़ादार,vafaadaar,1
-تشنہ لب,तिशनालब,tishnah-lab,1
+تشنہ لب,तिशना-लब,tishnah-lab,1
 لڑکوں,लड़कों,la;rko;n,1
 ماندگی,मांदगी,maa;ndagii,1
 خیمے,ख़ेमे,;xeme,1
@@ -1825,14 +1824,14 @@ urdu,nagari,transliteration,count
 درویش,दरवेश,darvesh,1
 رقصِ شرر,रक़स‐ए‐शरर,raq.s-e sharar,1
 جھکنے,झुकने,jhukne,1
-فرداودی,फ़रदा‐ओ‐दी,fardaa-o-dii,1
+فردا و دی,फ़रदा‐ओ‐दी,fardaa-o-dii,1
 بگڑتا,बिगड़ता,biga;rtaa,1
-آبوہواے زندگی,आब‐ओ‐हवा‐ए‐ज़िंदगी,aab-o-havaa-e zindagii,1
+آب و ہواے زندگی,आब‐ओ‐हवा‐ए‐ज़िंदगी,aab-o-havaa-e zindagii,1
 اعتبارِ نغمہ,एतबार‐ए‐नग़मा,i((tibaar-e na;gmah,1
 سمجھونگا,समझूंगा,samjhuu;ngaa,1
 چلی,चली,chalii,1
 تندیِ صہبا,तुंदी‐ए‐सहबा,tundii-e .sahbaa,1
-رہنِ عشقونا گزیرِ الفتِ ہستی,रहन‐ए‐इशक़‐ओ‐नागुज़ीर‐ए‐उलफ़त‐ए‐हसती,rahn-e ((ishq-o-naa-guziir-e ulfat-e hastii,1
+رہنِ عشق و نا گزیرِ الفتِ ہستی,रहन‐ए‐इशक़‐ओ‐ना-गुज़ीर‐ए‐उलफ़त‐ए‐हसती,rahn-e ((ishq-o-naa-guziir-e ulfat-e hastii,1
 بنایا,बनाया,banaayaa,1
 نگاہِ عجز,निगाह‐ए‐अजज़,nigaah-e ((ajz,1
 کوند,कोंद,ko;nd,1
@@ -1845,7 +1844,7 @@ urdu,nagari,transliteration,count
 نشّہِ رنگ,नशशा‐ए‐रंग,nashshah-e rang,1
 خارِ کسوتِ فانوس,ख़ार‐ए‐किसवत‐ए‐फ़ानूस,;xaar-e kisvat-e faanuus,1
 تاخیر,ताख़ीर,taa;xiir,1
-جنونِ ساختہوفصلِ گل,जुनून‐ए‐साख़ता‐ओ‐फ़सल‐ए‐गुल,junuun-e saa;xtah-o-fa.sl-e gul,1
+جنونِ ساختہ و فصلِ گل,जुनून‐ए‐साख़ता‐ओ‐फ़सल‐ए‐गुल,junuun-e saa;xtah-o-fa.sl-e gul,1
 ذوقِ ستم,ज़ौक़‐ए‐सितम,;zauq-e sitam,1
 دورِ جام,दौर‐ए‐जाम,daur-e jaam,1
 بک,बक,bak,1
@@ -1854,7 +1853,7 @@ urdu,nagari,transliteration,count
 زلفِ مشکیں,ज़ुलफ़‐ए‐मुशकीं,zulf-e mushkii;n,1
 کٹتی,कटती,ka;ttii,1
 ارزانی,अरज़ानी,arzaanii,1
-بے مے,बेमै,be-mai,1
+بے مے,बे-मै,be-mai,1
 گالیوں,गालियों,gaaliyo;n,1
 تمہید,तमहीद,tamhiid,1
 حسرتِ تعمیر,हसरत‐ए‐तामीर,;hasrat-e ta((miir,1
@@ -1862,67 +1861,67 @@ urdu,nagari,transliteration,count
 شرحِ ہنگامہِ ہستی,शरह‐ए‐हंगामा‐ए‐हसती,shar;h-e hangaamah-e hastii,1
 داغِ حسرتِ ہستی,दाग़‐ए‐हसरत‐ए‐हसती,daa;g-e ;hasrat-e hastii,1
 صرفِ وفا,सरफ़‐ए‐वफ़ा,.sarf-e vafaa,1
-نذرِ دل فریبیِ عنواں,नज़र‐ए‐दिलफ़रेबी‐ए‐उंवाँ,na;zr-e dil-farebii-e ((unvaa;n,1
+نذرِ دل فریبیِ عنواں,नज़र‐ए‐दिल-फ़रेबी‐ए‐उंवाँ,na;zr-e dil-farebii-e ((unvaa;n,1
 دانہ,दाना,daanah,1
-سر تا سرِ خاک,सरतासर‐ए‐ख़ाक,sar-taa-sar-e ;xaak,1
-جاں فزا,जाँफ़िज़ा,jaa;n-fizaa,1
+سر تا سرِ خاک,सर-ता-सर‐ए‐ख़ाक,sar-taa-sar-e ;xaak,1
+جاں فزا,जाँ-फ़िज़ा,jaa;n-fizaa,1
 بیقراری,बेक़रारी,beqaraarii,1
 دلیلِ سحر,दलील‐ए‐सहर,daliil-e sa;har,1
 بیٹھ,बैठ,bai;th,1
 سونپی,सौंपी,sau;npii,1
 اندازہِ ہمّت,अंदाज़ा‐ए‐हिममत,andaazah-e himmat,1
-شکایتِ رنجِ گراں نشیں,शिकायत‐ए‐रंज‐ए‐गिराँनिशीं,shikaayat-e ranj-e giraa;n-nishii;n,1
+شکایتِ رنجِ گراں نشیں,शिकायत‐ए‐रंज‐ए‐गिराँ-निशीं,shikaayat-e ranj-e giraa;n-nishii;n,1
 لالے,लाले,laale,1
 سمائی,समाई,samaa))ii,1
 اصلِ ایماں,असल‐ए‐ईमाँ,a.sl-e iimaa;n,1
-نگاہِ بے حجابِ ناز,निगाह‐ए‐बेहिजाब‐ए‐नाज़,nigaah-e be-;hijaab-e naaz,1
+نگاہِ بے حجابِ ناز,निगाह‐ए‐बे-हिजाब‐ए‐नाज़,nigaah-e be-;hijaab-e naaz,1
 عیادت,इयादत,((iyaadat,1
 گونہ,गूना,guunah,1
 لافِ تمکیں,लाफ़‐ए‐तमकीं,laaf-e tamkii;n,1
 خواستہ,ख़वासता,;xvaastah,1
-گزر گاہِ خیالِ مےوساغر,गुज़रगाह‐ए‐ख़याल‐ए‐मै‐ओ‐साग़र,guzar-gaah-e ;xayaal-e mai-o-saa;gar,1
+گزر گاہِ خیالِ مے و ساغر,गुज़र-गाह‐ए‐ख़याल‐ए‐मै‐ओ‐साग़र,guzar-gaah-e ;xayaal-e mai-o-saa;gar,1
 دامِ ہر,दाम‐ए‐हर,daam-e har,1
 کھینچے,खैंचे,khai;nche,1
 گزرتی,गुज़रती,guzartii,1
 چھٹ,छुट,chhu;t,1
 ندیمِ دوست,नदीम‐ए‐दोसत,nadiim-e dost,1
-گراں جانی,गिराँजानी,giraa;n-jaanii,1
+گراں جانی,गिराँ-जानी,giraa;n-jaanii,1
 حریف,हरीफ़,;hariif,1
 مہینے,महीने,mahiine,1
 لبِ بام,लब‐ए‐बाम,lab-e baam,1
 اندازِ چکیدن,अंदाज़‐ए‐चकीदन,andaaz-e chakiidan,1
-گہوارہ جنبانی,गहवाराजुंबानी,gahvaarah-junbaanii,1
+گہوارہ جنبانی,गहवारा-जुंबानी,gahvaarah-junbaanii,1
 سمجھیے,समझये,samajhye,1
 طوفِ حرم,तौफ़‐ए‐हरम,:tauf-e ;haram,1
 کفر,कुफ़र,kufr,1
 رنگِ خار,रंग‐ए‐ख़ार,rang-e ;xaar,1
 فدا,फ़िदा,fidaa,1
-شیشہ باز,शीशाबाज़,shiishah-baaz,1
+شیشہ باز,शीशा-बाज़,shiishah-baaz,1
 تبِ عشق,तब‐ए‐इशक़,tab-e ((ishq,1
 دجلہ,दिजला,dijlah,1
-غم خوارِ جانِ درد مند,ग़मख़वार‐ए‐जान‐ए‐दरदमंद,;gam-;xvaar-e jaan-e dard-mand,1
-جلوہ فرمائی,जलवाफ़रमाई,jalvah-farmaa))ii,1
+غم خوارِ جانِ درد مند,ग़म-ख़वार‐ए‐जान‐ए‐दरद-मंद,;gam-;xvaar-e jaan-e dard-mand,1
+جلوہ فرمائی,जलवा-फ़रमाई,jalvah-farmaa))ii,1
 کمندِ شکارِ اثر,कमंद‐ए‐शिकार‐ए‐असर,kamand-e shikaar-e a;sar,1
 مکتبِ غمِ دل,मकतब‐ए‐ग़म‐ए‐दिल,maktab-e ;gam-e dil,1
 سوزِ جاودانیِ شمع,सोज़‐ए‐जाविदानी‐ए‐शमा,soz-e jaavidaanii-e sham((a,1
-دردوالم,दरद‐ओ‐अलम,dard-o-alam,1
+درد و الم,दरद‐ओ‐अलम,dard-o-alam,1
 بدلنے,बदलने,badalne,1
-آشفتہ سروں,आशुफ़तासरों,aashuftah-saro;n,1
+آشفتہ سروں,आशुफ़ता-सरों,aashuftah-saro;n,1
 چشمِ روزن,चशम‐ए‐रौज़न,chashm-e rauzan,1
-وجودوعدم,वुजूद‐ओ‐अदम,vujuud-o-((adam,1
-وادیِ پر خار,वादी‐ए‐पुरख़ार,vaadii-e pur-;xaar,1
-فردِ جمعوخرجِ زبانہاے لال,फ़रद‐ए‐जम‐ओ‐ख़रज‐ए‐ज़बांहा‐ए‐लाल,fard-e jam((-o-;xarj-e zabaa;nhaa-e laal,1
-آہِ نیم شبی,आह‐ए‐नीमशबी,aah-e niim-shabii,1
-موجِ محیطِ بے خودی,मौज‐ए‐मुहीत‐ए‐बेख़ुदी,mauj-e mu;hii:t-e be-;xvudii,1
+وجود و عدم,वुजूद‐ओ‐अदम,vujuud-o-((adam,1
+وادیِ پر خار,वादी‐ए‐पुर-ख़ार,vaadii-e pur-;xaar,1
+فردِ جمع و خرجِ زبانہاے لال,फ़रद‐ए‐जम‐ओ‐ख़रज‐ए‐ज़बांहा‐ए‐लाल,fard-e jam((-o-;xarj-e zabaa;nhaa-e laal,1
+آہِ نیم شبی,आह‐ए‐नीम-शबी,aah-e niim-shabii,1
+موجِ محیطِ بے خودی,मौज‐ए‐मुहीत‐ए‐बे-ख़ुदी,mauj-e mu;hii:t-e be-;xvudii,1
 مانندِ گل,मानिंद‐ए‐गुल,maanind-e gul,1
 عبرت,इबरत,((ibrat,1
 خستہِ تیغِ ستم,ख़सता‐ए‐तेग़‐ए‐सितम,;xastah-e te;g-e sitam,1
 نومید,नौमेद,naumed,1
-درودیوارِ غم کدہ,दर‐ओ‐दीवार‐ए‐ग़मकदह,dar-o-diivaar-e ;gam-kadah,1
+در و دیوارِ غم کدہ,दर‐ओ‐दीवार‐ए‐ग़म-कदह,dar-o-diivaar-e ;gam-kadah,1
 لشکر,लशकर,lashkar,1
 چاہو,चाहो,chaaho,1
 یاس,यास,yaas,1
-بے چین,बेचैन,be-chain,1
+بے چین,बे-चैन,be-chain,1
 حجابِ پاسِ وضع,हिजाब‐ए‐पास‐ए‐वज़ा,;hijaab-e paas-e va.z((a,1
 نطق,नुतक़,nu:tq,1
 گرنی,गिरनी,girnii,1
@@ -1934,22 +1933,22 @@ urdu,nagari,transliteration,count
 سم,सम,sam,1
 روئیے,रोइये,ro))iye,1
 شہیدِ گلِ خزانیِ شمع,शहीद‐ए‐गुल‐ए‐ख़िज़ानी‐ए‐शमा,shahiid-e gul-e ;xizaanii-e sham((a,1
-آہوفغاں,आह‐ओ‐फ़िग़ाँ,aah-o-fi;gaa;n,1
-دلِ بے مدّعا,दिल‐ए‐बेमुददआ,dil-e be-mudda((aa,1
+آہ و فغاں,आह‐ओ‐फ़िग़ाँ,aah-o-fi;gaa;n,1
+دلِ بے مدّعا,दिल‐ए‐बे-मुददआ,dil-e be-mudda((aa,1
 حسنِ مہ,हुसन‐ए‐मा,;husn-e mah,1
-دلوجاں,दिल‐ओ‐जाँ,dil-o-jaa;n,1
+دل و جاں,दिल‐ओ‐जाँ,dil-o-jaa;n,1
 پینس,पीनस,piinas,1
 منحرف,मुंहरिफ़,mun;harif,1
 زہد,ज़ुहद,zuhd,1
-دستوبازو,दसत‐ओ‐बाज़ू,dast-o-baazuu,1
-خوں ناب,ख़ूँनाब,;xuu;n-naab,1
+دست و بازو,दसत‐ओ‐बाज़ू,dast-o-baazuu,1
+خوں ناب,ख़ूँ-नाब,;xuu;n-naab,1
 مرجاں,मरजां,marjaa;n,1
 پیٹوں,पीटूँ,pii;tuu;n,1
-شایانِ دستوخنجرِ قاتل,शायान‐ए‐दसत‐ओ‐ख़ंजर‐ए‐क़ातिल,shaayaan-e dast-o-;xanjar-e qaatil,1
-نا کردہ,नाकरदा,naa-kardah,1
+شایانِ دست و خنجرِ قاتل,शायान‐ए‐दसत‐ओ‐ख़ंजर‐ए‐क़ातिल,shaayaan-e dast-o-;xanjar-e qaatil,1
+نا کردہ,ना-करदा,naa-kardah,1
 دکانِ متاعِ نظر,दुकान‐ए‐मता‐ए‐नज़र,dukaan-e mataa((-e na:zar,1
 نورِ صبح,नूर‐ए‐सुबह,nuur-e .sub;h,1
-بے صدا,बेसदा,be-.sadaa,1
+بے صدا,बे-सदा,be-.sadaa,1
 کھاؤں,खाऊँ,khaa))uu;n,1
 رہیے,रहये,rahye,1
 کافر,काफ़र,kaafar,1
@@ -1957,32 +1956,32 @@ urdu,nagari,transliteration,count
 پریشانیاں,परेशानियाँ,pareshaaniyaa;n,1
 مصیبت,मुसीबत,mu.siibat,1
 ظاہرً,ज़ाहिरन,:zaahira:n,1
-ہوا خواہ,हवाख़वाह,havaa-;xvaah,1
-کشادوبستِ مژہ,कुशाद‐ओ‐बसत‐ए‐मिझ़ह,kushaad-o-bast-e mizhah,1
+ہوا خواہ,हवा-ख़वाह,havaa-;xvaah,1
+کشاد و بستِ مژہ,कुशाद‐ओ‐बसत‐ए‐मिझ़ह,kushaad-o-bast-e mizhah,1
 روشِ خاص,रविश‐ए‐ख़ास,ravish-e ;xaa.s,1
-پیچوتابِ ہوس,पेच‐ओ‐ताब‐ए‐हवस,pech-o-taab-e havas,1
+پیچ و تابِ ہوس,पेच‐ओ‐ताब‐ए‐हवस,pech-o-taab-e havas,1
 ملےگا,मिलेगा,milegaa,1
 کثرتِ غم,कसरत‐ए‐ग़म,ka;srat-e ;gam,1
 پابندِ نے,पाबंद‐ए‐नै,paaband-e nai,1
 پیرِ کنعاں,पीर‐ए‐कंाँ,piir-e kan((aa;n,1
 آرزوئیں,आरज़ुएँ,aarzuu))e;n,1
 منّت,मिन्नत,minnat,1
-بد مستیِ ہر,बदमसती‐ए‐हर,bad-mastii-e har,1
+بد مستیِ ہر,बद-मसती‐ए‐हर,bad-mastii-e har,1
 سامانِ نازِ زخمِ دل,सामान‐ए‐नाज़‐ए‐ज़ख़म‐ए‐दिल,saamaan-e naaz-e za;xm-e dil,1
-محرومیِ تسلیموبدا,महरूमी‐ए‐तसलीम‐ओ‐बदा,ma;hruumii-e tasliim-o-badaa,1
-مصیبتِ نا سازیِ دوا,मुसीबत‐ए‐नासाज़ी‐ए‐दवा,mu.siibat-e naa-saazii-e davaa,1
+محرومیِ تسلیم و بدا,महरूमी‐ए‐तसलीम‐ओ‐बदा,ma;hruumii-e tasliim-o-badaa,1
+مصیبتِ نا سازیِ دوا,मुसीबत‐ए‐ना-साज़ी‐ए‐दवा,mu.siibat-e naa-saazii-e davaa,1
 دوڑائے,दौड़ाए,dau;raa))e,1
 سپندِ بزمِ وصلِ غیر,सिपंद‐ए‐बज़म‐ए‐वसल‐ए‐ग़ैर,sipand-e bazm-e va.sl-e ;gair,1
 رخشِ عمر,रख़श‐ए‐उमर,ra;xsh-e ((umr,1
 فروغِ شمعِ بالیں,फ़ुरोग़‐ए‐शम‐ए‐बालीं,furo;g-e sham((-e baalii;n,1
-جیبودامن,जेब‐ओ‐दामन,jeb-o-daaman,1
+جیب و دامن,जेब‐ओ‐दामन,jeb-o-daaman,1
 فرش,फ़रश,farsh,1
 ایاغ,अयाग़,ayaa;g,1
 پلکوں,पलकों,palko;n,1
 خطر,ख़तर,;xa:tar,1
 کالبدِ صورتِ دیوار,कालबुद‐ए‐सूरत‐ए‐दीवार,kaalbud-e .suurat-e diivaar,1
 شناور,शिनावर,shinaavar,1
-دل آزردگاں,दिलआज़ुरदगाँ,dil-aazurdagaa;n,1
+دل آزردگاں,दिल-आज़ुरदगाँ,dil-aazurdagaa;n,1
 خوبیِ اوضاعِ ابناے زماں,ख़ूबी‐ए‐औज़ा‐ए‐अबना‐ए‐ज़माँ,;xuubii-e au.zaa((-e abnaa-e zamaa;n,1
 یاروں,यारों,yaaro;n,1
 جنّتِ نگاہ,जन्नत‐ए‐निगाह,jannat-e nigaah,1
@@ -1991,16 +1990,16 @@ urdu,nagari,transliteration,count
 آغوشِ خمِ حلقہِ زنّار,आग़ोश‐ए‐ख़म‐ए‐हलक़ा‐ए‐ज़ुन्नार,aa;gosh-e ;xam-e ;halqah-e zunnaar,1
 رہزنی,रहज़नी,rahzanii,1
 ہموار,हमवार,hamvaar,1
-سادہ دل,सादादिल,saadah-dil,1
-رندِ شاہد باز,रिंद‐ए‐शाहिदबाज़,rind-e shaahid-baaz,1
+سادہ دل,सादा-दिल,saadah-dil,1
+رندِ شاہد باز,रिंद‐ए‐शाहिद-बाज़,rind-e shaahid-baaz,1
 درِ گنجینہِ گوہر,दर‐ए‐गंजीना‐ए‐गौहर,dar-e ganjiinah-e gauhar,1
 شگفتنِ گلہاے ناز,शुगुफ़तन‐ए‐गुलहा‐ए‐नाज़,shuguftan-e gulhaa-e naaz,1
 شعاے مہر,शुआ‐ए‐मिहर,shu((aa-e mihr,1
 رزقِ ہم,रिज़क़‐ए‐हम,rizq-e ham,1
 بلاے آسمانی,बला‐ए‐आसमानी,balaa-e aasmaanii,1
-ملک ال موت,मलकउलमौत,malak-ul-maut,1
+ملک ال موت,मलक-उल-मौत,malak-ul-maut,1
 جوہرِ تیغ,जौहर‐ए‐तेग़,jauhar-e te;g,1
-گرمِ دامن افشانی,गरम‐ए‐दामनअफ़शानी,garm-e daaman-afshaanii,1
+گرمِ دامن افشانی,गरम‐ए‐दामन-अफ़शानी,garm-e daaman-afshaanii,1
 حرفِ مکرّر,हरफ़‐ए‐मुकररर,;harf-e mukarrar,1
 گداے مے,गदा‐ए‐मै,gadaa-e mai,1
 طاقتِ فریاد,ताक़त‐ए‐फ़रयाद,:taaqat-e faryaad,1
@@ -2008,19 +2007,19 @@ urdu,nagari,transliteration,count
 گھبراویں‌گے,घबरावेंगे,ghabraave;nge,1
 طی,तय,:tay,1
 الماس,अलमास,almaas,1
-سیلِ خان ماں,सैल‐ए‐ख़ानमाँ,sail-e ;xaan-maa;n,1
+سیلِ خان ماں,सैल‐ए‐ख़ान-माँ,sail-e ;xaan-maa;n,1
 ملیں‌گے,मिलेंगे,mile;nge,1
 داغِ مہ,दाग़‐ए‐मा,daa;g-e mah,1
 جلوہِ تمثال,जलवा‐ए‐तिमसाल,jalvah-e tim;saal,1
-نفسِ عطر ساے گل,नफ़स‐ए‐इतरसा‐ए‐गुल,nafas-e ((i:tr-saa-e gul,1
+نفسِ عطر ساے گل,नफ़स‐ए‐इतर-सा‐ए‐गुल,nafas-e ((i:tr-saa-e gul,1
 حضرتِ یوسف,हज़रत‐ए‐यूसुफ़,;ha.zrat-e yuusuf,1
 شرابِ طہور,शराब‐ए‐तहूर,sharaab-e :tahuur,1
-ورق گردانیِ نیرنگِ یک,वरक़गरदानी‐ए‐नैरंग‐ए‐यक,varaq-gardaanii-e nairang-e yak,1
+ورق گردانیِ نیرنگِ یک,वरक़-गरदानी‐ए‐नैरंग‐ए‐यक,varaq-gardaanii-e nairang-e yak,1
 اثرِ گریہ,असर‐ए‐गिरया,a;sar-e giryah,1
-پا بستگیِ رسمورہِ عام,पाबसतगी‐ए‐रसम‐ओ‐रह‐ए‐आम,paa-bastagii-e rasm-o-rah-e ((aam,1
+پا بستگیِ رسم و رہِ عام,पा-बसतगी‐ए‐रसम‐ओ‐रह‐ए‐आम,paa-bastagii-e rasm-o-rah-e ((aam,1
 حالِ وفا,हाल‐ए‐वफ़ा,;haal-e vafaa,1
-بہادرِ عالی گہر,बहादुर‐ए‐आलीगुहर,bahaadur-e ((aalii-guhar,1
-بے محابا,बेमुहाबा,be-mu;haabaa,1
+بہادرِ عالی گہر,बहादुर‐ए‐आली-गुहर,bahaadur-e ((aalii-guhar,1
+بے محابا,बे-मुहाबा,be-mu;haabaa,1
 عرضِ نازِ شوخیِ دنداں,अरज़‐ए‐नाज़‐ए‐शोख़ी‐ए‐दंदाँ,((ar.z-e naaz-e sho;xii-e dandaa;n,1
 داستانِ شوق,दासतान‐ए‐शौक़,daastaan-e shauq,1
 فقط,फ़क़त,faqa:t,1
@@ -2029,73 +2028,73 @@ urdu,nagari,transliteration,count
 صورتِ نقشِ قدم,सूरत‐ए‐नक़श‐ए‐क़दम,.suurat-e naqsh-e qadam,1
 ناچتے,नाचते,naachte,1
 تنِ نازک,तन‐ए‐नाज़ुक,tan-e naazuk,1
-سنم پرستوں,सनमपरसतों,sanam-parasto;n,1
+سنم پرستوں,सनम-परसतों,sanam-parasto;n,1
 دربانی,दरबानी,darbaanii,1
 بستیوں,बसतियों,bastiyo;n,1
-دلومژگاں,दिल‐ओ‐मिझ़गाँ,dil-o-mizhgaa;n,1
+دل و مژگاں,दिल‐ओ‐मिझ़गाँ,dil-o-mizhgaa;n,1
 طاقتِ پرواز,ताक़त‐ए‐परवाज़,:taaqat-e parvaaz,1
-آمدِ فصلِ لالہ کاری,आमद‐ए‐फ़सल‐ए‐लालाकारी,aamad-e fa.sl-e laalah-kaarii,1
+آمدِ فصلِ لالہ کاری,आमद‐ए‐फ़सल‐ए‐लाला-कारी,aamad-e fa.sl-e laalah-kaarii,1
 شکوہِ بیداد,शिकवा‐ए‐बेदाद,shikvah-e bedaad,1
 مبدّل,मुबददल,mubaddal,1
 تباہی,तबाही,tabaahii,1
 کھانے,खाने,khaane,1
-ننگِ بالوپر,नंग‐ए‐बाल‐ओ‐पर,nang-e baal-o-par,1
-دیدہودل,दीदा‐ओ‐दिल,diidah-o-dil,1
+ننگِ بال و پر,नंग‐ए‐बाल‐ओ‐पर,nang-e baal-o-par,1
+دیدہ و دل,दीदा‐ओ‐दिल,diidah-o-dil,1
 حوصلے,हौसले,;hau.sle,1
 بتلائیں,बतलाएँ,batlaa))e;n,1
-رو شناسِ خلق,रूशिनास‐ए‐ख़लक़,ruu-shinaas-e ;xalq,1
-مے کشی,मैकशी,mai-kashii,1
+رو شناسِ خلق,रू-शिनास‐ए‐ख़लक़,ruu-shinaas-e ;xalq,1
+مے کشی,मै-कशी,mai-kashii,1
 نیامِ پردہِ زخمِ جگر,नियाम‐ए‐परदा‐ए‐ज़ख़म‐ए‐जिगर,niyaam-e pardah-e za;xm-e jigar,1
 بساطِ نشاطِ دل,बिसात‐ए‐नशात‐ए‐दिल,bisaa:t-e nashaa:t-e dil,1
-دراز دستیِ قاتل,दराज़दसती‐ए‐क़ातिल,daraaz-dastii-e qaatil,1
+دراز دستیِ قاتل,दराज़-दसती‐ए‐क़ातिल,daraaz-dastii-e qaatil,1
 مجموعہِ خیال,मजमूअह‐ए‐ख़याल,majmuu((ah-e ;xayaal,1
 ٹھہریں,ठहरें,;thahre;n,1
 اسیروں,असीरों,asiiro;n,1
 ریائی,रियाई,riyaa))ii,1
-مقامِ ترکِ حجابووداعِ تمکیں,मक़ाम‐ए‐तरक‐ए‐हिजाब‐ओ‐विदा‐ए‐तमकीं,maqaam-e tark-e ;hijaab-o-vidaa((-e tamkii;n,1
+مقامِ ترکِ حجاب و وداعِ تمکیں,मक़ाम‐ए‐तरक‐ए‐हिजाब‐ओ‐विदा‐ए‐तमकीं,maqaam-e tark-e ;hijaab-o-vidaa((-e tamkii;n,1
 فصلِ گل,फ़सल‐ए‐गुल,fa.sl-e gul,1
 مقتل,मक़तल,maqtal,1
-زیارت گاہِ حیرانی,ज़ियारतगाह‐ए‐हैरानी,ziyaarat-gaah-e ;hairaanii,1
+زیارت گاہِ حیرانی,ज़ियारत-गाह‐ए‐हैरानी,ziyaarat-gaah-e ;hairaanii,1
 اندازے,अंदाज़े,andaaze,1
 چھپنا,छुपना,chhupnaa,1
-آزادہوخود بیں,आज़ादा‐ओ‐ख़ुदबीं,aazaadah-o-;xvud-bii;n,1
-دریا آشنا,दरयाआशना,daryaa-aashnaa,1
+آزادہ و خود بیں,आज़ादा‐ओ‐ख़ुद-बीं,aazaadah-o-;xvud-bii;n,1
+دریا آشنا,दरया-आशना,daryaa-aashnaa,1
 گھاس,घास,ghaas,1
-گوشِ نصیحت نیوش,गोश‐ए‐नसीहतनियोश,gosh-e na.sii;hat-niyosh,1
+گوشِ نصیحت نیوش,गोश‐ए‐नसीहत-नियोश,gosh-e na.sii;hat-niyosh,1
 نشاطِ عشق,नशात‐ए‐इशक़,nashaa:t-e ((ishq,1
-با وجودِ یک,बावुजूद‐ए‐यक,baa-vujuud-e yak,1
+با وجودِ یک,बा-वुजूद‐ए‐यक,baa-vujuud-e yak,1
 تہییہِ طوفاں,तहीया‐ए‐तूफ़ाँ,tahiiyah-e :tuufaa;n,1
 چھیڑے,छेड़े,chhe;re,1
 تماشائیِ نیرنگِ تمنّا,तमाशाई‐ए‐नैरंग‐ए‐तमन्ना,tamaashaa))ii-e nairang-e tamannaa,1
-با ہم دگر,बाहमदिगर,baa-ham-digar,1
-بر پا,बरपा,bar-paa,1
+با ہم دگر,बा-हम-दिगर,baa-ham-digar,1
+بر پا,बर-पा,bar-paa,1
 شوقِ وصل,शौक़‐ए‐वसल,shauq-e va.sl,1
 غمِ دنیا,ग़म‐ए‐दुंया,;gam-e dunyaa,1
 لباس,लिबास,libaas,1
 کھولنا,खोलना,kholnaa,1
 تماشاے اہلِ کرم,तमाशा‐ए‐अहल‐ए‐करम,tamaashaa-e ahl-e karam,1
 گواہِ عشق,गवाह‐ए‐इशक़,gavaah-e ((ishq,1
-گرم بازارِ فوجداری,गरमबाज़ार‐ए‐फ़ौजदारी,garm-baazaar-e faujdaarii,1
+گرم بازارِ فوجداری,गरम-बाज़ार‐ए‐फ़ौजदारी,garm-baazaar-e faujdaarii,1
 کیسے,कैसे,kaise,1
 خورشیدِ قیامت,ख़ुरशीद‐ए‐क़ियामत,;xvurshiid-e qiyaamat,1
-عذر خواہِ لبِ بے سوال,उज़रख़वाह‐ए‐लब‐ए‐बेसवाल,((u;zr-;xvaah-e lab-e be-savaal,1
+عذر خواہِ لبِ بے سوال,उज़र-ख़वाह‐ए‐लब‐ए‐बे-सवाल,((u;zr-;xvaah-e lab-e be-savaal,1
 غلطی,ग़लती,;gala:tii,1
 مٹنا,मिटना,mi;tnaa,1
 سیلیِ ندامت,सीली‐ए‐नदामत,siilii-e nadaamat,1
 گرا,गिरा,giraa,1
 کاغذی,काग़ज़ी,kaa;ga;zii,1
-لکد کوبِ حوادث,लकदकोब‐ए‐हवादिस,lakad-kob-e ;havaadi;s,1
+لکد کوبِ حوادث,लकद-कोब‐ए‐हवादिस,lakad-kob-e ;havaadi;s,1
 گلدستہ,गुलदसता,guldastah,1
 سروِ سبزِ جوئبارِ نغمہ,सरव‐ए‐सबज़‐ए‐जूइबार‐ए‐नग़मा,sarv-e sabz-e juu))ibaar-e na;gmah,1
 کائنات,काइनात,kaa))inaat,1
 مشاہدہِ حق,मुशाहदा‐ए‐हक़,mushaahadah-e ;haq,1
-پیچوخم,पेच‐ओ‐ख़म,pech-o-;xam,1
+پیچ و خم,पेच‐ओ‐ख़म,pech-o-;xam,1
 انجمنِ ناز,अंजुमन‐ए‐नाज़,anjuman-e naaz,1
-دستِ تہِ سنگ آمدہ,दसत‐ए‐तह‐ए‐संगआमदा,dast-e tah-e sang-aamadah,1
-تجاہل پیشگی,तजाहुलपेशगी,tajaahul-peshagii,1
+دستِ تہِ سنگ آمدہ,दसत‐ए‐तह‐ए‐संग-आमदा,dast-e tah-e sang-aamadah,1
+تجاہل پیشگی,तजाहुल-पेशगी,tajaahul-peshagii,1
 دلِ شوریدہ,दिल‐ए‐शोरीदा,dil-e shoriidah,1
 سراب,सराब,saraab,1
-سروروسوز,सुरूर‐ओ‐सोज़,suruur-o-soz,1
+سرور و سوز,सुरूर‐ओ‐सोज़,suruur-o-soz,1
 شہیدوں,शहीदों,shahiido;n,1
 سیہ,सियह,siyah,1
 خشک,ख़ुशक,;xushk,1
@@ -2111,8 +2110,8 @@ urdu,nagari,transliteration,count
 منسوب,मंसूब,mansuub,1
 سرِ رشتہِ سلامت,सर‐ए‐रिशता‐ए‐सलामत,sar-e rishtah-e salaamat,1
 دور,दौर,daur,1
-آتش افشانی,आतिशअफ़शानी,aatish-afshaanii,1
-رقیبِ سروساماں,रक़ीब‐ए‐सर‐ओ‐सामाँ,raqiib-e sar-o-saamaa;n,1
+آتش افشانی,आतिश-अफ़शानी,aatish-afshaanii,1
+رقیبِ سر و ساماں,रक़ीब‐ए‐सर‐ओ‐सामाँ,raqiib-e sar-o-saamaa;n,1
 بانی,बानी,baanii,1
 پوچھنا,पूछना,puuchhnaa,1
 سامانِ زنگ,सामान‐ए‐ज़ंग,saamaan-e zang,1
@@ -2126,19 +2125,19 @@ urdu,nagari,transliteration,count
 رکاب,रकाब,rakaab,1
 ٹھانی,ठानी,;thaanii,1
 طوفانِ حوادث,तूफ़ान‐ए‐हवादिस,:tuufaan-e ;havaadi;s,1
-گنبدِ بے در,गुंबद‐ए‐बेदर,gunbad-e be-dar,1
+گنبدِ بے در,गुंबद‐ए‐बे-दर,gunbad-e be-dar,1
 سونپا,सौंपा,sau;npaa,1
 نبضِ خس,नबज़‐ए‐ख़स,nab.z-e ;xas,1
-نا داں,नादाँ,naa-daa;n,1
-خورشیدِ جہاں تاب,ख़ुरशीद‐ए‐जहाँताब,;xvurshiid-e jahaa;n-taab,1
+نا داں,ना-दाँ,naa-daa;n,1
+خورشیدِ جہاں تاب,ख़ुरशीद‐ए‐जहाँ-ताब,;xvurshiid-e jahaa;n-taab,1
 پائداری,पाइदारी,paa))idaarii,1
-ظرفِ قدح خوار,ज़रफ़‐ए‐क़दहख़वार,:zarf-e qada;h-;xvaar,1
+ظرفِ قدح خوار,ज़रफ़‐ए‐क़दह-ख़वार,:zarf-e qada;h-;xvaar,1
 اہلِ ہوس,अहल‐ए‐हवस,ahl-e havas,1
 حسنِ عمل,हुसन‐ए‐अमल,;husn-e ((amal,1
 بیدادِ عشق,बेदाद‐ए‐इशक़,bedaad-e ((ishq,1
 ساحلِ دریاے خوں,साहिल‐ए‐दरया‐ए‐ख़ूँ,saa;hil-e daryaa-e ;xuu;n,1
 جانیں,जानें,jaane;n,1
-تابوتواں,ताब‐ओ‐तवाँ,taab-o-tavaa;n,1
+تاب و تواں,ताब‐ओ‐तवाँ,taab-o-tavaa;n,1
 ہنگامِ کمال,हंगाम‐ए‐कमाल,hangaam-e kamaal,1
 سرشکِ سر,सिरिशक‐ए‐सर,sirishk-e sar,1
 ٹپکتا,टपकता,;tapaktaa,1
@@ -2148,49 +2147,49 @@ urdu,nagari,transliteration,count
 لاتے,लाते,laate,1
 بدر,बदर,badr,1
 فریبِ ہستی,फ़रेब‐ए‐हसती,fareb-e hastii,1
-باغ بان,बाग़बान,baa;g-baan,1
-خدا پرست,ख़ुदापरसत,;xudaa-parast,1
+باغ بان,बाग़-बान,baa;g-baan,1
+خدا پرست,ख़ुदा-परसत,;xudaa-parast,1
 وقتِ وداعِ بہار,वक़त‐ए‐विदा‐ए‐बहार,vaqt-e vidaa((-e bahaar,1
 کانٹوں,कांटों,kaa;n;to;n,1
-آئنہ داریِ یک,आइनादारी‐ए‐यक,aa))inah-daarii-e yak,1
+آئنہ داریِ یک,आइना-दारी‐ए‐यक,aa))inah-daarii-e yak,1
 محوِ تماشاے شکستِ دل,महव‐ए‐तमाशा‐ए‐शिकसत‐ए‐दिल,ma;hv-e tamaashaa-e shikast-e dil,1
 غمِ ہستی,ग़म‐ए‐हसती,;gam-e hastii,1
-سر گرمِ جفا,सरगरम‐ए‐जफ़ा,sar-garm-e jafaa,1
+سر گرمِ جفا,सर-गरम‐ए‐जफ़ा,sar-garm-e jafaa,1
 نامہ,नामा,naamah,1
 عادت,आदत,((aadat,1
 حجّت,हुजजत,;hujjat,1
-خوشامد طلبوں,ख़ुशामदतलबों,;xvushaamad-:talabo;n,1
+خوشامد طلبوں,ख़ुशामद-तलबों,;xvushaamad-:talabo;n,1
 شمعِ کشتہ,शम‐ए‐कुशता,sham((-e kushtah,1
 عیشِ رفتہ,ऐश‐ए‐रफ़ता,((aish-e raftah,1
 خاکِ شہیداں,ख़ाक‐ए‐शहीदाँ,;xaak-e shahiidaa;n,1
-نازشِ ہم نامیِ چشمِ خوباں,नाज़िश‐ए‐हमनामी‐ए‐चशम‐ए‐ख़ूबाँ,naazish-e ham-naamii-e chashm-e ;xuubaa;n,1
+نازشِ ہم نامیِ چشمِ خوباں,नाज़िश‐ए‐हम-नामी‐ए‐चशम‐ए‐ख़ूबाँ,naazish-e ham-naamii-e chashm-e ;xuubaa;n,1
 مرہونِ حنا,मरहून‐ए‐हिना,marhuun-e ;hinaa,1
 نازِ بستر,नाज़‐ए‐बिसतर,naaz-e bistar,1
-سیہ پوش,सियहपोश,siyah-posh,1
-ایک سا,एकसा,ek-saa,1
+سیہ پوش,सियह-पोश,siyah-posh,1
+ایک سا,एक-सा,ek-saa,1
 دشنے,दशने,dashne,1
 سائل,साइल,saa))il,1
 شبِ حجراں,शब‐ए‐हिजराँ,shab-e ;hijraa;n,1
 پنبہِ بالش,पुंबा‐ए‐बालिश,punbah-e baalish,1
-بر خوردارِ بستر,बरख़ुरदार‐ए‐बिसतर,bar-;xvurdaar-e bistar,1
-عذرِ وا ماندگی,उज़र‐ए‐वामांदगी,((u;zr-e vaa-maa;ndagii,1
+بر خوردارِ بستر,बर-ख़ुरदार‐ए‐बिसतर,bar-;xvurdaar-e bistar,1
+عذرِ وا ماندگی,उज़र‐ए‐वा-मांदगी,((u;zr-e vaa-maa;ndagii,1
 تس,तिस,tis,1
 جوشِ گل,जोश‐ए‐गुल,josh-e gul,1
 دعوے,दावे,da((ve,1
-ہم نفسوں,हमनफ़सों,ham-nafaso;n,1
-ثوابِ طاعتوزہد,सवाब‐ए‐ताअत‐ओ‐ज़ुहद,;savaab-e :taa((at-o-zuhd,1
+ہم نفسوں,हम-नफ़सों,ham-nafaso;n,1
+ثوابِ طاعت و زہد,सवाब‐ए‐ताअत‐ओ‐ज़ुहद,;savaab-e :taa((at-o-zuhd,1
 گنجائش,गुंजाइश,gunjaa))ish,1
 مسرّتِ پیغامِ یار,मुसररत‐ए‐पैग़ाम‐ए‐यार,musarrat-e pai;gaam-e yaar,1
 وسعتِ سعیِ کرم,वुसअत‐ए‐सी‐ए‐करम,vus((at-e sa((ii-e karam,1
 خونِ گرم,ख़ून‐ए‐गरम,;xuun-e garm,1
 گھسےگا,घिसेगा,ghisegaa,1
 خیالِ مرگ,ख़याल‐ए‐मरग,;xayaal-e marg,1
-قیسوکوہکن,क़ैस‐ओ‐कोहकन,qais-o-kohkan,1
+قیس و کوہکن,क़ैस‐ओ‐कोहकन,qais-o-kohkan,1
 جنونِ عشق,जुनून‐ए‐इशक़,junuun-e ((ishq,1
 آہِ آتشیں,आह‐ए‐आतिशीं,aah-e aatishii;n,1
-راہ زن,राहज़न,raah-zan,1
+راہ زن,राह-ज़न,raah-zan,1
 سلوانے,सिलवाने,silvaane,1
-پنبہ آگیں,पुंबाआगीं,punbah-aagii;n,1
+پنبہ آگیں,पुंबा-आगीं,punbah-aagii;n,1
 پڑیں,पड़ीं,pa;rii;n,1
 صفِ مژگاں,सफ़‐ए‐मिझ़गाँ,.saf-e mizhgaa;n,1
 تمثال,तिमसाल,tim;saal,1
@@ -2202,10 +2201,10 @@ urdu,nagari,transliteration,count
 غرّہِ اوجِ بناے عالمِ امکاں,ग़ररा‐ए‐औज‐ए‐बिना‐ए‐आलम‐ए‐इमकाँ,;garrah-e auj-e binaa-e ((aalam-e imkaa;n,1
 نواے سروش,नवा‐ए‐सरोश,navaa-e sarosh,1
 افعی,अफ़ी,af((ii,1
-موے آتش دیدہ,मू‐ए‐आतिशदीदा,muu-e aatish-diidah,1
+موے آتش دیدہ,मू‐ए‐आतिश-दीदा,muu-e aatish-diidah,1
 بازارِ دوست,बाज़ार‐ए‐दोसत,baazaar-e dost,1
-مے خانہِ جگر,मैख़ाना‐ए‐जिगर,mai-;xaanah-e jigar,1
-بتِ بیداد گر,बुत‐ए‐बेदादगर,but-e bedaad-gar,1
+مے خانہِ جگر,मै-ख़ाना‐ए‐जिगर,mai-;xaanah-e jigar,1
+بتِ بیداد گر,बुत‐ए‐बेदाद-गर,but-e bedaad-gar,1
 منکرِ وفا,मुंकर‐ए‐वफ़ा,munkar-e vafaa,1
 بزمِ شاہنشاہ,बज़म‐ए‐शाहिंशाह,bazm-e shaahinshaah,1
 خوے یار,ख़ू‐ए‐यार,;xuu-e yaar,1
@@ -2220,17 +2219,17 @@ urdu,nagari,transliteration,count
 لاتا,लाता,laataa,1
 افسانہ,अफ़साना,afsaanah,1
 یادگارِ نالہ,यादगार‐ए‐नाला,yaadgaar-e naalah,1
-بے کثافت,बेकसाफ़त,be-ka;saafat,1
+بے کثافت,बे-कसाफ़त,be-ka;saafat,1
 خندہِ احباب,ख़ंदा‐ए‐अहबाब,;xandah-e a;hbaab,1
 محرمیِ حسن,महरमी‐ए‐हुसन,ma;hramii-e ;husn,1
 صلے,सिले,.sile,1
 سوزشِ دل,सोज़िश‐ए‐दिल,sozish-e dil,1
-دلِ حسرت زدہ,दिल‐ए‐हसरतज़दह,dil-e ;hasrat-zadah,1
+دلِ حسرت زدہ,दिल‐ए‐हसरत-ज़दह,dil-e ;hasrat-zadah,1
 تنِ مجروحِ عاشق,तन‐ए‐मजरूह‐ए‐आशिक़,tan-e majruu;h-e ((aashiq,1
-باوجودِ دل جمعی,बावुजूद‐ए‐दिलजमी,baavujuud-e dil-jam((ii,1
-جمعوخرج,जम‐ओ‐ख़रज,jam((-o-;xarj,1
+باوجودِ دل جمعی,बावुजूद‐ए‐दिल-जमी,baavujuud-e dil-jam((ii,1
+جمع و خرج,जम‐ओ‐ख़रज,jam((-o-;xarj,1
 فیض,फ़ैज़,fai.z,1
-نوازشہاے بے جا,नवाज़िशहा‐ए‐बेजा,navaazish'haa-e be-jaa,1
+نوازشہاے بے جا,नवाज़िशहा‐ए‐बे-जा,navaazish'haa-e be-jaa,1
 لگاوٹ,लगावट,lagaava;t,1
 علیہ,अलीह,((aliih,1
 عاشقی,आशिक़ी,((aashiqii,1
@@ -2241,25 +2240,25 @@ urdu,nagari,transliteration,count
 موجِ بوے گل,मौज‐ए‐बू‐ए‐गुल,mauj-e buu-e gul,1
 جوشِ جنوں,जोश‐ए‐जुनूँ,josh-e junuu;n,1
 اجزاے پریشاں,अजज़ा‐ए‐परेशाँ,ajzaa-e pareshaa;n,1
-اشتیاق انگیز,इशतियाक़अंगेज़,ishtiyaaq-angez,1
-شمعِ سیہ خانہِ لیلیٰ,शम‐ए‐सियहख़ाना‐ए‐लैला,sham((-e siyah-;xaanah-e lail;aa,1
+اشتیاق انگیز,इशतियाक़-अंगेज़,ishtiyaaq-angez,1
+شمعِ سیہ خانہِ لیلیٰ,शम‐ए‐सियह-ख़ाना‐ए‐लैला,sham((-e siyah-;xaanah-e lail;aa,1
 نظارہِ نرگس,नज़ारा‐ए‐नरगिस,na:zaarah-e nargis,1
-رو کشِ خورشیدِ عالم تاب,रूकश‐ए‐ख़ुरशीद‐ए‐आलमताब,ruu-kash-e ;xvurshiid-e ((aalam-taab,1
-خانہِ مجنونِ صحرا گرد,ख़ाना‐ए‐मजनून‐ए‐सहरागरद,;xaanah-e majnuun-e .sa;hraa-gard,1
+رو کشِ خورشیدِ عالم تاب,रू-कश‐ए‐ख़ुरशीद‐ए‐आलम-ताब,ruu-kash-e ;xvurshiid-e ((aalam-taab,1
+خانہِ مجنونِ صحرا گرد,ख़ाना‐ए‐मजनून‐ए‐सहरा-गरद,;xaanah-e majnuun-e .sa;hraa-gard,1
 نشان,निशान,nishaan,1
 تراوش,तराविश,taraavish,1
 مسلماں,मुसलमाँ,musalmaa;n,1
 حسنِ فروغِ شمعِ سخن,हुसन‐ए‐फ़ुरोग़‐ए‐शम‐ए‐सुख़न,;husn-e furo;g-e sham((-e su;xan,1
 ہوسِ زر,हवस‐ए‐ज़र,havas-e zar,1
-جاں ستاں,जाँसिताँ,jaa;n-sitaa;n,1
-بے التفاتی,बेइलतिफ़ाती,be-iltifaatii,1
-گل چین,गुलचीन,gul-chiin,1
+جاں ستاں,जाँ-सिताँ,jaa;n-sitaa;n,1
+بے التفاتی,बे-इलतिफ़ाती,be-iltifaatii,1
+گل چین,गुल-चीन,gul-chiin,1
 قصور,क़सूर,qa.suur,1
 چارہِ غمِ الفت,चारा‐ए‐ग़म‐ए‐उलफ़त,chaarah-e ;gam-e ulfat,1
 فلکِ پیر,फ़लक‐ए‐पीर,falak-e piir,1
-بادہ خوار,बादाख़वार,baadah-;xvaar,1
+بادہ خوار,बादा-ख़वार,baadah-;xvaar,1
 بود,बूद,buud,1
-شبنم استاں,शबनमइसताँ,shabnam-istaa;n,1
+شبنم استاں,शबनम-इसताँ,shabnam-istaa;n,1
 نوحہِ غم,नौहा‐ए‐ग़म,nau;hah-e ;gam,1
 ہوجیو,हूजियो,huujiyo,1
 چشمِ تنگ,चशम‐ए‐तंग,chashm-e tang,1
@@ -2275,47 +2274,47 @@ urdu,nagari,transliteration,count
 سایہِ شاخِ گل,साया‐ए‐शाख़‐ए‐गुल,saayah-e shaa;x-e gul,1
 اہلِ دہر,अहल‐ए‐दहर,ahl-e dahr,1
 قدرِ شوق,क़दर‐ए‐शौक़,qadr-e shauq,1
-نشوونما,नशव‐ओ‐नुमा,nashv-o-numaa,1
-نگہِ سرمہ سا,निगा‐ए‐सुरमासा,nigah-e surmah-saa,1
-صورت خانہِ خمیازہ,सूरतख़ाना‐ए‐ख़मयाज़ा,.suurat-;xaanah-e ;xamyaazah,1
+نشو و نما,नशव‐ओ‐नुमा,nashv-o-numaa,1
+نگہِ سرمہ سا,निगा‐ए‐सुरमा-सा,nigah-e surmah-saa,1
+صورت خانہِ خمیازہ,सूरत-ख़ाना‐ए‐ख़मयाज़ा,.suurat-;xaanah-e ;xamyaazah,1
 گلِ تر,गुल‐ए‐तर,gul-e tar,1
-وحشت کدہ,वहशतकदह,va;hshat-kadah,1
-اجزاے دو عالم دشت,अजज़ा‐ए‐दोआलमदशत,ajzaa-e do-((aalam-dasht,1
-دھول دھپّا,धौलधपपा,dhaul-dhappaa,1
+وحشت کدہ,वहशत-कदह,va;hshat-kadah,1
+اجزاے دو عالم دشت,अजज़ा‐ए‐दो-आलम-दशत,ajzaa-e do-((aalam-dasht,1
+دھول دھپّا,धौल-धपपा,dhaul-dhappaa,1
 بوے دوست,बू‐ए‐दोसत,buu-e dost,1
 خامہِ مژگاں,ख़ामा‐ए‐मिझ़गाँ,;xaamah-e mizhgaa;n,1
 آبِ ہفت,आब‐ए‐हफ़त,aab-e haft,1
 راہِ کوے یار,राह‐ए‐कू‐ए‐यार,raah-e kuu-e yaar,1
-سر ب سر,सरबसर,sar-ba-sar,1
+سر ب سر,सर-ब-सर,sar-ba-sar,1
 شعار,शिार,shi((aar,1
-ناصیہ سا,नासियासा,naa.siyah-saa,1
+ناصیہ سا,नासिया-सा,naa.siyah-saa,1
 عذرِ مستی,उज़र‐ए‐मसती,((u;zr-e mastii,1
-گداے کوچہِ مے خانہ,गदा‐ए‐कूचा‐ए‐मैख़ाना,gadaa-e kuuchah-e mai-;xaanah,1
+گداے کوچہِ مے خانہ,गदा‐ए‐कूचा‐ए‐मै-ख़ाना,gadaa-e kuuchah-e mai-;xaanah,1
 کھودیں,खोदें,khode;n,1
-ابرِ گہر بار,अबर‐ए‐गुहरबार,abr-e guhar-baar,1
+ابرِ گہر بار,अबर‐ए‐गुहर-बार,abr-e guhar-baar,1
 پریزادوں,परीज़ादों,pariizaado;n,1
 فریادی,फ़रयादी,faryaadii,1
 جلوہِ حسنِ غیور,जलवा‐ए‐हुसन‐ए‐ग़यूर,jalvah-e ;husn-e ;gayuur,1
 اٹھیے,उठये,u;thye,1
 اگاتا,उगाता,ugaataa,1
-بے رونقی,बेरौनक़ी,be-raunaqii,1
+بے رونقی,बे-रौनक़ी,be-raunaqii,1
 شرارِ سنگ,शरार‐ए‐संग,sharaar-e sang,1
 لڑیے,लड़िये,la;riye,1
 آبروے شیوہِ اہلِ نظر,आबरू‐ए‐शेवा‐ए‐अहल‐ए‐नज़र,aabruu-e shevah-e ahl-e na:zar,1
 بہنے,बहने,bahne,1
 صورتِ قفلِ ابجد,सूरत‐ए‐क़ुफ़ल‐ए‐अबजद,.suurat-e qufl-e abjad,1
-مہِ خورشید جمال,मह‐ए‐ख़ुरशीदजमाल,mah-e ;xvurshiid-jamaal,1
+مہِ خورشید جمال,मह‐ए‐ख़ुरशीद-जमाल,mah-e ;xvurshiid-jamaal,1
 سیاستِ درباں,सियासत‐ए‐दरबां,siyaasat-e darbaa;n,1
 بھروں,भरूँ,bharuu;n,1
 دلیل,दलील,daliil,1
 زینتِ جیبِ کفن,ज़ीनत‐ए‐जेब‐ए‐कफ़न,ziinat-e jeb-e kafan,1
 اڑتی,उड़ती,u;rtii,1
 موجِ ہستی,मौज‐ए‐हसती,mauj-e hastii,1
-باد پیمائی,बादपेमाई,baad-pemaa))ii,1
+باد پیمائی,बाद-पेमाई,baad-pemaa))ii,1
 روبکار,रूबकार,ruubkaar,1
 کھویا,खोया,khoyaa,1
 قیدِ ہستی,क़ैद‐ए‐हसती,qaid-e hastii,1
-دردِ بے دوا,दरद‐ए‐बेदवा,dard-e be-davaa,1
+دردِ بے دوا,दरद‐ए‐बे-दवा,dard-e be-davaa,1
 راہبر,राहबर,raahbar,1
 مضطرب,मुज़तरिब,mu.z:tarib,1
 کھلنا,खुलना,khulnaa,1
@@ -2334,24 +2333,24 @@ urdu,nagari,transliteration,count
 پڑھیے,पढ़ये,pa;rhye,1
 لائی,लाई,laa))ii,1
 نایاب,नायाब,naayaab,1
-شاہِ دیں دار,शाह‐ए‐दींदार,shaah-e dii;n-daar,1
-شب رو,शबरौ,shab-rau,1
+شاہِ دیں دار,शाह‐ए‐दीं-दार,shaah-e dii;n-daar,1
+شب رو,शब-रौ,shab-rau,1
 شگفتگی,शिगुफ़तगी,shiguftagii,1
 سلطاں,सुलताँ,sul:taa;n,1
 منزل,मंज़िल,manzil,1
-خوں گشتہ,ख़ूँगशता,;xuu;n-gashtah,1
-رہزنِ تمکینوہوش,रहज़न‐ए‐तमकीन‐ओ‐होश,rahzan-e tamkiin-o-hosh,1
+خوں گشتہ,ख़ूँ-गशता,;xuu;n-gashtah,1
+رہزنِ تمکین و ہوش,रहज़न‐ए‐तमकीन‐ओ‐होश,rahzan-e tamkiin-o-hosh,1
 سوے ظن,सू‐ए‐ज़न,suu-e :zan,1
 دعائیں,दुआएँ,du((aa))e;n,1
-ساغرومینا,साग़र‐ओ‐मीना,saa;gar-o-miinaa,1
+ساغر و مینا,साग़र‐ओ‐मीना,saa;gar-o-miinaa,1
 گرفتارِ وفا,गिरिफ़तार‐ए‐वफ़ा,giriftaar-e vafaa,1
 خم,ख़ुम,;xum,1
 تپشِ دل,तपिश‐ए‐दिल,tapish-e dil,1
 اہلِ جفا,अहल‐ए‐जफ़ा,ahl-e jafaa,1
 فکر,फ़िकर,fikr,1
-تیرِ نیم کش,तीर‐ए‐नीमकश,tiir-e niim-kash,1
+تیرِ نیم کش,तीर‐ए‐नीम-कश,tiir-e niim-kash,1
 دشنہِ مژگاں,दशना‐ए‐मिझ़गाँ,dashnah-e mizhgaa;n,1
-سعیِ بے حاصل,सी‐ए‐बेहासिल,sa((ii-e be-;haa.sil,1
+سعیِ بے حاصل,सी‐ए‐बे-हासिल,sa((ii-e be-;haa.sil,1
 طوفانیِ کیفییتِ فصل,तूफ़ानी‐ए‐कैफ़ीयत‐ए‐फ़सल,:tuufaanii-e kaifiiyat-e fa.sl,1
 خموشیوں,ख़मोशियों,;xamoshiyo;n,1
 ہشیار,हुशयार,hushyaar,1
@@ -2364,90 +2363,90 @@ urdu,nagari,transliteration,count
 بنیں‌گے,बनेंगे,bane;nge,1
 فراق,फ़िराक़,firaaq,1
 اترے,उतरे,utre,1
-تارِ دامنوتارِ نظر,तार‐ए‐दामन‐ओ‐तार‐ए‐नज़र,taar-e daaman-o-taar-e na:zar,1
+تارِ دامن و تارِ نظر,तार‐ए‐दामन‐ओ‐तार‐ए‐नज़र,taar-e daaman-o-taar-e na:zar,1
 ربط,रबत,rab:t,1
-نا شناس,नाशिनास,naa-shinaas,1
+نا شناس,ना-शिनास,naa-shinaas,1
 نغمہہاے غم,नग़महहा‐ए‐ग़म,na;gmah'haa-e ;gam,1
 مرغِ چمن,मुरग़‐ए‐चमन,mur;g-e chaman,1
 بخیہِ چاکِ گریباں,बख़या‐ए‐चाक‐ए‐गरेबाँ,ba;xyah-e chaak-e garebaa;n,1
 ضوقِ غفلتِ ساقی,ज़ौक़‐ए‐ग़फ़लत‐ए‐साक़ी,.zauq-e ;gaflat-e saaqii,1
-خود آرا,ख़ुदआरा,;xvud-aaraa,1
-وسعتِ مے خانہِ جنوں,वुसअत‐ए‐मैख़ाना‐ए‐जुनूँ,vus((at-e mai-;xaanah-e junuu;n,1
+خود آرا,ख़ुद-आरा,;xvud-aaraa,1
+وسعتِ مے خانہِ جنوں,वुसअत‐ए‐मै-ख़ाना‐ए‐जुनूँ,vus((at-e mai-;xaanah-e junuu;n,1
 خطِّ جامِ مے,ख़तत‐ए‐जाम‐ए‐मै,;xa:t:t-e jaam-e mai,1
-شوقِ فضولوجرئتِ رندانہ,शौक़‐ए‐फ़ुज़ूल‐ओ‐जुरअत‐ए‐रिंदाना,shauq-e fu.zuul-o-jur))at-e rindaanah,1
+شوقِ فضول و جرئتِ رندانہ,शौक़‐ए‐फ़ुज़ूल‐ओ‐जुरअत‐ए‐रिंदाना,shauq-e fu.zuul-o-jur))at-e rindaanah,1
 ذوقِ کاوشِ ناخن,ज़ौक़‐ए‐काविश‐ए‐नाख़ुन,;zauq-e kaavish-e naa;xun,1
 بارِ بستر,बार‐ए‐बिसतर,baar-e bistar,1
-قدرِ لبودنداں,क़दर‐ए‐लब‐ओ‐दंदाँ,qadr-e lab-o-dandaa;n,1
-بتِ بے داد فن,बुत‐ए‐बेदादफ़न,but-e be-daad-fan,1
+قدرِ لب و دنداں,क़दर‐ए‐लब‐ओ‐दंदाँ,qadr-e lab-o-dandaa;n,1
+بتِ بے داد فن,बुत‐ए‐बे-दाद-फ़न,but-e be-daad-fan,1
 تکرار,तकरार,takraar,1
 دراز,दराज़,daraaz,1
-مےوانگبیں,मै‐ओ‐अंगबीं,mai-o-angabii;n,1
+مے و انگبیں,मै‐ओ‐अंगबीं,mai-o-angabii;n,1
 پرتو,परतव,partav,1
 جنونِ شوق,जुनून‐ए‐शौक़,junuun-e shauq,1
 دلِ رنجور,दिल‐ए‐रंजूर,dil-e ranjuur,1
-بے ادبوں,बेअदबों,be-adabo;n,1
-رنگِ کاغذِ آتش زدہ,रंग‐ए‐काग़ज़‐ए‐आतिशज़दह,rang-e kaa;ga;z-e aatish-zadah,1
+بے ادبوں,बे-अदबों,be-adabo;n,1
+رنگِ کاغذِ آتش زدہ,रंग‐ए‐काग़ज़‐ए‐आतिश-ज़दह,rang-e kaa;ga;z-e aatish-zadah,1
 نثار,निसार,ni;saar,1
 مرتبہ,मरतबा,martabah,1
-بتِ نازک بدن,बुत‐ए‐नाज़ुकबदन,but-e naazuk-badan,1
+بتِ نازک بدن,बुत‐ए‐नाज़ुक-बदन,but-e naazuk-badan,1
 کٹنے,कटने,ka;tne,1
 قطعِ نظر,क़त‐ए‐नज़र,qa:t((-e na:zar,1
-بت خانہ,बुतख़ाना,but-;xaanah,1
+بت خانہ,बुत-ख़ाना,but-;xaanah,1
 فریادِ دلہاے حزیں,फ़रयाद‐ए‐दिलहा‐ए‐हज़ीं,faryaad-e dil'haa-e ;hazii;n,1
 شکستِ قیمتِ دل,शिकसत‐ए‐क़ीमत‐ए‐दिल,shikast-e qiimat-e dil,1
-تیغِ دو دم,तेग़‐ए‐दोदम,te;g-e do-dam,1
+تیغِ دو دم,तेग़‐ए‐दो-दम,te;g-e do-dam,1
 لکھنئو,लखनऊ,lakhna))uu,1
 مہ,मा,mah,1
-سر گرمِ خرام,सरगरम‐ए‐ख़िराम,sar-garm-e ;xiraam,1
+سر گرمِ خرام,सर-गरम‐ए‐ख़िराम,sar-garm-e ;xiraam,1
 دیوارِ چمن,दीवार‐ए‐चमन,diivaar-e chaman,1
 پاشنہ,पाशना,paashnah,1
 ہجر,हजर,hajr,1
 ننگِ سینہ,नंग‐ए‐सीना,nang-e siinah,1
 جلوہِ موجِ شراب,जलवा‐ए‐मौज‐ए‐शराब,jalvah-e mauj-e sharaab,1
-مدّعا طلبی,मुददआतलबी,mudda((aa-:talabii,1
+مدّعا طلبی,मुददआ-तलबी,mudda((aa-:talabii,1
 قیاس,क़ियास,qiyaas,1
-ستم زدگاں,सितमज़दगाँ,sitam-zadagaa;n,1
-غارت گری,ग़ारतगरी,;gaarat-garii,1
-صبر طلب,सबरतलब,.sabr-:talab,1
+ستم زدگاں,सितम-ज़दगाँ,sitam-zadagaa;n,1
+غارت گری,ग़ारत-गरी,;gaarat-garii,1
+صبر طلب,सबर-तलब,.sabr-:talab,1
 غمِ محرومیِ جاوید,ग़म‐ए‐महरूमी‐ए‐जावेद,;gam-e ma;hruumii-e jaaved,1
-جاں گداز,जाँगुदाज़,jaa;n-gudaaz,1
+جاں گداز,जाँ-गुदाज़,jaa;n-gudaaz,1
 عقدہِ دل,उक़दा‐ए‐दिल,((uqdah-e dil,1
 آبادِ تمنّا,आबाद‐ए‐तमन्ना,aabaad-e tamannaa,1
-جلوہ گاہ,जलवागाह,jalvah-gaah,1
+جلوہ گاہ,जलवा-गाह,jalvah-gaah,1
 عنایت,इनायत,((inaayat,1
 وجہِ تسلی,वजह‐ए‐तसलली,vaj'h-e tasallii,1
-منّت کشِ گلبانگِ تسلی,मिन्नतकश‐ए‐गुलबांग‐ए‐तसलली,minnat-kash-e gulbaa;ng-e tasallii,1
+منّت کشِ گلبانگِ تسلی,मिन्नत-कश‐ए‐गुलबांग‐ए‐तसलली,minnat-kash-e gulbaa;ng-e tasallii,1
 شہرت,शुहरत,shuhrat,1
-فریبِ وفا خوردگاں,फ़रेब‐ए‐वफ़ाख़ुरदगाँ,fareb-e vafaa-;xvurdagaa;n,1
+فریبِ وفا خوردگاں,फ़रेब‐ए‐वफ़ा-ख़ुरदगाँ,fareb-e vafaa-;xvurdagaa;n,1
 میسّر,मुयससर,muyassar,1
 صفاے حیرتِ آئینہ,सफ़ा‐ए‐हैरत‐ए‐आईना,.safaa-e ;hairat-e aa))iinah,1
 کلیسا,कलीसा,kaliisaa,1
-اصلِ شہودوشاہدومشہود,असल‐ए‐शुहूद‐ओ‐शाहिद‐ओ‐मशहूद,a.sl-e shuhuud-o-shaahid-o-mashhuud,1
-اسدِ خستہ جاں,असद‐ए‐ख़सताजाँ,asad-e ;xastah-jaa;n,1
+اصلِ شہود و شاہد و مشہود,असल‐ए‐शुहूद‐ओ‐शाहिद‐ओ‐मशहूद,a.sl-e shuhuud-o-shaahid-o-mashhuud,1
+اسدِ خستہ جاں,असद‐ए‐ख़सता-जाँ,asad-e ;xastah-jaa;n,1
 ڈبو,डुबो,;dubo,1
 درِ عدالتِ ناز,दर‐ए‐अदालत‐ए‐नाज़,dar-e ((adaalat-e naaz,1
 پرونے,पिरोने,pirone,1
-رخصتِ بیباکیوگستاخی,रुख़सत‐ए‐बेबाकी‐ओ‐गुसताख़ी,ru;x.sat-e bebaakii-o-gustaa;xii,1
+رخصتِ بیباکی و گستاخی,रुख़सत‐ए‐बेबाकी‐ओ‐गुसताख़ी,ru;x.sat-e bebaakii-o-gustaa;xii,1
 چرخ,चरख़,char;x,1
 محمل,महमिल,ma;hmil,1
-مطربِ ترانہِ ہل من مزید,मुतरिब‐ए‐तराना‐ए‐हलमिनमज़ीद,mu:trib-e taraanah-e hal-min-maziid,1
+مطربِ ترانہِ ہل من مزید,मुतरिब‐ए‐तराना‐ए‐हल-मिन-मज़ीद,mu:trib-e taraanah-e hal-min-maziid,1
 ساقیِ گردوں,साक़ी‐ए‐गरदूं,saaqii-e garduu;n,1
-غارت گرِ جنسِ وفا,ग़ारतगर‐ए‐जिंस‐ए‐वफ़ा,;gaarat-gar-e jins-e vafaa,1
-سروبرگِ ادراکِ معنی,सर‐ओ‐बरग‐ए‐इदराक‐ए‐मानी,sar-o-barg-e idraak-e ma((nii,1
+غارت گرِ جنسِ وفا,ग़ारत-गर‐ए‐जिंस‐ए‐वफ़ा,;gaarat-gar-e jins-e vafaa,1
+سر و برگِ ادراکِ معنی,सर‐ओ‐बरग‐ए‐इदराक‐ए‐मानी,sar-o-barg-e idraak-e ma((nii,1
 لخّتِ ریشِ جگر,लज़ज़त‐ए‐रेश‐ए‐जिगर,la;z;zat-e resh-e jigar,1
 بھاگنے,भागने,bhaagne,1
 بیکسیِ عشق,बेकसी‐ए‐इशक़,bekasii-e ((ishq,1
-فریدونوجموکیخسروودارابوبہمن,फ़रीदून‐ओ‐जम‐ओ‐कैख़ुसरव‐ओ‐दाराब‐ओ‐बहमन,fariiduun-o-jam-o-kai;xusrav-o-daaraab-o-bahman,1
+فریدون و جم و کیخسرو و داراب و بہمن,फ़रीदून‐ओ‐जम‐ओ‐कैख़ुसरव‐ओ‐दाराब‐ओ‐बहमन,fariiduun-o-jam-o-kai;xusrav-o-daaraab-o-bahman,1
 دشنام,दुशनाम,dushnaam,1
 نوک,नोक,nok,1
 سبق,सबक़,sabaq,1
 بجاے دانہ,बजा‐ए‐दाना,bajaa-e daanah,1
-قیدِ حیاتوبندِ غم,क़ैद‐ए‐हयात‐ओ‐बंद‐ए‐ग़म,qaid-e ;hayaat-o-band-e ;gam,1
+قیدِ حیات و بندِ غم,क़ैद‐ए‐हयात‐ओ‐बंद‐ए‐ग़म,qaid-e ;hayaat-o-band-e ;gam,1
 پڑوں,पड़ूँ,pa;ruu;n,1
-گل فشانیہاے نازِ جلوہ,गुलफ़िशानीहा‐ए‐नाज़‐ए‐जलवा,gul-fishaaniihaa-e naaz-e jalvah,1
+گل فشانیہاے نازِ جلوہ,गुल-फ़िशानीहा‐ए‐नाज़‐ए‐जलवा,gul-fishaaniihaa-e naaz-e jalvah,1
 سبب,सबब,sabab,1
 رونقِ ہستی,रौनक़‐ए‐हसती,raunaq-e hastii,1
-آئنہ دار,आइनादार,aa))inah-daar,1
+آئنہ دار,आइना-दार,aa))inah-daar,1
 سپاری,सिपारी,sipaarii,1
 تماشاے بہ,तमाशा‐ए‐ब,tamaashaa-e bah,1
 لانا,लाना,laanaa,1
@@ -2457,37 +2456,37 @@ urdu,nagari,transliteration,count
 موجِ نگہ,मौज‐ए‐निगह,mauj-e nigah,1
 طعنہِ اغیار,ताना‐ए‐अग़यार,:ta((nah-e a;gyaar,1
 انتخاب,इंतिख़ाब,inti;xaab,1
-سرووصنوبر,सरव‐ओ‐सनोबर,sarv-o-.sanobar,1
+سرو و صنوبر,सरव‐ओ‐सनोबर,sarv-o-.sanobar,1
 نالہہاے بلبلِ زار,नालहहा‐ए‐बुलबुल‐ए‐ज़ार,naalah'haa-e bulbul-e zaar,1
-اندوہ ربا,अंदोहरुबा,andoh-rubaa,1
+اندوہ ربا,अंदोह-रुबा,andoh-rubaa,1
 کھینچو,खेंचो,khe;ncho,1
-رستخیز اندازہ,रसतख़ेज़अंदाज़ा,rast;xez-andaazah,1
+رستخیز اندازہ,रसतख़ेज़-अंदाज़ा,rast;xez-andaazah,1
 گردش,गरदिश,gardish,1
-گرمِ نالہہاے شرر بار,गरम‐ए‐नालहहा‐ए‐शररबार,garm-e naalah'haa-e sharar-baar,1
-محشرستانِ بے قراری,महशरिसतान‐ए‐बेक़रारी,ma;hsharistaan-e be-qaraarii,1
+گرمِ نالہہاے شرر بار,गरम‐ए‐नालहहा‐ए‐शरर-बार,garm-e naalah'haa-e sharar-baar,1
+محشرستانِ بے قراری,महशरिसतान‐ए‐बे-क़रारी,ma;hsharistaan-e be-qaraarii,1
 مژگانِ سوزن,मिझ़गान‐ए‐सोज़न,mizhgaan-e sozan,1
-سوداے غزل خوانی,सौदा‐ए‐ग़ज़लख़वानी,saudaa-e ;gazal-;xvaanii,1
+سوداے غزل خوانی,सौदा‐ए‐ग़ज़ल-ख़वानी,saudaa-e ;gazal-;xvaanii,1
 خوے سوال,ख़ू‐ए‐सवाल,;xuu-e savaal,1
 گفتگو,गुफ़तगू,guftguu,1
 چاہوں,चाहूँ,chaahuu;n,1
 شرمندہِ معنی,शरमिंदा‐ए‐मानी,sharmindah-e ma((nii,1
 پیمانہِ صہبا,पैमाना‐ए‐सहबा,paimaanah-e .sahbaa,1
-ذوقِ خامہ فرسا,ज़ौक़‐ए‐ख़ामाफ़रसा,;zauq-e ;xaamah-farsaa,1
+ذوقِ خامہ فرسا,ज़ौक़‐ए‐ख़ामा-फ़रसा,;zauq-e ;xaamah-farsaa,1
 گالیاں,गालियाँ,gaaliyaa;n,1
-فرشِ شش جہتِ انتظار,फ़रश‐ए‐शशजिहत‐ए‐इंतिज़ार,farsh-e shash-jihat-e inti:zaar,1
+فرشِ شش جہتِ انتظار,फ़रश‐ए‐शश-जिहत‐ए‐इंतिज़ार,farsh-e shash-jihat-e inti:zaar,1
 تحمّل,तहममुल,ta;hammul,1
 معاملہ,मुआमला,mu((aamalah,1
 حلقہِ بیرونِ در,हलक़ा‐ए‐बैरून‐ए‐दर,;halqah-e bairuun-e dar,1
 بالینِ یار,बालीन‐ए‐यार,baaliin-e yaar,1
 رخصت,रुख़सत,ru;x.sat,1
 بنِ ہر,बुन‐ए‐हर,bun-e har,1
-رگوپے,रग‐ओ‐पै,rag-o-pai,1
+رگ و پے,रग‐ओ‐पै,rag-o-pai,1
 ذوقِ نظر,ज़ौक़‐ए‐नज़र,;zauq-e na:zar,1
 نمرود,नमरूद,namruud,1
 ہنگامہِ زبونیِ ہمّت,हंगामा‐ए‐ज़बूनी‐ए‐हिममत,hangaamah-e zabuunii-e himmat,1
-سبک سر,सुबुकसर,subuk-sar,1
+سبک سر,सुबुक-सर,subuk-sar,1
 بعدِ مرگ,बाद‐ए‐मरग,ba((d-e marg,1
-بے خبر,बेख़बर,be-;xabar,1
+بے خبر,बे-ख़बर,be-;xabar,1
 آبادی,आबादी,aabaadii,1
 عکسِ رخ,अकस‐ए‐रुख़,((aks-e ru;x,1
 مصلحت,मसलहत,ma.sla;hat,1
@@ -2495,22 +2494,22 @@ urdu,nagari,transliteration,count
 عرق,अरक़,((araq,1
 ارزاں,अरज़ां,arzaa;n,1
 برس,बरस,baras,1
-رنجِ گراں باریِ زنجیر,रंज‐ए‐गिराँबारी‐ए‐ज़ंजीर,ranj-e giraa;n-baarii-e zanjiir,1
+رنجِ گراں باریِ زنجیر,रंज‐ए‐गिराँ-बारी‐ए‐ज़ंजीर,ranj-e giraa;n-baarii-e zanjiir,1
 خانہِ مکتب,ख़ाना‐ए‐मकतब,;xaanah-e maktab,1
 دلِ گداختہ,दिल‐ए‐गुदाख़ता,dil-e gudaa;xtah,1
 طعنہ,ताना,:ta((nah,1
-دل آشفتگاں,दिलआशुफ़तगाँ,dil-aashuftagaa;n,1
-نکتہ چیں,नुकताचीं,nuktah-chii;n,1
-کاکلِ سر کش,काकुल‐ए‐सरकश,kaakul-e sar-kash,1
+دل آشفتگاں,दिल-आशुफ़तगाँ,dil-aashuftagaa;n,1
+نکتہ چیں,नुकता-चीं,nuktah-chii;n,1
+کاکلِ سر کش,काकुल‐ए‐सर-कश,kaakul-e sar-kash,1
 خواہشیں,ख़वाहिशें,;xvaahishe;n,1
-امتیازِ ناقصوکامل,इमतियाज़‐ए‐नाक़िस‐ओ‐कामिल,imtiyaaz-e naaqi.s-o-kaamil,1
+امتیازِ ناقص و کامل,इमतियाज़‐ए‐नाक़िस‐ओ‐कामिल,imtiyaaz-e naaqi.s-o-kaamil,1
 دہانِ زخم,दहान‐ए‐ज़ख़म,dahaan-e za;xm,1
 محوِ تماشاے دماغ,महव‐ए‐तमाशा‐ए‐दिमाग़,ma;hv-e tamaashaa-e dimaa;g,1
-ستم کش,सितमकश,sitam-kash,1
-دیدہِ عبرت نگاہ,दीदा‐ए‐इबरतनिगाह,diidah-e ((ibrat-nigaah,1
+ستم کش,सितम-कश,sitam-kash,1
+دیدہِ عبرت نگاہ,दीदा‐ए‐इबरत-निगाह,diidah-e ((ibrat-nigaah,1
 لڑکپن,लड़कपन,la;rakpan,1
 تارِ نفس,तार‐ए‐नफ़स,taar-e nafas,1
-سر نوشت,सरनविशत,sar-navisht,1
+سر نوشت,सर-नविशत,sar-navisht,1
 طعمہ,तुमा,:tu((mah,1
 صرفِ عبادت,सरफ़‐ए‐इबादत,.sarf-e ((ibaadat,1
 کہنا,कहना,kahnaa,1
@@ -2518,33 +2517,33 @@ urdu,nagari,transliteration,count
 بھولا,भूला,bhuulaa,1
 جنّت,जन्नत,jannat,1
 نشاطِ داغِ غمِ عشق,नशात‐ए‐दाग़‐ए‐ग़म‐ए‐इशक़,nashaa:t-e daa;g-e ;gam-e ((ishq,1
-آئینہِ بے مہریِ قاتل,आईना‐ए‐बेमिहरी‐ए‐क़ातिल,aa))iinah-e be-mihrii-e qaatil,1
-جاں دادہِ ہواے سرِ رہ گزار,जाँदादा‐ए‐हवा‐ए‐सर‐ए‐रागुज़ार,jaa;n-daadah-e havaa-e sar-e rah-guzaar,1
+آئینہِ بے مہریِ قاتل,आईना‐ए‐बे-मिहरी‐ए‐क़ातिल,aa))iinah-e be-mihrii-e qaatil,1
+جاں دادہِ ہواے سرِ رہ گزار,जाँ-दादा‐ए‐हवा‐ए‐सर‐ए‐रा-गुज़ार,jaa;n-daadah-e havaa-e sar-e rah-guzaar,1
 نیّر,नययर,nayyar,1
 بہرِ آشیاں,बहर‐ए‐आशियाँ,bahr-e aashiyaa;n,1
-بے مہریِ یارانِ وطن,बेमिहरी‐ए‐यारान‐ए‐वतन,be-mihrii-e yaaraan-e va:tan,1
-غم خانے,ग़मख़ाने,;gam-;xaane,1
+بے مہریِ یارانِ وطن,बे-मिहरी‐ए‐यारान‐ए‐वतन,be-mihrii-e yaaraan-e va:tan,1
+غم خانے,ग़म-ख़ाने,;gam-;xaane,1
 زلیخا,ज़ुलैख़ा,zulai;xaa,1
 قلزمِ صرصر,क़ुलज़ुम‐ए‐सरसर,qulzum-e .sar.sar,1
 کھاویں‌گے,खावेंगे,khaave;nge,1
 لت,लत,lat,1
-بد تر,बदतर,bad-tar,1
-دشمنِ ایمانوآگہی,दुशमन‐ए‐ईमान‐ओ‐आगही,dushman-e iimaan-o-aagahii,1
+بد تر,बद-तर,bad-tar,1
+دشمنِ ایمان و آگہی,दुशमन‐ए‐ईमान‐ओ‐आगही,dushman-e iimaan-o-aagahii,1
 چھوٹوں,छूटूँ,chhuu;tuu;n,1
 پشتِ چشم,पुशत‐ए‐चशम,pusht-e chashm,1
 وجدِ ذوق,वजद‐ए‐ज़ौक़,vajd-e ;zauq,1
 پرورش,परवरिश,parvarish,1
 اجزا,अजज़ा,ajzaa,1
-نغمہ سرا,नग़मासरा,na;gmah-saraa,1
+نغمہ سرا,नग़मा-सरा,na;gmah-saraa,1
 دیدہِ نخچیر,दीदा‐ए‐नख़चीर,diidah-e na;xchiir,1
-ہم سایے,हमसाये,ham-saaye,1
+ہم سایے,हम-साये,ham-saaye,1
 کرشمہ,किरिशमा,kirishmah,1
 شبِ تنہائی,शब‐ए‐तंहाई,shab-e tanhaa))ii,1
-بے اعتدالیوں,बेएतदालियों,be-i((tidaaliyo;n,1
+بے اعتدالیوں,बे-एतदालियों,be-i((tidaaliyo;n,1
 شاخِ گل,शाख़‐ए‐गुल,shaa;x-e gul,1
 خاتمِ جمشید,ख़ातिम‐ए‐जमशेद,;xaatim-e jamshed,1
 بلائیں,बलाएँ,balaa))e;n,1
-سر نگوں,सरनिगूँ,sar-niguu;n,1
+سر نگوں,सर-निगूँ,sar-niguu;n,1
 ملخ,मलख़,mala;x,1
 رازِ معشوق,राज़‐ए‐माशूक़,raaz-e ma((shuuq,1
 پیوں,पियूँ,piyuu;n,1
@@ -2555,15 +2554,15 @@ urdu,nagari,transliteration,count
 قدرِ ظرف,क़दर‐ए‐ज़रफ़,qadr-e :zarf,1
 دودِ چراغِ کشتہ,दूद‐ए‐चिराग़‐ए‐कुशता,duud-e chiraa;g-e kushtah,1
 دود,दूद,duud,1
-داغ ساماں,दाग़सामाँ,daa;g-saamaa;n,1
-تقلیدِ تنک ظرفیِ منصور,तक़लीद‐ए‐तुनुकज़रफ़ी‐ए‐मंसूर,taqliid-e tunuk-:zarfii-e man.suur,1
+داغ ساماں,दाग़-सामाँ,daa;g-saamaa;n,1
+تقلیدِ تنک ظرفیِ منصور,तक़लीद‐ए‐तुनुक-ज़रफ़ी‐ए‐मंसूर,taqliid-e tunuk-:zarfii-e man.suur,1
 چھڑکے,छिड़के,chhi;rke,1
-آئینہِ تصویر نما,आईना‐ए‐तसवीरनुमा,aa))iinah-e ta.sviir-numaa,1
+آئینہِ تصویر نما,आईना‐ए‐तसवीर-नुमा,aa))iinah-e ta.sviir-numaa,1
 سکھاتا,सिखाता,sikhaataa,1
 بخیہ,बख़या,ba;xyah,1
 موجہِ خوں,मौजा‐ए‐ख़ूँ,maujah-e ;xuu;n,1
 اثرِ آبلہ,असर‐ए‐आबला,a;sar-e aablah,1
-بادہوساغر,बादा‐ओ‐साग़र,baadah-o-saa;gar,1
+بادہ و ساغر,बादा‐ओ‐साग़र,baadah-o-saa;gar,1
 آزمائے,आज़माए,aazmaa))e,1
 پائیں,पाएँ,paa))e;n,1
 بچھائے,बिछाए,bichhaa))e,1
@@ -2575,28 +2574,27 @@ urdu,nagari,transliteration,count
 انگیز,अंगेज़,angez,1
 کاں,काँ,kaa;n,1
 اقبالِ رنجوری,इक़बाल‐ए‐रंजूरी,iqbaal-e ranjuurii,1
-عل؛ای ال رغمِ دشمن,अल;ईअलरग़म‐ए‐दुशमन,((al;ii-al-ra;gm-e dushman,1
 قولِ حضور,क़ौल‐ए‐हुज़ूर,qaul-e ;hu.zuur,1
 مانوں,मानूँ,maanuu;n,1
 انگلیاں,उंगलियाँ,u;ngliyaa;n,1
 پیوند,पैवंद,paivand,1
-در پِ دیوارودر,दरप‐ए‐दीवार‐ओ‐दर,dar-pa-e diivaar-o-dar,1
+در پِ دیوار و در,दर-प‐ए‐दीवार‐ओ‐दर,dar-pa-e diivaar-o-dar,1
 زنجیرِ رسوائی,ज़ंजीर‐ए‐रुसवाई,zanjiir-e rusvaa))ii,1
 گنجائشِ عداوتِ اغیار,गुंजाइश‐ए‐अदावत‐ए‐अग़यार,gunjaa))ish-e ((adaavat-e a;gyaar,1
 مستِ طرب,मसत‐ए‐तरब,mast-e :tarab,1
 تقریبِ سفر,तक़रीब‐ए‐सफ़र,taqriib-e safar,1
 کنگرِ استغنا,कुंगुर‐ए‐इसतिग़ना,kungur-e isti;gnaa,1
-نا رسا,नारसा,naa-rasaa,1
+نا رسا,ना-रसा,naa-rasaa,1
 خفقانی,ख़फ़क़ानी,;xafaqaanii,1
 حسرتا,हसरता,;hasrataa,1
 نقشِ سویدا,नक़श‐ए‐सुवैदा,naqsh-e suvaidaa,1
 معرضِ اظہار,मारिज़‐ए‐इज़हार,ma((ri.z-e i:zhaar,1
-نیم جاں,नीमजाँ,niim-jaa;n,1
+نیم جاں,नीम-जाँ,niim-jaa;n,1
 عالمِ ہستی,आलम‐ए‐हसती,((aalam-e hastii,1
-سادگی آموزِ بتاں,सादगीआमोज़‐ए‐बुताँ,saadagii-aamoz-e butaa;n,1
+سادگی آموزِ بتاں,सादगी-आमोज़‐ए‐बुताँ,saadagii-aamoz-e butaa;n,1
 گزرتا,गुज़रता,guzartaa,1
 شیون,शेवन,shevan,1
-فاقہ مستی,फ़ाक़ामसती,faaqah-mastii,1
+فاقہ مستی,फ़ाक़ा-मसती,faaqah-mastii,1
 دھوتا,धोता,dhotaa,1
 نمودِ صور,नुमूद‐ए‐सुवर,numuud-e .suvar,1
 عیارِ طبعِ خریدار,अयार‐ए‐तब‐ए‐ख़रीदार,((ayaar-e :tab((-e ;xariidaar,1
@@ -2616,47 +2614,47 @@ urdu,nagari,transliteration,count
 خیالِ جلوہِ گل,ख़याल‐ए‐जलवा‐ए‐गुल,;xayaal-e jalvah-e gul,1
 ننگِ سجدہ,नंग‐ए‐सिजदा,nang-e sijdah,1
 مہِ نخشب,मह‐ए‐नख़शब,mah-e na;xshab,1
-شادابِ رنگوسازہا,शादाब‐ए‐रंग‐ओ‐साज़हा,shaadaab-e rang-o-saaz'haa,1
+شادابِ رنگ و سازہا,शादाब‐ए‐रंग‐ओ‐साज़हा,shaadaab-e rang-o-saaz'haa,1
 نفی,नफ़ी,nafii,1
 عرضِ ہنر,अरज़‐ए‐हुनर,((ar.z-e hunar,1
 آبرو,आबरू,aabruu,1
-آب رو,आबरू,aab-ruu,1
+آب رو,आब-रू,aab-ruu,1
 جواہر,जवाहिर,javaahir,1
-مجلس فروزِ خلوتِ ناموس,मजलिसफ़ुरोज़‐ए‐ख़लवत‐ए‐नामूस,majlis-furoz-e ;xalvat-e naamuus,1
-ہوسِ سیروتماشا,हवस‐ए‐सैर‐ओ‐तमाशा,havas-e sair-o-tamaashaa,1
-دامانِ باغ بانوکفِ گل فروش,दामान‐ए‐बाग़बान‐ओ‐कफ़‐ए‐गुलफ़रोश,daamaan-e baa;g-baan-o-kaf-e gul-farosh,1
-پری پیکر,परीपैकर,parii-paikar,1
+مجلس فروزِ خلوتِ ناموس,मजलिस-फ़ुरोज़‐ए‐ख़लवत‐ए‐नामूस,majlis-furoz-e ;xalvat-e naamuus,1
+ہوسِ سیر و تماشا,हवस‐ए‐सैर‐ओ‐तमाशा,havas-e sair-o-tamaashaa,1
+دامانِ باغ بان و کفِ گل فروش,दामान‐ए‐बाग़-बान‐ओ‐कफ़‐ए‐गुल-फ़रोश,daamaan-e baa;g-baan-o-kaf-e gul-farosh,1
+پری پیکر,परी-पैकर,parii-paikar,1
 نزول,नुज़ूल,nuzuul,1
 اکرام,इकराम,ikraam,1
-گل باز,गुलबाज़,gul-baaz,1
+گل باز,गुल-बाज़,gul-baaz,1
 اجازتِ تسلیمِ ہوش,इजाज़त‐ए‐तसलीम‐ए‐होश,ijaazat-e tasliim-e hosh,1
 غمِ زمانہ,ग़म‐ए‐ज़माना,;gam-e zamaanah,1
 سرمایہ,सरमाया,sarmaayah,1
 شجرِ بید,शजर‐ए‐बेद,shajar-e bed,1
 پیو,पियो,piyo,1
 کیش,केश,kesh,1
-بے صرفہ,बेसरफ़ा,be-.sarfah,1
+بے صرفہ,बे-सरफ़ा,be-.sarfah,1
 داب,दाब,daab,1
 آغوشِ گل,आग़ोश‐ए‐गुल,aa;gosh-e gul,1
 گھبرائیں,घबराएँ,ghabraa))e;n,1
-رشکِ ہم طرحیودردِ اثرِ بانگِ حزیں,रशक‐ए‐हमतरही‐ओ‐दरद‐ए‐असर‐ए‐बांग‐ए‐हज़ीं,rashk-e ham-:tar;hii-o-dard-e a;sar-e baa;ng-e ;hazii;n,1
+رشکِ ہم طرحی و دردِ اثرِ بانگِ حزیں,रशक‐ए‐हम-तरही‐ओ‐दरद‐ए‐असर‐ए‐बांग‐ए‐हज़ीं,rashk-e ham-:tar;hii-o-dard-e a;sar-e baa;ng-e ;hazii;n,1
 حرام,हराम,;haraam,1
-شوخِ تند خو,शोख़‐ए‐तुंदख़ू,sho;x-e tund-;xuu,1
-میناے بے شرابودلِ بے ہواے گل,मीना‐ए‐बेशराब‐ओ‐दिल‐ए‐बेहवा‐ए‐गुल,miinaa-e be-sharaab-o-dil-e be-havaa-e gul,1
+شوخِ تند خو,शोख़‐ए‐तुंद-ख़ू,sho;x-e tund-;xuu,1
+میناے بے شراب و دلِ بے ہواے گل,मीना‐ए‐बे-शराब‐ओ‐दिल‐ए‐बे-हवा‐ए‐गुल,miinaa-e be-sharaab-o-dil-e be-havaa-e gul,1
 پھرو,फिरो,phiro,1
 اعضا,आज़ा,a((.zaa,1
 آویں‌گے,आवेंगे,aave;nge,1
 بزمِ طرب,बज़म‐ए‐तरब,bazm-e :tarab,1
 ملنا,मिलना,milnaa,1
 پہنچتے,पहुंचते,pahu;nchte,1
-طرزوروش,तरज़‐ओ‐रविश,:tarz-o-ravish,1
+طرز و روش,तरज़‐ओ‐रविश,:tarz-o-ravish,1
 بردنِ صد,बुरदन‐ए‐सद,burdan-e .sad,1
-آفتاب پرست,आफ़ताबपरसत,aaftaab-parast,1
+آفتاب پرست,आफ़ताब-परसत,aaftaab-parast,1
 خدائی,ख़ुदाई,;xudaa))ii,1
 رہتی,रहती,rahtii,1
 کہویں,कहवें,kahve;n,1
 پرنیاں,परनियाँ,parniyaa;n,1
-کثرت آرائیِ وحدت,कसरतआराई‐ए‐वहदत,ka;srat-aaraa))ii-e va;hdat,1
+کثرت آرائیِ وحدت,कसरत-आराई‐ए‐वहदत,ka;srat-aaraa))ii-e va;hdat,1
 چٹکنا,चटकना,cha;taknaa,1
 حریصِ لخّتِ آزار,हरीस‐ए‐लज़ज़त‐ए‐आज़ार,;harii.s-e la;z;zat-e aazaar,1
 مکیں,मकीं,makii;n,1
@@ -2667,123 +2665,123 @@ urdu,nagari,transliteration,count
 پھول,फूल,phuul,1
 پرتوِ خورشید,परतव‐ए‐ख़ुरशीद,partav-e ;xvurshiid,1
 وحشتِ دل,वहशत‐ए‐दिल,va;hshat-e dil,1
-آئینہ خانے,आईनाख़ाने,aa))iinah-;xaane,1
+آئینہ خانے,आईना-ख़ाने,aa))iinah-;xaane,1
 عمرِ طبیعی,उमर‐ए‐तबीई,((umr-e :tabii((ii,1
-رنگِ تمکینِ گلولالہ,रंग‐ए‐तमकीन‐ए‐गुल‐ओ‐लाला,rang-e tamkiin-e gul-o-laalah,1
+رنگِ تمکینِ گل و لالہ,रंग‐ए‐तमकीन‐ए‐गुल‐ओ‐लाला,rang-e tamkiin-e gul-o-laalah,1
 کشتہِ دشمن,कुशता‐ए‐दुशमन,kushtah-e dushman,1
 پھرتی,फिरती,phirtii,1
 ستائش,सताइश,sataa))ish,1
 تھمتا,थमता,thamtaa,1
 رکتا,रुकता,ruktaa,1
-پئے ہم,पएहम,pa))e-ham,1
+پئے ہم,पए-हम,pa))e-ham,1
 پیکرِ عشّاق,पैकर‐ए‐उशशाक़,paikar-e ((ushshaaq,1
-شورِ سوداے خطّوخال,शोर‐ए‐सौदा‐ए‐ख़तत‐ओ‐ख़ाल,shor-e saudaa-e ;xa:t:t-o-;xaal,1
-گنجہاے گراں مایہ,गंजहा‐ए‐गिराँमाया,ganj'haa-e giraa;n-maayah,1
+شورِ سوداے خطّ و خال,शोर‐ए‐सौदा‐ए‐ख़तत‐ओ‐ख़ाल,shor-e saudaa-e ;xa:t:t-o-;xaal,1
+گنجہاے گراں مایہ,गंजहा‐ए‐गिराँ-माया,ganj'haa-e giraa;n-maayah,1
 نہی,नही,nahii,1
 معذور,माज़ूर,ma((;zuur,1
-در تشنگی مردگاں,दरतिशनगीमुरदगाँ,dar-tishnagii-murdagaa;n,1
-نفس پرور,नफ़सपरवर,nafas-parvar,1
+در تشنگی مردگاں,दर-तिशनगी-मुरदगाँ,dar-tishnagii-murdagaa;n,1
+نفس پرور,नफ़स-परवर,nafas-parvar,1
 مانے,माने,maane,1
-چنگورباب,चंग‐ओ‐रबाब,chang-o-rabaab,1
+چنگ و رباب,चंग‐ओ‐रबाब,chang-o-rabaab,1
 بعدِ یک,बाद‐ए‐यक,ba((d-e yak,1
 واجب,वाजिब,vaajib,1
 لطفِ جلوہہاے معانی,लुतफ़‐ए‐जलवहहा‐ए‐मआनी,lu:tf-e jalvah'haa-e ma((aanii,1
 حرفِ وفا,हरफ़‐ए‐वफ़ा,;harf-e vafaa,1
 خفائی,ख़फ़ाई,;xafaa))ii,1
 محتاجِ حنا,मुहताज‐ए‐हिना,mu;htaaj-e ;hinaa,1
-گنجفہ بازِ خیال,गंजिफ़ाबाज़‐ए‐ख़याल,ganjifah-baaz-e ;xayaal,1
-خوشونا خوش,ख़ुश‐ओ‐नाख़ुश,;xvush-o-naa-;xvush,1
+گنجفہ بازِ خیال,गंजिफ़ा-बाज़‐ए‐ख़याल,ganjifah-baaz-e ;xayaal,1
+خوش و نا خوش,ख़ुश‐ओ‐ना-ख़ुश,;xvush-o-naa-;xvush,1
 مسجود,मसजूद,masjuud,1
 نظّارگی,नज़ज़ारगी,na:z:zaaragii,1
-سر انگشتِ حنائی,सरअंगुशत‐ए‐हिनाई,sar-angusht-e ;hinaa))ii,1
+سر انگشتِ حنائی,सर-अंगुशत‐ए‐हिनाई,sar-angusht-e ;hinaa))ii,1
 کشت,किशत,kisht,1
 مقبول,मक़बूल,maqbuul,1
-آبوگل,आब‐ओ‐गिल,aab-o-gil,1
+آب و گل,आब‐ओ‐गिल,aab-o-gil,1
 بہائی,बहाई,bahaa))ii,1
-خانہ زادِ زلف,ख़ानाज़ाद‐ए‐ज़ुलफ़,;xaanah-zaad-e zulf,1
+خانہ زادِ زلف,ख़ाना-ज़ाद‐ए‐ज़ुलफ़,;xaanah-zaad-e zulf,1
 نزاکت,नज़ाकत,nazaakat,1
-دستِ بتِ بد مست,दसत‐ए‐बुत‐ए‐बदमसत,dast-e but-e bad-mast,1
+دستِ بتِ بد مست,दसत‐ए‐बुत‐ए‐बद-मसत,dast-e but-e bad-mast,1
 جاے خندہ,जा‐ए‐ख़ंदा,jaa-e ;xandah,1
 طالبِ تاثیر,तालिब‐ए‐तासीर,:taalib-e taa;siir,1
 نشاطِ بہار,निशात‐ए‐बहार,nishaa:t-e bahaar,1
-پری رخ,परीरुख़,parii-ru;x,1
-یاس خیز,यासख़ेज़,yaas-;xez,1
+پری رخ,परी-रुख़,parii-ru;x,1
+یاس خیز,यास-ख़ेज़,yaas-;xez,1
 زرد,ज़रद,zard,1
-معزولیِ اندازوادا,माज़ूली‐ए‐अंदाज़‐ओ‐अदा,ma((zuulii-e andaaz-o-adaa,1
-ذوقِ تن آسانی,ज़ौक़‐ए‐तनआसानी,;zauq-e tan-aasaanii,1
+معزولیِ انداز و ادا,माज़ूली‐ए‐अंदाज़‐ओ‐अदा,ma((zuulii-e andaaz-o-adaa,1
+ذوقِ تن آسانی,ज़ौक़‐ए‐तन-आसानी,;zauq-e tan-aasaanii,1
 چکّر,चककर,chakkar,1
 نصیب,नसीब,na.siib,1
 کوہِ طور,कोह‐ए‐तूर,koh-e :tuur,1
 پڑیے,पड़ये,pa;rye,1
 مقرّر,मुक़ररर,muqarrar,1
 شہادت,शहादत,shahaadat,1
-نوا سنجانِ گلشن,नवासंजान‐ए‐गुलशन,navaa-sanjaan-e gulshan,1
+نوا سنجانِ گلشن,नवा-संजान‐ए‐गुलशन,navaa-sanjaan-e gulshan,1
 پرِ پروانہ,पर‐ए‐परवाना,par-e parvaanah,1
 الٹا,उलटा,ul;taa,1
-نوحہ خواں,नौहाख़वाँ,nau;hah-;xvaa;n,1
-ذوق فزا,ज़ौक़फ़िज़ा,;zauq-fizaa,1
+نوحہ خواں,नौहा-ख़वाँ,nau;hah-;xvaa;n,1
+ذوق فزا,ज़ौक़-फ़िज़ा,;zauq-fizaa,1
 مشقِ ناز,मशक़‐ए‐नाज़,mashq-e naaz,1
 مرد,मरद,mard,1
 مرے,मरे,mare,1
 کروگے,करोगे,karoge,1
-شہنشاہِ کواکب سپہومہر علم,शहिंशाह‐ए‐कवाकिबसिपह‐ओ‐मिहरअलम,shahinshaah-e kavaakib-sipah-o-mihr-((alam,1
+شہنشاہِ کواکب سپہ و مہر علم,शहिंशाह‐ए‐कवाकिब-सिपह‐ओ‐मिहर-अलम,shahinshaah-e kavaakib-sipah-o-mihr-((alam,1
 اجازت,इजाज़त,ijaazat,1
-راہورسمِ یاری,राह‐ओ‐रसम‐ए‐यारी,raah-o-rasm-e yaarii,1
-چشموچراغِ صحرا,चशम‐ओ‐चिराग़‐ए‐सहरा,chashm-o-chiraa;g-e .sa;hraa,1
+راہ و رسمِ یاری,राह‐ओ‐रसम‐ए‐यारी,raah-o-rasm-e yaarii,1
+چشم و چراغِ صحرا,चशम‐ओ‐चिराग़‐ए‐सहरा,chashm-o-chiraa;g-e .sa;hraa,1
 ضرر,ज़रर,.zarar,1
-نگاہِ گل چیں,निगाह‐ए‐गुलचीं,nigaah-e gul-chii;n,1
+نگاہِ گل چیں,निगाह‐ए‐गुल-चीं,nigaah-e gul-chii;n,1
 سفیدی,सफ़ेदी,safedii,1
 ہوجو,हूजो,huujo,1
 دعواے جمعیّتِ احباب,दावा‐ए‐जमिययत‐ए‐अहबाब,da((vaa-e jam((iyyat-e a;hbaab,1
-نفسِ جاں گداز,नफ़स‐ए‐जाँगुदाज़,nafas-e jaa;n-gudaaz,1
+نفسِ جاں گداز,नफ़स‐ए‐जाँ-गुदाज़,nafas-e jaa;n-gudaaz,1
 سبزے,सबज़े,sabze,1
 معاف,मुआफ़,mu((aaf,1
 قطرہِ شبنم,क़तरा‐ए‐शबनम,qa:trah-e shabnam,1
-فتنہ خو,फ़ितनाख़ू,fitnah-;xuu,1
-ماہِ شبِ چار دہم,माह‐ए‐शब‐ए‐चारदुहम,maah-e shab-e chaar-duham,1
-بے اختیار,बेइख़तियार,be-i;xtiyaar,1
+فتنہ خو,फ़ितना-ख़ू,fitnah-;xuu,1
+ماہِ شبِ چار دہم,माह‐ए‐शब‐ए‐चार-दुहम,maah-e shab-e chaar-duham,1
+بے اختیار,बे-इख़तियार,be-i;xtiyaar,1
 عام,आम,((aam,1
 دامِ خالی,दाम‐ए‐ख़ाली,daam-e ;xaalii,1
-خوش حال,ख़ुशहाल,;xvush-;haal,1
+خوش حال,ख़ुश-हाल,;xvush-;haal,1
 غمزہ,ग़मज़ा,;gamzah,1
 گناہگار,गुनाहगार,gunaahgaar,1
-فتنہِ طاقت ربا,फ़ितना‐ए‐ताक़तरुबा,fitnah-e :taaqat-rubaa,1
-ترکِ جست جو,तरक‐ए‐जुसतजू,tark-e just-juu,1
-خنجر آزما,ख़ंजरआज़मा,;xanjar-aazmaa,1
+فتنہِ طاقت ربا,फ़ितना‐ए‐ताक़त-रुबा,fitnah-e :taaqat-rubaa,1
+ترکِ جست جو,तरक‐ए‐जुसत-जू,tark-e just-juu,1
+خنجر آزما,ख़ंजर-आज़मा,;xanjar-aazmaa,1
 ہنگامے,हंगामे,hangaame,1
-تجھ سا,तुझसा,tujh-saa,1
-دائم ال حبس,दाइमउलहबस,daa))im-ul-;habs,1
+تجھ سا,तुझ-सा,tujh-saa,1
+دائم ال حبس,दाइम-उल-हबस,daa))im-ul-;habs,1
 مشتِ خس,मुशत‐ए‐ख़स,musht-e ;xas,1
-گداے بے سروپا,गदा‐ए‐बेसर‐ओ‐पा,gadaa-e be-sar-o-paa,1
+گداے بے سر و پا,गदा‐ए‐बे-सर‐ओ‐पा,gadaa-e be-sar-o-paa,1
 لاوےگی,लावेगी,laavegii,1
-شبہاے تارِ برش کال,शबहा‐ए‐तार‐ए‐बरशकाल,shab'haa-e taar-e barsh-kaal,1
+شبہاے تارِ برش کال,शबहा‐ए‐तार‐ए‐बरश-काल,shab'haa-e taar-e barsh-kaal,1
 عشرتِ پارہِ دل,इशरत‐ए‐पारा‐ए‐दिल,((ishrat-e paarah-e dil,1
-دیدہِ خوں بار,दीदा‐ए‐ख़ूँबार,diidah-e ;xuu;n-baar,1
+دیدہِ خوں بار,दीदा‐ए‐ख़ूँ-बार,diidah-e ;xuu;n-baar,1
 کفِ قاتل,कफ़‐ए‐क़ातिल,kaf-e qaatil,1
 غیرِ جلوہِ گل,ग़ैर‐ए‐जलवा‐ए‐गुल,;gair-e jalvah-e gul,1
 لپٹنا,लिपटना,lipa;tnaa,1
 بابِ نبرد,बाब‐ए‐नबरद,baab-e nabard,1
-تازہ واردانِ بساطِ ہواے دل,ताज़ावारिदान‐ए‐बिसात‐ए‐हवा‐ए‐दिल,taazah-vaaridaan-e bisaa:t-e havaa-e dil,1
+تازہ واردانِ بساطِ ہواے دل,ताज़ा-वारिदान‐ए‐बिसात‐ए‐हवा‐ए‐दिल,taazah-vaaridaan-e bisaa:t-e havaa-e dil,1
 گردِ رہِ جولانِ صبا,गरद‐ए‐रह‐ए‐जौलान‐ए‐सबा,gard-e rah-e jaulaan-e .sabaa,1
 تھمے,थमे,thame,1
 کوشش,कोशिश,koshish,1
-دیدہِ بے خواب,दीदा‐ए‐बेख़वाब,diidah-e be-;xvaab,1
+دیدہِ بے خواب,दीदा‐ए‐बे-ख़वाब,diidah-e be-;xvaab,1
 غمِ دل,ग़म‐ए‐दिल,;gam-e dil,1
 صاف,साफ़,.saaf,1
-سینہِ پر خوں,सीना‐ए‐पुरख़ूँ,siinah-e pur-;xuu;n,1
-نو آموزِ فنا,नौआमोज़‐ए‐फ़ना,nau-aamoz-e fanaa,1
+سینہِ پر خوں,सीना‐ए‐पुर-ख़ूँ,siinah-e pur-;xuu;n,1
+نو آموزِ فنا,नौ-आमोज़‐ए‐फ़ना,nau-aamoz-e fanaa,1
 پس,पस,pas,1
-بے دادِ ذوقِ پر فشانی,बेदाद‐ए‐ज़ौक़‐ए‐परफ़िशानी,be-daad-e ;zauq-e par-fishaanii,1
+بے دادِ ذوقِ پر فشانی,बे-दाद‐ए‐ज़ौक़‐ए‐पर-फ़िशानी,be-daad-e ;zauq-e par-fishaanii,1
 انصاف,इंसाफ़,in.saaf,1
 بیمِ رقیب,बीम‐ए‐रक़ीब,biim-e raqiib,1
-مے خانے,मैख़ाने,mai-;xaane,1
+مے خانے,मै-ख़ाने,mai-;xaane,1
 حوادث,हवादिस,;havaadi;s,1
-آلاتِ مے کشی,आलात‐ए‐मैकशी,aalaat-e mai-kashii,1
+آلاتِ مے کشی,आलात‐ए‐मै-कशी,aalaat-e mai-kashii,1
 ذریعہِ راحت,ज़रीअह‐ए‐राहत,;zarii((ah-e raa;hat,1
-کاو کاوِ سخت جانیہاے تنہائی,कावकाव‐ए‐सख़तजानीहा‐ए‐तंहाई,kaav-kaav-e sa;xt-jaaniihaa-e tanhaa))ii,1
+کاو کاوِ سخت جانیہاے تنہائی,काव-काव‐ए‐सख़त-जानीहा‐ए‐तंहाई,kaav-kaav-e sa;xt-jaaniihaa-e tanhaa))ii,1
 طرّہ,तुररा,:turrah,1
 امّت,उममत,ummat,1
-نسیہونقدِ دو عالم,निसया‐ओ‐नक़द‐ए‐दोआलम,nisyah-o-naqd-e do-((aalam,1
+نسیہ و نقدِ دو عالم,निसया‐ओ‐नक़द‐ए‐दो-आलम,nisyah-o-naqd-e do-((aalam,1
 خیالِ زخم,ख़याल‐ए‐ज़ख़म,;xayaal-e za;xm,1
 درسِ عنوانِ تماشا,दरस‐ए‐उंवान‐ए‐तमाशा,dars-e ((unvaan-e tamaashaa,1
 گوشہِ دامن,गोशा‐ए‐दामन,goshah-e daaman,1
@@ -2792,11 +2790,11 @@ urdu,nagari,transliteration,count
 صرفِ بہاے مے,सरफ़‐ए‐बहा‐ए‐मै,.sarf-e bahaa-e mai,1
 حسنِ ظنّ,हुसन‐ए‐ज़ंन,;husn-e :zann,1
 نیش,नेश,nesh,1
-بت شکنی,बुतशिकनी,but-shikanii,1
+بت شکنی,बुत-शिकनी,but-shikanii,1
 نفسِ قیس,नफ़स‐ए‐क़ैस,nafas-e qais,1
-تیغوکفن,तेग़‐ओ‐कफ़न,te;g-o-kafan,1
+تیغ و کفن,तेग़‐ओ‐कफ़न,te;g-o-kafan,1
 عرضِ ستمہاے جدائی,अरज़‐ए‐सितमहा‐ए‐जुदाई,((ar.z-e sitamhaa-e judaa))ii,1
-آرزو خرامی,आरज़ूख़िरामी,aarzuu-;xiraamii,1
+آرزو خرامی,आरज़ू-ख़िरामी,aarzuu-;xiraamii,1
 گری,गिरी,girii,1
 ہئوں,हुओं,hu))o;n,1
 رگِ ہر,रग‐ए‐हर,rag-e har,1
@@ -2806,24 +2804,24 @@ urdu,nagari,transliteration,count
 دعواے رسائی,दावा‐ए‐रसाई,da((vaa-e rasaa))ii,1
 تنکا,तिंका,tinkaa,1
 پاداشِ عمل,पादाश‐ए‐अमल,paadaash-e ((amal,1
-نعل بہا,नालबहा,na((l-bahaa,1
-رو کشی,रूकशी,ruu-kashii,1
+نعل بہا,नाल-बहा,na((l-bahaa,1
+رو کشی,रू-कशी,ruu-kashii,1
 شکن,शिकन,shikan,1
 شانے,शाने,shaane,1
 مبتلاے آفتِ رشک,मुबतला‐ए‐आफ़त‐ए‐रशक,mubtalaa-e aafat-e rashk,1
 صورتِ رشتہِ گوہر,सूरत‐ए‐रिशता‐ए‐गौहर,.suurat-e rishtah-e gauhar,1
 سرِ رہگزار,सर‐ए‐रहगुज़ार,sar-e rahguzaar,1
-سخن ور,सुख़नवर,su;xan-var,1
+سخن ور,सुख़न-वर,su;xan-var,1
 آمدِ سیلابِ طوفانِ صداے آب,आमद‐ए‐सैलाब‐ए‐तूफ़ान‐ए‐सदा‐ए‐आब,aamad-e sailaab-e :tuufaan-e .sadaa-e aab,1
 اقامت,इक़ामत,iqaamat,1
-چارہ جوئی,चाराजूई,chaarah-juu))ii,1
+چارہ جوئی,चारा-जूई,chaarah-juu))ii,1
 فرض,फ़रज़,far.z,1
 زندانیوں,ज़िंदानियों,zindaaniyo;n,1
 نسیم,नसीम,nasiim,1
 نمِ شبنم,नम‐ए‐शबनम,nam-e shabnam,1
 نکالا,निकाला,nikaalaa,1
-اڑتی سی,उड़तीसी,u;rtii-sii,1
-دشواریِ رہوستمِ ہم رہاں,दुशवारी‐ए‐रा‐ओ‐सितम‐ए‐हमरहाँ,dushvaarii-e rah-o-sitam-e ham-rahaa;n,1
+اڑتی سی,उड़ती-सी,u;rtii-sii,1
+دشواریِ رہ و ستمِ ہم رہاں,दुशवारी‐ए‐रा‐ओ‐सितम‐ए‐हम-रहाँ,dushvaarii-e rah-o-sitam-e ham-rahaa;n,1
 بساطِ عجز,बिसात‐ए‐अजज़,bisaa:t-e ((ajz,1
 لیتے,लेते,lete,1
 زخمِ دل,ज़ख़म‐ए‐दिल,za;xm-e dil,1
@@ -2833,7 +2831,7 @@ urdu,nagari,transliteration,count
 موجِ بادہ,मौज‐ए‐बादा,mauj-e baadah,1
 نظّارہ,नज़ज़ारा,na:z:zaarah,1
 دلِ آزردہ,दिल‐ए‐आज़ुरदा,dil-e aazurdah,1
-عیشِ بے تابی,ऐश‐ए‐बेताबी,((aish-e be-taabii,1
+عیشِ بے تابی,ऐश‐ए‐बे-ताबी,((aish-e be-taabii,1
 ناسور,नासूर,naasuur,1
 زیاد,ज़ियाद,ziyaad,1
 چینِ جبیں,चीन‐ए‐जबीं,chiin-e jabii;n,1
@@ -2841,33 +2839,33 @@ urdu,nagari,transliteration,count
 کندھا,कंधा,kandhaa,1
 جاگے,जागे,jaage,1
 ضبطِ شوق,ज़बत‐ए‐शौक़,.zab:t-e shauq,1
-نواے جگر خراش,नवा‐ए‐जिगरख़राश,navaa-e jigar-;xaraash,1
+نواے جگر خراش,नवा‐ए‐जिगर-ख़राश,navaa-e jigar-;xaraash,1
 طاقتِ رم,ताक़त‐ए‐रम,:taaqat-e ram,1
-خاک انداز,ख़ाकअंदाज़,;xaak-andaaz,1
-دیوانِ بے شیرازہ,दीवान‐ए‐बेशीराज़ा,diivaan-e be-shiiraazah,1
+خاک انداز,ख़ाक-अंदाज़,;xaak-andaaz,1
+دیوانِ بے شیرازہ,दीवान‐ए‐बे-शीराज़ा,diivaan-e be-shiiraazah,1
 ساقیِ کوثر,साक़ी‐ए‐कौसर,saaqii-e kau;sar,1
 تاکے,ताके,taake,1
-لخّت یاب,लज़ज़तयाब,la;z;zat-yaab,1
+لخّت یاب,लज़ज़त-याब,la;z;zat-yaab,1
 نالہِ مرغِ سحر,नाला‐ए‐मुरग़‐ए‐सहर,naalah-e mur;g-e sa;har,1
-غزل سرا,ग़ज़लसरा,;gazal-saraa,1
-سر گراں,सरगिराँ,sar-giraa;n,1
+غزل سرا,ग़ज़ल-सरा,;gazal-saraa,1
+سر گراں,सर-गिराँ,sar-giraa;n,1
 صریرِ خامہ,सरीर‐ए‐ख़ामा,.sariir-e ;xaamah,1
 عشرتِ صحبتِ خوباں,इशरत‐ए‐सुहबत‐ए‐ख़ूबाँ,((ishrat-e .su;hbat-e ;xuubaa;n,1
 بزرگ,बुज़ुरग,buzurg,1
 ڈھونڈھے,ढूंढे,;dhuu;n;dhe,1
-رسموراہ,रसम‐ओ‐राह,rasm-o-raah,1
+رسم و راہ,रसम‐ओ‐राह,rasm-o-raah,1
 حاجت,हाजत,;haajat,1
 معدن,मादन,ma((dan,1
 رنگِ شکستہ,रंग‐ए‐शिकसता,rang-e shikastah,1
 اسامی,असामी,asaamii,1
 زمانہِ جوانی,ज़माना‐ए‐जवानी,zamaanah-e javaanii,1
-بے درودیوار,बेदर‐ओ‐दीवार,be-dar-o-diivaar,1
+بے در و دیوار,बे-दर‐ओ‐दीवार,be-dar-o-diivaar,1
 شعلہِ جوّالہ,शुला‐ए‐जववाला,shu((lah-e javvaalah,1
 گریہِ سحری,गिरया‐ए‐सहरी,giryah-e sa;harii,1
 مقدّر,मुक़ददर,muqaddar,1
 نار,नार,naar,1
-فیضِ بے دلی,फ़ैज़‐ए‐बेदिली,fai.z-e be-dilii,1
-جلوہ ریزیِ بادوبہ,जलवारेज़ी‐ए‐बाद‐ओ‐ब,jalvah-rezii-e baad-o-bah,1
+فیضِ بے دلی,फ़ैज़‐ए‐बे-दिली,fai.z-e be-dilii,1
+جلوہ ریزیِ باد و بہ,जलवा-रेज़ी‐ए‐बाद‐ओ‐ब,jalvah-rezii-e baad-o-bah,1
 مکاں,मकाँ,makaa;n,1
 معتقدِ میر,मुतक़िद‐ए‐मीर,mu((taqid-e miir,1
 حرکت,हरकत,;harakat,1
@@ -2876,22 +2874,22 @@ urdu,nagari,transliteration,count
 شہود,शुहूद,shuhuud,1
 عرقِ انفعال,अरक़‐ए‐इंफ़िाल,((araq-e infi((aal,1
 شہیدِ وفا,शहीद‐ए‐वफ़ा,shahiid-e vafaa,1
-آغوش کشائی,आग़ोशकुशाई,aa;gosh-kushaa))ii,1
+آغوش کشائی,आग़ोश-कुशाई,aa;gosh-kushaa))ii,1
 سازِ ہستی,साज़‐ए‐हसती,saaz-e hastii,1
 پرتوِ خور,परतव‐ए‐ख़ुर,partav-e ;xvur,1
 مرگِ ناگہانی,मरग‐ए‐नागहानी,marg-e naagahaanii,1
-عشقِ خانہ ویراں ساز,इशक़‐ए‐ख़ानावीराँसाज़,((ishq-e ;xaanah-viiraa;n-saaz,1
+عشقِ خانہ ویراں ساز,इशक़‐ए‐ख़ाना-वीराँ-साज़,((ishq-e ;xaanah-viiraa;n-saaz,1
 دمِ شمشیر,दम‐ए‐शमशीर,dam-e shamshiir,1
 چرخِ مکوکب,चरख़‐ए‐मुकौकब,char;x-e mukaukab,1
 بہارِ ناز,बहार‐ए‐नाज़,bahaar-e naaz,1
 رکتی,रुकती,ruktii,1
-چاہنے والا,चाहनेवाला,chaahne-vaalaa,1
+چاہنے والا,चाहने-वाला,chaahne-vaalaa,1
 برائے,बराए,baraa))e,1
-غمزہوعشوہوادا,ग़मज़ा‐ओ‐इशवा‐ओ‐अदा,;gamzah-o-((ishvah-o-adaa,1
+غمزہ و عشوہ و ادا,ग़मज़ा‐ओ‐इशवा‐ओ‐अदा,;gamzah-o-((ishvah-o-adaa,1
 داغِ فراقِ صحبتِ شب,दाग़‐ए‐फ़िराक़‐ए‐सुहबत‐ए‐शब,daa;g-e firaaq-e .su;hbat-e shab,1
-در خور,दरख़वर,dar-;xvar,1
-سرِ پر شور,सर‐ए‐पुरशोर,sar-e pur-shor,1
-چشمِ فسوں گر,चशम‐ए‐फ़ुसूँगर,chashm-e fusuu;n-gar,1
+در خور,दर-ख़वर,dar-;xvar,1
+سرِ پر شور,सर‐ए‐पुर-शोर,sar-e pur-shor,1
+چشمِ فسوں گر,चशम‐ए‐फ़ुसूँ-गर,chashm-e fusuu;n-gar,1
 اوک,ओक,ok,1
 آنسو,आंसू,aa;nsuu,1
 نواہاے راز,नवाहा‐ए‐राज़,navaahaa-e raaz,1
@@ -2905,82 +2903,82 @@ urdu,nagari,transliteration,count
 ترکش,तरकश,tarkash,1
 گھبراۓگا,घबराएगा,ghabraa))egaa,1
 جلتی,जलती,jaltii,1
-بے خونِ دل,बेख़ून‐ए‐दिल,be-;xuun-e dil,1
+بے خونِ دل,बे-ख़ून‐ए‐दिल,be-;xuun-e dil,1
 رہوں,रहूँ,rahuu;n,1
 نقشا,नक़शा,naqshaa,1
-در خورِ عقدِ گہر,दरख़ुर‐ए‐अक़द‐ए‐गुहर,dar-;xvur-e ((aqd-e guhar,1
+در خورِ عقدِ گہر,दर-ख़ुर‐ए‐अक़द‐ए‐गुहर,dar-;xvur-e ((aqd-e guhar,1
 محیطِ بادہ,मुहीत‐ए‐बादा,mu;hii:t-e baadah,1
-ویرانی سی,वीरानीसी,viiraanii-sii,1
-دل ستانی,दिलसितानी,dil-sitaanii,1
+ویرانی سی,वीरानी-सी,viiraanii-sii,1
+دل ستانی,दिल-सितानी,dil-sitaanii,1
 بعدِ قتل,बाद‐ए‐क़तल,ba((d-e qatl,1
-غلط بردار,ग़लतबरदार,;gala:t-bardaar,1
+غلط بردار,ग़लत-बरदार,;gala:t-bardaar,1
 بجاے خود,बजा‐ए‐ख़ुद,bajaa-e ;xvud,1
 سرد,सरद,sard,1
 صیدِ ز دام,सैद‐ए‐ज़ दाम,.said-e z daam,1
-فریادیِ بے دادِ دلبر,फ़रयादी‐ए‐बेदाद‐ए‐दिलबर,faryaadii-e be-daad-e dilbar,1
+فریادیِ بے دادِ دلبر,फ़रयादी‐ए‐बे-दाद‐ए‐दिलबर,faryaadii-e be-daad-e dilbar,1
 جنبشِ جوہر,जुंबिश‐ए‐जौहर,junbish-e jauhar,1
-نا امّیدواری,नाउममीदवारी,naa-ummiidvaarii,1
+نا امّیدواری,ना-उममीदवारी,naa-ummiidvaarii,1
 طاقتِ گفتار,ताक़त‐ए‐गुफ़तार,:taaqat-e guftaar,1
 مکافات,मुकाफ़ात,mukaafaat,1
 عقوبت,उक़ूबत,((uquubat,1
 بیدل,बेदिल,bedil,1
 گفتہِ غالب,गुफ़ता‐ए‐ग़ालिब,guftah-e ;gaalib,1
-آئنہ خانے,आइनाख़ाने,aa))inah-;xaane,1
+آئنہ خانے,आइना-ख़ाने,aa))inah-;xaane,1
 لخّتِ الم,लज़ज़त‐ए‐अलम,la;z;zat-e alam,1
 حمّام,हममाम,;hammaam,1
-عشقِ پر عربدہ,इशक़‐ए‐पुरअरबदा,((ishq-e pur-((arbadah,1
+عشقِ پر عربدہ,इशक़‐ए‐पुर-अरबदा,((ishq-e pur-((arbadah,1
 واقعہ,वाक़िअह,vaaqi((ah,1
 بیدادِ وفا,बेदाद‐ए‐वफ़ा,bedaad-e vafaa,1
-غم گساری,ग़मगुसारी,;gam-gusaarii,1
+غم گساری,ग़म-गुसारी,;gam-gusaarii,1
 پاے افگار,पा‐ए‐अफ़गार,paa-e afgaar,1
 ذوقِ نواے مرغِ بستانی,ज़ौक़‐ए‐नवा‐ए‐मुरग़‐ए‐बुसतानी,;zauq-e navaa-e mur;g-e bustaanii,1
 خاکِ گلشن,ख़ाक‐ए‐गुलशन,;xaak-e gulshan,1
 بالِ تدرو,बाल‐ए‐तदरव,baal-e tadarv,1
 سرحدِ ادراک,सरहद‐ए‐इदराक,sar;had-e idraak,1
-جادہِ سر منزلِ تقویٰ,जादा‐ए‐सरमंज़िल‐ए‐तक़वा,jaadah-e sar-manzil-e taqv;aa,1
+جادہِ سر منزلِ تقویٰ,जादा‐ए‐सर-मंज़िल‐ए‐तक़वा,jaadah-e sar-manzil-e taqv;aa,1
 لگنے,लगने,lagne,1
-بے مزا,बेमज़ा,be-mazaa,1
+بے مزا,बे-मज़ा,be-mazaa,1
 وقتِ شام,वक़त‐ए‐शाम,vaqt-e shaam,1
 عتاب,अताब,((ataab,1
 ذہن,ज़हन,;zahn,1
-تیز رو,तेज़रौ,tez-rau,1
-سست رو,सुसतरू,sust-ruu,1
+تیز رو,तेज़-रौ,tez-rau,1
+سست رو,सुसत-रू,sust-ruu,1
 حقِّ صحبتِ اہلِ کنشت,हक़क़‐ए‐सुहबत‐ए‐अहल‐ए‐कुनिशत,;haqq-e .su;hbat-e ahl-e kunisht,1
-نقشونگارِ طاقِ نسیاں,नक़श‐ओ‐निगार‐ए‐ताक़‐ए‐निसयाँ,naqsh-o-nigaar-e :taaq-e nisyaa;n,1
+نقش و نگارِ طاقِ نسیاں,नक़श‐ओ‐निगार‐ए‐ताक़‐ए‐निसयाँ,naqsh-o-nigaar-e :taaq-e nisyaa;n,1
 عرصہِ آفاق,अरसा‐ए‐आफ़ाक़,((ar.sah-e aafaaq,1
 کھوئے,खोए,kho))e,1
 جاؤگے,जाओगे,jaa))oge,1
-بے دماغ,बेदिमाग़,be-dimaa;g,1
-جامِ واژ گوں,जाम‐ए‐वाझ़गूँ,jaam-e vaazh-guu;n,1
-ذوقِ وصلویادِ یار,ज़ौक़‐ए‐वसल‐ओ‐याद‐ए‐यार,;zauq-e va.sl-o-yaad-e yaar,1
+بے دماغ,बे-दिमाग़,be-dimaa;g,1
+جامِ واژ گوں,जाम‐ए‐वाझ़-गूँ,jaam-e vaazh-guu;n,1
+ذوقِ وصل و یادِ یار,ज़ौक़‐ए‐वसल‐ओ‐याद‐ए‐यार,;zauq-e va.sl-o-yaad-e yaar,1
 تشنگیِ شوق,तिशनगी‐ए‐शौक़,tishnagii-e shauq,1
 نافہ,नाफ़ा,naafah,1
 دشتِ قیس,दशत‐ए‐क़ैस,dasht-e qais,1
-گزر گاہِ خیال,गुज़रगाह‐ए‐ख़याल,guzar-gaah-e ;xayaal,1
+گزر گاہِ خیال,गुज़र-गाह‐ए‐ख़याल,guzar-gaah-e ;xayaal,1
 کشاکشہاے ہستی,कशाकशहा‐ए‐हसती,kashaakash'haa-e hastii,1
 بہاے متاعِ ہنر,बहा‐ए‐मता‐ए‐हुनर,bahaa-e mataa((-e hunar,1
 تسکینِ اضطراب,तसकीन‐ए‐इज़तिराब,taskiin-e i.z:tiraab,1
-جمالِ دل فروز,जमाल‐ए‐दिलफ़ुरोज़,jamaal-e dil-furoz,1
-نشیبوفراز,नशेब‐ओ‐फ़राज़,nasheb-o-faraaz,1
-نگہِ چشمِ سرمہ سا,निगा‐ए‐चशम‐ए‐सुरमासा,nigah-e chashm-e surmah-saa,1
+جمالِ دل فروز,जमाल‐ए‐दिल-फ़ुरोज़,jamaal-e dil-furoz,1
+نشیب و فراز,नशेब‐ओ‐फ़राज़,nasheb-o-faraaz,1
+نگہِ چشمِ سرمہ سا,निगा‐ए‐चशम‐ए‐सुरमा-सा,nigah-e chashm-e surmah-saa,1
 موے شیشہ,मू‐ए‐शीशा,muu-e shiishah,1
 جادہِ راہِ فنا,जादा‐ए‐राह‐ए‐फ़ना,jaadah-e raah-e fanaa,1
 لباسِ کعبہ,लिबास‐ए‐काबा,libaas-e ka((bah,1
 آتشِ دوزخ,आतिश‐ए‐दोज़ख़,aatish-e doza;x,1
 جلانے,जलाने,jalaane,1
-مے پرستاں,मैपरसताँ,mai-parastaa;n,1
+مے پرستاں,मै-परसताँ,mai-parastaa;n,1
 سوارِ سمندِ ناز,सवार‐ए‐समंद‐ए‐नाज़,savaar-e samand-e naaz,1
 کثرتِ نظّارہ,कसरत‐ए‐नज़ज़ारा,ka;srat-e na:z:zaarah,1
 چھوڑیں‌گے,छोड़ेंगे,chho;re;nge,1
-روزِ بازارِ جاں سپاری,रोज़‐ए‐बाज़ार‐ए‐जाँसिपारी,roz-e baazaar-e jaa;n-sipaarii,1
+روزِ بازارِ جاں سپاری,रोज़‐ए‐बाज़ार‐ए‐जाँ-सिपारी,roz-e baazaar-e jaa;n-sipaarii,1
 زنانِ مصر,ज़नान‐ए‐मिसर,zanaan-e mi.sr,1
 سرِ رشتہِ وفا,सर‐ए‐रिशता‐ए‐वफ़ा,sar-e rishtah-e vafaa,1
 مشاہدہ,मुशाहदा,mushaahadah,1
 بجھائے,बुझाए,bujhaa))e,1
-وا بستہِ تن,वाबसता‐ए‐तन,vaa-bastah-e tan,1
-مژہِ خواب ناک,मिझ़ा‐ए‐ख़वाबनाक,mizhah-e ;xvaab-naak,1
+وا بستہِ تن,वा-बसता‐ए‐तन,vaa-bastah-e tan,1
+مژہِ خواب ناک,मिझ़ा‐ए‐ख़वाब-नाक,mizhah-e ;xvaab-naak,1
 باربدِ بزمِ سخن,बारबुद‐ए‐बज़म‐ए‐सुख़न,baarbud-e bazm-e su;xan,1
-ماتمِ یک شہر,मातम‐ए‐यकशहर,maatam-e yak-shahr,1
+ماتمِ یک شہر,मातम‐ए‐यक-शहर,maatam-e yak-shahr,1
 جھاڑی,झाड़ी,jhaa;rii,1
 کبابِ دلِ سمندر,कबाब‐ए‐दिल‐ए‐समंदर,kabaab-e dil-e samandar,1
 بندِ قبا,बंद‐ए‐क़बा,band-e qabaa,1
@@ -2996,24 +2994,24 @@ urdu,nagari,transliteration,count
 خلش,ख़लिश,;xalish,1
 جواہرِ طرفِ کلہ,जवाहिर‐ए‐तरफ़‐ए‐कुलह,javaahir-e :tarf-e kulah,1
 حمزہ,हमज़ा,;hamzah,1
-ہم نشیں,हमनिशीं,ham-nishii;n,1
+ہم نشیں,हम-निशीं,ham-nishii;n,1
 طلسمِ دلِ سائل,तिलिसम‐ए‐दिल‐ए‐साइल,:tilism-e dil-e saa))il,1
 ٹیڑھا,टेढ़ा,;te;rhaa,1
-در خورِ عرض,दरख़ुर‐ए‐अरज़,dar-;xvur-e ((ar.z,1
+در خورِ عرض,दर-ख़ुर‐ए‐अरज़,dar-;xvur-e ((ar.z,1
 غزل,ग़ज़ल,;gazal,1
-غم ناک,ग़मनाक,;gam-naak,1
-نوحہ گر,नौहागर,nau;hah-gar,1
+غم ناک,ग़म-नाक,;gam-naak,1
+نوحہ گر,नौहा-गर,nau;hah-gar,1
 لپٹا,लिपटा,lip;taa,1
 دمِ ذکر,दम‐ए‐ज़िकर,dam-e ;zikr,1
 جامِ جم,जाम‐ए‐जम,jaam-e jam,1
 ادب,अदब,adab,1
 سینہِ بسمل,सीना‐ए‐बिसमिल,siinah-e bismil,1
-سازِ طالعِ نا ساز,साज़‐ए‐तालि‐ए‐नासाज़,saaz-e :taali((-e naa-saaz,1
-وا رستگی,वारसतगी,vaa-rastagii,1
+سازِ طالعِ نا ساز,साज़‐ए‐तालि‐ए‐ना-साज़,saaz-e :taali((-e naa-saaz,1
+وا رستگی,वा-रसतगी,vaa-rastagii,1
 پرستش,परसतिश,parastish,1
 گرفتارِ الفتِ صیّاد,गिरिफ़तार‐ए‐उलफ़त‐ए‐सययाद,giriftaar-e ulfat-e .sayyaad,1
 کشمکشِ چارہِ زحمت,कशमकश‐ए‐चारा‐ए‐ज़हमत,kashmakash-e chaarah-e za;hmat,1
-پر خار,पुरख़ार,pur-;xaar,1
+پر خار,पुर-ख़ार,pur-;xaar,1
 آئنہِ برگِ گل,आइना‐ए‐बरग‐ए‐गुल,aa))inah-e barg-e gul,1
 جوہرِ بیداد,जौहर‐ए‐बेदाद,jauhar-e bedaad,1
 سلطنت,सुलतनत,sul:tanat,1
@@ -3025,75 +3023,75 @@ urdu,nagari,transliteration,count
 بہانہِ راحت,बहाना‐ए‐राहत,bahaanah-e raa;hat,1
 چین,चैन,chain,1
 کفِ ہر,कफ़‐ए‐हर,kaf-e har,1
-غرورِ عزّوناز,ग़ुरूर‐ए‐इज़ज़‐ओ‐नाज़,;guruur-e ((izz-o-naaz,1
+غرورِ عزّ و ناز,ग़ुरूर‐ए‐इज़ज़‐ओ‐नाज़,;guruur-e ((izz-o-naaz,1
 افسردگیِ دل,अफ़सुरदगी‐ए‐दिल,afsurdagii-e dil,1
-رو کشِ سطحِ چرخِ مینائی,रूकश‐ए‐सतह‐ए‐चरख़‐ए‐मीनाई,ruu-kash-e sa:t;h-e char;x-e miinaa))ii,1
+رو کشِ سطحِ چرخِ مینائی,रू-कश‐ए‐सतह‐ए‐चरख़‐ए‐मीनाई,ruu-kash-e sa:t;h-e char;x-e miinaa))ii,1
 غالبِ خستہ,ग़ालिब‐ए‐ख़सता,;gaalib-e ;xastah,1
-مہر گیا,मिहरगिया,mihr-giyaa,1
+مہر گیا,मिहर-गिया,mihr-giyaa,1
 پارہِ دل,पारा‐ए‐दिल,paarah-e dil,1
 سوے غیر,सू‐ए‐ग़ैर,suu-e ;gair,1
 اگا,उगा,ugaa,1
-خونِ دو عالم,ख़ून‐ए‐दोआलम,;xuun-e do-((aalam,1
+خونِ دو عالم,ख़ून‐ए‐दो-आलम,;xuun-e do-((aalam,1
 نکمّا,निकममा,nikammaa,1
 رنگارنگ,रंगारंग,rangaarang,1
 اختلاط,इख़तिलात,i;xtilaa:t,1
-ناصیہ فرسا,नासियाफ़रसा,naa.siyah-farsaa,1
+ناصیہ فرسا,नासिया-फ़रसा,naa.siyah-farsaa,1
 وحشتِ آتشِ دل,वहशत‐ए‐आतिश‐ए‐दिल,va;hshat-e aatish-e dil,1
 تشویشِ مرہم,तशवीश‐ए‐मरहम,tashviish-e marham,1
-تعزیتِ مہرووفا,ताज़ियत‐ए‐मिहर‐ओ‐वफ़ा,ta((ziyat-e mihr-o-vafaa,1
-سرِ نشوونما,सर‐ए‐नशव‐ओ‐नुमा,sar-e nashv-o-numaa,1
+تعزیتِ مہر و وفا,ताज़ियत‐ए‐मिहर‐ओ‐वफ़ा,ta((ziyat-e mihr-o-vafaa,1
+سرِ نشو و نما,सर‐ए‐नशव‐ओ‐नुमा,sar-e nashv-o-numaa,1
 ایں,ईं,ii;n,1
 ملیں,मिलें,mile;n,1
 صبحِ بہارِ نظارہ,सुबह‐ए‐बहार‐ए‐नज़ारा,.sub;h-e bahaar-e na:zaarah,1
 جذبِ دل,जज़ब‐ए‐दिल,ja;zb-e dil,1
 صیّاد,सैयाद,.saiyaad,1
-مے خانہ,मैख़ाना,mai-;xaanah,1
+مے خانہ,मै-ख़ाना,mai-;xaanah,1
 بنی,बनी,banii,1
 لگاوے,लगावे,lagaave,1
 اٹھاتے,उठाते,u;thaate,1
 بارِ خدا,बार‐ए‐ख़ुदा,baar-e ;xudaa,1
-ستارہِ گوہر فروش,सितारा‐ए‐गौहरफ़रोश,sitaarah-e gauhar-farosh,1
-پردہ سنجِ زمزمہِ ال اماں,परदासंज‐ए‐ज़मज़मा‐ए‐अलअमाँ,pardah-sanj-e zamzamah-e al-amaa;n,1
+ستارہِ گوہر فروش,सितारा‐ए‐गौहर-फ़रोश,sitaarah-e gauhar-farosh,1
+پردہ سنجِ زمزمہِ ال اماں,परदा-संज‐ए‐ज़मज़मा‐ए‐अल-अमाँ,pardah-sanj-e zamzamah-e al-amaa;n,1
 انگلی,उंगली,u;nglii,1
-کاغذِ آتش زدہ,काग़ज़‐ए‐आतिशज़दह,kaa;ga;z-e aatish-zadah,1
-ستم ظریف,सितमज़रीफ़,sitam-:zariif,1
+کاغذِ آتش زدہ,काग़ज़‐ए‐आतिश-ज़दह,kaa;ga;z-e aatish-zadah,1
+ستم ظریف,सितम-ज़रीफ़,sitam-:zariif,1
 ختم,ख़तम,;xatm,1
 کھینچیے,खेंचिये,khe;nchiye,1
 کائی,काई,kaa))ii,1
-بر سبیلِ شکایت,बरसबील‐ए‐शिकायत,bar-sabiil-e shikaayat,1
-ہنگامہ آرا,हंगामाआरा,hangaamah-aaraa,1
-عرضِ گراں جانی,अरज़‐ए‐गिराँजानी,((ar.z-e giraa;n-jaanii,1
+بر سبیلِ شکایت,बर-सबील‐ए‐शिकायत,bar-sabiil-e shikaayat,1
+ہنگامہ آرا,हंगामा-आरा,hangaamah-aaraa,1
+عرضِ گراں جانی,अरज़‐ए‐गिराँ-जानी,((ar.z-e giraa;n-jaanii,1
 اہلِ سخن,अहल‐ए‐सुख़न,ahl-e su;xan,1
-دستوپا,दसत‐ओ‐पा,dast-o-paa,1
+دست و پا,दसत‐ओ‐पा,dast-o-paa,1
 سلکِ عافیت,सिलक‐ए‐आफ़ियत,silk-e ((aafiyat,1
 لبِ افسوس,लब‐ए‐अफ़सूस,lab-e afsuus,1
 مثلِ گلِ شمع,मिसल‐ए‐गुल‐ए‐शमा,mi;sl-e gul-e sham((a,1
-سر نگونی,सरनिगूनी,sar-niguunii,1
+سر نگونی,सर-निगूनी,sar-niguunii,1
 ڈھونڈھا,ढूंढा,;dhuu;n;dhaa,1
 پاے سخن,पा‐ए‐सुख़न,paa-e su;xan,1
 تمنّائیں,तमन्नाएँ,tamannaa))e;n,1
-معشوقیوبے حوصلگی,माशूक़ी‐ओ‐बेहौसलगी,ma((shuuqii-o-be-;hau.salagii,1
-خود داریِ ساحل,ख़ुददारी‐ए‐साहिल,;xvud-daarii-e saa;hil,1
+معشوقی و بے حوصلگی,माशूक़ी‐ओ‐बे-हौसलगी,ma((shuuqii-o-be-;hau.salagii,1
+خود داریِ ساحل,ख़ुद-दारी‐ए‐साहिल,;xvud-daarii-e saa;hil,1
 براتِ معاشِ جنونِ عشق,बरात‐ए‐मआश‐ए‐जुनून‐ए‐इशक़,baraat-e ma((aash-e junuun-e ((ishq,1
 دماغِ عطرِ پیراہن,दिमाग़‐ए‐इतर‐ए‐पैराहन,dimaa;g-e ((i:tr-e pairaahan,1
 طبیعتوں,तबीअतों,:tabii((ato;n,1
-آب جو,आबजू,aab-juu,1
-دارورسن,दार‐ओ‐रसन,daar-o-rasan,1
+آب جو,आब-जू,aab-juu,1
+دار و رسن,दार‐ओ‐रसन,daar-o-rasan,1
 رنگِ پنبہ,रंग‐ए‐पुंबा,rang-e punbah,1
-خوش نوایانِ چمن,ख़ुशनवायान‐ए‐चमन,;xvush-navaayaan-e chaman,1
+خوش نوایانِ چمن,ख़ुश-नवायान‐ए‐चमन,;xvush-navaayaan-e chaman,1
 سواے حسرتِ تعمیر,सिवा‐ए‐हसरत‐ए‐तामीर,sivaa-e ;hasrat-e ta((miir,1
-حسنِ خود آرا,हुसन‐ए‐ख़ुदआरा,;husn-e ;xvud-aaraa,1
+حسنِ خود آرا,हुसन‐ए‐ख़ुद-आरा,;husn-e ;xvud-aaraa,1
 طوفانِ طرب,तूफ़ान‐ए‐तरब,:tuufaan-e :tarab,1
 جامِ زمرّد,जाम‐ए‐ज़ुमुररुद,jaam-e zumurrud,1
 کششِ کافِ کرم,कशश‐ए‐काफ़‐ए‐करम,kashash-e kaaf-e karam,1
-یک جہاں,यकजहाँ,yak-jahaa;n,1
+یک جہاں,यक-जहाँ,yak-jahaa;n,1
 تغافلہاے ساقی,तग़ाफ़ुलहा‐ए‐साक़ी,ta;gaafulhaa-e saaqii,1
-بے عشق,बेइशक़,be-((ishq,1
-لطفِ بد خویاں,लुतफ़‐ए‐बदख़ूयाँ,lu:tf-e bad-;xuuyaa;n,1
-وجہِ سیہ مستیِ اربابِ چمن,वजह‐ए‐सियहमसती‐ए‐अरबाब‐ए‐चमन,vaj'h-e siyah-mastii-e arbaab-e chaman,1
-پری چہرہ,परीचहरा,parii-chahrah,1
+بے عشق,बे-इशक़,be-((ishq,1
+لطفِ بد خویاں,लुतफ़‐ए‐बद-ख़ूयाँ,lu:tf-e bad-;xuuyaa;n,1
+وجہِ سیہ مستیِ اربابِ چمن,वजह‐ए‐सियह-मसती‐ए‐अरबाब‐ए‐चमन,vaj'h-e siyah-mastii-e arbaab-e chaman,1
+پری چہرہ,परी-चहरा,parii-chahrah,1
 رہنا,रहना,rahnaa,1
-بے پردہ,बेपरदा,be-pardah,1
+بے پردہ,बे-परदा,be-pardah,1
 جنگل,जंगल,jangal,1
 نامہِ دلدار,नामा‐ए‐दिलदार,naamah-e dildaar,1
 سمجھیو,समझयो,samajhyo,1
@@ -3101,13 +3099,13 @@ urdu,nagari,transliteration,count
 جوشِ رشک,जोश‐ए‐रशक,josh-e rashk,1
 ارم,इरम,iram,1
 زخمِ تمنّا,ज़ख़म‐ए‐तमन्ना,za;xm-e tamannaa,1
-صاعقہوشعلہوسیماب,साइक़ा‐ओ‐शुला‐ओ‐सीमाब,.saa((iqah-o-shu((lah-o-siimaab,1
-نکتہ سرا,नुकतासरा,nuktah-saraa,1
+صاعقہ و شعلہ و سیماب,साइक़ा‐ओ‐शुला‐ओ‐सीमाब,.saa((iqah-o-shu((lah-o-siimaab,1
+نکتہ سرا,नुकता-सरा,nuktah-saraa,1
 بھاگا,भागा,bhaagaa,1
 چھیڑوں,छेड़ूँ,chhe;ruu;n,1
-جلوہ زارِ آتشِ دوزخ,जलवाज़ार‐ए‐आतिश‐ए‐दोज़ख़,jalvah-zaar-e aatish-e doza;x,1
+جلوہ زارِ آتشِ دوزخ,जलवा-ज़ार‐ए‐आतिश‐ए‐दोज़ख़,jalvah-zaar-e aatish-e doza;x,1
 زمرّد,ज़ुमुररुद,zumurrud,1
-سامانِ صد ہزار,सामान‐ए‐सदहज़ार,saamaan-e .sad-hazaar,1
+سامانِ صد ہزار,सामान‐ए‐सद-हज़ार,saamaan-e .sad-hazaar,1
 ذلیل,ज़लील,;zaliil,1
 اچھل,उछल,uchhal,1
 بزمِ عیشِ دوست,बज़म‐ए‐ऐश‐ए‐दोसत,bazm-e ((aish-e dost,1
@@ -3118,52 +3116,52 @@ urdu,nagari,transliteration,count
 سیرِ گلستاں,सैर‐ए‐गुलिसताँ,sair-e gulistaa;n,1
 آرمیدگی,आरमीदगी,aaramiidagii,1
 بندِ نقابِ حسن,बंद‐ए‐नक़ाब‐ए‐हुसन,band-e naqaab-e ;husn,1
-ز بسکہ,ज़बसकि,z-baskih,1
+ز بسکہ,ज़-बसकि,z-baskih,1
 نمو,नुमू,numuu,1
-بے طلب,बेतलब,be-:talab,1
-مقابلودعواے عشق,मुक़ाबिल‐ओ‐दावा‐ए‐इशक़,muqaabil-o-da((vaa-e ((ishq,1
+بے طلب,बे-तलब,be-:talab,1
+مقابل و دعواے عشق,मुक़ाबिल‐ओ‐दावा‐ए‐इशक़,muqaabil-o-da((vaa-e ((ishq,1
 چلتی,चलती,chaltii,1
 پوچھنے,पूछने,puuchhne,1
 ضبط,ज़बत,.zab:t,1
 باعث,बाइस,baa((i;s,1
-دادوستد,दाद‐ओ‐सितद,daad-o-sitad,1
-خوں شدہِ کشمکشِ حسرتِ دیدار,ख़ूँशुदा‐ए‐कशमकश‐ए‐हसरत‐ए‐दीदार,;xuu;n-shudah-e kashmakash-e ;hasrat-e diidaar,1
+داد و ستد,दाद‐ओ‐सितद,daad-o-sitad,1
+خوں شدہِ کشمکشِ حسرتِ دیدار,ख़ूँ-शुदा‐ए‐कशमकश‐ए‐हसरत‐ए‐दीदार,;xuu;n-shudah-e kashmakash-e ;hasrat-e diidaar,1
 غنچہِ گل,ग़ुंचा‐ए‐गुल,;gunchah-e gul,1
 شعر,शिर,shi((r,1
 شدّت,शिददत,shiddat,1
-شکوہ سنجِ رشکِ ہم دیگر,शिकवासंज‐ए‐रशक‐ए‐हमदीगर,shikvah-sanj-e rashk-e ham-diigar,1
-بے ایّامِ گل,बेअययाम‐ए‐गुल,be-ayyaam-e gul,1
+شکوہ سنجِ رشکِ ہم دیگر,शिकवा-संज‐ए‐रशक‐ए‐हम-दीगर,shikvah-sanj-e rashk-e ham-diigar,1
+بے ایّامِ گل,बे-अययाम‐ए‐गुल,be-ayyaam-e gul,1
 کمالِ گرمیِ سعیِ تلاشِ دید,कमाल‐ए‐गरमी‐ए‐सी‐ए‐तलाश‐ए‐दीद,kamaal-e garmii-e sa((ii-e talaash-e diid,1
-نا مہربان,नामिहरबान,naa-mihrbaan,1
+نا مہربان,ना-मिहरबान,naa-mihrbaan,1
 فسونِ نیاز,फ़ुसून‐ए‐नियाज़,fusuun-e niyaaz,1
 ہجومِ اشک,हुजूम‐ए‐अशक,hujuum-e ashk,1
 رفت,रफ़त,raft,1
 غمِ گیتی,ग़म‐ए‐गीती,;gam-e giitii,1
-خو کردہِ اختر شماری,ख़ूकरदा‐ए‐अख़तरशुमारी,;xuu-kardah-e a;xtar-shumaarii,1
+خو کردہِ اختر شماری,ख़ू-करदा‐ए‐अख़तर-शुमारी,;xuu-kardah-e a;xtar-shumaarii,1
 مثلِ خندہِ قاتل,मिसल‐ए‐ख़ंदा‐ए‐क़ातिल,mi;sl-e ;xandah-e qaatil,1
 ہوجیے,हूजिये,huujiye,1
-تنک آبی,तुनुकआबी,tunuk-aabii,1
+تنک آبی,तुनुक-आबी,tunuk-aabii,1
 رفتارِ عمر,रफ़तार‐ए‐उमर,raftaar-e ((umr,1
 جاے دہن,जा‐ए‐दहन,jaa-e dahan,1
 وقتِ مناجات,वक़त‐ए‐मुनाजात,vaqt-e munaajaat,1
 نشّہہا,नशशहहा,nashshah'haa,1
-دلودیں,दिल‐ओ‐दीं,dil-o-dii;n,1
+دل و دیں,दिल‐ओ‐दीं,dil-o-dii;n,1
 چھٹی,छुटी,chhu;tii,1
 زہرِ غم,ज़हर‐ए‐ग़म,zahr-e ;gam,1
 فرشِ راہ,फ़रश‐ए‐राह,farsh-e raah,1
-پیش دستی,पेशदसती,pesh-dastii,1
-حسنِ بے پروا,हुसन‐ए‐बेपरवा,;husn-e be-parvaa,1
+پیش دستی,पेश-दसती,pesh-dastii,1
+حسنِ بے پروا,हुसन‐ए‐बे-परवा,;husn-e be-parvaa,1
 رسوائیِ اندازِ استغناے حسن,रुसवाई‐ए‐अंदाज़‐ए‐इसतिग़ना‐ए‐हुसन,rusvaa))ii-e andaaz-e isti;gnaa-e ;husn,1
 صہباے آتشِ پنہاں,सहबा‐ए‐आतिश‐ए‐पिंहाँ,.sahbaa-e aatish-e pinhaa;n,1
 آشنائی,आशनाई,aashnaa))ii,1
-ساماں طرازِ نازشِ اربابِ عجز,सामाँतराज़‐ए‐नाज़िश‐ए‐अरबाब‐ए‐अजज़,saamaa;n-:taraaz-e naazish-e arbaab-e ((ajz,1
+ساماں طرازِ نازشِ اربابِ عجز,सामाँ-तराज़‐ए‐नाज़िश‐ए‐अरबाब‐ए‐अजज़,saamaa;n-:taraaz-e naazish-e arbaab-e ((ajz,1
 خرابِ بادہِ الفت,ख़राब‐ए‐बादा‐ए‐उलफ़त,;xaraab-e baadah-e ulfat,1
-م آل,मआल,ma-aal,1
+م آل,म-आल,ma-aal,1
 رنجِ بیتابی,रंज‐ए‐बेताबी,ranj-e betaabii,1
 مدّعیٰ,मुददा,mudda((;aa,1
 بازیچہِ اطفال,बाज़ीचा‐ए‐अतफ़ाल,baaziichah-e a:tfaal,1
-گل فشانی,गुलफ़िशानी,gul-fishaanii,1
-آشفتہ سر,आशुफ़तासर,aashuftah-sar,1
+گل فشانی,गुल-फ़िशानी,gul-fishaanii,1
+آشفتہ سر,आशुफ़ता-सर,aashuftah-sar,1
 وبالِ دوش,वबाल‐ए‐दोश,vabaal-e dosh,1
 ذوقِ اسیری,ज़ौक़‐ए‐असीरी,;zauq-e asiirii,1
 حسنِ تلافی,हुसन‐ए‐तलाफ़ी,;husn-e talaafii,1
@@ -3171,39 +3169,39 @@ urdu,nagari,transliteration,count
 ٹپکتی,टपकती,;tapaktii,1
 نکیریں,नकीरें,nakiire;n,1
 لرزنے,लरज़ने,larazne,1
-جاموسبو,जाम‐ओ‐सुबू,jaam-o-subuu,1
+جام و سبو,जाम‐ओ‐सुबू,jaam-o-subuu,1
 شرر,शरर,sharar,1
-حکایتِ صبرِ گریز پا,हिकायत‐ए‐सबर‐ए‐गुरेज़पा,;hikaayat-e .sabr-e gurez-paa,1
+حکایتِ صبرِ گریز پا,हिकायत‐ए‐सबर‐ए‐गुरेज़-पा,;hikaayat-e .sabr-e gurez-paa,1
 رفتہِ رفتارِ دوست,रफ़ता‐ए‐रफ़तार‐ए‐दोसत,raftah-e raftaar-e dost,1
 سبقِ شوق,सबक़‐ए‐शौक़,sabaq-e shauq,1
 زیرِ پا,ज़ेर‐ए‐पा,zer-e paa,1
 خامہِ مانی,ख़ामा‐ए‐मानी,;xaamah-e maanii,1
-آتش پرست,आतिशपरसत,aatish-parast,1
+آتش پرست,आतिश-परसत,aatish-parast,1
 ورطہِ ملامت,वरता‐ए‐मलामत,var:tah-e malaamat,1
 جنّت,जिन्नत,jinnat,1
 نبضِ بیمارِ وفا,नबज़‐ए‐बीमार‐ए‐वफ़ा,nab.z-e biimaar-e vafaa,1
 قفاے گل,क़फ़ा‐ए‐गुल,qafaa-e gul,1
 راتیں,रातें,raate;n,1
-وبالِ تکیہ گاہِ ہمّتِ مردانہ,वबाल‐ए‐तकयागाह‐ए‐हिममत‐ए‐मरदाना,vabaal-e takyah-gaah-e himmat-e mardaanah,1
+وبالِ تکیہ گاہِ ہمّتِ مردانہ,वबाल‐ए‐तकया-गाह‐ए‐हिममत‐ए‐मरदाना,vabaal-e takyah-gaah-e himmat-e mardaanah,1
 نالوں,नालों,naalo;n,1
 محفلیں,महफ़िलें,ma;hfile;n,1
 سادگیہاے تمنّا,सादगीहा‐ए‐तमन्ना,saadagiihaa-e tamannaa,1
 قویٰ,क़ुवा,quv;aa,1
 لائقِ تعزیر,लाइक़‐ए‐ताज़ीर,laa))iq-e ta((ziir,1
-چارہ گر,चारागर,chaarah-gar,1
+چارہ گر,चारा-गर,chaarah-gar,1
 چکیں,चुकीं,chukii;n,1
 گرانی,गिरानी,giraanii,1
 چھوڑے,छोड़े,chho;re,1
-بیاباں نورد,बयाबाँनवरद,bayaabaa;n-navard,1
+بیاباں نورد,बयाबाँ-नवरद,bayaabaa;n-navard,1
 صورتِ شمع,सूरत‐ए‐शमा,.suurat-e sham((a,1
 غیبِ غیب,ग़ैब‐ए‐ग़ैब,;gaib-e ;gaib,1
 خامہِ غالب,ख़ामा‐ए‐ग़ालिब,;xaamah-e ;gaalib,1
-نظّارہوخیال,नज़ज़ारा‐ओ‐ख़याल,na:z:zaarah-o-;xayaal,1
+نظّارہ و خیال,नज़ज़ारा‐ओ‐ख़याल,na:z:zaarah-o-;xayaal,1
 بالِ عنقا,बाल‐ए‐अंक़ा,baal-e ((anqaa,1
 لڑ,लड़,la;r,1
 بچیں,बचें,bache;n,1
 گمان,गुमान,gumaan,1
-کفِ خاکستروبلبل,कफ़‐ए‐ख़ाकिसतर‐ओ‐बुलबुल,kaf-e ;xaakistar-o-bulbul,1
+کفِ خاکستر و بلبل,कफ़‐ए‐ख़ाकिसतर‐ओ‐बुलबुल,kaf-e ;xaakistar-o-bulbul,1
 چنتا,चुनता,chuntaa,1
 دروازہ,दरवाज़ा,darvaazah,1
 سلام,सलाम,salaam,1
@@ -3211,7 +3209,7 @@ urdu,nagari,transliteration,count
 مہرِ دہاں,मुहर‐ए‐दहाँ,muhr-e dahaa;n,1
 طرزِ ستم,तरज़‐ए‐सितम,:tarz-e sitam,1
 لہنا,लहना,lahnaa,1
-قدِ دل کش,क़द‐ए‐दिलकश,qad-e dil-kash,1
+قدِ دل کش,क़द‐ए‐दिल-कश,qad-e dil-kash,1
 دادہ,दादा,daadah,1
 متاعِ بردہ,मता‐ए‐बुरदा,mataa((-e burdah,1
 وحشتِ طبیعتِ ایجاد,वहशत‐ए‐तबीअत‐ए‐ईजाद,va;hshat-e :tabii((at-e iijaad,1
@@ -3222,34 +3220,34 @@ urdu,nagari,transliteration,count
 عذاب,अज़ाब,((a;zaab,1
 موجِ صبا,मौज‐ए‐सबा,mauj-e .sabaa,1
 مشکلیں,मुशकिलें,mushkile;n,1
-چار موج,चारमौज,chaar-mauj,1
+چار موج,चार-मौज,chaar-mauj,1
 گرفتار,गिरिफ़तार,giriftaar,1
 دیوانگیِ شوق,दीवानगी‐ए‐शौक़,diivaanagii-e shauq,1
-جگر داری,जिगरदारी,jigar-daarii,1
-خسروِ شیریں سخن,ख़ुसरव‐ए‐शीरींसुख़न,;xusrav-e shiirii;n-su;xan,1
+جگر داری,जिगर-दारी,jigar-daarii,1
+خسروِ شیریں سخن,ख़ुसरव‐ए‐शीरीं-सुख़न,;xusrav-e shiirii;n-su;xan,1
 بیانِ شوخیِ گفتارِ دوست,बयान‐ए‐शोख़ी‐ए‐गुफ़तार‐ए‐दोसत,bayaan-e sho;xii-e guftaar-e dost,1
 شامت,शामत,shaamat,1
 پرسشِ حال,पुरसिश‐ए‐हाल,pursish-e ;haal,1
-محوِ آئینہ داری,महव‐ए‐आईनादारी,ma;hv-e aa))iinah-daarii,1
-سر تا پا,सरतापा,sar-taa-paa,1
+محوِ آئینہ داری,महव‐ए‐आईना-दारी,ma;hv-e aa))iinah-daarii,1
+سر تا پا,सर-ता-पा,sar-taa-paa,1
 کھلےگا,खुलेगा,khulegaa,1
 شورشِ باطن,शोरिश‐ए‐बातिन,shorish-e baa:tin,1
 اہلِ تدبیر,अहल‐ए‐तदबीर,ahl-e tadbiir,1
 سرورِ تبِ غم,सुरूर‐ए‐तब‐ए‐ग़म,suruur-e tab-e ;gam,1
 بازو,बाज़ू,baazuu,1
 شہپرِ رنگ,शहपर‐ए‐रंग,shahpar-e rang,1
-پیر زن,पीरज़न,piir-zan,1
+پیر زن,पीर-ज़न,piir-zan,1
 دریاے مے,दरया‐ए‐मै,daryaa-e mai,1
 اجزاے نالہ,अजज़ा‐ए‐नाला,ajzaa-e naalah,1
 مٹتا,मिटता,mi;ttaa,1
 خوف,ख़ौफ़,;xauf,1
 روے نگار,रू‐ए‐निगार,ruu-e nigaar,1
-عشقِ نبرد پیشہ,इशक़‐ए‐नबरदपेशा,((ishq-e nabard-peshah,1
+عشقِ نبرد پیشہ,इशक़‐ए‐नबरद-पेशा,((ishq-e nabard-peshah,1
 تارِ اشکِ یاس,तार‐ए‐अशक‐ए‐यास,taar-e ashk-e yaas,1
 قبلہِ مقصدِ نگاہِ نیاز,क़िबला‐ए‐मक़सद‐ए‐निगाह‐ए‐नियाज़,qiblah-e maq.sad-e nigaah-e niyaaz,1
 باگ,बाग,baag,1
 زہرہِ ابر,ज़हरा‐ए‐अबर,zahrah-e abr,1
-بے پناہ,बेपनाह,be-panaah,1
+بے پناہ,बे-पनाह,be-panaah,1
 آشناے خندہ,आशना‐ए‐ख़ंदा,aashnaa-e ;xandah,1
 روکے,रोके,roke,1
 بزمِ قدح,बज़म‐ए‐क़दह,bazm-e qada;h,1
@@ -3262,39 +3260,39 @@ urdu,nagari,transliteration,count
 سیلیِ استاد,सीली‐ए‐उसताद,siilii-e ustaad,1
 عہدِ تجدیدِ تمنّا,अहद‐ए‐तजदीद‐ए‐तमन्ना,((ahd-e tajdiid-e tamannaa,1
 دامِ تمنّا,दाम‐ए‐तमन्ना,daam-e tamannaa,1
-خیر باد,ख़ैरबाद,;xair-baad,1
+خیر باد,ख़ैर-बाद,;xair-baad,1
 ساکنانِ کوچہِ دلدار,साकिनान‐ए‐कूचा‐ए‐दिलदार,saakinaan-e kuuchah-e dildaar,1
 بالش,बालिश,baalish,1
 دلِ وحشی,दिल‐ए‐वहशी,dil-e va;hshii,1
-شبوروز,शब‐ओ‐रोज़,shab-o-roz,1
+شب و روز,शब‐ओ‐रोज़,shab-o-roz,1
 ترستا,तरसता,tarastaa,1
 کڑی,कड़ी,ka;rii,1
 باندھ,बांध,baa;ndh,1
 سیرِ گل,सैर‐ए‐गुल,sair-e gul,1
 بندھا,बंधा,ba;ndhaa,1
-بے بنیاد,बेबुंयाद,be-bunyaad,1
+بے بنیاد,बे-बुंयाद,be-bunyaad,1
 نقشِ محبّت,नक़श‐ए‐मुहबबत,naqsh-e mu;habbat,1
 تقدیر,तक़दीर,taqdiir,1
 لرزتا,लरज़ता,laraztaa,1
 مےِ عشرت,मै‐ए‐इशरत,mai-e ((ishrat,1
-غنچہِ نا شگفتہ,ग़ुंचा‐ए‐नाशिगुफ़ता,;gunchah-e naa-shiguftah,1
+غنچہِ نا شگفتہ,ग़ुंचा‐ए‐ना-शिगुफ़ता,;gunchah-e naa-shiguftah,1
 کشمکشِ نزع,कशमकश‐ए‐नज़,kashmakash-e naz((,1
 گلو,गुलू,guluu,1
 گنہ,गुनह,gunah,1
-باغ بانیِ صحرا,बाग़बानी‐ए‐सहरा,baa;g-baanii-e .sa;hraa,1
-شرعوآئین,शर‐ओ‐आईन,shar((-o-aa))iin,1
-غم گسار,ग़मगुसार,;gam-gusaar,1
+باغ بانیِ صحرا,बाग़-बानी‐ए‐सहरा,baa;g-baanii-e .sa;hraa,1
+شرع و آئین,शर‐ओ‐आईन,shar((-o-aa))iin,1
+غم گسار,ग़म-गुसार,;gam-gusaar,1
 پردا,परदा,pardaa,1
 دلی,दिलली,dillii,1
-سرشک آلودہ,सिरिशकआलूदा,sirishk-aaluudah,1
+سرشک آلودہ,सिरिशक-आलूदा,sirishk-aaluudah,1
 دوڑتے,दौड़ते,dau;rte,1
 کھلنے,खिलने,khilne,1
 آزادیِ نسیم,आज़ादी‐ए‐नसीम,aazaadii-e nasiim,1
 اندازِ اثر,अंदाज़‐ए‐असर,andaaz-e a;sar,1
 موحّد,मुवहहिद,muva;h;hid,1
-برقِ نظارہ سوز,बरक़‐ए‐नज़ारासोज़,barq-e na:zaarah-soz,1
+برقِ نظارہ سوز,बरक़‐ए‐नज़ारा-सोज़,barq-e na:zaarah-soz,1
 پھنسایا,फंसाया,pha;nsaayaa,1
-کمینِ بے زبانی,कमीन‐ए‐बेज़बानी,kamiin-e be-zabaanii,1
+کمینِ بے زبانی,कमीन‐ए‐बे-ज़बानी,kamiin-e be-zabaanii,1
 ولولے,वलवले,valvale,1
 آبِ تیغِ نگاہ,आब‐ए‐तेग़‐ए‐निगाह,aab-e te;g-e nigaah,1
 نیستاں,नैसिताँ,naisitaa;n,1
@@ -3306,13 +3304,13 @@ urdu,nagari,transliteration,count
 اندازِ عتاب,अंदाज़‐ए‐इताब,andaaz-e ((itaab,1
 معتقدِ فتنہِ محشر,मुतक़िद‐ए‐फ़ितना‐ए‐महशर,mu((taqid-e fitnah-e ma;hshar,1
 ذاہر,ज़ाहिर,;zaahir,1
-قطرہوموجوحباب,क़तरा‐ओ‐मौज‐ओ‐हुबाब,qa:trah-o-mauj-o-;hubaab,1
+قطرہ و موج و حباب,क़तरा‐ओ‐मौज‐ओ‐हुबाब,qa:trah-o-mauj-o-;hubaab,1
 مشقِ تماشا,मशक़‐ए‐तमाशा,mashq-e tamaashaa,1
-زرِ از دست رفتہ,ज़र‐ए‐अज़दसतरफ़ता,zar-e az-dast-raftah,1
+زرِ از دست رفتہ,ज़र‐ए‐अज़-दसत-रफ़ता,zar-e az-dast-raftah,1
 بہاے بوسہ,बहा‐ए‐बोसा,bahaa-e bosah,1
 سبحہِ زاہد,सुबहा‐ए‐ज़ाहिद,sub;hah-e zaahid,1
-تغافلہاے تمکیں آزما,तग़ाफ़ुलहा‐ए‐तमकींआज़मा,ta;gaafulhaa-e tamkii;n-aazmaa,1
-پاسِ بے رونقیِ دیدہ,पास‐ए‐बेरौनक़ी‐ए‐दीदा,paas-e be-raunaqii-e diidah,1
+تغافلہاے تمکیں آزما,तग़ाफ़ुलहा‐ए‐तमकीं-आज़मा,ta;gaafulhaa-e tamkii;n-aazmaa,1
+پاسِ بے رونقیِ دیدہ,पास‐ए‐बे-रौनक़ी‐ए‐दीदा,paas-e be-raunaqii-e diidah,1
 حسرتِ پروانہ,हसरत‐ए‐परवाना,;hasrat-e parvaanah,1
 چشمِ بتاں,चशम‐ए‐बुताँ,chashm-e butaa;n,1
 نذرِ کرم,नज़र‐ए‐करम,na;zr-e karam,1
@@ -3321,25 +3319,25 @@ urdu,nagari,transliteration,count
 فکرِ دنیا,फ़िकर‐ए‐दुंया,fikr-e dunyaa,1
 عقدِ گردنِ خوباں,अक़द‐ए‐गरदन‐ए‐ख़ूबाँ,((aqd-e gardan-e ;xuubaa;n,1
 فتیلہ,फ़तीला,fatiilah,1
-نگاہِ غلط انداز,निगाह‐ए‐ग़लतअंदाज़,nigaah-e ;gala:t-andaaz,1
-آئینِ غزل خوانی,आईन‐ए‐ग़ज़लख़वानी,aa))iin-e ;gazal-;xvaanii,1
+نگاہِ غلط انداز,निगाह‐ए‐ग़लत-अंदाज़,nigaah-e ;gala:t-andaaz,1
+آئینِ غزل خوانی,आईन‐ए‐ग़ज़ल-ख़वानी,aa))iin-e ;gazal-;xvaanii,1
 معمورے,मामूरे,ma((muure,1
 خاطر,ख़ातिर,;xaa:tir,1
 تعلیمِ ضبط,तालीम‐ए‐ज़बत,ta((liim-e .zab:t,1
-رازہاے سینہ گداز,राज़हा‐ए‐सीनागुदाज़,raaz'haa-e siinah-gudaaz,1
+رازہاے سینہ گداز,राज़हा‐ए‐सीना-गुदाज़,raaz'haa-e siinah-gudaaz,1
 رکھنے,रखने,rakhne,1
 آبروے عشق,आबरू‐ए‐इशक़,aabruu-e ((ishq,1
 موجود,मौजूद,maujuud,1
 رکھے,रखे,rakhe,1
-قلزم آشامی,क़ुलज़ुमआशामी,qulzum-aashaamii,1
+قلزم آشامی,क़ुलज़ुम-आशामी,qulzum-aashaamii,1
 رودادِ چمن,रूदाद‐ए‐चमन,ruudaad-e chaman,1
 نزدیک,नज़दीक,nazdiik,1
 مقطعِ سلسلہِ شوق,मक़ता‐ए‐सिलसिला‐ए‐शौक़,maq:ta((-e silsilah-e shauq,1
 داغِ نہاں,दाग़‐ए‐निहाँ,daa;g-e nihaa;n,1
-نازوغمزہ,नाज़‐ओ‐ग़मज़ा,naaz-o-;gamzah,1
+ناز و غمزہ,नाज़‐ओ‐ग़मज़ा,naaz-o-;gamzah,1
 جیتا,जीता,jiitaa,1
 پھرا,फिरा,phiraa,1
-شستِ بتِ ناوک فگن,शसत‐ए‐बुत‐ए‐नावुकफ़िगन,shast-e but-e naavuk-figan,1
+شستِ بتِ ناوک فگن,शसत‐ए‐बुत‐ए‐नावुक-फ़िगन,shast-e but-e naavuk-figan,1
 آبِ زندگانیِ شمع,आब‐ए‐ज़िंदगानी‐ए‐शमा,aab-e zindagaanii-e sham((a,1
 آزادوں,आज़ादों,aazaado;n,1
 دہنِ شیر,दहन‐ए‐शेर,dahan-e sher,1
@@ -3350,54 +3348,54 @@ urdu,nagari,transliteration,count
 کھجاتا,खुजाता,khujaataa,1
 دمِ آبِ بقا,दम‐ए‐आब‐ए‐बक़ा,dam-e aab-e baqaa,1
 لبِ ساقی,लब‐ए‐साक़ी,lab-e saaqii,1
-بد خواہ,बदख़वाह,bad-;xvaah,1
+بد خواہ,बद-ख़वाह,bad-;xvaah,1
 بسمل,बिसमिल,bismil,1
 صرفِ درباں,सरफ़‐ए‐दरबां,.sarf-e darbaa;n,1
 گرمِ خرامِ ناز,गरम‐ए‐ख़िराम‐ए‐नाज़,garm-e ;xiraam-e naaz,1
-سر گرم,सरगरम,sar-garm,1
+سر گرم,सर-गरम,sar-garm,1
 ابھریں,उभरीं,ubhrii;n,1
 انگشتِ حنائی,अंगुशत‐ए‐हिनाई,angusht-e ;hinaa))ii,1
 مضمحل,मुज़महिल,mu.zma;hil,1
 فسردگی,फ़ुसुरदगी,fusurdagii,1
-دلِ بے دستوپا,दिल‐ए‐बेदसत‐ओ‐पा,dil-e be-dast-o-paa,1
-صد گونہ,सदगूना,.sad-guunah,1
-معشوق فریبی,माशूक़फ़रेबी,ma((shuuq-farebii,1
+دلِ بے دست و پا,दिल‐ए‐बे-दसत‐ओ‐पा,dil-e be-dast-o-paa,1
+صد گونہ,सद-गूना,.sad-guunah,1
+معشوق فریبی,माशूक़-फ़रेबी,ma((shuuq-farebii,1
 نقد,नक़द,naqd,1
 آس,आस,aas,1
 نقشِ پِ مور,नक़श‐ए‐प‐ए‐मोर,naqsh-e pa-e mor,1
 عقدے,उक़दे,((uqde,1
 تپش,तपिश,tapish,1
-عشقِ خوں نابہ مشرب,इशक़‐ए‐ख़ूँनाबामशरब,((ishq-e ;xuu;n-naabah-mashrab,1
+عشقِ خوں نابہ مشرب,इशक़‐ए‐ख़ूँ-नाबा-मशरब,((ishq-e ;xuu;n-naabah-mashrab,1
 کافی,काफ़ी,kaafii,1
 آئینہِ بہار,आईना‐ए‐बहार,aa))iinah-e bahaar,1
 ہجومِ غم,हुजूम‐ए‐ग़म,hujuum-e ;gam,1
 بد,बद,bad,1
 پہنچائیں,पहुंचाएँ,pahu;nchaa))e;n,1
-عاجزِ عرضِ یک افغاں,आजिज़‐ए‐अरज़‐ए‐यकअफ़ग़ाँ,((aajiz-e ((ar.z-e yak-af;gaa;n,1
-دلِ نا کام,दिल‐ए‐नाकाम,dil-e naa-kaam,1
+عاجزِ عرضِ یک افغاں,आजिज़‐ए‐अरज़‐ए‐यक-अफ़ग़ाँ,((aajiz-e ((ar.z-e yak-af;gaa;n,1
+دلِ نا کام,दिल‐ए‐ना-काम,dil-e naa-kaam,1
 دلالِ جنسِ رسوائی,दललाल‐ए‐जिंस‐ए‐रुसवाई,dallaal-e jins-e rusvaa))ii,1
-زیارت گاہِ طفلاں,ज़ियारतगाह‐ए‐तिफ़लाँ,ziyaarat-gaah-e :tiflaa;n,1
+زیارت گاہِ طفلاں,ज़ियारत-गाह‐ए‐तिफ़लाँ,ziyaarat-gaah-e :tiflaa;n,1
 انسان,इंसान,insaan,1
 وجہِ پریشانیِ صہبا,वजह‐ए‐परेशानी‐ए‐सहबा,vaj'h-e pareshaanii-e .sahbaa,1
 شرارِ جستہ,शरार‐ए‐जसता,sharaar-e jastah,1
 سواے حسرتِ حاصل,सिवा‐ए‐हसरत‐ए‐हासिल,sivaa-e ;hasrat-e ;haa.sil,1
 شکایتہاے رنگیں,शिकायतहा‐ए‐रंगीं,shikaayat'haa-e rangii;n,1
 موجہِ گل,मौजा‐ए‐गुल,maujah-e gul,1
-نو بہارِ ناز,नौबहार‐ए‐नाज़,nau-bahaar-e naaz,1
-بادہ آشامی,बादाआशामी,baadah-aashaamii,1
+نو بہارِ ناز,नौ-बहार‐ए‐नाज़,nau-bahaar-e naaz,1
+بادہ آشامی,बादा-आशामी,baadah-aashaamii,1
 ڈالیے,डालिये,;daaliye,1
 آرزوے دوست,आरज़ू‐ए‐दोसत,aarzuu-e dost,1
 دھوکے,धोके,dhoke,1
-نالہ فرسا,नालाफ़रसा,naalah-farsaa,1
+نالہ فرسا,नाला-फ़रसा,naalah-farsaa,1
 اترائے,इतराए,itraa))e,1
 عارِ بستر,आर‐ए‐बिसतर,((aar-e bistar,1
-خانہ خرابی,ख़ानाख़राबी,;xaanah-;xaraabii,1
+خانہ خرابی,ख़ाना-ख़राबी,;xaanah-;xaraabii,1
 ہجومِ دردِ غریبی,हुजूम‐ए‐दरद‐ए‐ग़रीबी,hujuum-e dard-e ;gariibii,1
-بے حوصلگی,बेहौसलगी,be-;hau.slagii,1
+بے حوصلگی,बे-हौसलगी,be-;hau.slagii,1
 استاد,उसताद,ustaad,1
 زوال,ज़वाल,zavaal,1
 سادہ,सादा,saadah,1
-مہرومہ,मिहर‐ओ‐मा,mihr-o-mah,1
+مہر و مہ,मिहर‐ओ‐मा,mihr-o-mah,1
 بھائی,भाई,bhaa))ii,1
 تابِ جلوہِ دیدارِ دوست,ताब‐ए‐जलवा‐ए‐दीदार‐ए‐दोसत,taab-e jalvah-e diidaar-e dost,1
 ارمغاں,अरमुग़ाँ,armu;gaa;n,1
@@ -3408,26 +3406,26 @@ urdu,nagari,transliteration,count
 قدِّ آدم,क़दद‐ए‐आदम,qadd-e aadam,1
 باعثِ افزائشِ دردِ دروں,बाइस‐ए‐अफ़ज़ाइश‐ए‐दरद‐ए‐दरूँ,baa((i;s-e afzaa))ish-e dard-e daruu;n,1
 کیسی,कैसी,kaisii,1
-شاہِ سلیماں جاہ,शाह‐ए‐सुलैमाँजाह,shaah-e sulaimaa;n-jaah,1
+شاہِ سلیماں جاہ,शाह‐ए‐सुलैमाँ-जाह,shaah-e sulaimaa;n-jaah,1
 کشتہِ لعلِ بتاں,कुशता‐ए‐लाल‐ए‐बुताँ,kushtah-e la((l-e butaa;n,1
 راگ,राग,raag,1
-غالبِ آشفتہ نوا,ग़ालिब‐ए‐आशुफ़तानवा,;gaalib-e aashuftah-navaa,1
-ہوسِ نایونوش,हवस‐ए‐नाय‐ओ‐नोश,havas-e naay-o-nosh,1
+غالبِ آشفتہ نوا,ग़ालिब‐ए‐आशुफ़ता-नवा,;gaalib-e aashuftah-navaa,1
+ہوسِ نای و نوش,हवस‐ए‐नाय‐ओ‐नोश,havas-e naay-o-nosh,1
 موجِ گل,मौज‐ए‐गुल,mauj-e gul,1
 راس,रास,raas,1
-بے پرتوِ خورشید,बेपरतव‐ए‐ख़ुरशेद,be-partav-e ;xvurshed,1
+بے پرتوِ خورشید,बे-परतव‐ए‐ख़ुरशेद,be-partav-e ;xvurshed,1
 خونِ گرمِ دہقاں,ख़ून‐ए‐गरम‐ए‐दिहक़ाँ,;xuun-e garm-e dihqaa;n,1
 شکنِ زلفِ عنبریں,शिकन‐ए‐ज़ुलफ़‐ए‐अंबरीं,shikan-e zulf-e ((anbarii;n,1
 دوش,दोश,dosh,1
-وا رستہ,वारसता,vaa-rastah,1
+وا رستہ,वा-रसता,vaa-rastah,1
 بھرے,भरे,bhare,1
 داغِ عیوبِ برہنگی,दाग़‐ए‐उयूब‐ए‐बरहनगी,daa;g-e ((uyuub-e barahnagii,1
 کفِ خس,कफ़‐ए‐ख़स,kaf-e ;xas,1
-روزِ ابروشبِ ماہ,रोज़‐ए‐अबर‐ओ‐शब‐ए‐माह,roz-e abr-o-shab-e maah,1
+روزِ ابر و شبِ ماہ,रोज़‐ए‐अबर‐ओ‐शब‐ए‐माह,roz-e abr-o-shab-e maah,1
 عمرِ عزیز,उमर‐ए‐अज़ीज़,((umr-e ((aziiz,1
 ریزہِ الماس,रेज़ा‐ए‐अलमास,rezah-e almaas,1
 تنِ رنجور,तन‐ए‐रंजूर,tan-e ranjuur,1
-قلمِ سر نوشت,क़लम‐ए‐सरनविशत,qalam-e sar-navisht,1
+قلمِ سر نوشت,क़लम‐ए‐सर-नविशत,qalam-e sar-navisht,1
 وہمِ غیر,वहम‐ए‐ग़ैर,vahm-e ;gair,1
 فشارِ تنگیِ خلوت,फ़शार‐ए‐तंगी‐ए‐ख़लवत,fashaar-e tangii-e ;xalvat,1
 عرضِ ناز,अरज़‐ए‐नाज़,((ar.z-e naaz,1
@@ -3436,38 +3434,38 @@ urdu,nagari,transliteration,count
 چلنے,चलने,chalne,1
 گاڑھو,गाढ़ो,gaa;rho,1
 بہانہِ بیگانگی,बहाना‐ए‐बेगानगी,bahaanah-e begaanagii,1
-نشاط آہنگ,नशातआहंग,nashaa:t-aahang,1
+نشاط آہنگ,नशात-आहंग,nashaa:t-aahang,1
 دیدہِ اختر,दीदा‐ए‐अख़तर,diidah-e a;xtar,1
 فرماتی,फ़रमाती,farmaatii,1
 روزنِ دیوارِ زنداں,रौज़न‐ए‐दीवार‐ए‐ज़िंदाँ,rauzan-e diivaar-e zindaa;n,1
-غفلت شعاری,ग़फ़लतशिारी,;gaflat-shi((aarii,1
-فرماں رواے کشورِ ہندوستان,फ़रमांरवा‐ए‐किशवर‐ए‐हिंदूसतान,farmaa;n-ravaa-e kishvar-e hinduustaan,1
+غفلت شعاری,ग़फ़लत-शिारी,;gaflat-shi((aarii,1
+فرماں رواے کشورِ ہندوستان,फ़रमां-रवा‐ए‐किशवर‐ए‐हिंदूसतान,farmaa;n-ravaa-e kishvar-e hinduustaan,1
 ٹالیں‌گے,टालेंगे,;taale;nge,1
-گردشِ ساغرِ صد جلوہِ رنگیں,गरदिश‐ए‐साग़र‐ए‐सदजलवा‐ए‐रंगीं,gardish-e saa;gar-e .sad-jalvah-e rangii;n,1
+گردشِ ساغرِ صد جلوہِ رنگیں,गरदिश‐ए‐साग़र‐ए‐सद-जलवा‐ए‐रंगीं,gardish-e saa;gar-e .sad-jalvah-e rangii;n,1
 غالبِ وحشی,ग़ालिब‐ए‐वहशी,;gaalib-e va;hshii,1
 غمِ آوارگیہاے صبا,ग़म‐ए‐आवारगीहा‐ए‐सबा,;gam-e aavaaragiihaa-e .sabaa,1
 ننگِ پیری,नंग‐ए‐पीरी,nang-e piirii,1
 تقاضاے جفا,तक़ाज़ा‐ए‐जफ़ा,taqaa.zaa-e jafaa,1
-معینِ ملتوملک,मुईन‐ए‐मिललत‐ओ‐मुलक,mu((iin-e millat-o-mulk,1
+معینِ ملت و ملک,मुईन‐ए‐मिललत‐ओ‐मुलक,mu((iin-e millat-o-mulk,1
 جھوٹ,झूट,jhuu;t,1
 ہنگامہِ یا,हंगामा‐ए‐या,hangaamah-e yaa,1
 دمِ ایجاد,दम‐ए‐ईजाद,dam-e iijaad,1
-کار گر,कारगर,kaar-gar,1
-قبلہ نما,क़िबलानुमा,qiblah-numaa,1
+کار گر,कार-गर,kaar-gar,1
+قبلہ نما,क़िबला-नुमा,qiblah-numaa,1
 ہلتے,हिलते,hilte,1
 تہمت,तुहमत,tuhmat,1
 نگاہِ گرم,निगाह‐ए‐गरम,nigaah-e garm,1
-چشم نمائی,चशमनुमाई,chashm-numaa))ii,1
+چشم نمائی,चशम-नुमाई,chashm-numaa))ii,1
 حریفِ جوششِ دریا,हरीफ़‐ए‐जोशिश‐ए‐दरया,;hariif-e joshish-e daryaa,1
-سرمایہِ یک عالموعالم,सरमाया‐ए‐यकआलम‐ओ‐आलम,sarmaayah-e yak-((aalam-o-((aalam,1
+سرمایہِ یک عالم و عالم,सरमाया‐ए‐यक-आलम‐ओ‐आलम,sarmaayah-e yak-((aalam-o-((aalam,1
 بادِ بہار,बाद‐ए‐बहार,baad-e bahaar,1
 پریشانی,परेशानी,pareshaanii,1
 اسیر,असीर,asiir,1
 تیغِ نگاہِ یار,तेग़‐ए‐निगाह‐ए‐यार,te;g-e nigaah-e yaar,1
-فتنہوفساد,फ़ितना‐ओ‐फ़साद,fitnah-o-fasaad,1
+فتنہ و فساد,फ़ितना‐ओ‐फ़साद,fitnah-o-fasaad,1
 گیرائی,गीराई,giiraa))ii,1
-ساقی گری,साक़ीगरी,saaqii-garii,1
-صورتِ مہرِ نیم روز,सूरत‐ए‐मिहर‐ए‐नीमरोज़,.suurat-e mihr-e niim-roz,1
+ساقی گری,साक़ी-गरी,saaqii-garii,1
+صورتِ مہرِ نیم روز,सूरत‐ए‐मिहर‐ए‐नीम-रोज़,.suurat-e mihr-e niim-roz,1
 کھلنے,खुलने,khulne,1
 صرفہ,सरफ़ा,.sarfah,1
 زخمِ روزنِ در,ज़ख़म‐ए‐रौज़न‐ए‐दर,za;xm-e rauzan-e dar,1
@@ -3476,25 +3474,25 @@ urdu,nagari,transliteration,count
 نقّاشِ یک,नक़क़ाश‐ए‐यक,naqqaash-e yak,1
 ہوگی,होगी,hogii,1
 لام,लाम,laam,1
-بے آبرو,बेआबरू,be-aabruu,1
+بے آبرو,बे-आबरू,be-aabruu,1
 آستانِ یار,आसतान‐ए‐यार,aastaan-e yaar,1
-بر روے شش,बररू‐ए‐शश,bar-ruu-e shash,1
+بر روے شش,बर-रू‐ए‐शश,bar-ruu-e shash,1
 رنگِ دگر,रंग‐ए‐दिगर,rang-e digar,1
 شامِ فراق,शाम‐ए‐फ़िराक़,shaam-e firaaq,1
 تارِ شعاع,तार‐ए‐शुआ,taar-e shu((aa((,1
 ملنا,मलना,malnaa,1
 بندِ عشق,बंद‐ए‐इशक़,band-e ((ishq,1
-بے منّتِ کیموس,बेमिन्नत‐ए‐कैमूस,be-minnat-e kaimuus,1
+بے منّتِ کیموس,बे-मिन्नत‐ए‐कैमूस,be-minnat-e kaimuus,1
 نازاں,नाज़ाँ,naazaa;n,1
 سینہِ اہلِ ہوس,सीना‐ए‐अहल‐ए‐हवस,siinah-e ahl-e havas,1
-ہیچ مدانی,हेचमदानी,hech-madaanii,1
-شوقِ عناں گسیختہ,शौक़‐ए‐इनाँगुसेख़ता,shauq-e ((inaa;n-guse;xtah,1
+ہیچ مدانی,हेच-मदानी,hech-madaanii,1
+شوقِ عناں گسیختہ,शौक़‐ए‐इनाँ-गुसेख़ता,shauq-e ((inaa;n-guse;xtah,1
 سطوت,सतवत,sa:tvat,1
 خارِ بستر,ख़ार‐ए‐बिसतर,;xaar-e bistar,1
 داغِ دلِ بیدرد,दाग़‐ए‐दिल‐ए‐बेदरद,daa;g-e dil-e bedard,1
-تیز سا,तेज़सा,tez-saa,1
+تیز سا,तेज़-सा,tez-saa,1
 حلقہِ صد,हलक़ा‐ए‐सद,;halqah-e .sad,1
-زوال آمادہ,ज़वालआमादा,zavaal-aamaadah,1
+زوال آمادہ,ज़वाल-आमादा,zavaal-aamaadah,1
 اٹھاتا,उठाता,u;thaataa,1
 اندازِ گل,अंदाज़‐ए‐गुल,andaaz-e gul,1
 مضامیں,मज़ामीं,ma.zaamii;n,1
@@ -3507,13 +3505,13 @@ urdu,nagari,transliteration,count
 مقام,मक़ाम,maqaam,1
 رازِ مکتوب,राज़‐ए‐मकतूब,raaz-e maktuub,1
 لکھا,लिकखा,likkhaa,1
-ابروباد,अबर‐ओ‐बाद,abr-o-baad,1
+ابر و باد,अबर‐ओ‐बाद,abr-o-baad,1
 عقل,अक़ल,((aql,1
 صیدِ زبوں,सैद‐ए‐ज़बूँ,.said-e zabuu;n,1
-سرشتہ داری,सरिशतादारी,sarishtah-daarii,1
+سرشتہ داری,सरिशता-दारी,sarishtah-daarii,1
 فروغِ شعلہِ خس,फ़ुरोग़‐ए‐शुला‐ए‐ख़स,furo;g-e shu((lah-e ;xas,1
 ساکنانِ خطّہِ خاک,साकिनान‐ए‐ख़ितता‐ए‐ख़ाक,saakinaan-e ;xi:t:tah-e ;xaak,1
-بے حجابیاں,बेहिजाबियाँ,be-;hijaabiyaa;n,1
+بے حجابیاں,बे-हिजाबियाँ,be-;hijaabiyaa;n,1
 خریدارِ متاعِ جلوہ,ख़रीदार‐ए‐मता‐ए‐जलवा,;xariidaar-e mataa((-e jalvah,1
 زیرِ سایہ,ज़ेर‐ए‐साया,zer-e saayah,1
 جرم,जुरम,jurm,1
@@ -3529,48 +3527,48 @@ urdu,nagari,transliteration,count
 فتنہِ شورِ قیامت,फ़ितना‐ए‐शोर‐ए‐क़ियामत,fitnah-e shor-e qiyaamat,1
 جائیو,जाइयो,jaa))iyo,1
 الفتِ گل,उलफ़त‐ए‐गुल,ulfat-e gul,1
-وا ماندگیاں,वामांदगियाँ,vaa-maa;ndagiyaa;n,1
-محوِ سپاسِ بے زبانی,महव‐ए‐सिपास‐ए‐बेज़बानी,ma;hv-e sipaas-e be-zabaanii,1
+وا ماندگیاں,वा-मांदगियाँ,vaa-maa;ndagiyaa;n,1
+محوِ سپاسِ بے زبانی,महव‐ए‐सिपास‐ए‐बे-ज़बानी,ma;hv-e sipaas-e be-zabaanii,1
 سوزِ غم,सोज़‐ए‐ग़म,soz-e ;gam,1
 اصنامِ خیالی,असनाम‐ए‐ख़याली,a.snaam-e ;xayaalii,1
 کروڑوں,करोड़ों,karo;ro;n,1
 بوے پیرہن,बू‐ए‐पैरहन,buu-e pairahan,1
 چھڑکا,छिड़का,chhi;rkaa,1
-خوں نابہ فشانی,ख़ूँनाबाफ़िशानी,;xuu;n-naabah-fishaanii,1
+خوں نابہ فشانی,ख़ूँ-नाबा-फ़िशानी,;xuu;n-naabah-fishaanii,1
 جلوہِ بینش,जलवा‐ए‐बीनिश,jalvah-e biinish,1
 غمِ فراق,ग़म‐ए‐फ़िराक़,;gam-e firaaq,1
-جنونِ نا رسا,जुनून‐ए‐नारसा,junuun-e naa-rasaa,1
+جنونِ نا رسا,जुनून‐ए‐ना-रसा,junuun-e naa-rasaa,1
 تیغِ ستم,तेग़‐ए‐सितम,te;g-e sitam,1
 غرقِ دریا,ग़रक़‐ए‐दरया,;garq-e daryaa,1
 ناچار,नाचार,naachaar,1
-کم تر,कमतर,kam-tar,1
+کم تر,कम-तर,kam-tar,1
 شاہدِ ہستیِ مطلق,शाहिद‐ए‐हसती‐ए‐मतलक़,shaahid-e hastii-e ma:tlaq,1
-تشنہ کام,तिशनाकाम,tishnah-kaam,1
+تشنہ کام,तिशना-काम,tishnah-kaam,1
 دورِ ساغر,दौर‐ए‐साग़र,daur-e saa;gar,1
-قدورخ,क़द‐ओ‐रुख़,qad-o-ru;x,1
+قد و رخ,क़द‐ओ‐रुख़,qad-o-ru;x,1
 زمین,ज़मीन,zamiin,1
 مینا,मीना,miinaa,1
 محرم,महरम,ma;hram,1
 گز,गज़,gaz,1
 عالمِ تقریر,आलम‐ए‐तक़रीर,((aalam-e taqriir,1
 نشاطِ آمدِ فصلِ بہاری,निशात‐ए‐आमद‐ए‐फ़सल‐ए‐बहारी,nishaa:t-e aamad-e fa.sl-e bahaarii,1
-ذوقِ دشت نوردی,ज़ौक़‐ए‐दशतनवरदी,;zauq-e dasht-navardii,1
+ذوقِ دشت نوردی,ज़ौक़‐ए‐दशत-नवरदी,;zauq-e dasht-navardii,1
 سیماب,सीमाब,siimaab,1
 لاؤں,लाऊँ,laa))uu;n,1
 تاریکیِ زندانِ غم,तारीकी‐ए‐ज़िंदान‐ए‐ग़म,taariikii-e zindaan-e ;gam,1
-ہم سایہ,हमसाया,ham-saayah,1
-ساغرِ مے خانہِ نیرنگ,साग़र‐ए‐मैख़ाना‐ए‐नैरंग,saa;gar-e mai-;xaanah-e nairang,1
+ہم سایہ,हम-साया,ham-saayah,1
+ساغرِ مے خانہِ نیرنگ,साग़र‐ए‐मै-ख़ाना‐ए‐नैरंग,saa;gar-e mai-;xaanah-e nairang,1
 انجمِ رخشندہ,अंजुम‐ए‐रख़शिंदा,anjum-e ra;xshindah,1
 ردیفِ شعر,रदीफ़‐ए‐शिर,radiif-e shi((r,1
 ناموسِ پیمانِ محبّت,नामूस‐ए‐पैमान‐ए‐मुहबबत,naamuus-e paimaan-e mu;habbat,1
 بینائی,बीनाई,biinaa))ii,1
 کلیجا,कलेजा,kalejaa,1
 اہم,अहम,aham,1
-جگرِ لخت لخت,जिगर‐ए‐लख़तलख़त,jigar-e la;xt-la;xt,1
+جگرِ لخت لخت,जिगर‐ए‐लख़त-लख़त,jigar-e la;xt-la;xt,1
 برّشِ تیغِ جفا,बुररिश‐ए‐तेग़‐ए‐जफ़ा,burrish-e te;g-e jafaa,1
 سعیِ آزادی,सी‐ए‐आज़ादी,sa((ii-e aazaadii,1
 فرقت,फ़ुरक़त,furqat,1
-جگر تشنہِ ناز,जिगरतिशना‐ए‐नाज़,jigar-tishnah-e naaz,1
+جگر تشنہِ ناز,जिगर-तिशना‐ए‐नाज़,jigar-tishnah-e naaz,1
 اجزاے ایماں,अजज़ा‐ए‐ईमाँ,ajzaa-e iimaa;n,1
 پیاس,पयास,pyaas,1
 سناؤں,सुनाऊँ,sunaa))uu;n,1
@@ -3578,27 +3576,27 @@ urdu,nagari,transliteration,count
 روے آب,रू‐ए‐आब,ruu-e aab,1
 لگن,लगन,lagan,1
 ابرو,अबरू,abruu,1
-دلِ نا داں,दिल‐ए‐नादाँ,dil-e naa-daa;n,1
+دلِ نا داں,दिल‐ए‐ना-दाँ,dil-e naa-daa;n,1
 ابرام,इबराम,ibraam,1
 جھکا,झुका,jhukaa,1
 خطِ پیالہ,ख़त‐ए‐पियाला,;xa:t-e piyaalah,1
-نا خوش,नाख़ुश,naa-;xvush,1
+نا خوش,ना-ख़ुश,naa-;xvush,1
 قدرتِ حق,क़ुदरत‐ए‐हक़,qudrat-e ;haq,1
 دبستاں,दबिसताँ,dabistaa;n,1
 رکنے,रुकने,rukne,1
 شکستن,शिकसतन,shikastan,1
 اڑا,उड़ा,u;raa,1
 قفسِ مرغِ گرفتار,क़फ़स‐ए‐मुरग़‐ए‐गिरिफ़तार,qafas-e mur;g-e giriftaar,1
-سبک دست,सुबुकदसत,subuk-dast,1
+سبک دست,सुबुक-दसत,subuk-dast,1
 دودِ چراغ,दूद‐ए‐चिराग़,duud-e chiraa;g,1
 سفرِ عشق,सफ़र‐ए‐इशक़,safar-e ((ishq,1
 نکلتے,निकलते,nikalte,1
 طمعِ خام,तमा‐ए‐ख़ाम,:tama((-e ;xaam,1
 شق,शक़,shaq,1
 ناوکِ ناز,नावुक‐ए‐नाज़,naavuk-e naaz,1
-نا توانیِ شمع,नातवानी‐ए‐शमा,naa-tavaanii-e sham((a,1
+نا توانیِ شمع,ना-तवानी‐ए‐शमा,naa-tavaanii-e sham((a,1
 آہن,आहन,aahan,1
-نا مہرباں,नामिहरबां,naa-mihrbaa;n,1
+نا مہرباں,ना-मिहरबां,naa-mihrbaa;n,1
 دریغا,दरेग़ा,dare;gaa,1
 بختِ خفتہ,बख़त‐ए‐ख़ुफ़ता,ba;xt-e ;xuftah,1
 رنجِ رہ,रंज‐ए‐रा,ranj-e rah,1
@@ -3608,23 +3606,23 @@ urdu,nagari,transliteration,count
 حورانِ خلد,हूरान‐ए‐ख़ुलद,;huuraan-e ;xuld,1
 قے,क़ै,qai,1
 شغل,शग़ल,sha;gl,1
-چرخِ نیلی فام,चरख़‐ए‐नीलीफ़ाम,char;x-e niilii-faam,1
+چرخِ نیلی فام,चरख़‐ए‐नीली-फ़ाम,char;x-e niilii-faam,1
 سواے اس,सिवा‐ए‐इस,sivaa-e is,1
 کامِ نہنگ,काम‐ए‐निहंग,kaam-e nihang,1
 نوید,नवीद,naviid,1
-مرغوبِ بتِ مشکل پسند,मरग़ूब‐ए‐बुत‐ए‐मुशकिलपसंद,mar;guub-e but-e mushkil-pasand,1
+مرغوبِ بتِ مشکل پسند,मरग़ूब‐ए‐बुत‐ए‐मुशकिल-पसंद,mar;guub-e but-e mushkil-pasand,1
 ساز,साज़,saaz,1
 تحصیل,तहसील,ta;h.siil,1
 اندازِ بیاں,अंदाज़‐ए‐बयाँ,andaaz-e bayaa;n,1
 صبحِ بہار,सुबह‐ए‐बहार,.sub;h-e bahaar,1
 غلطیہاے مضامیں,ग़लतीहा‐ए‐मज़ामीं,;gala:tiihaa-e ma.zaamii;n,1
-ابرِ شفق آلودہ,अबर‐ए‐शफ़क़आलूदा,abr-e shafaq-aaluudah,1
+ابرِ شفق آلودہ,अबर‐ए‐शफ़क़-आलूदा,abr-e shafaq-aaluudah,1
 طوقِ گردن,तौक़‐ए‐गरदन,:tauq-e gardan,1
 فیضِ ہوا,फ़ैज़‐ए‐हवा,fai.z-e havaa,1
-داغِ طعنِ بد عہدی,दाग़‐ए‐तान‐ए‐बदअहदी,daa;g-e :ta((n-e bad-((ahdii,1
-بحرِ بے کراں,बहर‐ए‐बेकराँ,ba;hr-e be-karaa;n,1
+داغِ طعنِ بد عہدی,दाग़‐ए‐तान‐ए‐बद-अहदी,daa;g-e :ta((n-e bad-((ahdii,1
+بحرِ بے کراں,बहर‐ए‐बे-कराँ,ba;hr-e be-karaa;n,1
 زخمِ کاری,ज़ख़म‐ए‐कारी,za;xm-e kaarii,1
-نا کامیِ نگاہ,नाकामी‐ए‐निगाह,naa-kaamii-e nigaah,1
+نا کامیِ نگاہ,ना-कामी‐ए‐निगाह,naa-kaamii-e nigaah,1
 زخمِ تیغِ ناز,ज़ख़म‐ए‐तेग़‐ए‐नाज़,za;xm-e te;g-e naaz,1
 چرخِ بریں,चरख़‐ए‐बरीं,char;x-e barii;n,1
 قطع,क़ता,qa:t((a,1
@@ -3633,20 +3631,20 @@ urdu,nagari,transliteration,count
 ساغرِ جم,साग़र‐ए‐जम,saa;gar-e jam,1
 عجزِ ہمّت,अजज़‐ए‐हिममत,((ajz-e himmat,1
 بوسِ قدم,बोस‐ए‐क़दम,bos-e qadam,1
-نوا پرداز,नवापरदाज़,navaa-pardaaz,1
+نوا پرداز,नवा-परदाज़,navaa-pardaaz,1
 دشمنِ اربابِ وفا,दुशमन‐ए‐अरबाब‐ए‐वफ़ा,dushman-e arbaab-e vafaa,1
-مہ رخوں,मारुख़ों,mah-ru;xo;n,1
+مہ رخوں,मा-रुख़ों,mah-ru;xo;n,1
 نذرِ امتحاں,नज़र‐ए‐इमतिहाँ,na;zr-e imti;haa;n,1
-نالہ فرسائی,नालाफ़रसाई,naalah-farsaa))ii,1
-دلودل,दिल‐ओ‐दिल,dil-o-dil,1
+نالہ فرسائی,नाला-फ़रसाई,naalah-farsaa))ii,1
+دل و دل,दिल‐ओ‐दिल,dil-o-dil,1
 بھلے,भले,bhale,1
 شکلِ نہالی,शकल‐ए‐निहाली,shakl-e nihaalii,1
 مدحِ ناز,मदह‐ए‐नाज़,mad;h-e naaz,1
-تکلیفِ پردہ داریِ زخمِ جگر,तकलीफ़‐ए‐परदादारी‐ए‐ज़ख़म‐ए‐जिगर,takliif-e pardah-daarii-e za;xm-e jigar,1
+تکلیفِ پردہ داریِ زخمِ جگر,तकलीफ़‐ए‐परदा-दारी‐ए‐ज़ख़म‐ए‐जिगर,takliif-e pardah-daarii-e za;xm-e jigar,1
 آشیان,आशियान,aashiyaan,1
-خو گر,ख़ूगर,;xuu-gar,1
+خو گر,ख़ू-गर,;xuu-gar,1
 شوقِ منفعل,शौक़‐ए‐मुंफ़िल,shauq-e munfa((il,1
-حریفِ سیہ مست,हरीफ़‐ए‐सियहमसत,;hariif-e siyah-mast,1
+حریفِ سیہ مست,हरीफ़‐ए‐सियह-मसत,;hariif-e siyah-mast,1
 ہولِ دل,हौल‐ए‐दिल,haul-e dil,1
 خریدار,ख़रीदार,;xariidaar,1
 الٹی,उलटी,ul;tii,1
@@ -3654,75 +3652,75 @@ urdu,nagari,transliteration,count
 مشتمل,मुशतमिल,mushtamil,1
 نیازِ حسرتِ دیدار,नियाज़‐ए‐हसरत‐ए‐दीदार,niyaaz-e ;hasrat-e diidaar,1
 لاتی,लाती,laatii,1
-تیغ آزما,तेग़आज़मा,te;g-aazmaa,1
+تیغ آزما,तेग़-आज़मा,te;g-aazmaa,1
 چاہ,चाह,chaah,1
-بادہ نوشی,बादानोशी,baadah-noshii,1
-سر سبز,सरसबज़,sar-sabz,1
-کفیلِ عمرواسد,कफ़ील‐ए‐उमर‐ओ‐असद,kafiil-e ((umr-o-asad,1
+بادہ نوشی,बादा-नोशी,baadah-noshii,1
+سر سبز,सर-सबज़,sar-sabz,1
+کفیلِ عمر و اسد,कफ़ील‐ए‐उमर‐ओ‐असद,kafiil-e ((umr-o-asad,1
 بک,बिक,bik,1
 مےِ گلفام,मै‐ए‐गुलफ़ाम,mai-e gulfaam,1
 جاگیرِ سمندر,जागीर‐ए‐समंदर,jaagiir-e samandar,1
 تنگیِ چشمِ حسود,तंगी‐ए‐चशम‐ए‐हसूद,tangii-e chashm-e ;hasuud,1
 بوے گل,बू‐ए‐गुल,buu-e gul,1
 یکتائی,यकताई,yaktaa))ii,1
-آتش بار,आतिशबार,aatish-baar,1
-در ہواے یک,दरहवा‐ए‐यक,dar-havaa-e yak,1
+آتش بار,आतिश-बार,aatish-baar,1
+در ہواے یک,दर-हवा‐ए‐यक,dar-havaa-e yak,1
 طلسم,तिलिसम,:tilism,1
-طاقتِ بے دادِ انتظار,ताक़त‐ए‐बेदाद‐ए‐इंतिज़ार,:taaqat-e be-daad-e inti:zaar,1
-عشرتِ قتل گہِ اہلِ تمنّا,इशरत‐ए‐क़तलगह‐ए‐अहल‐ए‐तमन्ना,((ishrat-e qatl-gah-e ahl-e tamannaa,1
-دلِ وا بستہ,दिल‐ए‐वाबसता,dil-e vaa-bastah,1
+طاقتِ بے دادِ انتظار,ताक़त‐ए‐बे-दाद‐ए‐इंतिज़ार,:taaqat-e be-daad-e inti:zaar,1
+عشرتِ قتل گہِ اہلِ تمنّا,इशरत‐ए‐क़तल-गह‐ए‐अहल‐ए‐तमन्ना,((ishrat-e qatl-gah-e ahl-e tamannaa,1
+دلِ وا بستہ,दिल‐ए‐वा-बसता,dil-e vaa-bastah,1
 پیدائی,पैदाई,paidaa))ii,1
 فشارِ ضعف,फ़िशार‐ए‐ज़ुफ़,fishaar-e .zu((f,1
 چھپانے,छुपाने,chhupaane,1
-منّت کشِ دوا,मिन्नतकश‐ए‐दवा,minnat-kash-e davaa,1
+منّت کشِ دوا,मिन्नत-कश‐ए‐दवा,minnat-kash-e davaa,1
 تقصیر,तक़सीर,taq.siir,1
-جذبہِ بے اختیارِ شوق,जज़बा‐ए‐बेइख़तियार‐ए‐शौक़,ja;zbah-e be-i;xtiyaar-e shauq,1
-خرقہوسجّادہ,ख़िरक़ा‐ओ‐सजजादा,;xirqah-o-sajjaadah,1
+جذبہِ بے اختیارِ شوق,जज़बा‐ए‐बे-इख़तियार‐ए‐शौक़,ja;zbah-e be-i;xtiyaar-e shauq,1
+خرقہ و سجّادہ,ख़िरक़ा‐ओ‐सजजादा,;xirqah-o-sajjaadah,1
 اردی,उरदी,urdii,1
-مدّعیودیدہ,मुददी‐ओ‐दीदा,mudda((ii-o-diidah,1
-مہ طلعتوں,मातलअतों,mah-:tal((ato;n,1
+مدّعی و دیدہ,मुददी‐ओ‐दीदा,mudda((ii-o-diidah,1
+مہ طلعتوں,मा-तलअतों,mah-:tal((ato;n,1
 قد,क़द,qad,1
 ارزانیِ مےِ جلوہ,अरज़ानी‐ए‐मै‐ए‐जलवा,arzaanii-e mai-e jalvah,1
 پاسِ ناموسِ وفا,पास‐ए‐नामूस‐ए‐वफ़ा,paas-e naamuus-e vafaa,1
-پرسشِ طرزِ دل بری,पुरसिश‐ए‐तरज़‐ए‐दिलबरी,pursish-e :tarz-e dil-barii,1
+پرسشِ طرزِ دل بری,पुरसिश‐ए‐तरज़‐ए‐दिल-बरी,pursish-e :tarz-e dil-barii,1
 جائیں‌گے,जाएंगे,jaa))e;nge,1
-لالہ زار,लालाज़ार,laalah-zaar,1
+لالہ زار,लाला-ज़ार,laalah-zaar,1
 حسرتِ لخّتِ آزار,हसरत‐ए‐लज़ज़त‐ए‐आज़ार,;hasrat-e la;z;zat-e aazaar,1
 غمِ عشّاق,ग़म‐ए‐उशशाक़,;gam-e ((ushshaaq,1
-نغمہ سنج,नग़मासंज,na;gmah-sanj,1
+نغمہ سنج,नग़मा-संज,na;gmah-sanj,1
 خونِ ناب,ख़ून‐ए‐नाब,;xuun-e naab,1
-ودیعت خانہِ بیدادِ کاوشہاے مژگاں,वदीअतख़ाना‐ए‐बेदाद‐ए‐काविशहा‐ए‐मिझ़गाँ,vadii((at-;xaanah-e bedaad-e kaavish'haa-e mizhgaa;n,1
-دعوتِ آبوہوا,दावत‐ए‐आब‐ओ‐हवा,da((vat-e aab-o-havaa,1
+ودیعت خانہِ بیدادِ کاوشہاے مژگاں,वदीअत-ख़ाना‐ए‐बेदाद‐ए‐काविशहा‐ए‐मिझ़गाँ,vadii((at-;xaanah-e bedaad-e kaavish'haa-e mizhgaa;n,1
+دعوتِ آب و ہوا,दावत‐ए‐आब‐ओ‐हवा,da((vat-e aab-o-havaa,1
 خانقاہ,ख़ानक़ाह,;xaanaqaah,1
 سراغِ تفِ نالہ,सुराग़‐ए‐तफ़‐ए‐नाला,suraa;g-e taf-e naalah,1
-حسرت سنج,हसरतसंज,;hasrat-sanj,1
+حسرت سنج,हसरत-संज,;hasrat-sanj,1
 متاعِ سخن,मता‐ए‐सुख़न,mataa((-e su;xan,1
 ہجرِ یار,हिजर‐ए‐यार,hijr-e yaar,1
-کم آزار,कमआज़ार,kam-aazaar,1
+کم آزار,कम-आज़ार,kam-aazaar,1
 اہتزاز,इहतिज़ाज़,ihtizaaz,1
-خم کدہ,ख़ुमकदह,;xum-kadah,1
+خم کدہ,ख़ुम-कदह,;xum-kadah,1
 دمِ مرگ,दम‐ए‐मरग,dam-e marg,1
 روحِ نباتی,रूह‐ए‐नबाती,ruu;h-e nabaatii,1
-موج زن,मौजज़न,mauj-zan,1
-پردہ دارِ رازِ عشق,परदादार‐ए‐राज़‐ए‐इशक़,pardah-daar-e raaz-e ((ishq,1
-غموشادی,ग़म‐ओ‐शादी,;gam-o-shaadii,1
+موج زن,मौज-ज़न,mauj-zan,1
+پردہ دارِ رازِ عشق,परदा-दार‐ए‐राज़‐ए‐इशक़,pardah-daar-e raaz-e ((ishq,1
+غم و شادی,ग़म‐ओ‐शादी,;gam-o-shaadii,1
 چھوڑیں,छोड़ें,chho;re;n,1
 اعتقاد,एतक़ाद,i((tiqaad,1
 پرتوِ نقشِ خیالِ یار,परतव‐ए‐नक़श‐ए‐ख़याल‐ए‐यार,partav-e naqsh-e ;xayaal-e yaar,1
 بعد,बुद,bu((d,1
-زبونی کشِ تاثیر,ज़बूनीकश‐ए‐तासीर,zabuunii-kash-e taa;siir,1
+زبونی کشِ تاثیر,ज़बूनी-कश‐ए‐तासीर,zabuunii-kash-e taa;siir,1
 برقِ حسن,बरक़‐ए‐हुसन,barq-e ;husn,1
 پارہِ جگر,पारा‐ए‐जिगर,paarah-e jigar,1
 بھوں,भों,bho;n,1
-دلودیدہ,दिल‐ओ‐दीदा,dil-o-diidah,1
-سازِ چمن طرازیِ داماں,साज़‐ए‐चमनतराज़ी‐ए‐दामाँ,saaz-e chaman-:taraazii-e daamaa;n,1
+دل و دیدہ,दिल‐ओ‐दीदा,dil-o-diidah,1
+سازِ چمن طرازیِ داماں,साज़‐ए‐चमन-तराज़ी‐ए‐दामाँ,saaz-e chaman-:taraazii-e daamaa;n,1
 دماغِ عجز,दिमाग़‐ए‐अजज़,dimaa;g-e ((ajz,1
 دلِ شوریدہِ غالب,दिल‐ए‐शोरीदा‐ए‐ग़ालिब,dil-e shoriidah-e ;gaalib,1
 بناے خندہ,बिना‐ए‐ख़ंदा,binaa-e ;xandah,1
 آئیں‌گے,आएंगे,aa))e;nge,1
 توڑا,तोड़ा,to;raa,1
 فتنوں,फ़ितनों,fitno;n,1
-سازِ انا ال بحر,साज़‐ए‐अनाअलबहर,saaz-e anaa-al-ba;hr,1
+سازِ انا ال بحر,साज़‐ए‐अना-अल-बहर,saaz-e anaa-al-ba;hr,1
 بجھا,बुझा,bujhaa,1
 خورشید,ख़ुरशीद,;xvurshiid,1
 تماشاے نیرنگِ صورت,तमाशा‐ए‐नैरंग‐ए‐सूरत,tamaashaa-e nairang-e .suurat,1
@@ -3730,17 +3728,17 @@ urdu,nagari,transliteration,count
 برگِ عافیت,बरग‐ए‐आफ़ियत,barg-e ((aafiyat,1
 کس,कस,kas,1
 ہوسِ یار,हवस‐ए‐यार,havas-e yaar,1
-شیخوبرہمن,शैख़‐ओ‐बरहमन,shai;x-o-barhaman,1
+شیخ و برہمن,शैख़‐ओ‐बरहमन,shai;x-o-barhaman,1
 بیکسی ہاے شبِ ہجر,बेकसी‐हा-ए-शब‐ए‐हिजर,bekasii-haa-e shab-e hijr,1
 قیمت,क़ीमत,qiimat,1
-گل دستہِ نگاہ,गुलदसता‐ए‐निगाह,gul-dastah-e nigaah,1
+گل دستہِ نگاہ,गुल-दसता‐ए‐निगाह,gul-dastah-e nigaah,1
 ثواب,सवाब,;savaab,1
 مستانہ,मसताना,mastaanah,1
 بساطِ صحبتِ احباب,बिसात‐ए‐सुहबत‐ए‐अहबाब,bisaa:t-e .su;hbat-e a;hbaab,1
 محشر,महशर,ma;hshar,1
 لکھتے,लिखते,likhte,1
-مانندِ خونِ بے گنہ,मानिंद‐ए‐ख़ून‐ए‐बेगुनह,maanind-e ;xuun-e be-gunah,1
-عزمِ سیرِ نجفوطوفِ حرم,अज़म‐ए‐सैर‐ए‐नजफ़‐ओ‐तौफ़‐ए‐हरम,((azm-e sair-e najaf-o-:tauf-e ;haram,1
+مانندِ خونِ بے گنہ,मानिंद‐ए‐ख़ून‐ए‐बे-गुनह,maanind-e ;xuun-e be-gunah,1
+عزمِ سیرِ نجف و طوفِ حرم,अज़म‐ए‐सैर‐ए‐नजफ़‐ओ‐तौफ़‐ए‐हरम,((azm-e sair-e najaf-o-:tauf-e ;haram,1
 راہِ سخن,राह‐ए‐सुख़न,raah-e su;xan,1
 عجزِ حوصلہ,अजज़‐ए‐हौसला,((ajz-e ;hau.salah,1
 نیروے تن,नीरू‐ए‐तन,niiruu-e tan,1
@@ -3748,32 +3746,32 @@ urdu,nagari,transliteration,count
 پکڑے,पकड़े,pak;re,1
 پریشانیِ خاطر,परेशानी‐ए‐ख़ातिर,pareshaanii-e ;xaa:tir,1
 ذمّہ,ज़िममा,;zimmah,1
-بے زبانوں,बेज़बानों,be-zabaano;n,1
+بے زبانوں,बे-ज़बानों,be-zabaano;n,1
 بیدادِ دوست,बेदाद‐ए‐दोसत,bedaad-e dost,1
 رخِ نگار,रुख़‐ए‐निगार,ru;x-e nigaar,1
 وام,वाम,vaam,1
 دانتوں,दांतों,daa;nto;n,1
-زہر آب,ज़हरआब,zahr-aab,1
+زہر آب,ज़हर-आब,zahr-aab,1
 پاسِ درد,पास‐ए‐दरद,paas-e dard,1
-تلخیِ کامودہن,तलख़ी‐ए‐काम‐ओ‐दहन,tal;xii-e kaam-o-dahan,1
+تلخیِ کام و دہن,तलख़ी‐ए‐काम‐ओ‐दहन,tal;xii-e kaam-o-dahan,1
 دیدہِ یعقوب,दीदा‐ए‐याक़ूब,diidah-e ya((quub,1
 چراغِ روشن,चिराग़‐ए‐रौशन,chiraa;g-e raushan,1
-گرہِ نیم باز,गिरा‐ए‐नीमबाज़,girah-e niim-baaz,1
+گرہِ نیم باز,गिरा‐ए‐नीम-बाज़,girah-e niim-baaz,1
 ریختے,रेख़ते,re;xte,1
-راہ گزر,राहगुज़र,raah-guzar,1
+راہ گزر,राह-गुज़र,raah-guzar,1
 سوچ,सोच,soch,1
 مٹاتا,मिटाता,mi;taataa,1
 افشردہِ انگور,अफ़शरदा‐ए‐अंगूर,afshardah-e anguur,1
 قبلے,क़िबले,qible,1
 مزاج,मिज़ाज,mizaaj,1
-پاس باں,पासबाँ,paas-baa;n,1
-فرصتِ کاروبارِ شوق,फ़ुरसत‐ए‐कार‐ओ‐बार‐ए‐शौक़,fur.sat-e kaar-o-baar-e shauq,1
+پاس باں,पास-बाँ,paas-baa;n,1
+فرصتِ کار و بارِ شوق,फ़ुरसत‐ए‐कार‐ओ‐बार‐ए‐शौक़,fur.sat-e kaar-o-baar-e shauq,1
 ہونگی,होंगी,ho;ngii,1
 قفسِ رنگ,क़फ़स‐ए‐रंग,qafas-e rang,1
 رہِ پرسش,रह‐ए‐पुरसिश,rah-e pursish,1
-صنم کدہ,सनमकदह,.sanam-kadah,1
+صنم کدہ,सनम-कदह,.sanam-kadah,1
 بزمِ بتاں,बज़म‐ए‐बुताँ,bazm-e butaa;n,1
-طوفاں گاہِ جوشِ اضطرابِ شامِ تنہائی,तूफ़ाँगाह‐ए‐जोश‐ए‐इज़तिराब‐ए‐शाम‐ए‐तंहाई,:tuufaa;n-gaah-e josh-e i.z:tiraab-e shaam-e tanhaa))ii,1
+طوفاں گاہِ جوشِ اضطرابِ شامِ تنہائی,तूफ़ाँ-गाह‐ए‐जोश‐ए‐इज़तिराब‐ए‐शाम‐ए‐तंहाई,:tuufaa;n-gaah-e josh-e i.z:tiraab-e shaam-e tanhaa))ii,1
 فتح,फ़तह,fat;h,1
 اماں,अमाँ,amaa;n,1
 ناک,नाक,naak,1
@@ -3783,40 +3781,40 @@ urdu,nagari,transliteration,count
 شرف,शरफ़,sharaf,1
 تارِ نگہ,तार‐ए‐निगह,taar-e nigah,1
 روے کار,रू‐ए‐कार,ruu-e kaar,1
-حاصلِ دل بستگی,हासिल‐ए‐दिलबसतगी,;haa.sil-e dil-bastagii,1
+حاصلِ دل بستگی,हासिल‐ए‐दिल-बसतगी,;haa.sil-e dil-bastagii,1
 ضبطِ آہ,ज़बत‐ए‐आह,.zab:t-e aah,1
 اندوہِ وفا,अंदोह‐ए‐वफ़ा,andoh-e vafaa,1
 مراد,मुराद,muraad,1
-اوجِ طالعِ لعلوگہر,औज‐ए‐ताला‐ए‐लाल‐ओ‐गुहर,auj-e :taala((-e la((l-o-guhar,1
+اوجِ طالعِ لعل و گہر,औज‐ए‐ताला‐ए‐लाल‐ओ‐गुहर,auj-e :taala((-e la((l-o-guhar,1
 التفاتِ ناز,इलतिफ़ात‐ए‐नाज़,iltifaat-e naaz,1
 اگ,उग,ug,1
-بے حس,बेहिस,be-;his,1
+بے حس,बे-हिस,be-;his,1
 چڑھی,चढ़ी,cha;rhii,1
 غرورِ دوستی,ग़ुरूर‐ए‐दोसती,;guruur-e dostii,1
 الیٰہی,इलाही,il;aahii,1
 پاے ثبات,पा‐ए‐सबात,paa-e ;sabaat,1
 نواے مرغِ گرفتار,नवा‐ए‐मुरग़‐ए‐गिरिफ़तार,navaa-e mur;g-e giriftaar,1
 رازِ نہاں,राज़‐ए‐निहाँ,raaz-e nihaa;n,1
-گل فروشِ شوخیِ داغِ کہن,गुलफ़रोश‐ए‐शोख़ी‐ए‐दाग़‐ए‐कुहन,gul-farosh-e sho;xii-e daa;g-e kuhan,1
+گل فروشِ شوخیِ داغِ کہن,गुल-फ़रोश‐ए‐शोख़ी‐ए‐दाग़‐ए‐कुहन,gul-farosh-e sho;xii-e daa;g-e kuhan,1
 دیدہِ تر,दीदा‐ए‐तर,diidah-e tar,1
-سادگیوپرکاری,सादगी‐ओ‐पुरकारी,saadagii-o-purkaarii,1
+سادگی و پرکاری,सादगी‐ओ‐पुरकारी,saadagii-o-purkaarii,1
 رشتہِ شیرازہِ مژگاں,रिशता‐ए‐शीराज़ा‐ए‐मिझ़गाँ,rishtah-e shiiraazah-e mizhgaa;n,1
 تسکین,तसकीन,taskiin,1
 علم,अलम,((alam,1
 عشرتِ قطرہ,इशरत‐ए‐क़तरा,((ishrat-e qa:trah,1
 حضرتِ ناصح,हज़रत‐ए‐नासिह,;ha.zrat-e naa.si;h,1
 مشہور,मशहूर,mashhuur,1
-داغِ نا تمامی,दाग़‐ए‐नातमामी,daa;g-e naa-tamaamii,1
-چشمِ خوں فشاں,चशम‐ए‐ख़ूँफ़िशाँ,chashm-e ;xuu;n-fishaa;n,1
-نگاہِ بے محابا,निगाह‐ए‐बेमुहाबा,nigaah-e be-mu;haabaa,1
+داغِ نا تمامی,दाग़‐ए‐ना-तमामी,daa;g-e naa-tamaamii,1
+چشمِ خوں فشاں,चशम‐ए‐ख़ूँ-फ़िशाँ,chashm-e ;xuu;n-fishaa;n,1
+نگاہِ بے محابا,निगाह‐ए‐बे-मुहाबा,nigaah-e be-mu;haabaa,1
 بالِ ہما,बाल‐ए‐हुमा,baal-e humaa,1
-طفلانِ بے پروا,तिफ़लान‐ए‐बेपरवा,:tiflaan-e be-parvaa,1
-اندیشہہاے دور دراز,अंदेशहहा‐ए‐दूरदराज़,andeshah'haa-e duur-daraaz,1
-بت خانے,बुतख़ाने,but-;xaane,1
+طفلانِ بے پروا,तिफ़लान‐ए‐बे-परवा,:tiflaan-e be-parvaa,1
+اندیشہہاے دور دراز,अंदेशहहा‐ए‐दूर-दराज़,andeshah'haa-e duur-daraaz,1
+بت خانے,बुत-ख़ाने,but-;xaane,1
 شیشہِ مے,शीशा‐ए‐मै,shiishah-e mai,1
 طراوت,तरावत,:taraavat,1
 برقِ خرمن,बरक़‐ए‐ख़िरमन,barq-e ;xirman,1
-آغوش کشا,आग़ोशकुशा,aa;gosh-kushaa,1
+آغوش کشا,आग़ोश-कुशा,aa;gosh-kushaa,1
 حسنِ طلب,हुसन‐ए‐तलब,;husn-e :talab,1
 افشردن,अफ़शुरदन,afshurdan,1
 دعوتِ مژگاں,दावत‐ए‐मिझ़गाँ,da((vat-e mizhgaa;n,1
@@ -3827,45 +3825,45 @@ urdu,nagari,transliteration,count
 اڑیں‌گے,उड़ेंगे,u;re;nge,1
 آہنگِ زمیں,आहंग‐ए‐ज़मीं,aahang-e zamii;n,1
 انکار,इंकार,inkaar,1
-منعِ قدم بوس,मं‐ए‐क़दमबोस,man((-e qadam-bos,1
+منعِ قدم بوس,मं‐ए‐क़दम-बोस,man((-e qadam-bos,1
 اندھیری,अंधेरी,a;ndherii,1
 حوریں,हूरें,;huure;n,1
 کٹ,कट,ka;t,1
-مہر آسا,मिहरआसा,mihr-aasaa,1
+مہر آسا,मिहर-आसा,mihr-aasaa,1
 رہِ وادیِ خیال,रह‐ए‐वादी‐ए‐ख़याल,rah-e vaadii-e ;xayaal,1
 غرورِ حسن,ग़ुरूर‐ए‐हुसन,;guruur-e ;husn,1
-جواں مرگ,जवाँमरग,javaa;n-marg,1
-نوا سنجِ فغاں,नवासंज‐ए‐फ़िग़ाँ,navaa-sanj-e fi;gaa;n,1
+جواں مرگ,जवाँ-मरग,javaa;n-marg,1
+نوا سنجِ فغاں,नवा-संज‐ए‐फ़िग़ाँ,navaa-sanj-e fi;gaa;n,1
 نقابِ خاک,नक़ाब‐ए‐ख़ाक,naqaab-e ;xaak,1
-رشکِ سوالوجواب,रशक‐ए‐सवाल‐ओ‐जवाब,rashk-e savaal-o-javaab,1
+رشکِ سوال و جواب,रशक‐ए‐सवाल‐ओ‐जवाब,rashk-e savaal-o-javaab,1
 رگوں,रगों,rago;n,1
 تاراجِ کاوشِ غمِ ہجراں,ताराज‐ए‐काविश‐ए‐ग़म‐ए‐हिजराँ,taaraaj-e kaavish-e ;gam-e hijraa;n,1
 احوال,अहवाल,a;hvaal,1
-سرو قد,सरवक़द,sarv-qad,1
+سرو قد,सरव-क़द,sarv-qad,1
 موجِ شفق,मौज‐ए‐शफ़क़,mauj-e shafaq,1
-بیضہ آسا,बैज़ाआसा,bai.zah-aasaa,1
-چراغانِ سرِ رہ گزرِ باد,चिराग़ान‐ए‐सर‐ए‐रागुज़र‐ए‐बाद,chiraa;gaan-e sar-e rah-guzar-e baad,1
+بیضہ آسا,बैज़ा-आसा,bai.zah-aasaa,1
+چراغانِ سرِ رہ گزرِ باد,चिराग़ान‐ए‐सर‐ए‐रा-गुज़र‐ए‐बाद,chiraa;gaan-e sar-e rah-guzar-e baad,1
 سوے قبلہ,सू‐ए‐क़िबला,suu-e qiblah,1
 سمجھاویں‌گے,समझावेंगे,samjhaave;nge,1
 لبِ خشک,लब‐ए‐ख़ुशक,lab-e ;xushk,1
-رنگِ لالہوگلونسریں,रंग‐ए‐लाला‐ओ‐गुल‐ओ‐नसरीं,rang-e laalah-o-gul-o-nasrii;n,1
-غالبِ آشفتہ سر,ग़ालिब‐ए‐आशुफ़तासर,;gaalib-e aashuftah-sar,1
-سر مستیاں,सरमसतियाँ,sar-mastiyaa;n,1
-کوریِ دلوچشمِ رقیب,कोरी‐ए‐दिल‐ओ‐चशम‐ए‐रक़ीब,korii-e dil-o-chashm-e raqiib,1
+رنگِ لالہ و گل و نسریں,रंग‐ए‐लाला‐ओ‐गुल‐ओ‐नसरीं,rang-e laalah-o-gul-o-nasrii;n,1
+غالبِ آشفتہ سر,ग़ालिब‐ए‐आशुफ़ता-सर,;gaalib-e aashuftah-sar,1
+سر مستیاں,सर-मसतियाँ,sar-mastiyaa;n,1
+کوریِ دل و چشمِ رقیب,कोरी‐ए‐दिल‐ओ‐चशम‐ए‐रक़ीब,korii-e dil-o-chashm-e raqiib,1
 چہرہ,चहरा,chahrah,1
 وبال,वबाल,vabaal,1
 بیماریِ غم,बीमारी‐ए‐ग़म,biimaarii-e ;gam,1
 داغِ تمنّاے نشاط,दाग़‐ए‐तमन्ना‐ए‐नशात,daa;g-e tamannaa-e nashaa:t,1
 ڈالیں‌گے,डालेंगे,;daale;nge,1
-سواے بادہِ گل فامِ مشک بو,सिवा‐ए‐बादा‐ए‐गुलफ़ाम‐ए‐मुशकबू,sivaa-e baadah-e gul-faam-e mushk-buu,1
+سواے بادہِ گل فامِ مشک بو,सिवा‐ए‐बादा‐ए‐गुल-फ़ाम‐ए‐मुशक-बू,sivaa-e baadah-e gul-faam-e mushk-buu,1
 زندانیِ تاثیرِ الفطہاے خوباں,ज़िंदानी‐ए‐तासीर‐ए‐उलफ़तहा‐ए‐ख़ूबाँ,zindaanii-e taa;siir-e ulfa:t'haa-e ;xuubaa;n,1
-بے زباں,बेज़बाँ,be-zabaa;n,1
+بے زباں,बे-ज़बाँ,be-zabaa;n,1
 خریدارِ ذوقِ خواری,ख़रीदार‐ए‐ज़ौक़‐ए‐ख़वारी,;xariidaar-e ;zauq-e ;xvaarii,1
 مجبور,मजबूर,majbuur,1
 داغوں,दाग़ों,daa;go;n,1
 شعروں,शिरों,shi((ro;n,1
 چشمِ نرگس,चशम‐ए‐नरगिस,chashm-e nargis,1
-خوں غلتیدہِ صد رنگ,ख़ूँग़लतीदा‐ए‐सदरंग,;xuu;n-;galtiidah-e .sad-rang,1
+خوں غلتیدہِ صد رنگ,ख़ूँ-ग़लतीदा‐ए‐सद-रंग,;xuu;n-;galtiidah-e .sad-rang,1
 رتبے,रुतबे,rutbe,1
 مانعِ بیربطیِ شورِ جنوں,माना‐ए‐बेरबती‐ए‐शोर‐ए‐जुनूँ,maana((-e berab:tii-e shor-e junuu;n,1
 نجوم,नुजूम,nujuum,1
@@ -3876,8 +3874,8 @@ urdu,nagari,transliteration,count
 مار,मार,maar,1
 بادبانِ کشتیِ مے,बादबान‐ए‐किशती‐ए‐मै,baadbaan-e kishtii-e mai,1
 تعلیم,तालीम,ta((liim,1
-ز بس,ज़बस,z-bas,1
-سر گرمِ نالہہاے شرر بار,सरगरम‐ए‐नालहहा‐ए‐शररबार,sar-garm-e naalah'haa-e sharar-baar,1
+ز بس,ज़-बस,z-bas,1
+سر گرمِ نالہہاے شرر بار,सर-गरम‐ए‐नालहहा‐ए‐शरर-बार,sar-garm-e naalah'haa-e sharar-baar,1
 خارِ بیاباں,ख़ार‐ए‐बयाबाँ,;xaar-e bayaabaa;n,1
 وضعِ احتیاط,वज़‐ए‐इहतियात,va.z((-e i;htiyaa:t,1
 خیالِ حسن,ख़याल‐ए‐हुसन,;xayaal-e ;husn,1
@@ -3889,29 +3887,29 @@ urdu,nagari,transliteration,count
 طرّہہاے خم,तुररहहा‐ए‐ख़म,:turrah'haa-e ;xam,1
 ڈرتا,डरता,;dartaa,1
 آشوبِ غم,आशोब‐ए‐ग़म,aashob-e ;gam,1
-گہوبے گہ,गा‐ओ‐बेगा,gah-o-be-gah,1
+گہ و بے گہ,गा‐ओ‐बे-गा,gah-o-be-gah,1
 رہائی,रिहाई,rihaa))ii,1
 طلسمِ قفلِ ابجد,तिलिसम‐ए‐क़ुफ़ल‐ए‐अबजद,:tilism-e qufl-e abjad,1
-نازوادا,नाज़‐ओ‐अदा,naaz-o-adaa,1
+ناز و ادا,नाज़‐ओ‐अदा,naaz-o-adaa,1
 بعید,बीद,ba((iid,1
 سایہِ تاک,साया‐ए‐ताक,saayah-e taak,1
-نا تمامی,नातमामी,naa-tamaamii,1
+نا تمامی,ना-तमामी,naa-tamaamii,1
 چہرے,चहरे,chahre,1
 قریب,क़रीब,qariib,1
-وظیفہ خوار,वज़ीफ़ाख़वार,va:ziifah-;xvaar,1
-عذر خواہ,उज़रख़वाह,((u;zr-;xvaah,1
+وظیفہ خوار,वज़ीफ़ा-ख़वार,va:ziifah-;xvaar,1
+عذر خواہ,उज़र-ख़वाह,((u;zr-;xvaah,1
 مثلِ سایہِ گل,मिसल‐ए‐साया‐ए‐गुल,mi;sl-e saayah-e gul,1
 غبارِ شوق,ग़ुबार‐ए‐शौक़,;gubaar-e shauq,1
-جرئت آزما,जुरअतआज़मा,jur))at-aazmaa,1
+جرئت آزما,जुरअत-आज़मा,jur))at-aazmaa,1
 چبھو,चुभो,chubho,1
 آئینہِ بادِ بہاری,आईना‐ए‐बाद‐ए‐बहारी,aa))iinah-e baad-e bahaarii,1
 آغوشِ وداعِ جلوہ,आग़ोश‐ए‐विदा‐ए‐जलवा,aa;gosh-e vidaa((-e jalvah,1
 ہمّتِ عالی,हिममत‐ए‐आली,himmat-e ((aalii,1
 جوہرِ اندیشہ,जौहर‐ए‐अंदेशा,jauhar-e andeshah,1
 دھبّے,धबबे,dhabbe,1
-آہوفریاد,आह‐ओ‐फ़रयाद,aah-o-faryaad,1
-پر فشانیِ شمع,परफ़िशानी‐ए‐शमा,par-fishaanii-e sham((a,1
-ہوا خواہی,हवाख़वाही,havaa-;xvaahii,1
+آہ و فریاد,आह‐ओ‐फ़रयाद,aah-o-faryaad,1
+پر فشانیِ شمع,पर-फ़िशानी‐ए‐शमा,par-fishaanii-e sham((a,1
+ہوا خواہی,हवा-ख़वाही,havaa-;xvaahii,1
 سوکھ,सूख,suukh,1
 سودِ چراغِ کشتہ,सूद‐ए‐चिराग़‐ए‐कुशता,suud-e chiraa;g-e kushtah,1
 کفِ افسوس,कफ़‐ए‐अफ़सोस,kaf-e afsos,1
@@ -3921,17 +3919,17 @@ urdu,nagari,transliteration,count
 اجزاے نگاہِ آفتاب,अजज़ा‐ए‐निगाह‐ए‐आफ़ताब,ajzaa-e nigaah-e aaftaab,1
 مژہہاے دراز,मिझ़हहा‐ए‐दराज़,mizhah'haa-e daraaz,1
 بائث,बाइस,baa))i;s,1
-تہمت کشِ تسکیں,तुहमतकश‐ए‐तसकीं,tuhmat-kash-e taskii;n,1
+تہمت کشِ تسکیں,तुहमत-कश‐ए‐तसकीं,tuhmat-kash-e taskii;n,1
 تابِ رخِ یار,ताब‐ए‐रुख़‐ए‐यार,taab-e ru;x-e yaar,1
 شکر,शुकर,shukr,1
-بے بہرہ,बेबहरा,be-bahrah,1
+بے بہرہ,बे-बहरा,be-bahrah,1
 لٹتا,लुटता,lu;ttaa,1
-بے جرم,बेजुरम,be-jurm,1
+بے جرم,बे-जुरम,be-jurm,1
 اوراقِ لختِ دل,औराक़‐ए‐लख़त‐ए‐दिल,auraaq-e la;xt-e dil,1
 تذکرہِ غیر,तज़किरा‐ए‐ग़ैर,ta;zkirah-e ;gair,1
 تیغِ تیزِ عریاں,तेग़‐ए‐तेज़‐ए‐उरयां,te;g-e tez-e ((uryaa;n,1
 ظرفِ تنگناے غزل,ज़रफ़‐ए‐तंगना‐ए‐ग़ज़ल,:zarf-e tangnaa-e ;gazal,1
-مہر وش,मिहरवश,mihr-vash,1
+مہر وش,मिहर-वश,mihr-vash,1
 شعاعِ آفتابِ صبحِ محشر,शुआ‐ए‐आफ़ताब‐ए‐सुबह‐ए‐महशर,shu((aa((-e aaftaab-e .sub;h-e ma;hshar,1
 جوششِ فصلِ بہاری,जोशिश‐ए‐फ़सल‐ए‐बहारी,joshish-e fa.sl-e bahaarii,1
 ذوقِ معاصی,ज़ौक़‐ए‐मआसी,;zauq-e ma((aa.sii,1
@@ -3940,8 +3938,8 @@ urdu,nagari,transliteration,count
 پھرتا,फिरता,phirtaa,1
 رہا,रिहा,rihaa,1
 دہانِ ہر,दहान‐ए‐हर,dahaan-e har,1
-سبزہ زار,सबज़ाज़ार,sabzah-zaar,1
-دلِ گم گشتہ,दिल‐ए‐गुमगशता,dil-e gum-gashtah,1
+سبزہ زار,सबज़ा-ज़ार,sabzah-zaar,1
+دلِ گم گشتہ,दिल‐ए‐गुम-गशता,dil-e gum-gashtah,1
 دکھتے,दुखते,dukhte,1
 گھستا,घिसता,ghistaa,1
 دابتے,दाबते,daabte,1
@@ -3956,36 +3954,36 @@ urdu,nagari,transliteration,count
 نہال,निहाल,nihaal,1
 تخم,तुख़म,tu;xm,1
 طعنوں,तानों,:ta((no;n,1
-شکوہِ بے دستوپائی,शिकवा‐ए‐बेदसत‐ओ‐पाई,shikvah-e be-dast-o-paa))ii,1
+شکوہِ بے دست و پائی,शिकवा‐ए‐बे-दसत‐ओ‐पाई,shikvah-e be-dast-o-paa))ii,1
 جنازے,जनाज़े,janaaze,1
-بندگیِ بو تراب,बंदगी‐ए‐बूतुराब,bandagii-e buu-turaab,1
+بندگیِ بو تراب,बंदगी‐ए‐बू-तुराब,bandagii-e buu-turaab,1
 مسیحا,मसीहा,masii;haa,1
 سینہِ شمشیر,सीना‐ए‐शमशीर,siinah-e shamshiir,1
 شکیبِ خاترِ عاشق,शकेब‐ए‐ख़ातिर‐ए‐आशिक़,shakeb-e ;xaatir-e ((aashiq,1
 اورنگِ سلیماں,औरंग‐ए‐सुलैमाँ,aurang-e sulaimaa;n,1
 نگاہِ شوق,निगाह‐ए‐शौक़,nigaah-e shauq,1
 زکاتِ حسن,ज़कात‐ए‐हुसन,zakaat-e ;husn,1
-خمارِ تشنہ کامی,ख़ुमार‐ए‐तिशनाकामी,;xumaar-e tishnah-kaamii,1
+خمارِ تشنہ کامی,ख़ुमार‐ए‐तिशना-कामी,;xumaar-e tishnah-kaamii,1
 پہلوے اندیشہ,पहलू‐ए‐अंदेशा,pahluu-e andeshah,1
-آبِ برجا ماندہ,आब‐ए‐बरजामांदा,aab-e barjaa-maa;ndah,1
+آبِ برجا ماندہ,आब‐ए‐बरजा-मांदा,aab-e barjaa-maa;ndah,1
 دردِ تہِ جام,दुरद‐ए‐तह‐ए‐जाम,durd-e tah-e jaam,1
 دامانِ خیالِ یار,दामान‐ए‐ख़याल‐ए‐यार,daamaan-e ;xayaal-e yaar,1
-غرقِ نمک داں,ग़रक़‐ए‐नमकदाँ,;garq-e namak-daa;n,1
-چشمِ وا گردیدہ,चशम‐ए‐वागरदीदा,chashm-e vaa-gardiidah,1
+غرقِ نمک داں,ग़रक़‐ए‐नमक-दाँ,;garq-e namak-daa;n,1
+چشمِ وا گردیدہ,चशम‐ए‐वा-गरदीदा,chashm-e vaa-gardiidah,1
 پاسخِ مکتوب,पासुख़‐ए‐मकतूब,paasu;x-e maktuub,1
 برستی,बरसती,barastii,1
 رہتا,रहता,rahtaa,1
-قتل گہ,क़तलगा,qatl-gah,1
+قتل گہ,क़तल-गा,qatl-gah,1
 چھدے,छिदे,chhide,1
 سروِ قامت,सरव‐ए‐क़ामत,sarv-e qaamat,1
 خوشتر,ख़ुशतर,;xvushtar,1
 زلفیں,ज़ुलफ़ें,zulfe;n,1
 خسِ جوہر,ख़स‐ए‐जौहर,;xas-e jauhar,1
-دلِ بے قرار,दिल‐ए‐बेक़रार,dil-e be-qaraar,1
-بے خوابی,बेख़वाबी,be-;xvaabii,1
-مہروماہ,मिहर‐ओ‐माह,mihr-o-maah,1
+دلِ بے قرار,दिल‐ए‐बे-क़रार,dil-e be-qaraar,1
+بے خوابی,बे-ख़वाबी,be-;xvaabii,1
+مہر و ماہ,मिहर‐ओ‐माह,mihr-o-maah,1
 باعثِ نومیدیِ اربابِ ہوس,बाइस‐ए‐नौमीदी‐ए‐अरबाब‐ए‐हवस,baa((i;s-e naumiidii-e arbaab-e havas,1
-نازشِ ایّامِ خاکستر نشینی,नाज़िश‐ए‐अययाम‐ए‐ख़ाकिसतरनिशीनी,naazish-e ayyaam-e ;xaakistar-nishiinii,1
+نازشِ ایّامِ خاکستر نشینی,नाज़िश‐ए‐अययाम‐ए‐ख़ाकिसतर-निशीनी,naazish-e ayyaam-e ;xaakistar-nishiinii,1
 پھندے,फंदे,phande,1
 مرثیہ,मरसिया,mar;siyah,1
 آلودہ,आलूदा,aaluudah,1
@@ -3996,7 +3994,7 @@ urdu,nagari,transliteration,count
 وہمِ ناز,वहम‐ए‐नाज़,vahm-e naaz,1
 ظہور,ज़ुहूर,:zuhuur,1
 نقدِ داغِ دل,नक़द‐ए‐दाग़‐ए‐दिल,naqd-e daa;g-e dil,1
-جاں گسل,जाँगुसिल,jaa;n-gusil,1
+جاں گسل,जाँ-गुसिल,jaa;n-gusil,1
 گوشت,गोशत,gosht,1
 تیغِ نگہ,तेग़‐ए‐निगह,te;g-e nigah,1
 حریفِ دمِ عیسیٰ,हरीफ़‐ए‐दम‐ए‐ईसा,;hariif-e dam-e ((iis;aa,1
@@ -4005,68 +4003,68 @@ urdu,nagari,transliteration,count
 پاے طاؤس,पा‐ए‐ताऊस,paa-e :taa))uus,1
 مسائلِ تصوّف,मसाइल‐ए‐तसववुफ़,masaa))il-e ta.savvuf,1
 تمنّاے زباں,तमन्ना‐ए‐ज़बाँ,tamannaa-e zabaa;n,1
-ستم ایجاد,सितमईजाद,sitam-iijaad,1
+ستم ایجاد,सितम-ईजाद,sitam-iijaad,1
 تلافی,तलाफ़ी,talaafii,1
 بوجھ,बोझ,bojh,1
 سرمہِ مفتِ نظر,सुरमा‐ए‐मुफ़त‐ए‐नज़र,surmah-e muft-e na:zar,1
-یاسوامّید,यास‐ओ‐उममीद,yaas-o-ummiid,1
+یاس و امّید,यास‐ओ‐उममीद,yaas-o-ummiid,1
 انتظارِ صید,इंतिज़ार‐ए‐सैद,inti:zaar-e .said,1
 تر,तर,tar,1
 پاسبانی,पासबानी,paasbaanii,1
 کہاروں,कहारों,kahaaro;n,1
 اعجازِ ہواے صیقل,इजाज़‐ए‐हवा‐ए‐सैक़ल,i((jaaz-e havaa-e .saiqal,1
 گوشے,गोशे,goshe,1
-خدا ساز,ख़ुदासाज़,;xudaa-saaz,1
+خدا ساز,ख़ुदा-साज़,;xudaa-saaz,1
 گیاہ,गियाह,giyaah,1
 رشکِ فارسی,रशक‐ए‐फ़ारसी,rashk-e faarsii,1
 روئیں,रोएँ,ro))e;n,1
 پیا,पिया,piyaa,1
-من جملہِ اسبابِ ویرانی,मिनजुमला‐ए‐असबाब‐ए‐वीरानी,min-jumlah-e asbaab-e viiraanii,1
+من جملہِ اسبابِ ویرانی,मिन-जुमला‐ए‐असबाब‐ए‐वीरानी,min-jumlah-e asbaab-e viiraanii,1
 موجِ آب,मौज‐ए‐आब,mauj-e aab,1
-فریادوآہوزاری,फ़रयाद‐ओ‐आह‐ओ‐ज़ारी,faryaad-o-aah-o-zaarii,1
+فریاد و آہ و زاری,फ़रयाद‐ओ‐आह‐ओ‐ज़ारी,faryaad-o-aah-o-zaarii,1
 پیغامِ زبانی,पैग़ाम‐ए‐ज़बानी,pai;gaam-e zabaanii,1
 رشتہِ ہر,रिशता‐ए‐हर,rishtah-e har,1
 مطرب,मुतरिब,mu:trib,1
 کمال,कमाल,kamaal,1
 ذرّہِ زمیں,ज़ररा‐ए‐ज़मीं,;zarrah-e zamii;n,1
 نومید,नौमीद,naumiid,1
-عناں گیر,इनाँगीर,((inaa;n-giir,1
-خوفِ بد آموزیِ عدو,ख़ौफ़‐ए‐बदआमोज़ी‐ए‐अदू,;xauf-e bad-aamozii-e ((aduu,1
+عناں گیر,इनाँ-गीर,((inaa;n-giir,1
+خوفِ بد آموزیِ عدو,ख़ौफ़‐ए‐बद-आमोज़ी‐ए‐अदू,;xauf-e bad-aamozii-e ((aduu,1
 بیگانہِ وفا,बेगाना‐ए‐वफ़ा,begaanah-e vafaa,1
-نا تمامیِ نفسِ شعلہ بار,नातमामी‐ए‐नफ़स‐ए‐शुलाबार,naa-tamaamii-e nafas-e shu((lah-baar,1
+نا تمامیِ نفسِ شعلہ بار,ना-तमामी‐ए‐नफ़स‐ए‐शुला-बार,naa-tamaamii-e nafas-e shu((lah-baar,1
 عید,ईद,((iid,1
 فرو,फ़रो,faro,1
 روبکاری,रूबकारी,ruubakaarii,1
 مہر,मुहर,muhr,1
 آتشِ خاموش,आतिश‐ए‐ख़ामोश,aatish-e ;xaamosh,1
 عہدے,उहदे,((uhde,1
-صدمہِ یک جنبشِ لب,सदमा‐ए‐यकजुंबिश‐ए‐लब,.sadmah-e yak-junbish-e lab,1
-کوتاہیِ نشوونما,कोताही‐ए‐नशव‐ओ‐नुमा,kotaahii-e nashv-o-numaa,1
+صدمہِ یک جنبشِ لب,सदमा‐ए‐यक-जुंबिश‐ए‐लब,.sadmah-e yak-junbish-e lab,1
+کوتاہیِ نشو و نما,कोताही‐ए‐नशव‐ओ‐नुमा,kotaahii-e nashv-o-numaa,1
 مشتاقِ لخّتہاے حسرت,मुशताक़‐ए‐लज़ज़तहा‐ए‐हसरत,mushtaaq-e la;z;zat'haa-e ;hasrat,1
 پشیماں,पशेमाँ,pashemaa;n,1
 بتا,बता,bataa,1
 حظِّ وصل,हज़ज़‐ए‐वसल,;ha:z:z-e va.sl,1
-دل پذیر,दिलपज़ीर,dil-pa;ziir,1
-جوشوخروش,जोश‐ओ‐ख़रोश,josh-o-;xarosh,1
+دل پذیر,दिल-पज़ीर,dil-pa;ziir,1
+جوش و خروش,जोश‐ओ‐ख़रोश,josh-o-;xarosh,1
 شگفتنِ گلہاے عیش,शिगुफ़तन‐ए‐गुलहा‐ए‐ऐश,shiguftan-e gul'haa-e ((aish,1
-حسرت پرستِ بالیں,हसरतपरसत‐ए‐बालीं,;hasrat-parast-e baalii;n,1
+حسرت پرستِ بالیں,हसरत-परसत‐ए‐बालीं,;hasrat-parast-e baalii;n,1
 ڈھونڈتا,ढूंडता,;dhuu;n;dtaa,1
-نظر گاہِ حیا,नज़रगाह‐ए‐हया,na:zar-gaah-e ;hayaa,1
+نظر گاہِ حیا,नज़र-गाह‐ए‐हया,na:zar-gaah-e ;hayaa,1
 جستہ,जसता,jastah,1
 گریبانی,गरेबानी,garebaanii,1
 آستیں,आसतीं,aastii;n,1
 حالِ شہیدانِ گزشتہ,हाल‐ए‐शहीदान‐ए‐गुज़शता,;haal-e shahiidaan-e guzashtah,1
 مونس,मूनिस,muunis,1
 عیماے شعلہ,ईमा‐ए‐शुला,((iimaa-e shu((lah,1
-لب تشنہِ تقریر,लबतिशना‐ए‐तक़रीर,lab-tishnah-e taqriir,1
-وحشتوشیفتہ,वहशत‐ओ‐शेफ़ता,va;hshat-o-sheftah,1
-عربدہ میداں,अरबदामैदाँ,((arbadah-maidaa;n,1
+لب تشنہِ تقریر,लब-तिशना‐ए‐तक़रीर,lab-tishnah-e taqriir,1
+وحشت و شیفتہ,वहशत‐ओ‐शेफ़ता,va;hshat-o-sheftah,1
+عربدہ میداں,अरबदा-मैदाँ,((arbadah-maidaa;n,1
 آفرینش,आफ़िरीनिश,aafiriinish,1
 پینے,पीने,piine,1
 ذوقِ گرفتاریِ ہم,ज़ौक़‐ए‐गिरिफ़तारी‐ए‐हम,;zauq-e giriftaarii-e ham,1
 حشر,हशर,;hashr,1
-از بسکہ,अज़बसकि,az-baskih,1
-آئنہ پرداز,आइनापरदाज़,aa))inah-pardaaz,1
+از بسکہ,अज़-बसकि,az-baskih,1
+آئنہ پرداز,आइना-परदाज़,aa))inah-pardaaz,1
 عالی,आली,((aalii,1
 مرہم,मरहम,marham,1
 کمان,कमान,kamaan,1
@@ -4076,28 +4074,29 @@ urdu,nagari,transliteration,count
 چشمِ بینا,चशम‐ए‐बीना,chashm-e biinaa,1
 کھائے,खाए,khaa))e,1
 رہیو,रहयो,rahyo,1
-بے کاریِ جنوں,बेकारी‐ए‐जुनूँ,be-kaarii-e junuu;n,1
+بے کاریِ جنوں,बे-कारी‐ए‐जुनूँ,be-kaarii-e junuu;n,1
 تلف,तलफ़,talaf,1
-معشوقِ شوخوعاشقِ دیوانہ,माशूक़‐ए‐शोख़‐ओ‐आशिक़‐ए‐दीवाना,ma((shuuq-e sho;x-o-((aashiq-e diivaanah,1
+معشوقِ شوخ و عاشقِ دیوانہ,माशूक़‐ए‐शोख़‐ओ‐आशिक़‐ए‐दीवाना,ma((shuuq-e sho;x-o-((aashiq-e diivaanah,1
 خستہ,ख़सता,;xastah,1
-مجبوریودعواے گرفتاریِ الفت,मजबूरी‐ओ‐दावा‐ए‐गिरिफ़तारी‐ए‐उलफ़त,majbuurii-o-da((vaa-e giriftaarii-e ulfat,1
+مجبوری و دعواے گرفتاریِ الفت,मजबूरी‐ओ‐दावा‐ए‐गिरिफ़तारी‐ए‐उलफ़त,majbuurii-o-da((vaa-e giriftaarii-e ulfat,1
 پاؤں,पाऊँ,paa))uu;n,1
 حلِ مشکلِ عاشق,हलल‐ए‐मुशकिल‐ए‐आशिक़,;hall-e mushkil-e ((aashiq,1
-سرگشتہِ خمارِ رسوموقیود,सरगशता‐ए‐ख़ुमार‐ए‐रुसूम‐ओ‐क़ुयूद,sargashtah-e ;xumaar-e rusuum-o-quyuud,1
-در ماندگی,दरमांदगी,dar-maa;ndagii,1
+سرگشتہِ خمارِ رسوم و قیود,सरगशता‐ए‐ख़ुमार‐ए‐रुसूम‐ओ‐क़ुयूद,sargashtah-e ;xumaar-e rusuum-o-quyuud,1
+در ماندگی,दर-मांदगी,dar-maa;ndagii,1
 مردن,मुरदन,murdan,1
 دب,दब,dab,1
-پر گل,पुरगुल,pur-gul,1
+پر گل,पुर-गुल,pur-gul,1
+علیٰ ال رغمِ دشمن,अला-अल-रग़म‐ए‐दुशमन,((al;aa-al-ra;gm-e dushman,1
 شگاف,शिगाफ़,shigaaf,1
 دے,दै,dai,1
 درسِ دفترِ امکاں,दरस‐ए‐दफ़तर‐ए‐इमकाँ,dars-e daftar-e imkaa;n,1
 دفتر,दफ़तर,daftar,1
-بیاباں نوردِ وہمِ وجود,बयाबाँनवरद‐ए‐वहम‐ए‐वुजूद,bayaabaa;n-navard-e vahm-e vujuud,1
-دردی کشِ پیمانہِ جم,दुरदीकश‐ए‐पैमाना‐ए‐जम,durdii-kash-e paimaanah-e jam,1
-سختی کشانِ عشق,सख़तीकशान‐ए‐इशक़,sa;xtii-kashaan-e ((ishq,1
+بیاباں نوردِ وہمِ وجود,बयाबाँ-नवरद‐ए‐वहम‐ए‐वुजूद,bayaabaa;n-navard-e vahm-e vujuud,1
+دردی کشِ پیمانہِ جم,दुरदी-कश‐ए‐पैमाना‐ए‐जम,durdii-kash-e paimaanah-e jam,1
+سختی کشانِ عشق,सख़ती-कशान‐ए‐इशक़,sa;xtii-kashaan-e ((ishq,1
 جوشِ اشک,जोश‐ए‐अशक,josh-e ashk,1
 بیٹھیں,बैठें,bai;the;n,1
-طرب انشاے التفات,तरबइंशा‐ए‐इलतिफ़ात,:tarab-inshaa-e iltifaat,1
+طرب انشاے التفات,तरब-इंशा‐ए‐इलतिफ़ात,:tarab-inshaa-e iltifaat,1
 دیوانگی,दीवानगी,diivaanagii,1
 دیوارِ دبستاں,दीवार‐ए‐दबिसताँ,diivaar-e dabistaa;n,1
 محیطِ آب,मुहीत‐ए‐आब,mu;hii:t-e aab,1
@@ -4106,7 +4105,7 @@ urdu,nagari,transliteration,count
 شامِ حجر,शाम‐ए‐हिजर,shaam-e ;hijr,1
 زبانِ سپاس,ज़बान‐ए‐सिपास,zabaan-e sipaas,1
 عاشقِ اہلِ کرم,आशिक़‐ए‐अहल‐ए‐करम,((aashiq-e ahl-e karam,1
-خورشیدوماہ,ख़ुरशीद‐ओ‐माह,;xvurshiid-o-maah,1
+خورشید و ماہ,ख़ुरशीद‐ओ‐माह,;xvurshiid-o-maah,1
 سواے خونِ جگر,सिवा‐ए‐ख़ून‐ए‐जिगर,sivaa-e ;xuun-e jigar,1
 کودکی,कूदकी,kuudakii,1
 ستانا,सताना,sataanaa,1
@@ -4127,18 +4126,18 @@ urdu,nagari,transliteration,count
 فراغ,फ़राग़,faraa;g,1
 سازِ آہنگِ شکایت,साज़‐ए‐आहंग‐ए‐शिकायत,saaz-e aahang-e shikaayat,1
 نظّارہِ جمال,नज़ज़ारा‐ए‐जमाल,na:z:zaarah-e jamaal,1
-جادادِ بادہ نوشیِ رنداں,जादाद‐ए‐बादानोशी‐ए‐रिंदाँ,jaadaad-e baadah-noshii-e rindaa;n,1
+جادادِ بادہ نوشیِ رنداں,जादाद‐ए‐बादा-नोशी‐ए‐रिंदाँ,jaadaad-e baadah-noshii-e rindaa;n,1
 شورِ پندِ ناصح,शोर‐ए‐पंद‐ए‐नासिह,shor-e pand-e naa.si;h,1
 مغتنم,मुग़तनम,mu;gtanam,1
-راحت طلبی,राहततलबी,raa;hat-:talabii,1
+راحت طلبی,राहत-तलबी,raa;hat-:talabii,1
 عکس,अकस,((aks,1
-سر بر,सरबर,sar-bar,1
+سر بر,सर-बर,sar-bar,1
 قبلہِ حاجات,क़िबला‐ए‐हाजात,qiblah-e ;haajaat,1
 رفو,रफ़ू,rafuu,1
 رہینِ ستمہاے روزگار,रहीन‐ए‐सितमहा‐ए‐रोज़गार,rahiin-e sitamhaa-e rozgaar,1
 محابا,मुहाबा,mu;haabaa,1
 نسخہِ مرہم,नुसख़ा‐ए‐मरहम,nus;xah-e marham,1
-گرہ کشا,गिरहकुशा,girah-kushaa,1
+گرہ کشا,गिरह-कुशा,girah-kushaa,1
 کھرے,खरे,khare,1
 لکھیے,लिखिये,likhiye,1
 شعلہِ عشق,शुला‐ए‐इशक़,shu((lah-e ((ishq,1
@@ -4147,25 +4146,25 @@ urdu,nagari,transliteration,count
 منحصر,मुंहसिर,mun;ha.sir,1
 چکے,चुके,chuke,1
 حلقہِ دامِ خیال,हलक़ा‐ए‐दाम‐ए‐ख़याल,;halqah-e daam-e ;xayaal,1
-بے پروبالی,बेपर‐ओ‐बाली,be-par-o-baalii,1
-داد خواہ,दादख़वाह,daad-;xvaah,1
+بے پر و بالی,बे-पर‐ओ‐बाली,be-par-o-baalii,1
+داد خواہ,दाद-ख़वाह,daad-;xvaah,1
 آدم,आदम,aadam,1
 دفینہ,दफ़ीना,dafiinah,1
-خسوخاشاکِ گلستاں,ख़स‐ओ‐ख़ाशाक‐ए‐गुलिसताँ,;xas-o-;xaashaak-e gulistaa;n,1
-پرتوِ خورشیدِ جہاں تاب,परतव‐ए‐ख़ुरशीद‐ए‐जहाँताब,partav-e ;xvurshiid-e jahaa;n-taab,1
+خس و خاشاکِ گلستاں,ख़स‐ओ‐ख़ाशाक‐ए‐गुलिसताँ,;xas-o-;xaashaak-e gulistaa;n,1
+پرتوِ خورشیدِ جہاں تاب,परतव‐ए‐ख़ुरशीद‐ए‐जहाँ-ताब,partav-e ;xvurshiid-e jahaa;n-taab,1
 نجات,निजात,nijaat,1
 جیبِ خیال,जेब‐ए‐ख़याल,jeb-e ;xayaal,1
-بے سروپا,बेसर‐ओ‐पा,be-sar-o-paa,1
+بے سر و پا,बे-सर‐ओ‐पा,be-sar-o-paa,1
 گستاخیِ فرشتہ,गुसताख़ी‐ए‐फ़रिशता,gustaa;xii-e farishtah,1
-عالم آرائی,आलमआराई,((aalam-aaraa))ii,1
+عالم آرائی,आलम-आराई,((aalam-aaraa))ii,1
 مانعِ ذوقِ تماشا,माना‐ए‐ज़ौक़‐ए‐तमाशा,maana((-e ;zauq-e tamaashaa,1
-بندوبست,बंद‐ओ‐बसत,band-o-bast,1
+بند و بست,बंद‐ओ‐बसत,band-o-bast,1
 بیدادِ کاوشہاے مژگاں,बेदाद‐ए‐काविशहा‐ए‐मिझ़गाँ,bedaad-e kaavish'haa-e mizhgaa;n,1
 عرضِ نیازِ عشق,अरज़‐ए‐नियाज़‐ए‐इशक़,((ar.z-e niyaaz-e ((ishq,1
 دیں,दें,de;n,1
 نظرہاے تیز,नज़रहा‐ए‐तेज़,na:zar'haa-e tez,1
 طاعت,ताअत,:taa((at,1
-ظلمت کدے,ज़ुलमतकदे,:zulmat-kade,1
+ظلمت کدے,ज़ुलमत-कदे,:zulmat-kade,1
 سوختن,सोख़तन,so;xtan,1
 بادہِ شبانہ,बादा‐ए‐शबाना,baadah-e shabaanah,1
 طول,तूल,:tuul,1
@@ -4174,74 +4173,74 @@ urdu,nagari,transliteration,count
 خسّت,ख़िससत,;xissat,1
 آمدِ خط,आमद‐ए‐ख़त,aamad-e ;xa:t,1
 یقیں,यक़ीं,yaqii;n,1
-شیشہوقدحوکوزہوسبو,शीशा‐ओ‐क़दह‐ओ‐कूज़ा‐ओ‐सबू,shiishah-o-qada;h-o-kuuzah-o-sabuu,1
+شیشہ و قدح و کوزہ و سبو,शीशा‐ओ‐क़दह‐ओ‐कूज़ा‐ओ‐सबू,shiishah-o-qada;h-o-kuuzah-o-sabuu,1
 سیرِ چراغاں,सैर‐ए‐चिराग़ाँ,sair-e chiraa;gaa;n,1
 گیتی,गीती,giitii,1
 حائل,हाइल,;haa))il,1
-نالہِ لبِ خونیں نواے گل,नाला‐ए‐लब‐ए‐ख़ूनींनवा‐ए‐गुल,naalah-e lab-e ;xuunii;n-navaa-e gul,1
-حکایاتِ خوں چکاں,हिकायात‐ए‐ख़ूँचकाँ,;hikaayaat-e ;xuu;n-chakaa;n,1
-خود بینوخود آرا,ख़ुदबीन‐ओ‐ख़ुदआरा,;xvud-biin-o-;xvud-aaraa,1
+نالہِ لبِ خونیں نواے گل,नाला‐ए‐लब‐ए‐ख़ूनीं-नवा‐ए‐गुल,naalah-e lab-e ;xuunii;n-navaa-e gul,1
+حکایاتِ خوں چکاں,हिकायात‐ए‐ख़ूँ-चकाँ,;hikaayaat-e ;xuu;n-chakaa;n,1
+خود بین و خود آرا,ख़ुद-बीन‐ओ‐ख़ुद-आरा,;xvud-biin-o-;xvud-aaraa,1
 آزردگیِ یار,आज़ुरदगी‐ए‐यार,aazurdagii-e yaar,1
 پستی,पसती,pastii,1
-شرم سار,शरमसार,sharm-saar,1
+شرم سار,शरम-सार,sharm-saar,1
 ہواے سیرِ گل,हवा‐ए‐सैर‐ए‐गुल,havaa-e sair-e gul,1
-زیارت کدہ,ज़ियारतकदह,ziyaarat-kadah,1
-دیدہِ خوں نابہ فشاں,दीदा‐ए‐ख़ूँनाबाफ़िशाँ,diidah-e ;xuu;n-naabah-fishaa;n,1
+زیارت کدہ,ज़ियारत-कदह,ziyaarat-kadah,1
+دیدہِ خوں نابہ فشاں,दीदा‐ए‐ख़ूँ-नाबा-फ़िशाँ,diidah-e ;xuu;n-naabah-fishaa;n,1
 سہل,सहल,sahl,1
 جانےگا,जानेगा,jaanegaa,1
 رنگِ تماشا,रंग‐ए‐तमाशा,rang-e tamaashaa,1
 چشمِ خوباں,चशम‐ए‐ख़ूबाँ,chashm-e ;xuubaa;n,1
-بندہ پرور,बंदापरवर,bandah-parvar,1
-شکیبوصبرِ اہلِ انجمن,शिकेब‐ओ‐सबर‐ए‐अहल‐ए‐अंजुमन,shikeb-o-.sabr-e ahl-e anjuman,1
+بندہ پرور,बंदा-परवर,bandah-parvar,1
+شکیب و صبرِ اہلِ انجمن,शिकेब‐ओ‐सबर‐ए‐अहल‐ए‐अंजुमन,shikeb-o-.sabr-e ahl-e anjuman,1
 گردشِ سیّارہ,गरदिश‐ए‐सैयारा,gardish-e saiyaarah,1
 عمرِ جاوداں,उमर‐ए‐जाविदाँ,((umr-e jaavidaa;n,1
 محوِ بالشِ کمخواب,महव‐ए‐बालिश‐ए‐कमख़वाब,ma;hv-e baalish-e kam;xvaab,1
-بے دماغی,बेदिमाग़ी,be-dimaa;gii,1
+بے دماغی,बे-दिमाग़ी,be-dimaa;gii,1
 دیدہِ دل,दीदा‐ए‐दिल,diidah-e dil,1
 نازِ مفلساں,नाज़‐ए‐मुफ़लिसाँ,naaz-e muflisaa;n,1
 قدرِ سنگِ سرِ رہ,क़दर‐ए‐संग‐ए‐सर‐ए‐रा,qadr-e sang-e sar-e rah,1
-حسنِ تماشا دوست,हुसन‐ए‐तमाशादोसत,;husn-e tamaashaa-dost,1
+حسنِ تماشا دوست,हुसन‐ए‐तमाशा-दोसत,;husn-e tamaashaa-dost,1
 پردہِ ساز,परदा‐ए‐साज़,pardah-e saaz,1
 چاہنے,चाहने,chaahne,1
-بتِ غالیہ مو,बुत‐ए‐ग़ालियामो,but-e ;gaaliyah-mo,1
+بتِ غالیہ مو,बुत‐ए‐ग़ालिया-मो,but-e ;gaaliyah-mo,1
 آرے,आरे,aare,1
 ہوشیاری,होशयारी,hoshyaarii,1
-در کار,दरकार,dar-kaar,1
-غالبِ شوریدہ حال,ग़ालिब‐ए‐शोरीदाहाल,;gaalib-e shoriidah-;haal,1
+در کار,दर-कार,dar-kaar,1
+غالبِ شوریدہ حال,ग़ालिब‐ए‐शोरीदा-हाल,;gaalib-e shoriidah-;haal,1
 اوروں,औरों,auro;n,1
 شبہاے حجر,शबहा‐ए‐हिजर,shab'haa-e ;hijr,1
 نشانِ جگرِ سوختہ,निशान‐ए‐जिगर‐ए‐सोख़ता,nishaan-e jigar-e so;xtah,1
 ایمان,ईमान,iimaan,1
-شہ پر,शापर,shah-par,1
+شہ پر,शा-पर,shah-par,1
 تحیّر,तहैयुर,ta;haiyur,1
 پانے,पाने,paane,1
 ابنِ مریم,इबन‐ए‐मरयम,ibn-e maryam,1
 صیقلِ آئینہ,सैक़ल‐ए‐आईना,.saiqal-e aa))iinah,1
-ن شنیدن,नशुनीदन,na-shuniidan,1
-فرشِ پا انداز,फ़रश‐ए‐पाअंदाज़,farsh-e paa-andaaz,1
+ن شنیدن,न-शुनीदन,na-shuniidan,1
+فرشِ پا انداز,फ़रश‐ए‐पा-अंदाज़,farsh-e paa-andaaz,1
 چشمِ مست,चशम‐ए‐मसत,chashm-e mast,1
-یارانِ نکتہ داں,यारान‐ए‐नुकतादाँ,yaaraan-e nuktah-daa;n,1
+یارانِ نکتہ داں,यारान‐ए‐नुकता-दाँ,yaaraan-e nuktah-daa;n,1
 بلغمی,बलग़मी,bal;gamii,1
 سینہِ عاشق,सीना‐ए‐आशिक़,siinah-e ((aashiq,1
 افتادہ,उफ़तादा,uftaadah,1
 صورتِ عالم,सूरत‐ए‐आलम,.suurat-e ((aalam,1
-دوست دارِ دشمن,दोसतदार‐ए‐दुशमन,dost-daar-e dushman,1
+دوست دارِ دشمن,दोसत-दार‐ए‐दुशमन,dost-daar-e dushman,1
 انتقام,इंतिक़ाम,intiqaam,1
 سرِ دامن,सर‐ए‐दामन,sar-e daaman,1
-تلخ نوائی,तलख़नवाई,tal;x-navaa))ii,1
+تلخ نوائی,तलख़-नवाई,tal;x-navaa))ii,1
 متاعِ ہنر,मता‐ए‐हुनर,mataa((-e hunar,1
 دیدہِ ساغر,दीदा‐ए‐साग़र,diidah-e saa;gar,1
-مہجورِ پیاموچشم,महजूर‐ए‐पयाम‐ओ‐चशम,mahjuur-e payaam-o-chashm,1
+مہجورِ پیام و چشم,महजूर‐ए‐पयाम‐ओ‐चशम,mahjuur-e payaam-o-chashm,1
 چراغانِ شبستانِ دلِ پروانہ,चिराग़ान‐ए‐शबिसतान‐ए‐दिल‐ए‐परवाना,chiraa;gaan-e shabistaan-e dil-e parvaanah,1
 تراشا,तराशा,taraashaa,1
 خوفِ رقیب,ख़ौफ़‐ए‐रक़ीब,;xauf-e raqiib,1
-لطفِ خرامِ ساقیوذوقِ صداے چنگ,लुतफ़‐ए‐ख़िराम‐ए‐साक़ी‐ओ‐ज़ौक़‐ए‐सदा‐ए‐चंग,lu:tf-e ;xiraam-e saaqii-o-;zauq-e .sadaa-e chang,1
+لطفِ خرامِ ساقی و ذوقِ صداے چنگ,लुतफ़‐ए‐ख़िराम‐ए‐साक़ी‐ओ‐ज़ौक़‐ए‐सदा‐ए‐चंग,lu:tf-e ;xiraam-e saaqii-o-;zauq-e .sadaa-e chang,1
 ناداں,नादाँ,naadaa;n,1
 روح,रूह,ruu;h,1
 رعونت,रूनत,ra((uunat,1
 تعریف,तारीफ़,ta((riif,1
 حج,हज,;haj,1
-رنج آشنا,रंजआशना,ranj-aashnaa,1
+رنج آشنا,रंज-आशना,ranj-aashnaa,1
 پہلو,पहलू,pahluu,1
 بکھر,बिखर,bikhar,1
 مواخذہِ روزِ حشر,मुवाख़ज़ा‐ए‐रोज़‐ए‐हशर,muvaa;xa;zah-e roz-e ;hashr,1
@@ -4252,8 +4251,8 @@ urdu,nagari,transliteration,count
 اڑتا,उड़ता,u;rtaa,1
 گمانِ رنجشِ خاطر,गुमान‐ए‐रंजिश‐ए‐ख़ातिर,gumaan-e ranjish-e ;xaa:tir,1
 باغِ شگفتہ,बाग़‐ए‐शिगुफ़ता,baa;g-e shiguftah,1
-زنداں خانہ,ज़िंदाँख़ाना,zindaa;n-;xaanah,1
-پشت گرمیِ تابوتواں,पुशतगरमी‐ए‐ताब‐ओ‐तुवाँ,pusht-garmii-e taab-o-tuvaa;n,1
+زنداں خانہ,ज़िंदाँ-ख़ाना,zindaa;n-;xaanah,1
+پشت گرمیِ تاب و تواں,पुशत-गरमी‐ए‐ताब‐ओ‐तुवाँ,pusht-garmii-e taab-o-tuvaa;n,1
 رسائی,रसाई,rasaa))ii,1
 ربطِ نہانی,रबत‐ए‐निहानी,rab:t-e nihaanii,1
 قطعِ رہِ اضطراب,क़त‐ए‐रह‐ए‐इज़तिराब,qa:t((-e rah-e i.z:tiraab,1
@@ -4262,8 +4261,8 @@ urdu,nagari,transliteration,count
 خارِ رہ,ख़ार‐ए‐रा,;xaar-e rah,1
 فروزاں,फ़ुरोज़ाँ,furozaa;n,1
 کریدتے,कुरेदते,kuredte,1
-بے شمع,बेशमा,be-sham((a,1
-خسوخاشاک,ख़स‐ओ‐ख़ाशाक,;xas-o-;xaashaak,1
+بے شمع,बे-शमा,be-sham((a,1
+خس و خاشاک,ख़स‐ओ‐ख़ाशाक,;xas-o-;xaashaak,1
 دلِ آوارہ,दिल‐ए‐आवारा,dil-e aavaarah,1
 محرومِ جمال,महरूम‐ए‐जमाल,ma;hruum-e jamaal,1
 ڈھانپا,ढांपा,;dhaa;npaa,1
@@ -4273,7 +4272,7 @@ urdu,nagari,transliteration,count
 چشمِ خریدار,चशम‐ए‐ख़रीदार,chashm-e ;xariidaar,1
 جھگڑتے,झगड़ते,jhaga;rte,1
 زعم,ज़ाम,za((m,1
-طلسمِ پیچوتاب,तिलिसम‐ए‐पेच‐ओ‐ताब,:tilism-e pech-o-taab,1
+طلسمِ پیچ و تاب,तिलिसम‐ए‐पेच‐ओ‐ताब,:tilism-e pech-o-taab,1
 دہاں,दहाँ,dahaa;n,1
 اندازہِ تقریر,अंदाज़ा‐ए‐तक़रीर,andaazah-e taqriir,1
 نشّے,नशशे,nashshe,1
@@ -4283,50 +4282,50 @@ urdu,nagari,transliteration,count
 چھڑکیں,छिड़कें,chhi;rke;n,1
 مشغولِ حق,मशग़ूल‐ए‐हक़,mash;guul-e ;haq,1
 ارمان,अरमान,armaan,1
-وقتِ مے پرستی,वक़त‐ए‐मैपरसती,vaqt-e mai-parastii,1
+وقتِ مے پرستی,वक़त‐ए‐मै-परसती,vaqt-e mai-parastii,1
 مطلوب,मतलूब,ma:tluub,1
 پاے گل,पा‐ए‐गुल,paa-e gul,1
 خمِ دستِ نوازش,ख़म‐ए‐दसत‐ए‐नवाज़िश,;xam-e dast-e navaazish,1
 سبک,सुबुक,subuk,1
 دورِ قدح,दौर‐ए‐क़दह,daur-e qada;h,1
-آب دار,आबदार,aab-daar,1
+آب دار,आब-दार,aab-daar,1
 نکلنا,निकलना,nikalnaa,1
 بادہِ دوشینہ,बादा‐ए‐दोशीना,baadah-e doshiinah,1
 آئنہِ انتظار,आइना‐ए‐इंतिज़ार,aa))inah-e inti:zaar,1
-ستایش گر,सतायिशगर,sataayish-gar,1
+ستایش گر,सतायिश-गर,sataayish-gar,1
 دکھائیں,दिखाएँ,dikhaa))e;n,1
 سیاہی,सियाही,siyaahii,1
 منفعل,मुंफ़िल,munfa((il,1
 بیگانگیِ خلق,बेगानगी‐ए‐ख़लक़,begaanagii-e ;xalq,1
 لڑتا,लड़ता,la;rtaa,1
 مصوّر,मुसवविर,mu.savvir,1
-وعدہِ دل دار,वादा‐ए‐दिलदार,va((dah-e dil-daar,1
+وعدہِ دل دار,वादा‐ए‐दिल-दार,va((dah-e dil-daar,1
 مزار,मज़ार,mazaar,1
 نیرنگِ بیتابی,नैरंग‐ए‐बेताबी,nairang-e betaabii,1
-حریفِ مےِ مرد افگنِ عشق,हरीफ़‐ए‐मै‐ए‐मरदअफ़गन‐ए‐इशक़,;hariif-e mai-e mard-afgan-e ((ishq,1
+حریفِ مےِ مرد افگنِ عشق,हरीफ़‐ए‐मै‐ए‐मरद-अफ़गन‐ए‐इशक़,;hariif-e mai-e mard-afgan-e ((ishq,1
 گورِ غریباں,गोर‐ए‐ग़रीबाँ,gor-e ;gariibaa;n,1
 جوشِ جنونِ عشق,जोश‐ए‐जुनून‐ए‐इशक़,josh-e junuun-e ((ishq,1
 کوسوں,कोसों,koso;n,1
 شان,शान,shaan,1
-خندہہاے بے جا,ख़ंदहहा‐ए‐बेजा,;xandah'haa-e be-jaa,1
+خندہہاے بے جا,ख़ंदहहा‐ए‐बे-जा,;xandah'haa-e be-jaa,1
 شمعیں,शमें,sham((e;n,1
 پرسشِ جراحتِ دل,पुरसिश‐ए‐जराहत‐ए‐दिल,pursish-e jaraa;hat-e dil,1
 رہوے,रहवे,rahve,1
 جامِ مے,जाम‐ए‐मै,jaam-e mai,1
 سنائے,सुनाए,sunaa))e,1
 عارِ دل,आर‐ए‐दिल,((aar-e dil,1
-تغافل دوست,तग़ाफ़ुलदोसत,ta;gaaful-dost,1
-مہر باں,मिहरबाँ,mihr-baa;n,1
+تغافل دوست,तग़ाफ़ुल-दोसत,ta;gaaful-dost,1
+مہر باں,मिहर-बाँ,mihr-baa;n,1
 توفیق,तौफ़ीक़,taufiiq,1
 اہلِ طلب,अहल‐ए‐तलब,ahl-e :talab,1
 قحطِ غمِ الفت,क़हत‐ए‐ग़म‐ए‐उलफ़त,qa;h:t-e ;gam-e ulfat,1
-جلوہ نما,जलवानुमा,jalvah-numaa,1
+جلوہ نما,जलवा-नुमा,jalvah-numaa,1
 اتنے,इतने,itne,1
-مہرووفا,मिहर‐ओ‐वफ़ा,mihr-o-vafaa,1
+مہر و وفا,मिहर‐ओ‐वफ़ा,mihr-o-vafaa,1
 دلگی,दिललगी,dillagii,1
-گلولالہ,गुल‐ओ‐लाला,gul-o-laalah,1
+گل و لالہ,गुल‐ओ‐लाला,gul-o-laalah,1
 غمزے,ग़मज़े,;gamze,1
-خوبانِ دل آزار,ख़ूबान‐ए‐दिलआज़ार,;xuubaan-e dil-aazaar,1
+خوبانِ دل آزار,ख़ूबान‐ए‐दिल-आज़ार,;xuubaan-e dil-aazaar,1
 طرزِ تغافل,तरज़‐ए‐तग़ाफ़ुल,:tarz-e ta;gaaful,1
 پوچھی,पूछी,puuchhii,1
 لاوے,लावे,laave,1
@@ -4336,17 +4335,17 @@ urdu,nagari,transliteration,count
 کنارہ,किनारा,kinaarah,1
 جتنی,जितनी,jitnii,1
 شبِ مہتاب,शब‐ए‐महताब,shab-e mahtaab,1
-در قفاے خندہ,दरक़फ़ा‐ए‐ख़ंदा,dar-qafaa-e ;xandah,1
+در قفاے خندہ,दर-क़फ़ा‐ए‐ख़ंदा,dar-qafaa-e ;xandah,1
 نشّہ,नशशा,nashshah,1
 آغوشِ رقیب,आग़ोश‐ए‐रक़ीब,aa;gosh-e raqiib,1
 کنجِ قفس,कुंज‐ए‐क़फ़स,kunj-e qafas,1
 ضرور,ज़रूर,.zaruur,1
 تندیِ خو,तुंदी‐ए‐ख़ू,tundii-e ;xuu,1
 گردنِ مینا,गरदन‐ए‐मीना,gardan-e miinaa,1
-شراب خانے,शराबख़ाने,sharaab-;xaane,1
+شراب خانے,शराब-ख़ाने,sharaab-;xaane,1
 قلزمِ خوں,क़ुलज़ुम‐ए‐ख़ूँ,qulzum-e ;xuu;n,1
 سرِ ہر,सर‐ए‐हर,sar-e har,1
-دیدہِ دیدار جو,दीदा‐ए‐दीदारजो,diidah-e diidaar-jo,1
+دیدہِ دیدار جو,दीदा‐ए‐दीदार-जो,diidah-e diidaar-jo,1
 ماہِ نو,माह‐ए‐नौ,maah-e nau,1
 گہرہاے راز,गुहरहा‐ए‐राज़,guharhaa-e raaz,1
 خطِ رخسارِ دوست,ख़त‐ए‐रुख़सार‐ए‐दोसत,;xa:t-e ru;xsaar-e dost,1
@@ -4359,23 +4358,23 @@ urdu,nagari,transliteration,count
 گوشہِ دستار,गोशा‐ए‐दसतार,goshah-e dastaar,1
 ازل,अज़ल,azal,1
 فوتِ فرصتِ ہستی,फ़ौत‐ए‐फ़ुरसत‐ए‐हसती,faut-e fur.sat-e hastii,1
-بے قرار,बेक़रार,be-qaraar,1
+بے قرار,बे-क़रार,be-qaraar,1
 دینی,देनी,denii,1
 شمار,शुमार,shumaar,1
-بے ربطیِ عنواں,बेरबती‐ए‐उंवाँ,be-rab:tii-e ((unvaa;n,1
-شمعِ ماتم خانہ,शम‐ए‐मातमख़ाना,sham((-e maatam-;xaanah,1
+بے ربطیِ عنواں,बे-रबती‐ए‐उंवाँ,be-rab:tii-e ((unvaa;n,1
+شمعِ ماتم خانہ,शम‐ए‐मातम-ख़ाना,sham((-e maatam-;xaanah,1
 صحبتِ رنداں,सुहबत‐ए‐रिंदाँ,.su;hbat-e rindaa;n,1
 ڈبویا,डुबोया,;duboyaa,1
 کہوے,कहवे,kahve,1
 پیکان,पैकान,paikaan,1
 تغیّر,तग़ययुर,ta;gayyur,1
 فرقِ ناز,फ़रक़‐ए‐नाज़,farq-e naaz,1
-شانہ کشِ زلفِ یار,शानाकश‐ए‐ज़ुलफ़‐ए‐यार,shaanah-kash-e zulf-e yaar,1
+شانہ کشِ زلفِ یار,शाना-कश‐ए‐ज़ुलफ़‐ए‐यार,shaanah-kash-e zulf-e yaar,1
 غمّازی,ग़ममाज़ी,;gammaazii,1
 دھواں,धुवाँ,dhuvaa;n,1
 دبی,दबी,dabii,1
-متاعِ دست گرداں,मता‐ए‐दसतगरदां,mataa((-e dast-gardaa;n,1
-عناں گیرِ خرام,इनाँगीर‐ए‐ख़िराम,((inaa;n-giir-e ;xiraam,1
+متاعِ دست گرداں,मता‐ए‐दसत-गरदां,mataa((-e dast-gardaa;n,1
+عناں گیرِ خرام,इनाँ-गीर‐ए‐ख़िराम,((inaa;n-giir-e ;xiraam,1
 خلل,ख़लल,;xalal,1
 بالِ یک,बाल‐ए‐यक,baal-e yak,1
 خانہِ عاشق,ख़ाना‐ए‐आशिक़,;xaanah-e ((aashiq,1
@@ -4391,7 +4390,7 @@ urdu,nagari,transliteration,count
 اٹھتے,उठते,u;thte,1
 خور,ख़ुर,;xvur,1
 مصاحب,मुसाहिब,mu.saa;hib,1
-اعتمادِ وفا داری,एतमाद‐ए‐वफ़ादारी,i((timaad-e vafaa-daarii,1
+اعتمادِ وفا داری,एतमाद‐ए‐वफ़ा-दारी,i((timaad-e vafaa-daarii,1
 پڑتی,पड़ती,pa;rtii,1
 بیگانگی,बेगानगी,begaanagii,1
 دونا,दूना,duunaa,1
@@ -4399,19 +4398,19 @@ urdu,nagari,transliteration,count
 عجز,अजज़,((ajz,1
 تکرارِ دوست,तकरार‐ए‐दोसत,takraar-e dost,1
 نگینِ نامِ شاہد,नगीन‐ए‐नाम‐ए‐शाहिद,nagiin-e naam-e shaahid,1
-دل کشا,दिलकुशा,dil-kushaa,1
+دل کشا,दिल-कुशा,dil-kushaa,1
 وقفِ بسترِ سنجاب,वक़फ़‐ए‐बिसतर‐ए‐संजाब,vaqf-e bistar-e sanjaab,1
 موتی,मोती,motii,1
 اتنی,इतनी,itnii,1
-ہوسِ بالوپر,हवस‐ए‐बाल‐ओ‐पर,havas-e baal-o-par,1
-ظلمت گستری,ज़ुलमतगुसतरी,:zulmat-gustarii,1
+ہوسِ بال و پر,हवस‐ए‐बाल‐ओ‐पर,havas-e baal-o-par,1
+ظلمت گستری,ज़ुलमत-गुसतरी,:zulmat-gustarii,1
 گرمیِ بزم,गरमी‐ए‐बज़म,garmii-e bazm,1
-روانیِ روشومستیِ ادا,रवानी‐ए‐रविश‐ओ‐मसती‐ए‐अदा,ravaanii-e ravish-o-mastii-e adaa,1
+روانیِ روش و مستیِ ادا,रवानी‐ए‐रविश‐ओ‐मसती‐ए‐अदा,ravaanii-e ravish-o-mastii-e adaa,1
 ورق,वरक़,varaq,1
 ہتھکنڈے,हथकंडे,hathka;n;de,1
 تارِ زلف,तार‐ए‐ज़ुलफ़,taar-e zulf,1
 باطل,बातिल,baa:til,1
-دلوجگر,दिल‐ओ‐जिगर,dil-o-jigar,1
+دل و جگر,दिल‐ओ‐जिगर,dil-o-jigar,1
 شائبہِ خوبیِ تقدیر,शाइबा‐ए‐ख़ूबी‐ए‐तक़दीर,shaa))ibah-e ;xuubii-e taqdiir,1
 سیلابِ بلا,सैलाब‐ए‐बला,sailaab-e balaa,1
 رخسار,रुख़सार,ru;xsaar,1
@@ -4419,7 +4418,7 @@ urdu,nagari,transliteration,count
 محوِ پرسشہاے پنہانی,महव‐ए‐पुरसिशहा‐ए‐पिंहानी,ma;hv-e pursish'haa-e pinhaanii,1
 خوابِ گل,ख़वाब‐ए‐गुल,;xvaab-e gul,1
 روے یار,रू‐ए‐यार,ruu-e yaar,1
-روح ال قدس,रूहउलक़ुदुस,ruu;h-ul-qudus,1
+روح ال قدس,रूह-उल-क़ुदुस,ruu;h-ul-qudus,1
 چھیڑیے,छेड़िये,chhe;riye,1
 رہنِ سخن,रहन‐ए‐सुख़न,rahn-e su;xan,1
 بارِ خاطر,बार‐ए‐ख़ातिर,baar-e ;xaa:tir,1
@@ -4432,25 +4431,25 @@ urdu,nagari,transliteration,count
 رگِ تاک,रग‐ए‐ताक,rag-e taak,1
 فروغِ حسن,फ़ुरोग़‐ए‐हुसन,furo;g-e ;husn,1
 طاقتِ آشوبِ آگہی,ताक़त‐ए‐आशोब‐ए‐आगही,:taaqat-e aashob-e aagahii,1
-اپنا سا,अपनासा,apnaa-saa,1
-حدیثِ زلفِ عنبر بارِ دوست,हदीस‐ए‐ज़ुलफ़‐ए‐अंबरबार‐ए‐दोसत,;hadii;s-e zulf-e ((anbar-baar-e dost,1
+اپنا سا,अपना-सा,apnaa-saa,1
+حدیثِ زلفِ عنبر بارِ دوست,हदीस‐ए‐ज़ुलफ़‐ए‐अंबर-बार‐ए‐दोसत,;hadii;s-e zulf-e ((anbar-baar-e dost,1
 تئمّل,तअममुल,ta))ammul,1
 بچتے,बचते,bachte,1
-سبحہوزنّار,सुबहा‐ओ‐ज़ुन्नार,sub;hah-o-zunnaar,1
+سبحہ و زنّار,सुबहा‐ओ‐ज़ुन्नार,sub;hah-o-zunnaar,1
 چراغِ خانہِ درویش,चिराग़‐ए‐ख़ाना‐ए‐दरवेश,chiraa;g-e ;xaanah-e darvesh,1
 سبدِ گل,सबद‐ए‐गुल,sabad-e gul,1
-سر نامے,सरनामे,sar-naame,1
+سر نامے,सर-नामे,sar-naame,1
 پھرنے,फिरने,phirne,1
 دوئی,दूई,duu))ii,1
 کھائیں,खाएँ,khaa))e;n,1
-نازِ گراں مایگیِ اشک,नाज़‐ए‐गिराँमायगी‐ए‐अशक,naaz-e giraa;n-maayagii-e ashk,1
+نازِ گراں مایگیِ اشک,नाज़‐ए‐गिराँ-मायगी‐ए‐अशक,naaz-e giraa;n-maayagii-e ashk,1
 مانگا,मांगा,maa;ngaa,1
-بے خودیوہشیاری,बेख़ुदी‐ओ‐हुशयारी,be-;xvudii-o-hushyaarii,1
-خانہ آرائی,ख़ानाआराई,;xaanah-aaraa))ii,1
+بے خودی و ہشیاری,बे-ख़ुदी‐ओ‐हुशयारी,be-;xvudii-o-hushyaarii,1
+خانہ آرائی,ख़ाना-आराई,;xaanah-aaraa))ii,1
 پرستاریِ وہم,परसतारी‐ए‐वहम,parastaarii-e vahm,1
 پوجنا,पूजना,puujnaa,1
 خوابِ سنگیں,ख़वाब‐ए‐संगीं,;xvaab-e sangii;n,1
-عشقومزدوریِ عشرت گہِ خسرو,इशक़‐ओ‐मज़दूरी‐ए‐इशरतगह‐ए‐ख़ुसरौ,((ishq-o-mazduurii-e ((ishrat-gah-e ;xusrau,1
+عشق و مزدوریِ عشرت گہِ خسرو,इशक़‐ओ‐मज़दूरी‐ए‐इशरत-गह‐ए‐ख़ुसरौ,((ishq-o-mazduurii-e ((ishrat-gah-e ;xusrau,1
 چلیں,चलें,chale;n,1
 کھینچتا,खैंचता,khai;nchtaa,1
 نقشِ وفا,नक़श‐ए‐वफ़ा,naqsh-e vafaa,1
@@ -4458,99 +4457,99 @@ urdu,nagari,transliteration,count
 مژگانِ چشمِ تر,मिझ़गान‐ए‐चशम‐ए‐तर,mizhgaan-e chashm-e tar,1
 چاہیں,चाहें,chaahe;n,1
 پنبہِ مینا,पुंबा‐ए‐मीना,punbah-e miinaa,1
-غم خوارگی,ग़मख़वारगी,;gam-;xvaaragii,1
-خار خارِ المِ حسرتِ دیدار,ख़ारख़ार‐ए‐अलम‐ए‐हसरत‐ए‐दीदार,;xaar-;xaar-e alam-e ;hasrat-e diidaar,1
+غم خوارگی,ग़म-ख़वारगी,;gam-;xvaaragii,1
+خار خارِ المِ حسرتِ دیدار,ख़ार-ख़ार‐ए‐अलम‐ए‐हसरत‐ए‐दीदार,;xaar-;xaar-e alam-e ;hasrat-e diidaar,1
 حرف,हरफ़,;harf,1
 ضامنِ نشاط,ज़ामिन‐ए‐नशात,.zaamin-e nashaa:t,1
-عرضِ متاعِ عقلودلوجاں,अरज़‐ए‐मता‐ए‐अक़ल‐ओ‐दिल‐ओ‐जाँ,((ar.z-e mataa((-e ((aql-o-dil-o-jaa;n,1
+عرضِ متاعِ عقل و دل و جاں,अरज़‐ए‐मता‐ए‐अक़ल‐ओ‐दिल‐ओ‐जाँ,((ar.z-e mataa((-e ((aql-o-dil-o-jaa;n,1
 نقشِ نازِ بتِ طنّاز,नक़श‐ए‐नाज़‐ए‐बुत‐ए‐तन्नाज़,naqsh-e naaz-e but-e :tannaaz,1
-غزل خواں,ग़ज़लख़वाँ,;gazal-;xvaa;n,1
+غزل خواں,ग़ज़ल-ख़वाँ,;gazal-;xvaa;n,1
 چشمِ ما,चशम‐ए‐मा,chashm-e maa,1
-دینودل,दीन‐ओ‐दिल,diin-o-dil,1
+دین و دل,दीन‐ओ‐दिल,diin-o-dil,1
 گردوں,गरदूं,garduu;n,1
 بجھتی,बुझती,bujhtii,1
 دیر,दैर,dair,1
 دکھلاوے,दिखलावे,dikhlaave,1
-بتِ عربدہ جو,बुत‐ए‐अरबदाजू,but-e ((arbadah-juu,1
-نفسِ بے اثر,नफ़स‐ए‐बेअसर,nafas-e be-a;sar,1
+بتِ عربدہ جو,बुत‐ए‐अरबदा-जू,but-e ((arbadah-juu,1
+نفسِ بے اثر,नफ़स‐ए‐बे-असर,nafas-e be-a;sar,1
 طلبگارِ مرد,तलबगार‐ए‐मरद,:talabgaar-e mard,1
-ستم زدہ,सितमज़दह,sitam-zadah,1
+ستم زدہ,सितम-ज़दह,sitam-zadah,1
 حریفِ دمِ افعی,हरीफ़‐ए‐दम‐ए‐अफ़ी,;hariif-e dam-e af((ii,1
 دودِ شمعِ کشتہ,दूद‐ए‐शम‐ए‐कुशता,duud-e sham((-e kushtah,1
 نبردِ عشق,नबरद‐ए‐इशक़,nabard-e ((ishq,1
-ہم دمی,हमदमी,ham-damii,1
+ہم دمی,हम-दमी,ham-damii,1
 حبابِ موجہِ رفتار,हबाब‐ए‐मौजा‐ए‐रफ़तार,;habaab-e maujah-e raftaar,1
 مہشر,महशर,mahshar,1
-پشت خار,पुशतख़ार,pusht-;xaar,1
+پشت خار,पुशत-ख़ार,pusht-;xaar,1
 چراغِ رہگزارِ باد,चिराग़‐ए‐रहगुज़ार‐ए‐बाद,chiraa;g-e rahguzaar-e baad,1
 یعقوب,याक़ूब,ya((quub,1
-بے شانہِ صبا,बेशाना‐ए‐सबा,be-shaanah-e .sabaa,1
+بے شانہِ صبا,बे-शाना‐ए‐सबा,be-shaanah-e .sabaa,1
 جویاے زخمِ کاری,जूया‐ए‐ज़ख़म‐ए‐कारी,juuyaa-e za;xm-e kaarii,1
 نیرنگِ نظر,नैरंग‐ए‐नज़र,nairang-e na:zar,1
 اہلِ بزم,अहल‐ए‐बज़म,ahl-e bazm,1
 طاقتِ سخن,ताक़त‐ए‐सुख़न,:taaqat-e su;xan,1
-نا حق,नाहक़,naa-;haq,1
+نا حق,ना-हक़,naa-;haq,1
 چھری,छुरी,chhurii,1
 سونپ,सौंप,sau;np,1
-فلکِ نا انصاف,फ़लक‐ए‐नाइंसाफ़,falak-e naa-in.saaf,1
+فلکِ نا انصاف,फ़लक‐ए‐ना-इंसाफ़,falak-e naa-in.saaf,1
 خو,ख़ो,;xo,1
 عذرِ بارش,उज़र‐ए‐बारिश,((u;zr-e baarish,1
-سر تا سر,सरतासर,sar-taa-sar,1
-غارت گرِ ناموس,ग़ारतगर‐ए‐नामूस,;gaarat-gar-e naamuus,1
+سر تا سر,सर-ता-सर,sar-taa-sar,1
+غارت گرِ ناموس,ग़ारत-गर‐ए‐नामूस,;gaarat-gar-e naamuus,1
 چشمہاے کشادہ,चशमहा‐ए‐कुशादा,chashmhaa-e kushaadah,1
 تپشِ شعلہِ سوزاں,तपिश‐ए‐शुला‐ए‐सोज़ाँ,tapish-e shu((lah-e sozaa;n,1
 حلقہِ گرداب,हलक़ा‐ए‐गिरदाब,;halqah-e girdaab,1
 غبارِ وحشتِ مجنوں,ग़ुबार‐ए‐वहशत‐ए‐मजनूँ,;gubaar-e va;hshat-e majnuu;n,1
 بغل,बग़ल,ba;gal,1
-حاجت مند,हाजतमंद,;haajat-mand,1
-ہم پیشہوہم مشربوہم راز,हमपेशा‐ओ‐हममशरब‐ओ‐हमराज़,ham-peshah-o-ham-mashrab-o-ham-raaz,1
-خود آرائی,ख़ुदआराई,;xvud-aaraa))ii,1
+حاجت مند,हाजत-मंद,;haajat-mand,1
+ہم پیشہ و ہم مشرب و ہم راز,हम-पेशा‐ओ‐हम-मशरब‐ओ‐हम-राज़,ham-peshah-o-ham-mashrab-o-ham-raaz,1
+خود آرائی,ख़ुद-आराई,;xvud-aaraa))ii,1
 چھلے,छलले,chhalle,1
 مجالِ خواب,मजाल‐ए‐ख़वाब,majaal-e ;xvaab,1
 ذوقِ خواری,ज़ौक़‐ए‐ख़वारी,;zauq-e ;xvaarii,1
 بجاے حسرتِ ناز,बजा‐ए‐हसरत‐ए‐नाज़,bajaa-e ;hasrat-e naaz,1
-مانعِ وحشت خرامیہاے لیلیٰ,माना‐ए‐वहशतख़िरामीहा‐ए‐लैला,maana((-e va;hshat-;xiraamiihaa-e lail;aa,1
+مانعِ وحشت خرامیہاے لیلیٰ,माना‐ए‐वहशत-ख़िरामीहा‐ए‐लैला,maana((-e va;hshat-;xiraamiihaa-e lail;aa,1
 بیمارِ دوست,बीमार‐ए‐दोसत,biimaar-e dost,1
-خانہ ویراں سازیِ حیرت,ख़ानावीराँसाज़ी‐ए‐हैरत,;xaanah-viiraa;n-saazii-e ;hairat,1
+خانہ ویراں سازیِ حیرت,ख़ाना-वीराँ-साज़ी‐ए‐हैरत,;xaanah-viiraa;n-saazii-e ;hairat,1
 آغوشِ بلا,आग़ोश‐ए‐बला,aa;gosh-e balaa,1
 ولی,वली,valii,1
 ہواے جلوہِ ناز,हवा‐ए‐जलवा‐ए‐नाज़,havaa-e jalvah-e naaz,1
 حریفِ رازِ محبّت,हरीफ़‐ए‐राज़‐ए‐मुहबबत,;hariif-e raaz-e mu;habbat,1
 جہانِ خراب,जहान‐ए‐ख़राब,jahaan-e ;xaraab,1
 کنارِ بحر,किनार‐ए‐बहर,kinaar-e ba;hr,1
-جلوہ گر,जलवागर,jalvah-gar,1
+جلوہ گر,जलवा-गर,jalvah-gar,1
 مگس,मगस,magas,1
 حاصلِ الفت,हासिल‐ए‐उलफ़त,;haa.sil-e ulfat,1
 پردہِ عماری,परदा‐ए‐अमारी,pardah-e ((amaarii,1
 شرحِ اسبابِ گرفتاریِ خاطر,शरह‐ए‐असबाब‐ए‐गिरिफ़तारी‐ए‐ख़ातिर,shar;h-e asbaab-e giriftaarii-e ;xaa:tir,1
 کجا,कुजा,kujaa,1
-لعلوزمرّدوزروگوہر,लाल‐ओ‐ज़ुमुररुद‐ओ‐ज़र‐ओ‐गौहर,la((l-o-zumurrud-o-zar-o-gauhar,1
+لعل و زمرّد و زر و گوہر,लाल‐ओ‐ज़ुमुररुद‐ओ‐ज़र‐ओ‐गौहर,la((l-o-zumurrud-o-zar-o-gauhar,1
 ایماں,ईमाँ,iimaa;n,1
 پیامِ وعدہِ دیدارِ دوست,पयाम‐ए‐वादा‐ए‐दीदार‐ए‐दोसत,payaam-e va((dah-e diidaar-e dost,1
 کاوش,काविश,kaavish,1
-چارہ سازیِ وحشت,चारासाज़ी‐ए‐वहशत,chaarah-saazii-e va;hshat,1
+چارہ سازیِ وحشت,चारा-साज़ी‐ए‐वहशत,chaarah-saazii-e va;hshat,1
 چرانا,चुराना,churaanaa,1
 سحر,सहर,sa;har,1
 درِ آئینہ,दर‐ए‐आईना,dar-e aa))iinah,1
 نخچیر,नख़चीर,na;xchiir,1
 روزِ سیاہ,रोज़‐ए‐सियाह,roz-e siyaah,1
-بے باک,बेबाक,be-baak,1
+بے باک,बे-बाक,be-baak,1
 نقساں,नुक़साँ,nuqsaa;n,1
 پوجتا,पूजता,puujtaa,1
-حیرت کدہِ شوخیِ ناز,हैरतकदा‐ए‐शोख़ी‐ए‐नाज़,;hairat-kadah-e sho;xii-e naaz,1
+حیرت کدہِ شوخیِ ناز,हैरत-कदा‐ए‐शोख़ी‐ए‐नाज़,;hairat-kadah-e sho;xii-e naaz,1
 رنجِ نومیدیِ جاوید,रंज‐ए‐नौमीदी‐ए‐जावेद,ranj-e naumiidii-e jaaved,1
 زبانِ اہلِ زباں,ज़बान‐ए‐अहल‐ए‐ज़बाँ,zabaan-e ahl-e zabaa;n,1
 لکیریں,लकीरें,lakiire;n,1
 ٹوٹے,टूटे,;tuu;te,1
-بے گرہ,बेगिरह,be-girah,1
+بے گرہ,बे-गिरह,be-girah,1
 صلا,सला,.salaa,1
 پشتِ دستِ عجز,पुशत‐ए‐दसत‐ए‐अजज़,pusht-e dast-e ((ajz,1
-شرمِ نا رسائی,शरम‐ए‐नारसाई,sharm-e naa-rasaa))ii,1
+شرمِ نا رسائی,शरम‐ए‐ना-रसाई,sharm-e naa-rasaa))ii,1
 جوے شیر,जू‐ए‐शीर,juu-e shiir,1
 پارہہاے دل,पारहहा‐ए‐दिल,paarah'haa-e dil,1
 شوریدگی,शोरीदगी,shoriidagii,1
 کتنا,कितना,kitnaa,1
-سر چشمہِ دیگر,सरचशमा‐ए‐दीगर,sar-chashmah-e diigar,1
+سر چشمہِ دیگر,सर-चशमा‐ए‐दीगर,sar-chashmah-e diigar,1
 بارِ منّتِ مزدور,बार‐ए‐मिन्नत‐ए‐मज़दूर,baar-e minnat-e mazduur,1
 ابھرا,उभरा,ubhraa,1
 بھرنے,भरने,bharne,1
@@ -4559,28 +4558,28 @@ urdu,nagari,transliteration,count
 مژگانی,मिझ़गानी,mizhgaanii,1
 ظہوری,ज़ुहूरी,:zuhuurii,1
 صدفِ گوہرِ شکست,सदफ़‐ए‐गौहर‐ए‐शिकसत,.sadaf-e gauhar-e shikast,1
-بے جا,बेजा,be-jaa,1
+بے جا,बे-जा,be-jaa,1
 سوے دل,सू‐ए‐दिल,suu-e dil,1
-لالہ کاری,लालाकारी,laalah-kaarii,1
+لالہ کاری,लाला-कारी,laalah-kaarii,1
 بوریا,बोरिया,boriyaa,1
 سفر,सफ़र,safar,1
 کھائیو,खाइयो,khaa))iyo,1
 بسترِ تمہیدِ فراغت,बिसतर‐ए‐तमहीद‐ए‐फ़राग़त,bistar-e tamhiid-e faraa;gat,1
 بیان,बयान,bayaan,1
 مہر,मिहर,mihr,1
-لاشِ بے کفن,लाश‐ए‐बेकफ़न,laash-e be-kafan,1
+لاشِ بے کفن,लाश‐ए‐बे-कफ़न,laash-e be-kafan,1
 طاقتِ خلشِ خار,ताक़त‐ए‐ख़लिश‐ए‐ख़ार,:taaqat-e ;xalish-e ;xaar,1
-نکو نامیِ فرہاد,निकोनामी‐ए‐फ़रहाद,niko-naamii-e farhaad,1
+نکو نامیِ فرہاد,निको-नामी‐ए‐फ़रहाद,niko-naamii-e farhaad,1
 جلوہِ برقِ فنا,जलवा‐ए‐बरक़‐ए‐फ़ना,jalvah-e barq-e fanaa,1
-دلِ حق شناس,दिल‐ए‐हक़शिनास,dil-e ;haq-shinaas,1
+دلِ حق شناس,दिल‐ए‐हक़-शिनास,dil-e ;haq-shinaas,1
 سمجھوں,समझूँ,samjhuu;n,1
 اقلیمِ الفت,इक़लीम‐ए‐उलफ़त,iqliim-e ulfat,1
 عیب,ऐब,((aib,1
-موجہِ سبزہِ نو خیز,मौजा‐ए‐सबज़ा‐ए‐नौख़ेज़,maujah-e sabzah-e nau-;xez,1
-ہدفِ ناوکِ بے داد,हदफ़‐ए‐नावुक‐ए‐बेदाद,hadaf-e naavuk-e be-daad,1
-لالہوگل,लाला‐ओ‐गुल,laalah-o-gul,1
-پری وش,परीवश,parii-vash,1
-خوں غلتیدنِ بسمل,ख़ूँग़लतीदन‐ए‐बिसमिल,;xuu;n-;galtiidan-e bismil,1
+موجہِ سبزہِ نو خیز,मौजा‐ए‐सबज़ा‐ए‐नौ-ख़ेज़,maujah-e sabzah-e nau-;xez,1
+ہدفِ ناوکِ بے داد,हदफ़‐ए‐नावुक‐ए‐बे-दाद,hadaf-e naavuk-e be-daad,1
+لالہ و گل,लाला‐ओ‐गुल,laalah-o-gul,1
+پری وش,परी-वश,parii-vash,1
+خوں غلتیدنِ بسمل,ख़ूँ-ग़लतीदन‐ए‐बिसमिल,;xuu;n-;galtiidan-e bismil,1
 ذوقِ نظّارہِ جمال,ज़ौक़‐ए‐नज़ज़ारा‐ए‐जमाल,;zauq-e na:z:zaarah-e jamaal,1
 سوزِ نہاں,सोज़‐ए‐निहाँ,soz-e nihaa;n,1
 مزے,मज़े,maze,1
@@ -4589,33 +4588,33 @@ urdu,nagari,transliteration,count
 کاسہ,कासा,kaasah,1
 بستر,बिसतर,bistar,1
 طرفہ,तुरफ़ा,:turfah,1
-جاں گدازیِ قہروعتاب,जाँगुदाज़ी‐ए‐क़हर‐ओ‐अताब,jaa;n-gudaazii-e qahr-o-((ataab,1
-خلوتوجلوت,ख़लवत‐ओ‐जलवत,;xalvat-o-jalvat,1
-نا ساز گاری,नासाज़गारी,naa-saaz-gaarii,1
+جاں گدازیِ قہر و عتاب,जाँ-गुदाज़ी‐ए‐क़हर‐ओ‐अताब,jaa;n-gudaazii-e qahr-o-((ataab,1
+خلوت و جلوت,ख़लवत‐ओ‐जलवत,;xalvat-o-jalvat,1
+نا ساز گاری,ना-साज़-गारी,naa-saaz-gaarii,1
 عناصر,अनासिर,((anaa.sir,1
 بت,बुत,but,1
 وفاے دلبراں,वफ़ा‐ए‐दिलबराँ,vafaa-e dilbaraa;n,1
 سیلِ گریہ,सैल‐ए‐गिरया,sail-e giryah,1
 لوحِ جہاں,लौह‐ए‐जहाँ,lau;h-e jahaa;n,1
 فتنے,फ़ितने,fitne,1
-تجھ سی,तुझसी,tujh-sii,1
+تجھ سی,तुझ-सी,tujh-sii,1
 الٹے,उलटे,ul;te,1
 فرصتِ ہستی,फ़ुरसत‐ए‐हसती,fur.sat-e hastii,1
 کپڑے,कपड़े,kap;re,1
 صلاے عام,सला‐ए‐आम,.salaa-e ((aam,1
-کار گاہِ ہستی,कारगाह‐ए‐हसती,kaar-gaah-e hastii,1
+کار گاہِ ہستی,कार-गाह‐ए‐हसती,kaar-gaah-e hastii,1
 برشکالِ گریہِ عاشق,बरशकाल‐ए‐गिरया‐ए‐आशिक़,barshkaal-e giryah-e ((aashiq,1
 کھل,खिल,khil,1
 مکتوب,मकतूब,maktuub,1
 چشمِ بد,चशम‐ए‐बद,chashm-e bad,1
 گرمِ تماشا,गरम‐ए‐तमाशा,garm-e tamaashaa,1
-دلِ حسرت پرست,दिल‐ए‐हसरतपरसत,dil-e ;hasrat-parast,1
+دلِ حسرت پرست,दिल‐ए‐हसरत-परसत,dil-e ;hasrat-parast,1
 خجلتِ تقصیر,ख़जलत‐ए‐तक़सीर,;xajlat-e taq.siir,1
-چارہ ساز,चारासाज़,chaarah-saaz,1
+چارہ ساز,चारा-साज़,chaarah-saaz,1
 نصیبوں,नसीबों,na.siibo;n,1
 لطافت,लताफ़त,la:taafat,1
 باندھیے,बांधिये,baa;ndhiye,1
-رندانِ درِ مے کدہ,रिंदान‐ए‐दर‐ए‐मैकदह,rindaan-e dar-e mai-kadah,1
+رندانِ درِ مے کدہ,रिंदान‐ए‐दर‐ए‐मै-कदह,rindaan-e dar-e mai-kadah,1
 کرونگا,करूंगा,karuu;ngaa,1
 پہ,पिह,pih,1
 صبحِ وطن,सुबह‐ए‐वतन,.sub;h-e va:tan,1
@@ -4623,40 +4622,40 @@ urdu,nagari,transliteration,count
 شورِ محشر,शोर‐ए‐महशर,shor-e ma;hshar,1
 موجِ سرابِ دشتِ وفا,मौज‐ए‐सराब‐ए‐दशत‐ए‐वफ़ा,mauj-e saraab-e dasht-e vafaa,1
 جنبشِ لب,जुंबिश‐ए‐लब,junbish-e lab,1
-بہشت شمائل,बिहिशतशमाइल,bihisht-shamaa))il,1
+بہشت شمائل,बिहिशत-शमाइल,bihisht-shamaa))il,1
 گلِ لالہ,गुल‐ए‐लाला,gul-e laalah,1
-نا یاب,नायाब,naa-yaab,1
+نا یاب,ना-याब,naa-yaab,1
 حکم,हुकम,;hukm,1
-خوں نابہ,ख़ूँनाबा,;xuu;n-naabah,1
+خوں نابہ,ख़ूँ-नाबा,;xuu;n-naabah,1
 بخش,बख़श,ba;xsh,1
 طرفِ نقاب,तरफ़‐ए‐नक़ाब,:tarf-e naqaab,1
-باز گشت,बाज़गशत,baaz-gasht,1
+باز گشت,बाज़-गशत,baaz-gasht,1
 لاکھ,लाख,laakh,1
 عنواں,उंवाँ,((unvaa;n,1
 ملامت,मलामत,malaamat,1
-وا ماندگی,वामांदगी,vaa-maa;ndagii,1
+وا ماندگی,वा-मांदगी,vaa-maa;ndagii,1
 بزمِ غیر,बज़म‐ए‐ग़ैर,bazm-e ;gair,1
 خطِّ عارض,ख़तत‐ए‐आरिज़,;xa:t:t-e ((aari.z,1
 ریشہِ صد,रेशा‐ए‐सद,reshah-e .sad,1
 تعلق,तललुक़,ta((alluq,1
-فریبِ سادہ دلی,फ़रेब‐ए‐सादादिली,fareb-e saadah-dilii,1
+فریبِ سادہ دلی,फ़रेब‐ए‐सादा-दिली,fareb-e saadah-dilii,1
 لئیم,लईम,la))iim,1
 بزمِ ناز,बज़म‐ए‐नाज़,bazm-e naaz,1
 ذرّہِ عاشق,ज़ररा‐ए‐आशिक़,;zarrah-e ((aashiq,1
 پگھلا,पिघला,pighlaa,1
 مدرسہ,मदरसा,madrasah,1
 جلتے,जलते,jalte,1
-کشادِ خاطرِ وا بستہ,कुशाद‐ए‐ख़ातिर‐ए‐वाबसता,kushaad-e ;xaa:tir-e vaa-bastah,1
+کشادِ خاطرِ وا بستہ,कुशाद‐ए‐ख़ातिर‐ए‐वा-बसता,kushaad-e ;xaa:tir-e vaa-bastah,1
 غرور,ग़ुरूर,;guruur,1
 منصبِ شیفتگی,मंसब‐ए‐शेफ़तगी,man.sab-e sheftagii,1
 دودِ شعلہِ آواز,दूद‐ए‐शुला‐ए‐आवाज़,duud-e shu((lah-e aavaaz,1
-دشنہوخنجر,दशना‐ओ‐ख़ंजर,dashnah-o-;xanjar,1
-مژگانِ خوں فشاں,मिझ़गान‐ए‐ख़ूँफ़िशाँ,mizhgaan-e ;xuu;n-fishaa;n,1
+دشنہ و خنجر,दशना‐ओ‐ख़ंजर,dashnah-o-;xanjar,1
+مژگانِ خوں فشاں,मिझ़गान‐ए‐ख़ूँ-फ़िशाँ,mizhgaan-e ;xuu;n-fishaa;n,1
 نگاہِ ناز,निगाह‐ए‐नाज़,nigaah-e naaz,1
 نکلنے,निकलने,nikalne,1
 اسیری,असीरी,asiirii,1
 یگانہ,यगाना,yagaanah,1
-برق خرام,बरक़ख़िराम,barq-;xiraam,1
+برق خرام,बरक़-ख़िराम,barq-;xiraam,1
 تبسّمہاے پنہاں,तबससुमहा‐ए‐पिंहाँ,tabassumhaa-e pinhaa;n,1
 پیغام,पैग़ाम,pai;gaam,1
 نور,नूर,nuur,1
@@ -4666,4 +4665,4 @@ urdu,nagari,transliteration,count
 فقیروں,फ़क़ीरों,faqiiro;n,1
 جناب,जनाब,janaab,1
 سپاسِ لخّتِ آزارِ دوست,सिपास‐ए‐लज़ज़त‐ए‐आज़ार‐ए‐दोसत,sipaas-e la;z;zat-e aazaar-e dost,1
-اندازِ گل افشانیِ گفتار,अंदाज़‐ए‐गुलअफ़शानी‐ए‐गुफ़तार,andaaz-e gul-afshaanii-e guftaar,1
+اندازِ گل افشانیِ گفتار,अंदाज़‐ए‐गुल-अफ़शानी‐ए‐गुफ़तार,andaaz-e gul-afshaanii-e guftaar,1

@@ -471,6 +471,15 @@ def md_link(s,urdu=True):
         out+="?urdu"
     out += ") "#
     return out
+def a_link(s,urdu=False):
+    out =  "<a href='http://www.columbia.edu/itc/mealac/pritchett/00ghalib/"
+    out += s[0:3]+'/'+str(int(s[0:3]))+"_"+s[4:6]+".html"
+    if urdu==True:
+        output+="?urdu"
+    out+="'>"
+    out += s
+    out+="</a>"
+    return out
 
 def gen_hiur_lemmas_by_size_hiur(file_name, with_verses=False, truncate=True,truncate_limit=50):
 
@@ -496,7 +505,7 @@ def gen_hiur_lemmas_by_size_hiur(file_name, with_verses=False, truncate=True,tru
 def gen_hiur_lemmas_by_size_ul(file_name='output/hiur-lemmas-by-size-ul.html'):
     with codecs.open(file_name,'w','utf-8') as f:
         f.write('<!DOCTYPE html>\n')
-        f.write('<html lang="en-GB">\n')
+        f.write('<html lang="en-US">\n')
         f.write('<head><meta charset="utf-8"></head>\n')
         f.write('<body>')
 
@@ -513,6 +522,22 @@ def gen_hiur_lemmas_by_size_ul(file_name='output/hiur-lemmas-by-size-ul.html'):
 
         f.write("</body></html>")
 
+def gen_hiur_lemmas(filename='output/hiur-lemmas.html'):
+    with codecs.open(filename,'w','utf-8') as f:
+        f.write('<!DOCTYPE html>\n')
+        f.write('<html lang="en-US">\n')
+        f.write('<head><meta charset="utf-8"></head>\n')
+        f.write("<body><table>")
+        for l,tkns in sorted(lemmas_out.iteritems()):
+            locs=[]
+            for t in tkns:
+                locs += [v[0:6] for v,t_x in tokens.iteritems() if t_x ==t]
+            locs=sorted(list(set(sorted(locs))))
+            hyperlocs = [a_link(loc,urdu=False) for loc in locs]
+            f.write('<tr>'+td(l)+td(urdup.parse(l).output)+td(nagarip.parse(l).output)+td(', '.join(hyperlocs))+'</tr>\n')
+#                    print l,urdup.parse(l).output,locs
+        f.write("</table></body></html>")
+gen_hiur_lemmas()    
 
 # <codecell>
 
@@ -521,7 +546,4 @@ def gen_hiur_lemmas_by_size_ul(file_name='output/hiur-lemmas-by-size-ul.html'):
 #gen_hiur_lemmas_by_size_hiur('output/lemmas-by-size-w-verses-all-hiur.md', with_verses=True, truncate=False)#True,truncate_limit=50):
 #gen_hiur_lemmas_by_size_hiur('output/lemmas-by-size-countsonly.md', with_verses=False)#True,truncate_limit=50):
 gen_hiur_lemmas_by_size_ul()
-
-# <codecell>
-
 

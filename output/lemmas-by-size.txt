@@ -1,4 +1,4 @@
-honaa 1723
+honaa 1722
   - hai 1101
   - hai;n 205
   - thaa 146
@@ -12,7 +12,7 @@ honaa 1723
   - thii;n 3
   - huujiye 1
   - hu))o;n 1
-  - hu;n 1
+  - hu;n 0
 kaa 560
   - kaa 291
   - ke 269
@@ -144,8 +144,8 @@ kahnaa 145
   - kahnaa 1
 ne 140
   - ne 140
-honaaa 137
-  - huu;n 137
+honaaa 138
+  - huu;n 138
 jo 135
   - jo 135
 teraa 133
@@ -3522,6 +3522,8 @@ baadah-noshii 2
   - baadah-noshii 1
 ;xastagii 2
   - ;xastagii 2
+numaayaan 2
+  - numaayaa;n 2
 naa-kaam 2
   - naa-kaam 2
 dikhlaana 2
@@ -4407,8 +4409,6 @@ farmaavnaa 2
   - farmaave;nge 2
 rokaa 2
   - rokaa 2
-numaayaa;n 2
-  - numaayaa;n 2
 chang 2
   - chang 1
   - chang-o-rabaab 1
@@ -6912,8 +6912,6 @@ shorish 1
   - shorish-e 1
 sar-mastiii 1
   - sar-mastiyaa;n 1
-((al;ii-al-ra;gm 1
-  - ((al;ii-al-ra;gm-e 1
 qa:t 1
   - qa:t 1
 aashuftah-navaa 1
@@ -8316,3 +8314,5 @@ mu((ayyan 1
   - mu((ayyan 1
 tajammul 1
   - tajammul 1
+((al;ii-al-ra;gm 0
+  - ((al;ii-al-ra;gm-e 0
