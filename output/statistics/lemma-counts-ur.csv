@@ -169,6 +169,7 @@ urdu,transliteration,count
 آونا,aavnaa,19
 آنکھ,aa;nkh,19
 ساقی,saaqii,19
+سکنا,saknaa,19
 برا,buraa,18
 سننا,sun'naa,18
 باندھنا,baa;ndhnaa,18
@@ -183,7 +184,6 @@ urdu,transliteration,count
 نگہ,nigah,18
 وقت,vaqt,18
 گزرنا,guzarnaa,18
-سکنا,saknaa,18
 مژگان,mizhgaan,18
 لکھنا,likhnaa,18
 دو,do,17
@@ -900,6 +900,7 @@ urdu,transliteration,count
 دہقان,dihqaan,3
 ایجاد,iijaad,3
 ندیم,nadiim,3
+التفات,iltifaat,3
 لعل,la((l,3
 زہر,zahr,3
 نشاط,nishaa:t,3
@@ -1011,7 +1012,6 @@ urdu,transliteration,count
 زمرّد,zumurrud,3
 خاں,;xaa;n,3
 سال,saal,3
-التفات,iltifaat,3
 آزردہ,aazurdah,3
 ثواب,;savaab,3
 آزادی,aazaadii,3
@@ -1819,7 +1819,6 @@ urdu,transliteration,count
 پیدائی,paidaa))ii,1
 دامن افشانی,daaman-afshaanii,1
 لالہ زار,laalah-zaar,1
-قدح خوار,qada;h-;xvaar,1
 دام گاہ,daam-gaah,1
 مکوکب,mukaukab,1
 قد و گیسو,qad-o-gesuu,1
@@ -2086,7 +2085,6 @@ urdu,transliteration,count
 مضطرب,mu.z:tarib,1
 سرحد,sar;had,1
 اندھیری,a;ndherii,1
-سکو,sako,1
 تاکے,taake,1
 لائق,laa))iq,1
 نایاب,naayaab,1
@@ -2854,6 +2852,7 @@ urdu,transliteration,count
 کفیل,kafiil,1
 طنّاز,:tannaaz,1
 بو,bo,1
+قدح خوار,qada;h-;xvaar,1
 نازکی,naazukii,1
 سمند,samand,1
 روبکار,ruubkaar,1

@@ -761,6 +761,13 @@ saaqii 19
   - saaqii 15
   - saaqii-e 3
   - saaqii-o-;zauq-e 1
+saknaa 19
+  - saktaa 4
+  - sake 4
+  - saktii 4
+  - sakte 3
+  - sakaa 3
+  - sako 1
 buraa 18
   - buraa 16
   - burii 2
@@ -827,12 +834,6 @@ guzarnaa 18
   - guzartaa 1
   - guzartii 1
   - guzarte 1
-saknaa 18
-  - sake 4
-  - saktaa 4
-  - saktii 4
-  - sakaa 3
-  - sakte 3
 mizhgaan 18
   - mizhgaa;n 12
   - mizhgaan-e 5
@@ -2994,6 +2995,9 @@ iijaad 3
 nadiim 3
   - nadiim 2
   - nadiim-e 1
+iltifaat 3
+  - iltifaat 2
+  - iltifaat-e 1
 la((l 3
   - la((l-o-guhar 1
   - la((l-o-zumurrud-o-zar-o-gauhar 1
@@ -3280,9 +3284,6 @@ zumurrud 3
 saal 3
   - saal 2
   - shab-o-roz-o-maah-o-saal 1
-iltifaat 3
-  - iltifaat 2
-  - iltifaat-e 1
 aazurdah 3
   - aazurdah 3
 ;savaab 3
@@ -5101,8 +5102,6 @@ daaman-afshaanii 1
   - daaman-afshaanii 1
 laalah-zaar 1
   - laalah-zaar 1
-qada;h-;xvaar 1
-  - qada;h-;xvaar 1
 daam-gaah 1
   - daam-gaah 1
 mukaukab 1
@@ -5635,8 +5634,6 @@ sar;had 1
   - sar;had-e 1
 a;ndherii 1
   - a;ndherii 1
-sako 1
-  - sako 1
 taake 1
   - taake 1
 laa))iq 1
@@ -7171,6 +7168,8 @@ kafiil 1
   - :tannaaz 1
 bo 1
   - bo 1
+qada;h-;xvaar 1
+  - qada;h-;xvaar 1
 naazukii 1
   - naazukii 1
 samand 1

@@ -162,6 +162,7 @@ urdu,transliteration,count
 شمع,sham((a,19
 پا,paa,19
 کم,kam,19
+سکنا,saknaa,19
 آونا,aavnaa,19
 آنکھ,aa;nkh,19
 دیدہ,diidah,19
@@ -171,7 +172,6 @@ urdu,transliteration,count
 بہت,bahut,18
 سننا,sun'naa,18
 بیٹھنا,bai;thnaa,18
-سکنا,saknaa,18
 دشمن,dushman,18
 نگہ,nigah,18
 ساقی,saaqii,18
@@ -876,6 +876,7 @@ urdu,transliteration,count
 دہقان,dihqaan,3
 ایجاد,iijaad,3
 ندیم,nadiim,3
+التفات,iltifaat,3
 زہر,zahr,3
 سوال,savaal,3
 نشاط,nishaa:t,3
@@ -939,7 +940,6 @@ urdu,transliteration,count
 عنواں,((unvaa;n,3
 پاسبان,paasbaan,3
 بیگانگی,begaanagii,3
-التفات,iltifaat,3
 خلش,;xalish,3
 وا رستگی,vaa-rastagii,3
 رزق,rizq,3
@@ -2045,7 +2045,6 @@ urdu,transliteration,count
 سرحد,sar;had,1
 پیام,payaam,1
 دکھائی,dikhaa))ii,1
-سکو,sako,1
 لائق,laa))iq,1
 نایاب,naayaab,1
 شب رو,shab-rau,1
