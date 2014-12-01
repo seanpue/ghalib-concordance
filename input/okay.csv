@@ -163,7 +163,7 @@ x,.suur,.suur
 x,.suurat,.suurat
 x,.suurat-;xaanah-e,.suurat-;xaanah
 x,.suurat-e,.suurat
-x,.suurate;n,.suurate;n
+x,.suurate;n,.suurat
 x,.suvar,.suvar
 x,.zaamin,.zaamin
 x,.zaamin-e,.zaamin
@@ -178,7 +178,7 @@ x,.zu((f-e,.zu((f
 x,:ta((n-e,:ta((n
 x,:ta((nah,:ta((nah
 x,:ta((nah-e,:ta((nah
-x,:ta((no;n,:ta((no;n
+x,:ta((no;n,:ta((nah
 x,:taa((at,:taa((at
 x,:taa((at-o-zuhd,:taa((at-o-zuhd|:taa((at|zuhd
 x,:taa))uus,:taa))uus
@@ -193,7 +193,7 @@ x,:tab((-e,:tab((
 x,:tab((a,:tab((a
 x,:tabii((at,:tabii((at
 x,:tabii((at-e,:tabii((at
-x,:tabii((ato;n,:tabii((ato;n
+x,:tabii((ato;n,:tabii((at
 x,:tabii((ii,:tabii((ii
 x,:tahuur,:tahuur
 x,:talab,:talab
@@ -496,9 +496,9 @@ x,;xalvat-e,;xalvat
 x,;xalvat-o-jalvat,;xalvat-o-jalvat|;xalvat|jalvat
 x,;xam,;xam
 x,;xam-e,;xam
-x,;xamosh,;xamosh
-x,;xamoshii,;xamoshii
-x,;xamoshiyo;n,;xamoshiyo;n
+x,;xamosh,;xaamosh
+x,;xamoshii,;xaamoshii
+x,;xamoshiyo;n,;xaamoshii
 x,;xamyaazah,;xamyaazah
 x,;xandah,;xandah
 x,;xandah'haa-e,;xandah
@@ -560,7 +560,7 @@ x,;xuu,;xuu
 x,;xuu-e,;xuu
 x,;xuu-gar,;xuu-gar
 x,;xuu-kardah-e,;xuu-kardah
-x,;xuu;n,;xuu;n
+x,;xuu;n,;xuun
 x,;xuu;n-;galtiidah-e,;xuun-;galtiidah
 x,;xuu;n-;galtiidan-e,;xuun-;galtiidan
 x,;xuu;n-baar,;xuun-baar
@@ -577,7 +577,7 @@ x,;xuu;n-naabah-mashrab,;xuun-naabah-mashrab
 x,;xuu;n-rez,;xuun-rez
 x,;xuu;n-shudah-e,;xuun-shudah
 x,;xuub,;xuub
-x,;xuub-ruuyo;n,;xuub-ruuyo;n
+x,;xuub-ruuyo;n,;xuub-ruu
 x,;xuubaa;n,;xuub
 x,;xuubaan-e,;xuubaan
 x,;xuubii-e,;xuubii
@@ -608,7 +608,7 @@ x,;xvush-;haal,;xvush-;haal
 x,;xvush-navaayaan-e,;xvush-navaayaan
 x,;xvush-o-naa-;xvush,;xvush-o-naa-;xvush|;xvush|naa-;xvush
 x,;xvushaa,;xvushaa
-x,;xvushaamad-:talabo;n,;xvushaamad-:talabo;n
+x,;xvushaamad-:talabo;n,;xvushaamad-:talab
 x,;xvushii,;xvushii
 x,;xvushtar,;xvushtar
 x,;zaahir,;zaahir
@@ -635,7 +635,7 @@ x,a.snaam-e,a.snaam
 x,a:tfaal,a:tfaal
 x,a;gyaar,a;gyaar
 x,a;hbaab,a;hbaab
-x,a;hmaqo;n,a;hmaqo;n
+x,a;hmaqo;n,a;hmaq
 x,a;hraam,a;hraam
 x,a;hvaal,a;hvaal
 x,a;hvaal-e,a;hvaal
@@ -671,7 +671,7 @@ x,aa;gosh-kushaa,aa;gosh-kushaa
 x,aa;gosh-kushaa))ii,aa;gosh-kushaa))ii
 x,aa;nkh,aa;nkh
 x,aa;nkhe;n,aa;nkh
-x,aa;nkho;n,aa;nkho;n
+x,aa;nkho;n,aa;nkh
 x,aa;nsuu,aa;nsuu
 x,aa;xir,aa;xir
 x,aa;zar-fishaa;n,aa;zar-fishaa;n
@@ -687,8 +687,8 @@ x,aab-ruu,aab-ruu
 x,aabaad,aabaad
 x,aabaad-e,aabaad
 x,aabaadii,aabaadii
-x,aabilah-paa,aabilah-paa
-x,aabilo;n,aabilo;n
+x,aabilah-paa,aablah-paa
+x,aabilo;n,aablah
 x,aablah,aablah
 x,aabruu,aabruu
 x,aabruu-e,aabruu
@@ -746,7 +746,7 @@ x,aashuftagii,aashuftagii
 x,aashuftah-bayaanii,aashuftah-bayaanii
 x,aashuftah-navaa,aashuftah-navaa
 x,aashuftah-sar,aashuftah-sar
-x,aashuftah-saro;n,aashuftah-saro;n
+x,aashuftah-saro;n,aashuftah-sar
 x,aasmaa;n,aasmaan
 x,aasmaan,aasmaan
 x,aasmaanii,aasmaanii
@@ -779,7 +779,7 @@ x,aazaad,aazaad
 x,aazaadah-o-;xvud-bii;n,aazaadah-o-;xvud-bii;n|aazaadah|;xvud-bii;n
 x,aazaadii,aazaadii
 x,aazaadii-e,aazaadii
-x,aazaado;n,aazaado;n
+x,aazaado;n,aazaad
 x,aazaar,aazaar
 x,aazaar-e,aazaar
 x,aazmaa))e,aazmaanaa
@@ -799,7 +799,7 @@ x,abr-o-shab-e,abr-o-shab|abr|shab
 x,abruu,abruu
 x,achchhaa,achchhaa
 x,achchhe,achchhaa
-x,achchho;n,achchho;n
+x,achchho;n,achchhaa
 x,adaa,adaa
 x,adaa-e,adaa
 x,adab,adab
@@ -878,14 +878,14 @@ x,ashk-e,ashk
 x,ashyaa,ashyaa
 x,asiir,asiir
 x,asiirii,asiirii
-x,asiiro;n,asiiro;n
+x,asiiro;n,asiir
 x,au.zaa((-e,au.zaa((
 x,auj,auj
 x,auj-e,auj
 x,aur,aur
 x,auraaq-e,auraaq
 x,aurang-e,aurang
-x,auro;n,auro;n
+x,auro;n,aur
 x,ay,ay
 x,ayaa;g,ayaa;g
 x,ayyaam-e,ayyaam
@@ -967,7 +967,7 @@ x,baare,baare
 x,baarish,baarish
 x,baat,baat
 x,baate;n,baat
-x,baato;n,baato;n
+x,baato;n,baat
 x,baavar,baavar
 x,baavujuud-e,baavujuud
 x,baaz,baaz
