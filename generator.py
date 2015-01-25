@@ -9,7 +9,7 @@
 
 # ## Description
 # 
-# This notebook contains code to generator a concordance for the muravvaj divaan of ghalib.
+# This notebook contains code to generate a concordance for the muravāj dīvān of Ghalib.
 # 
 # Verses are taken from "input/verses.csv"
 # 
@@ -78,7 +78,9 @@ def get_okay_lemmas(inputfile='input/okay.csv'):
     with open(inputfile,'r') as csvfile:
         versereader = csv.reader(csvfile)
         for row in versereader:
+#            print row
             (status, unique_token, lemmas) = row
+            
             assert status in ['','x']
             if status=='x':
                 okay_lemmas[unique_token]=lemmas.split('|')
@@ -180,9 +182,6 @@ def get_unique_lemmas(lemmas):
     for t,t_lemmas in lemmas.iteritems():
         for lemma in t_lemmas:
             unique_lemmas.add(lemma)
-#                unique_lemmas.add(lemma)
-#            else:
-#                unique_lemmas[lemma].append(t)
     return unique_lemmas
 
 
@@ -210,7 +209,11 @@ lemmas = get_lemmas(unique_tokens)
 unique_lemmas = get_unique_lemmas(lemmas)
 okay_lemmas = get_okay_lemmas()
 
-print_stats()
+okay_tokens_not_in_lemmas = [ok for ok in okay_lemmas if not ok in lemmas]
+
+if len(okay_tokens_not_in_lemmas) > 0:
+    print 'the following tokens are marked as okay but are not any longer'
+    print okay_tokens_not_in_lemmas
 
 # <markdowncell>
 
@@ -412,9 +415,6 @@ reload(generate_urdu)#generate_urdu.write_all_urdu_statistics()
 
 # <codecell>
 
-
-# <codecell>
-
 with open('output/lemmas-by-size.txt','w') as f:
     for x in sorted(lemma_instance_count, key=lemma_instance_count.get,reverse=True):
         words=lemmas_out[x]
@@ -546,4 +546,7 @@ gen_hiur_lemmas()
 #gen_hiur_lemmas_by_size_hiur('output/lemmas-by-size-w-verses-all-hiur.md', with_verses=True, truncate=False)#True,truncate_limit=50):
 #gen_hiur_lemmas_by_size_hiur('output/lemmas-by-size-countsonly.md', with_verses=False)#True,truncate_limit=50):
 gen_hiur_lemmas_by_size_ul()
+
+# <codecell>
+
 

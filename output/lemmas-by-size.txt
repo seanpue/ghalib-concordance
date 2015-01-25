@@ -12,7 +12,6 @@ honaa 1722
   - thii;n 3
   - huujiye 1
   - hu))o;n 1
-  - hu;n 0
 kaa 560
   - kaa 291
   - ke 269
@@ -545,7 +544,6 @@ paanaa 27
   - paane 1
   - paa))uu;n 1
   - paa))e;n 1
-  - paanaa 0
 na:zar 27
   - na:zar 26
   - na:zar'haa-e 1
@@ -1973,7 +1971,6 @@ dikhaanaa 6
   - dikhaa))uu;ngaa 1
 tavaqqu(( 6
   - tavaqqu(( 6
-  - tavuqqu(( 0
 sitamgar 6
   - sitamgar 6
 :zaalim 6
@@ -8298,5 +8295,3 @@ mu((ayyan 1
   - mu((ayyan 1
 tajammul 1
   - tajammul 1
-((al;ii-al-ra;gm 0
-  - ((al;ii-al-ra;gm-e 0
