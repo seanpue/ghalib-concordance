@@ -29,7 +29,7 @@ The main program here is in the iPython Notebook `generate_urdu.ipynb`. It reads
 * `README.md`:  this file
 * `bin`:  binary files directory
   * `fw xxx`: finds word xxx in text
-  * 'load_notebooks': loads the ipython notebooks with --script parameter to generate .py files
+  * `load_notebooks`: loads the ipython notebooks with --script parameter to generate .py files
   * `og #`: opens ghazal # on the web
 * `generate_urdu.ipynb`:  creates Urdu- and devanagari-script statistics output based on earlier transliteration-only versions in `output/statistics`.
 * `generator.ipynb`: x
