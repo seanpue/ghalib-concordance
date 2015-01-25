@@ -551,11 +551,11 @@ gen_hiur_lemmas_by_size_ul()
 
 def gen_hiur_lemmas_by_size_md(file_name='output/hiur-lemmas-by-size.md'):
     with codecs.open(file_name,'w','utf-8') as f:
-        f.write('# Lemmas and Tokens (Sorted by # of Occurences\n\n')
+        f.write('# Lemmas and Tokens (Sorted by Number of Occurences)\n\n')
         for x in sorted(lemma_instance_count, key=lemma_instance_count.get,reverse=True):
             words=lemmas_out[x]
             words = sorted(words,key=token_instance_count.get, reverse=True)
-            f.write('\n'+out_hiur(x)+' '+str(lemma_instance_count[x])+'*\n')
+            f.write('\n'+out_hiur(x)+' '+str(lemma_instance_count[x])+'\n')
             for w in words:
                 f.write('* '+out_hiur(w)+' '+str(token_instance_count[w])+'\n')
                 
