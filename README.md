@@ -20,10 +20,15 @@ Much like programming scientists, we are both programming humanists and not
 professional coders, so suggestions for best practices are always welcome (e.g.
 ‘use collections’).
 
+##Current Status
+
+We are proofreading the lemma forms along with the tokens in transliteration, Urdu, and devanagari forms. During the first round of proofing, we are checking the file `hiur-lemmas-by-size-proofme.md` in output and noting any errors. This is the stage 1 part of the process. We produce a web/print version of the concordance that will supply the complete representative verses and also link out to fp7's page.
+
+During the next phase, we will markup the text of the poems with the corresponding lemma form for greater accuracy. We will expand to multi-token lemmas, e.g. compound verbs, and add part-of-speech markings.
+
 ##Overview of Code
 
-The main program here is in the iPython Notebook `generate_urdu.ipynb`. It reads the text from `input/verses.csv`.  creates Urdu-(....-ur.html) and devanagari-script (....-hi.html) statistics file output based on earlier transliteration-only versions in `output/statistics`. (Devanagari is still rather messy)
-* izafat-freq.csv ––> izafat-freq-ur.csv
+The main program here is in the iPython Notebook `generator.ipynb`. It reads the text from `input/verses.csv.` The notebook `generate_urdu.csv` creates Urdu-(....-ur.html) and devanagari-script (....-hi.html) statistics file output based on earlier transliteration-only versions in `output/statistics`. (Devanagari is still rather messy).
 
 ##Description of Files
 * `README.md`:  this file
@@ -44,6 +49,8 @@ The main program here is in the iPython Notebook `generate_urdu.ipynb`. It reads
 * `/old_code`: old code not in use now
 * `/output`: output directory (all are generated)
   * `conc_details.csv`: lemma (transliteration),words from lemma (in transliteration)
+  * `hiur-lemmas-by-size-proofme.md`: temporary file (copy of below) that we are proofreading now
+  * `hiur-lemmas-by-size-proofme.md`: markdown (md) version of below
   * `hiur-lemmas-by-size-ul.html`: HTML of transliteration, urdu, devanagari, hyperlinks (sorted by instances of lemma)
   * `hiur-lemmas.html`:  HTML of transliteration, urdu, devanagari, hyperlinks (sorted by instances of transliteration)
   * `izafats.csv`: izafats,count

@@ -129,7 +129,7 @@ def search_tokens(match_string):
     '''
     Searches for tokens matching a pattern (anywhere in it)
     match_string: regular expression of string
-    Input: regular expression string (e.g. 'aqsh'
+    Input: regular expression string (e.g. 'naqsh'
     returns: a list of tokens, e.g. ['naqsh']
     '''
     assert unique_tokens
@@ -560,6 +560,36 @@ def gen_hiur_lemmas_by_size_md(file_name='output/hiur-lemmas-by-size.md'):
                 f.write('* '+out_hiur(w)+' '+str(token_instance_count[w])+'\n')
                 
 gen_hiur_lemmas_by_size_md()
+
+# <markdowncell>
+
+# ##Experimenting with Lemma version of text (for topic modeling)
+
+# <codecell>
+
+def gen_documents(file_name = 'output/lemma_documents.txt'):
+    with codecs.open(file_name,'w','utf-8') as f:
+        it = iter(sorted(verses))
+        for x in it:
+            v_id0,v_id1 = x,next(it)
+            #print v_id0,v_id1
+            lemmastring = ''
+            for v in [v_id0,v_id1]:
+            #print v
+                vtkns = [t for t in tokens if t.startswith(v)]
+                for t in vtkns:
+                    l = okay_lemmas[tokens[t]]
+                    if len(l)>1:
+                        while '-o-' in l[0]:
+                            l=l[1:]
+                    lemmas_out = ' '.join(l)
+                    lemmastring+=' '+lemmas_out
+
+            f.write(lemmastring+'\n')
+gen_documents()
+
+# <codecell>
+
 
 # <codecell>
 
