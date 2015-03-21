@@ -507,15 +507,15 @@ def gen_hiur_lemmas_by_size_ul(file_name='output/hiur-lemmas-by-size-ul.html'):
         f.write('<!DOCTYPE html>\n')
         f.write('<html lang="en-US">\n')
         f.write('<head><meta charset="utf-8"></head>\n')
-        f.write('<body>')
+        f.write('<body>\n')
 
 
-        f.write('<table>')
+        f.write('<table>\n')
         for x in sorted(lemma_instance_count, key=lemma_instance_count.get,reverse=True):
             words=lemmas_out[x]
             words = sorted(words,key=token_instance_count.get, reverse=True)
             f.write('<p><b>'+out_hiur(x)+' '+str(lemma_instance_count[x])+'</b></p>\n')
-            f.write('<ul>')
+            f.write('<ul>\n')
             for w in words:
                 f.write('<li>'+out_hiur(w)+' '+str(token_instance_count[w])+'</li>\n')
             f.write("</ul>")
@@ -590,6 +590,96 @@ gen_documents()
 
 # <codecell>
 
+
+# <codecell>
+
+import PyICU
+import PyICU
+locale=PyICU.Locale('ur')
+urdu_col = PyICU.Collator.createInstance(locale)
+
+# <codecell>
+
+import PyICU
+locale=PyICU.Locale('ur')
+urducol = PyICU.Collator.createInstance(locale)
+
+# <codecell>
+
+import graphparser
+reload(graphparser)
+
+urdup = graphparser.GraphParser('./graphparser/settings/urdu-diacritics.yaml')
+urdudiacriticsp = graphparser.GraphParser('./graphparser/settings/urdu-diacritics.yaml')
+#nagarip = graphparser.GraphParser('./graphparser/settings/devanagari.yaml')
+lemmas_diacritics = {urdudiacriticsp.parse(x).output:x for x in lemmas_out }
+
+urdu_lemmas = [urdup.parse(x).output for x in lemmas_out]
+urdu_lemmas_sorted = sorted(urdu_lemmas,col.compare)
+
+# <codecell>
+
+col.compare('ب','ا')
+
+# <codecell>
+
+def gen_hiur_lemmas(filename='output/hiur-lemmas.html',sort='transliteration'):
+    with codecs.open(filename,'w','utf-8') as f:
+        f.write('<!DOCTYPE html>\n')
+        f.write('<html lang="en-US">\n')
+        f.write('<head><meta charset="utf-8"></head>\n')
+        f.write("<body><table>")
+        assert sort in ['transliteration','urdu','devanagari']
+        if sort=='transliteration':
+            sorted_lemmas=sorted(lemmas_out.iteritems())
+        elif sort=='urdu':
+            import 
+        for l,tkns in sorted(lemmas_out.iteritems()):
+            locs=[]
+            for t in tkns:
+                locs += [v[0:6] for v,t_x in tokens.iteritems() if t_x ==t]
+            locs=sorted(list(set(sorted(locs))))
+            hyperlocs = [a_link(loc,urdu=False) for loc in locs]
+            f.write('<tr>'+td(l)+td(urdup.parse(l).output)+td(nagarip.parse(l).output)+td(', '.join(hyperlocs))+'</tr>\n')
+#                    print l,urdup.parse(l).output,locs
+        f.write("</table></body></html>")
+gen_hiur_lemmas()   
+
+# <codecell>
+
+for x in sorted(set([urdup.parse(t).output for t in tokens.values() if t.endswith('-e')] ), col.compare): print x
+
+# <codecell>
+
+import codecs
+def gen_concordance(filename='output/concordance-urdu.html'):
+
+    with codecs.open(filename,'w','utf-8') as f:
+        f.write('<!DOCTYPE html>\n')
+        f.write('<html lang="ur-PK">\n')
+        f.write('<head><meta charset="utf-8"></head>\n')
+        f.write("<body><table>")
+        for l_d in sorted(lemmas_diacritics,col.compare):
+            tkns = lemmas_out[lemmas_diacritics[l_d]]
+            
+#        for l,tkns in sorted(lemmas_out.iteritems(),urducol.compare):
+            locs=[]
+            for t in tkns:
+                locs += [v[0:6] for v,t_x in tokens.iteritems() if t_x ==t]
+            locs=sorted(list(set(sorted(locs))))
+            hyperlocs = [a_link(loc,urdu=False) for loc in locs]
+            print ('<tr>'+td(l_d)+td(', '.join(hyperlocs))+'</tr>\n')
+#                    print l,urdup.parse(l).output,locs
+        f.write("</table></body></html>")
+gen_concordance()
+
+# <codecell>
+
+lemmas_diacritics = {urdudiacriticsp.parse(x).output:x for x in lemmas_out }
+
+# <codecell>
+
+sorted(lemmas_diacritics.keys(),urducol.compare)
 
 # <codecell>
 
