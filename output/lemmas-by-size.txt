@@ -1,15 +1,27 @@
-honaa 1722
+honaa 2253
   - hai 1101
+  - ho 290
   - hai;n 205
   - thaa 146
+  - huu;n 138
   - hu))aa 98
   - hu))e 61
+  - hotaa 58
   - hu))ii 33
   - the 29
   - thii 26
+  - hote 16
   - honaa 14
+  - hotii 10
+  - hogaa 8
   - ho;n 4
+  - hone 4
   - thii;n 3
+  - hove 3
+  - hogii 1
+  - huujo 1
+  - huujiyo 1
+  - ho;ngii 1
   - huujiye 1
   - hu))o;n 1
 kaa 560
@@ -25,9 +37,39 @@ kih 388
   - kih 388
 ko 371
   - ko 371
-kii 296
-  - kii 296
-karnaa 296
+vuh 364
+  - vuh 186
+  - us 148
+  - use 15
+  - u;nhe;n 8
+  - usii 5
+  - vo 2
+jaanaa 301
+  - gayaa 52
+  - jaa))e 44
+  - ga))ii 29
+  - ga))e 23
+  - ga))ii;n 20
+  - jaa 20
+  - jaanaa 20
+  - jaa))egaa 15
+  - jaataa 13
+  - jaate 9
+  - gaye 9
+  - jaave 7
+  - jaa))uu;n 7
+  - jaatii 7
+  - jaa))e;n 6
+  - jaane 5
+  - jaa))iye 5
+  - jaa))o 2
+  - jaave;nge 2
+  - jaa))egii 2
+  - jaa))iyo 1
+  - jaave;n 1
+  - jaa))oge 1
+  - jaa))e;nge 1
+karnaa 299
   - kar 92
   - kare 56
   - kiye 31
@@ -41,10 +83,11 @@ karnaa 296
   - karne 5
   - kartii 4
   - karnaa 3
+  - karo 3
   - kare;nge 2
   - karuu;ngaa 1
-ho 290
-  - ho 290
+kii 296
+  - kii 296
 nahii;n 288
   - nahii;n 288
 mai;n 285
@@ -52,27 +95,6 @@ mai;n 285
   - mujhe 100
   - mujh 75
   - mujhii 2
-jaanaa 277
-  - gayaa 52
-  - jaa))e 44
-  - ga))ii 29
-  - ga))e 23
-  - jaanaa 20
-  - ga))ii;n 20
-  - jaa))egaa 15
-  - jaataa 13
-  - jaate 9
-  - gaye 9
-  - jaave 7
-  - jaatii 7
-  - jaa))uu;n 7
-  - jaa))e;n 6
-  - jaa))iye 5
-  - jaane 5
-  - jaave;nge 2
-  - jaa))egii 2
-  - jaa))e;nge 1
-  - jaave;n 1
 kyaa 240
   - kyaa 240
 meraa 240
@@ -103,13 +125,28 @@ ham 200
   - hame;n 16
 bhii 186
   - bhii 186
-vuh 186
-  - vuh 186
 to 174
   - to 174
 yih 165
   - yih 127
   - is 38
+kahnaa 161
+  - kahte 44
+  - kahe 23
+  - kahiye 22
+  - kahuu;n 15
+  - kahe;n 13
+  - kaho 12
+  - kahaa 10
+  - kahtaa 6
+  - kahyo 4
+  - kahye 3
+  - kahne 2
+  - kahe;nge 2
+  - kahtii 2
+  - kahve 1
+  - kahve;n 1
+  - kahnaa 1
 aanaa 157
   - aa))e 33
   - aayaa 28
@@ -124,27 +161,8 @@ aanaa 157
   - aa))e;n 2
   - aaye 2
   - aa))e;nge 1
-us 148
-  - us 148
-kahnaa 145
-  - kahte 44
-  - kahe 23
-  - kahiye 22
-  - kahuu;n 15
-  - kahe;n 13
-  - kahaa 10
-  - kahtaa 6
-  - kahye 3
-  - kahne 2
-  - kahe;nge 2
-  - kahtii 2
-  - kahve 1
-  - kahve;n 1
-  - kahnaa 1
 ne 140
   - ne 140
-honaaa 138
-  - huu;n 138
 jo 135
   - jo 135
 teraa 133
@@ -154,6 +172,19 @@ teraa 133
   - tiraa 17
   - terii 16
   - teraa 16
+dekhnaa 129
+  - dekh 43
+  - dekhaa 22
+  - dekhte 15
+  - dekhnaa 13
+  - dekhiye 12
+  - dekho 7
+  - dekhuu;n 4
+  - dekhne 4
+  - dekhtaa 3
+  - dekhii 2
+  - dekhe 2
+  - dekhe;n 2
 aur 126
   - aur 125
   - auro;n 1
@@ -161,25 +192,9 @@ par 126
   - par 120
   - baal-o-par 5
   - par-e 1
-dekhnaa 122
-  - dekh 43
-  - dekhaa 22
-  - dekhte 15
-  - dekhnaa 13
-  - dekhiye 12
-  - dekhuu;n 4
-  - dekhne 4
-  - dekhtaa 3
-  - dekhii 2
-  - dekhe 2
-  - dekhe;n 2
-;gaalib 112
-  - ;gaalib 107
-  - ;gaalib-e 5
-ko))ii 109
-  - ko))ii 109
-denaa 102
+denaa 120
   - de 40
+  - do 17
   - diyaa 16
   - dii 11
   - detaa 8
@@ -190,20 +205,47 @@ denaa 102
   - de;nge 2
   - diije 2
   - dene 2
+  - diijiyo 1
   - de;n 1
   - diijiye 1
   - denii 1
+;gaalib 112
+  - ;gaalib 107
+  - ;gaalib-e 5
+ko))ii 109
+  - ko))ii 109
 kyuu;n 99
   - kyuu;n 99
 hii 97
   - hii 97
-pah 94
-  - pah 94
+pah 95
+  - pah 95
 bah 91
   - bah 90
   - baad-o-bah 1
 gar 87
   - gar 87
+tuu 77
+  - tuu 39
+  - tujh 24
+  - tujhe 12
+  - tujh-saa 1
+  - tujh-sii 1
+rahnaa 77
+  - rahaa 36
+  - rahe 18
+  - rahe;n 5
+  - rahne 4
+  - rahegaa 3
+  - raho 3
+  - rahnaa 1
+  - rahtaa 1
+  - rahyo 1
+  - rahve 1
+  - rahuu;n 1
+  - rahte 1
+  - rahye 1
+  - rahtii 1
 gul 76
   - gul 62
   - gul-e 6
@@ -222,37 +264,25 @@ apnaa 75
   - apnaa-saa 1
 har 73
   - har 73
-rahnaa 72
-  - rahaa 36
-  - rahe 18
-  - rahe;n 5
-  - rahne 4
-  - rahegaa 3
-  - rahnaa 1
-  - rahve 1
-  - rahuu;n 1
-  - rahte 1
-  - rahye 1
-  - rahtii 1
 ay 70
   - ay 70
 ik 68
   - ik 68
 kis 68
   - kis 68
-kuchh 66
-  - kuchh 66
-tum 61
+tum 67
   - tum 49
   - tumhii;n 6
   - tumhe;n 6
+  - tumhaarii 3
+  - tumhaare 3
+kuchh 66
+  - kuchh 66
 ;gam 59
   - ;gam 35
   - ;gam-e 22
   - ;gamhaa-e 1
   - ;gam-o-shaadii 1
-hotaa 58
-  - hotaa 58
 jis 56
   - jis 56
 sar 55
@@ -268,6 +298,12 @@ agar 55
   - ((ishq-e 4
   - ((ishq-o-naa-guziir-e 1
   - ((ishq-o-mazduurii-e 1
+nigaah 50
+  - nigaah 18
+  - nigaah-e 12
+  - nigah 11
+  - nigah-e 7
+  - nigaahe;n 2
 ek 50
   - ek 50
 naaz 48
@@ -297,6 +333,19 @@ dar 44
   - dar-e 6
   - diivaar-o-dar 4
   - dar-o-diivaar-e 1
+lenaa 43
+  - le 14
+  - lo 5
+  - liyaa 5
+  - luu;n 4
+  - letaa 3
+  - le;n 2
+  - lene 2
+  - lii 2
+  - le;nge 2
+  - leve 2
+  - lete 1
+  - liijo 1
 din 42
   - din 40
   - dino;n 2
@@ -311,6 +360,17 @@ ban'naa 41
   - ban'ne 1
   - bane;nge 1
   - bante 1
+rakhnaa 41
+  - rakhtaa 9
+  - rakh 9
+  - rakhte 8
+  - rakhuu;n 5
+  - rakhaa 3
+  - rakhtii 2
+  - rakhyo 2
+  - rakhe 1
+  - rakhne 1
+  - rakhye 1
 jab 41
   - jab 41
 mai 40
@@ -327,18 +387,6 @@ asad 39
   - ((umr-o-asad 1
 ab 39
   - ab 39
-rakhnaa 39
-  - rakhtaa 9
-  - rakh 9
-  - rakhte 8
-  - rakhuu;n 5
-  - rakhaa 3
-  - rakhtii 2
-  - rakhe 1
-  - rakhne 1
-  - rakhye 1
-tuu 39
-  - tuu 39
 ;xayaal 38
   - ;xayaal 29
   - ;xayaal-e 8
@@ -358,17 +406,25 @@ rang 37
   - rang 25
   - rang-e 11
   - rang-o-saaz'haa 1
-lenaa 37
-  - le 14
-  - liyaa 5
-  - luu;n 4
-  - letaa 3
-  - le;n 2
-  - lene 2
-  - lii 2
-  - le;nge 2
-  - leve 2
-  - lete 1
+puuchhnaa 37
+  - puuchh 18
+  - puuchhe 5
+  - puuchhaa 2
+  - puuchho 2
+  - puuchhe;n 2
+  - puuchhtaa 2
+  - puuchhte 2
+  - puuchhnaa 1
+  - puuchhii 1
+  - puuchhne 1
+  - puuchhuu;n 1
+jaan 37
+  - jaan 17
+  - jaa;n 14
+  - jaan-e 2
+  - jaanaa;n 2
+  - ((aql-o-dil-o-jaa;n 1
+  - dil-o-jaa;n 1
 ;xuun 37
   - ;xuu;n 25
   - ;xuun-e 12
@@ -381,12 +437,6 @@ yuu;n 37
 ;gair 36
   - ;gair 34
   - ;gair-e 2
-jaan 36
-  - jaan 17
-  - jaa;n 14
-  - jaan-e 2
-  - jaanaa;n 2
-  - dil-o-jaa;n 1
 mauj 36
   - mauj-e 32
   - mauj 3
@@ -412,21 +462,17 @@ nikalnaa 34
   - nikalnaa 1
   - nikalne 1
   - nikalte 1
+aa))iinah 34
+  - aa))iinah 15
+  - aa))inah 10
+  - aa))iinah-e 5
+  - aa))iine 2
+  - aa))ine 2
 yaa 34
   - yaa 34
 yaad 33
   - yaad 32
   - va.sl-o-yaad-e 1
-puuchhnaa 33
-  - puuchh 18
-  - puuchhe 5
-  - puuchhaa 2
-  - puuchhe;n 2
-  - puuchhte 2
-  - puuchhnaa 1
-  - puuchhii 1
-  - puuchhne 1
-  - puuchhuu;n 1
 milnaa 33
   - mile 13
   - mil 5
@@ -448,10 +494,14 @@ baat 33
   - baato;n 1
 ;xudaa 32
   - ;xudaa 32
-nigaah 32
-  - nigaah 18
-  - nigaah-e 12
-  - nigaahe;n 2
+diivaar 32
+  - dar-o-diivaar 14
+  - diivaar 6
+  - diivaar-e 4
+  - diivaar-o-dar 4
+  - diivaaro;n 2
+  - be-dar-o-diivaar 1
+  - dar-o-diivaar-e 1
 liye 31
   - liye 31
 yak 31
@@ -467,6 +517,15 @@ chashm 31
 za;xm 31
   - za;xm-e 17
   - za;xm 14
+jaan'naa 31
+  - jaantaa 11
+  - jaante 6
+  - jaanuu;n 5
+  - jaane 5
+  - jaano 1
+  - jaaniye 1
+  - jaane;n 1
+  - jaanegaa 1
 bazm 30
   - bazm 16
   - bazm-e 14
@@ -474,23 +533,8 @@ achchhaa 30
   - achchhaa 26
   - achchhe 2
   - achchho;n 2
-diivaar 30
-  - dar-o-diivaar 14
-  - diivaar 6
-  - diivaar-e 4
-  - diivaar-o-dar 4
-  - be-dar-o-diivaar 1
-  - dar-o-diivaar-e 1
 un 30
   - un 30
-jaan'naa 30
-  - jaantaa 11
-  - jaante 6
-  - jaanuu;n 5
-  - jaane 5
-  - jaaniye 1
-  - jaane;n 1
-  - jaanegaa 1
 ghar 29
   - ghar 29
 samjhnaa 29
@@ -570,10 +614,6 @@ jahaan 26
   - jahaa;n 20
   - jahaan 5
   - jahaan-e 1
-tujh 26
-  - tujh 24
-  - tujh-saa 1
-  - tujh-sii 1
 tamaashaa 25
   - tamaashaa 19
   - tamaashaa-e 5
@@ -619,17 +659,10 @@ qa:trah 23
   - qa:tre 3
   - .sa;hraa-dast-gaah-o-qa:trah 1
   - qa:trah-o-mauj-o-;hubaab 1
-jaa 23
-  - jaa 20
-  - jaa-e 3
 ((umr 22
   - ((umr 15
   - ((umr-e 6
   - ((umr-o-asad 1
-aa))iinah 22
-  - aa))iinah 15
-  - aa))iinah-e 5
-  - aa))iine 2
 kabhii 22
   - kabhii 22
 haath 22
@@ -707,28 +740,52 @@ tamannaa 21
   - tamannaa 18
   - tamannaa-e 2
   - tamannaa))e;n 1
-aisaa 21
-  - aisaa 8
-  - aisii 8
-  - aise 5
-daryaa 20
-  - daryaa 16
-  - daryaa-e 4
-paa;nv 20
-  - paa;nv 20
-aap 20
-  - aap 20
-khe;nchnaa 20
+khe;nchnaa 21
   - khe;nch 8
   - khe;nche 3
   - khe;nchaa 3
   - khe;nchtaa 2
   - khe;nchuu;n 1
+  - khe;ncho 1
   - khe;nchuu;ngaa 1
   - khe;nchiye 1
   - khe;nchii 1
+aisaa 21
+  - aisaa 8
+  - aisii 8
+  - aise 5
 mu;nh 20
   - mu;nh 20
+sun'naa 20
+  - sun 9
+  - suntaa 3
+  - sunii 2
+  - suno 2
+  - sunte 2
+  - sune 2
+daryaa 20
+  - daryaa 16
+  - daryaa-e 4
+ronaa 20
+  - rote 5
+  - rone 3
+  - ro))uu;n 2
+  - ronaa 2
+  - rotaa 2
+  - ro))e;nge 2
+  - ro 2
+  - ro))e;n 1
+  - ro))iye 1
+paa;nv 20
+  - paa;nv 20
+aap 20
+  - aap 20
+chiraa;g 20
+  - chiraa;g-e 8
+  - chiraa;gaa;n 8
+  - chiraa;gaan-e 2
+  - chashm-o-chiraa;g-e 1
+  - chiraa;g 1
 aa;xir 19
   - aa;xir 19
 qiyaamat 19
@@ -769,12 +826,6 @@ saknaa 19
 buraa 18
   - buraa 16
   - burii 2
-sun'naa 18
-  - sun 9
-  - suntaa 3
-  - sunii 2
-  - sune 2
-  - sunte 2
 baa;ndhnaa 18
   - baa;ndhte 9
   - baa;ndhaa 6
@@ -816,9 +867,6 @@ naqsh 18
   - naqsh-e 15
   - naqsh 2
   - naqsh-o-nigaar-e 1
-nigah 18
-  - nigah 11
-  - nigah-e 7
 vaqt 18
   - vaqt 11
   - vaqt-e 6
@@ -846,14 +894,12 @@ likhnaa 18
   - likhte 1
   - likhiye 1
   - likhuu;n 1
-do 17
-  - do 17
-mat 17
-  - mat 17
 raqiib 17
   - raqiib 14
   - raqiibo;n 2
   - raqiib-e 1
+mat 17
+  - mat 17
 kyuu;nkar 17
   - kyuu;nkar 17
 rashk 17
@@ -874,6 +920,11 @@ raah 17
   - raah-e 5
   - raah-o-rasm-e 1
   - rasm-o-raah 1
+lagaanaa 17
+  - lagaa 11
+  - lagaa))e 3
+  - lagaa))o 2
+  - lagaayaa 1
 nafas 17
   - nafas 12
   - nafas-e 5
@@ -901,6 +952,13 @@ zulf 16
   - zulf 9
   - zulf-e 6
   - zulfe;n 1
+samajhnaa 16
+  - samajhte 6
+  - samajh 5
+  - samajhtaa 2
+  - samajhnii 1
+  - samajhyo 1
+  - samajhye 1
 la;z;zat 16
   - la;z;zat-e 10
   - la;z;zat 5
@@ -916,8 +974,6 @@ shu((lah 16
   - shu((lah-e 6
   - shu((le 3
   - .saa((iqah-o-shu((lah-o-siimaab 1
-hote 16
-  - hote 16
 balaa 16
   - balaa 11
   - balaa-e 3
@@ -950,27 +1006,24 @@ aah 15
   - aah-o-faryaad 1
 kab 15
   - kab 15
-lagaanaa 15
-  - lagaa 11
-  - lagaa))e 3
-  - lagaayaa 1
+khaanaa 15
+  - khaate 2
+  - khaa 2
+  - khaa))ii 2
+  - khaa))iye 1
+  - khaa))e;n 1
+  - khaa))iyo 1
+  - khaane 1
+  - khaave;nge 1
+  - khaa))e 1
+  - khaayaa 1
+  - khaa))uu;n 1
+  - khaanaa 1
 sitam 15
   - sitam 11
   - sitamhaa-e 2
   - sitam-o-jor-e 1
   - rah-o-sitam-e 1
-siinah 15
-  - siinah 6
-  - siinah-e 5
-  - siine 4
-samajhnaa 15
-  - samajhte 6
-  - samajh 5
-  - samajhtaa 2
-  - samajhnii 1
-  - samajhye 1
-use 15
-  - use 15
 kahii;n 15
   - kahii;n 15
 tan 15
@@ -981,6 +1034,14 @@ saayah 15
   - saayah-e 4
   - saa))e 4
   - saaye 2
+siinah 15
+  - siinah 6
+  - siinah-e 5
+  - siine 4
+ulfat 15
+  - ulfat 11
+  - ulfat-e 3
+  - ulfat'haa-e 1
 su;xan 14
   - su;xan 13
   - su;xan-e 1
@@ -1023,28 +1084,20 @@ baskih 14
 barq 14
   - barq 7
   - barq-e 7
-khaanaa 14
-  - khaate 2
-  - khaa 2
-  - khaa))ii 2
-  - khaa))iye 1
-  - khaa))e;n 1
-  - khaane 1
-  - khaave;nge 1
-  - khaa))e 1
-  - khaayaa 1
-  - khaa))uu;n 1
-  - khaanaa 1
 ba((d 14
   - ba((d 11
   - ba((d-e 3
+chaahnaa 14
+  - chaahaa 5
+  - chaahtaa 3
+  - chaahte 2
+  - chaahuu;n 1
+  - chaahe;n 1
+  - chaahne 1
+  - chaaho 1
 garm 14
   - garm 8
   - garm-e 6
-aa))inah 14
-  - aa))inah 10
-  - aa))ine 2
-  - aa))inah-e 2
 ;xvush 14
   - ;xvush 13
   - ;xvush-o-naa-;xvush 1
@@ -1052,6 +1105,11 @@ taar 14
   - taar-e 10
   - taar 3
   - daaman-o-taar-e 1
+be-daad 13
+  - bedaad-e 6
+  - bedaad 3
+  - be-daad-e 3
+  - be-daad 1
 ;zarrah 13
   - ;zarrah 11
   - ;zarrah-e 2
@@ -1066,13 +1124,6 @@ te;g 13
   - te;g-e 9
   - te;g 3
   - te;g-o-kafan 1
-chaahnaa 13
-  - chaahaa 5
-  - chaahtaa 3
-  - chaahte 2
-  - chaahe;n 1
-  - chaahuu;n 1
-  - chaahne 1
 josh 13
   - josh-e 10
   - josh 2
@@ -1125,9 +1176,6 @@ baadah 13
   - baadah 8
   - baadah-e 4
   - baadah-o-saa;gar 1
-;xuub 13
-  - ;xuubaa;n 7
-  - ;xuub 6
 goyaa 13
   - goyaa 13
 ya((nii 13
@@ -1148,11 +1196,6 @@ yihii 13
 chaman 13
   - chaman 12
   - chaman-o-;xuubii-e 1
-ulfat 13
-  - ulfat 10
-  - ulfat-e 3
-tujhe 12
-  - tujhe 12
 dimaa;g 12
   - dimaa;g 9
   - dimaa;g-e 3
@@ -1165,12 +1208,22 @@ lagnaa 12
   - lagtii 2
   - lagne 1
   - lag 1
+piinaa 12
+  - piitaa 2
+  - pii 2
+  - piite 2
+  - piye 2
+  - piyaa 1
+  - piyuu;n 1
+  - piine 1
+  - piyo 1
 :tara;h 12
   - :tara;h 12
 shikvah 12
-  - shikvah-e 5
+  - shikvah-e 4
   - shikvah 4
   - shikve 3
+  - va.sl-o-shikvah-e 1
 aazmaa))ish 12
   - aazmaa))ish 12
 va((dah 12
@@ -1213,8 +1266,6 @@ kaun 12
   - ;haq 10
   - be-gunah-kush-o-;haq 1
   - ;haq-e 1
-kaho 12
-  - kaho 12
 .sub;h 11
   - .sub;h-e 5
   - .sub;h 5
@@ -1236,14 +1287,6 @@ sair 11
   - sair-e 8
   - sair 2
   - sair-o-tamaashaa 1
-piinaa 11
-  - piitaa 2
-  - pii 2
-  - piite 2
-  - piye 2
-  - piyaa 1
-  - piyuu;n 1
-  - piine 1
 laanaa 11
   - laa 3
   - laa))e 2
@@ -1266,6 +1309,9 @@ daam 11
   - daam 5
 jise 11
   - jise 11
+.zu((f 11
+  - .zu((f 10
+  - .zu((f-e 1
 jafaa 11
   - jafaa 10
   - jafaa))e;n 1
@@ -1290,15 +1336,15 @@ shikaayat 11
   - shikaayat 9
   - shikaayat'haa-e 1
   - shikaayat-e 1
+bosah 11
+  - bosah 8
+  - bose 3
 mu;habbat 11
   - mu;habbat 11
 be-;xvudii 11
   - be-;xvudii 9
   - be-;xvudii-e 1
   - be-;xvudii-o-hushyaarii 1
-.zu((f 11
-  - .zu((f 10
-  - .zu((f-e 1
 bharnaa 11
   - bhar 8
   - bhare 1
@@ -1381,11 +1427,18 @@ fanaa 10
   - ;gaafil 10
 talak 10
   - talak 10
+phirnaa 10
+  - phire;n 2
+  - phire 2
+  - phiruu;n 1
+  - phiraa 1
+  - phirne 1
+  - phiro 1
+  - phirtii 1
+  - phirtaa 1
 jaadah 10
   - jaadah-e 6
   - jaadah 4
-hotii 10
-  - hotii 10
 baa;g 10
   - baa;g 8
   - baa;g-e 2
@@ -1400,10 +1453,6 @@ vaa 10
   - vaa 10
 vagarnah 10
   - vagarnah 10
-chiraa;g 10
-  - chiraa;g-e 8
-  - chashm-o-chiraa;g-e 1
-  - chiraa;g 1
 baal 9
   - baal-o-par 5
   - baal-e 4
@@ -1455,9 +1504,6 @@ sharm 9
   - sharm-e 2
 mataa(( 9
   - mataa((-e 9
-bedaad 9
-  - bedaad-e 6
-  - bedaad 3
 kal 9
   - kal 9
 sabzah 9
@@ -1480,19 +1526,16 @@ vuhii 9
 a;sar 9
   - a;sar 6
   - a;sar-e 3
+;darnaa 9
+  - ;dar 4
+  - ;dare 2
+  - ;darte 2
+  - ;dartaa 1
 ;xaamoshii 9
   - ;xamoshii 3
   - ;xaamushii 3
   - ;xaamoshii 2
   - ;xamoshiyo;n 1
-phirnaa 9
-  - phire;n 2
-  - phire 2
-  - phiruu;n 1
-  - phiraa 1
-  - phirne 1
-  - phirtii 1
-  - phirtaa 1
 baaqii 9
   - baaqii 9
 saamaan 9
@@ -1509,7 +1552,8 @@ garmii 9
 baare 9
   - baare 9
 va.sl 9
-  - va.sl 7
+  - va.sl 6
+  - va.sl-o-shikvah-e 1
   - va.sl-o-yaad-e 1
   - va.sl-e 1
 mudda((aa 9
@@ -1539,16 +1583,12 @@ band 8
 ka((bah 8
   - ka((be 5
   - ka((bah 3
-hogaa 8
-  - hogaa 8
 fa.sl 8
   - fa.sl-e 5
   - fa.sl 2
   - saa;xtah-o-fa.sl-e 1
 bas 8
   - bas 8
-chiraa;ga 8
-  - chiraa;gaa;n 8
 ;hariif 8
   - ;hariif-e 7
   - ;hariif 1
@@ -1594,6 +1634,9 @@ ru;x 8
   - ru;x 5
   - ru;x-e 2
   - qad-o-ru;x 1
+nashaa:t 8
+  - nashaa:t 5
+  - nashaa:t-e 3
 bulbul 8
   - bulbul 5
   - bulbule;n 1
@@ -1612,12 +1655,6 @@ karam 8
 bhalaa 8
   - bhalaa 7
   - bhale 1
-ronaa 8
-  - ro))e;nge 2
-  - ro))uu;n 2
-  - ronaa 2
-  - ro))e;n 1
-  - ro))iye 1
 bajaa 8
   - bajaa 5
   - bajaa-e 3
@@ -1633,8 +1670,9 @@ raaz 8
   - raaz'haa-e 1
 pareshaan 8
   - pareshaa;n 8
-bosah 8
-  - bosah 8
+;xuubaan 8
+  - ;xuubaa;n 7
+  - ;xuubaan-e 1
 ruu 8
   - ruu-e 5
   - ruu 3
@@ -1655,9 +1693,6 @@ fitnah 8
   - fitno;n 1
   - fitne 1
   - fitnah-o-fasaad 1
-nashaa:t 8
-  - nashaa:t 5
-  - nashaa:t-e 3
 be-taab 8
   - betaabii 5
   - betaab 3
@@ -1674,8 +1709,6 @@ dasht 8
   - ;xanjar 6
   - dashnah-o-;xanjar 1
   - dast-o-;xanjar-e 1
-vah 8
-  - u;nhe;n 8
 zanjiir 8
   - zanjiir 7
   - zanjiir-e 1
@@ -1758,12 +1791,6 @@ tasallii 7
 ;hairat 7
   - ;hairat 5
   - ;hairat-e 2
-maah 7
-  - maah-e 3
-  - mihr-o-maah 1
-  - shab-o-roz-o-maah-o-saal 1
-  - maah 1
-  - ;xvurshiid-o-maah 1
 qatl 7
   - qatl 7
 taskiin 7
@@ -1773,12 +1800,16 @@ taskiin 7
 ;xaraab 7
   - ;xaraab 6
   - ;xaraab-e 1
-dekho 7
-  - dekho 7
 sarv 7
   - sarv 3
   - sarv-e 3
   - sarv-o-.sanobar 1
+maah 7
+  - maah-e 3
+  - mihr-o-maah 1
+  - shab-o-roz-o-maah-o-saal 1
+  - maah 1
+  - ;xvurshiid-o-maah 1
 itnaa 7
   - itnaa 6
   - itne 1
@@ -1810,6 +1841,8 @@ ruknaa 7
   - rukne 1
   - ruktaa 1
   - ruktii 1
+mubaarak 7
+  - mubaarak 7
 himmat 7
   - himmat 4
   - himmat-e 3
@@ -1840,12 +1873,6 @@ mizhah 7
 kushtah 7
   - kushtah 5
   - kushtah-e 2
-;darnaa 7
-  - ;dar 4
-  - ;dare 2
-  - ;dartaa 1
-mubaarak 7
-  - mubaarak 7
 tab 7
   - tab 4
   - tab-e 3
@@ -1986,18 +2013,12 @@ ajzaa 6
 ;xaamah 6
   - ;xaamah-e 3
   - ;xaamah 3
-bekasii 6
-  - bekasii 4
-  - bekasii-e 1
-  - bekasii-haa-e 1
 ;gamzah 6
   - ;gamzah 2
   - ;gamzah-o-((ishvah-o-adaa 1
   - ;gamze 1
   - naaz-o-;gamzah 1
   - ;gamzah-e 1
-vaah 6
-  - vaah 6
 muu 6
   - muu 4
   - muu-e 2
@@ -2006,9 +2027,6 @@ takalluf 6
 gard 6
   - gard 3
   - gard-e 3
-tumhaaraa 6
-  - tumhaarii 3
-  - tumhaare 3
 :tarz 6
   - :tarz-e 5
   - :tarz-o-ravish 1
@@ -2031,6 +2049,8 @@ dandaan 6
 giriftaar 6
   - giriftaar-e 3
   - giriftaar 3
+;xuub 6
+  - ;xuub 6
 shabnam 6
   - shabnam 6
 ;daalnaa 6
@@ -2044,6 +2064,14 @@ girnaa 6
   - girii 1
   - girtaa 1
   - giraa 1
+dhonaa 6
+  - dho 3
+  - dho))e 2
+  - dhotaa 1
+be-kasii 6
+  - bekasii 4
+  - bekasii-e 1
+  - bekasii-haa-e 1
 miinaa 6
   - miinaa 3
   - miinaa-e 2
@@ -2059,6 +2087,8 @@ sho;x 6
   - sho;x 4
   - sho;x-e 1
   - sho;x-o-((aashiq-e 1
+vaah 6
+  - vaah 6
 ;haif 6
   - ;haif 6
 ;hairaa;n 6
@@ -2091,6 +2121,9 @@ tar 6
 ;xiraam 6
   - ;xiraam-e 4
   - ;xiraam 2
+hazaar 6
+  - hazaar 4
+  - hazaaro;n 2
 shiishah 6
   - shiishe 3
   - shiishah-e 1
@@ -2195,6 +2228,10 @@ bulaanaa 5
   - bulaa))e 2
   - bulaa 2
   - bulaataa 1
+batlaanaa 5
+  - batlaa 2
+  - batlaa))o 2
+  - batlaa))e;n 1
 mukarrar 5
   - mukarrar 5
 ((ishrat 5
@@ -2244,6 +2281,10 @@ iimaan 5
 suvaidaa 5
   - suvaidaa 4
   - suvaidaa-e 1
+khodnaa 5
+  - khodne 2
+  - khod 2
+  - khode;n 1
 dahan 5
   - dahan 3
   - dahan-e 1
@@ -2265,8 +2306,10 @@ ma;hshar 5
 safar 5
   - safar 4
   - safar-e 1
-usii 5
-  - usii 5
+banaanaa 5
+  - banaa))e 2
+  - banaa))o 2
+  - banaayaa 1
 naa.si;h 5
   - naa.si;h 5
 navaa 5
@@ -2343,8 +2386,6 @@ jagah 5
 ba;hr 5
   - ba;hr 4
   - ba;hr-e 1
-lo 5
-  - lo 5
 ;xuld 5
   - ;xuld 5
 anjuman 5
@@ -2376,8 +2417,6 @@ mastii 5
 shaadii 5
   - shaadii 4
   - ;gam-o-shaadii 1
-rote 5
-  - rote 5
 aaftaab 5
   - aaftaab 4
   - aaftaab-e 1
@@ -2402,9 +2441,6 @@ laakh 5
   - laakh 1
 gilaa 5
   - gilaa 5
-be-daad 4
-  - be-daad-e 3
-  - be-daad 1
 ;hu.zuur 4
   - ;hu.zuur 3
   - ;hu.zuur-e 1
@@ -2419,10 +2455,17 @@ sakuun 4
   - sakuu;n 4
 ;zarre 4
   - ;zarre 4
-hone 4
-  - hone 4
-kahyo 4
-  - kahyo 4
+.sahbaa 4
+  - .sahbaa 3
+  - .sahbaa-e 1
+;huur 4
+  - ;huur 2
+  - ;huuraan-e 1
+  - ;huure;n 1
+roknaa 4
+  - rokaa 2
+  - roke 1
+  - rok 1
 goshah 4
   - goshah-e 4
 rasaa 4
@@ -2478,6 +2521,8 @@ dukh 4
 raftah 4
   - raftah 3
   - raftah-e 1
+shamshiir 4
+  - shamshiir 4
 pesh 4
   - pesh-e 2
   - peshtar 2
@@ -2486,10 +2531,6 @@ zabaanii 4
   - zabaanii-e 1
 rahn 4
   - rahn-e 4
-:tabii((at 4
-  - :tabii((at 2
-  - :tabii((at-e 1
-  - :tabii((ato;n 1
 patthar 4
   - patthar 4
 kha;taknaa 4
@@ -2525,19 +2566,19 @@ savaal 4
 ;tapknaa 4
   - ;tapkaa 2
   - ;tapke 2
-zaar 4
-  - zaar 4
 daur 4
   - daur-e 3
   - daur 1
-.sahbaa 4
-  - .sahbaa 3
-  - .sahbaa-e 1
+to;rnaa 4
+  - to;r 3
+  - to;raa 1
 ha;nsnaa 4
   - ha;nsii 2
   - ha;ns 2
 sau 4
   - sau 4
+arbaab 4
+  - arbaab-e 4
 ;xaamosh 4
   - ;xamosh 3
   - ;xaamosh 1
@@ -2558,6 +2599,14 @@ mudda((ii 4
 :tuu:tii 4
   - :tuu:tii 3
   - :tuu:tii-e 1
+:tabii((at 4
+  - :tabii((at 2
+  - :tabii((at-e 1
+  - :tabii((ato;n 1
+pai 4
+  - pai 2
+  - rag-o-pai 1
+  - pa))-e 1
 :turrah 4
   - :turrah-e 2
   - :turrah'haa-e 1
@@ -2573,8 +2622,6 @@ alam 4
   - alam 2
   - alam-e 1
   - dard-o-alam 1
-raa;hat 4
-  - raa;hat 4
 chhu;tnaa 4
   - chhu;taa 2
   - chhu;tii 1
@@ -2587,9 +2634,6 @@ dau;rnaa 4
 pech-o-taab 4
   - pech-o-taab 3
   - pech-o-taab-e 1
-;tuu;tnaa 4
-  - ;tuu;t 3
-  - ;tuu;te 1
 bihisht 4
   - bihisht 4
 angusht 4
@@ -2616,8 +2660,10 @@ ka;tnaa 4
   - ka;t 1
   - ka;ttii 1
   - ka;te 1
-shamshiir 4
-  - shamshiir 4
+bataanaa 4
+  - bataa))o 2
+  - bataa 1
+  - bataa))uu;n 1
 ;hijaab 4
   - ;hijaab 2
   - ;hijaab-e 1
@@ -2634,6 +2680,9 @@ shahr 4
   - shahr 4
 faa))idah 4
   - faa))idah 4
+dhokaa 4
+  - dhokaa 3
+  - dhoke 1
 baa((i;s 4
   - baa((i;s-e 3
   - baa((i;s 1
@@ -2665,8 +2714,6 @@ naumiidii 4
 viiraanii 4
   - viiraanii 3
   - viiraanii-sii 1
-arbaab 4
-  - arbaab-e 4
 dikhlaanaa 4
   - dikhlaa 4
 badlaa 4
@@ -2704,6 +2751,9 @@ shaahid 4
   - shaahid-e 2
   - shuhuud-o-shaahid-o-mashhuud 1
   - shaahid 1
+fi;gaan 4
+  - fi;gaa;n 3
+  - aah-o-fi;gaa;n 1
 ;xvushaa 4
   - ;xvushaa 4
 z 4
@@ -2714,6 +2764,9 @@ shahiid 4
   - shahiidaa;n 1
 bad-gumaan 4
   - bad-gumaa;n 4
+;tuu;tnaa 4
+  - ;tuu;t 3
+  - ;tuu;te 1
 zindagaanii 4
   - zindagaanii 3
   - zindagaanii-e 1
@@ -2758,6 +2811,10 @@ rasm 4
   - raah-o-rasm-e 1
   - rasm-o-raah 1
   - rah-o-rasm-e 1
+raa;hat 4
+  - raa;hat 4
+zaar 4
+  - zaar 4
 kaa;ga;z 4
   - kaa;ga;z-e 2
   - kaa;ga;z 2
@@ -2768,8 +2825,6 @@ shakl 4
   - ((uryaa;n 4
 hameshah 4
   - hameshah 4
-hazaar 4
-  - hazaar 4
 bismil 4
   - bismil 4
 baahar 4
@@ -2847,12 +2902,6 @@ qaraar 3
 sharaar 3
   - sharaar-e 2
   - sharaar 1
-;huur 3
-  - ;huur 2
-  - ;huure;n 1
-koh 3
-  - koh 2
-  - koh-e 1
 ;gaib 3
   - ;gaib 2
   - ;gaib-e 1
@@ -2873,6 +2922,9 @@ nashv 3
 kamiin 3
   - kamii;n 2
   - kamiin-e 1
+:tifl 3
+  - :tiflaa;n 2
+  - :tiflaan-e 1
 faari;g 3
   - faari;g 3
 makaan 3
@@ -2907,8 +2959,6 @@ be-;hijaab 3
   - be-;hijaab-e 1
 baal-kushaa 3
   - baal-kushaa 3
-shiiriin 3
-  - shiirii;n 3
 yaas 3
   - yaas 2
   - yaas-o-ummiid 1
@@ -2918,8 +2968,6 @@ yaas 3
   - ((anqaa 3
 tanhaa))ii 3
   - tanhaa))ii 3
-dho 3
-  - dho 3
 raunaq 3
   - raunaq 2
   - raunaq-e 1
@@ -2946,8 +2994,6 @@ ziyaadah 3
 shi((r 3
   - shi((r 2
   - shi((ro;n 1
-to;r 3
-  - to;r 3
 mar;habaa 3
   - mar;habaa 3
 i;hsaan 3
@@ -2955,13 +3001,20 @@ i;hsaan 3
 .zaamin 3
   - .zaamin 2
   - .zaamin-e 1
-raho 3
-  - raho 3
+mushtaaq 3
+  - mushtaaq 2
+  - mushtaaq-e 1
+nabard 3
+  - nabard-e 2
+  - nabard 1
 qudrat 3
   - qudrat 2
   - qudrat-e 1
 gul;xan 3
   - gul;xan 3
+bolnaa 3
+  - bolaa 2
+  - bole 1
 be-a;sar 3
   - be-a;sar 3
 tim;saal 3
@@ -3004,9 +3057,6 @@ zahr 3
   - zahr-e 1
 nishaa:t 3
   - nishaa:t-e 3
-batlaanaa 3
-  - batlaa 2
-  - batlaa))e;n 1
 aafat 3
   - aafat 2
   - aafat-e 1
@@ -3019,8 +3069,6 @@ za;xmii 3
 aazaad 3
   - aazaad 2
   - aazaado;n 1
-bahtar 3
-  - bahtar 3
 utarnaa 3
   - utar 2
   - utre 1
@@ -3073,19 +3121,18 @@ charchaa 3
   - charchaa 3
 numaa 3
   - nashv-o-numaa 3
+bahtar 3
+  - bahtar 3
 zer 3
   - zer-e 3
+sonaa 3
+  - sote 2
+  - sotaa 1
 ;zaraa 3
   - ;zaraa 3
-insaan 3
-  - insaa;n 2
-  - insaan 1
 aavaaragii 3
   - aavaaragii 2
   - aavaaragiihaa-e 1
-khodnaa 3
-  - khodne 2
-  - khode;n 1
 aablah-paa 3
   - aabilah-paa 3
 piichhe 3
@@ -3098,14 +3145,8 @@ ham-dam 3
   - hamdam 3
 par-afshaan 3
   - par-afshaa;n 3
-nabard 3
-  - nabard-e 2
-  - nabard 1
 ;havaadi;s 3
   - ;havaadi;s 3
-pai 3
-  - pai 2
-  - rag-o-pai 1
 ;haalat 3
   - ;haalat 3
 kaan 3
@@ -3136,9 +3177,10 @@ chhi;raknaa 3
 sijdah 3
   - sijdah-e 2
   - sijdah 1
-mushtaaq 3
-  - mushtaaq 2
-  - mushtaaq-e 1
+shiiriin 3
+  - shiirii;n 3
+dushvaar 3
+  - dushvaar 3
 thamnaa 3
   - thamaa 1
   - thamtaa 1
@@ -3158,9 +3200,6 @@ rozgaar 3
 paasbaan 3
   - paasbaa;n 2
   - paas-baa;n 1
-begaanagii 3
-  - begaanagii 2
-  - begaanagii-e 1
 ;xalish 3
   - ;xalish-e 2
   - ;xalish 1
@@ -3175,9 +3214,6 @@ kaun-saa 3
   - kaun-se 3
 faraa;gat 3
   - faraa;gat 3
-banaanaa 3
-  - banaa))e 2
-  - banaayaa 1
 andoh 3
   - andoh-e 3
 vabaal 3
@@ -3194,8 +3230,6 @@ afsurdah 3
   - ;xamyaazah 3
 naa-chaar 3
   - naa-chaar 3
-mazaa 3
-  - mazaa 3
 i((timaad 3
   - i((timaad-e 2
   - i((timaad 1
@@ -3205,11 +3239,17 @@ suraa;g 3
 bahaanah 3
   - bahaanah-e 2
   - bahaane 1
+be-gaanagii 3
+  - begaanagii 2
+  - begaanagii-e 1
 baaz 3
   - baaz 3
 ;xauf 3
   - ;xauf-e 2
   - ;xauf 1
+guftaguu 3
+  - guftaguu 2
+  - guftago 1
 baalish 3
   - baalish 2
   - baalish-e 1
@@ -3221,18 +3261,18 @@ rahzan 3
 ((adaavat 3
   - ((adaavat 2
   - ((adaavat-e 1
-dhokaa 3
-  - dhokaa 3
-rone 3
-  - rone 3
+koh 3
+  - koh 2
+  - koh-e 1
 pare 3
   - pare 3
 naqd 3
   - naqd-e 1
   - naqd 1
   - nisyah-o-naqd-e 1
-karo 3
-  - karo 3
+insaan 3
+  - insaa;n 2
+  - insaan 1
 talaafii 3
   - talaafii 2
   - talaafii-e 1
@@ -3294,10 +3334,9 @@ nashv-o-numaa 3
 aaraa))ish 3
   - aaraa))ish-e 2
   - aaraa))ish 1
-fi;gaan 3
-  - fi;gaa;n 3
-hove 3
-  - hove 3
+taqriib 3
+  - taqriib 2
+  - taqriib-e 1
 aashuftah-sar 3
   - aashuftah-sar 2
   - aashuftah-saro;n 1
@@ -3310,8 +3349,6 @@ khi;nchnaa 3
 naa-tamaamii 3
   - naa-tamaamii 2
   - naa-tamaamii-e 1
-dushvaar 3
-  - dushvaar 3
 maqdam 3
   - maqdam-e 3
 chand 3
@@ -3399,6 +3436,8 @@ marham 3
   - marham 3
 naazish 3
   - naazish-e 3
+jaa 3
+  - jaa-e 3
 laavnaa 3
   - laave;nge 1
   - laave 1
@@ -3408,8 +3447,6 @@ aabaad 3
   - aabaad-e 1
 mihrbaan 3
   - mihrbaa;n 3
-bose 3
-  - bose 3
 paikaan 3
   - paikaa;n 1
   - paikaan 1
@@ -3421,6 +3458,8 @@ ta((miir 3
 mad;h 3
   - mad;h 2
   - mad;h-e 1
+mazaa 3
+  - mazaa 3
 ja;zbah 3
   - ja;zbah-e 3
 talvaar 3
@@ -3430,9 +3469,6 @@ talvaar 3
 ;harf 3
   - ;harf-e 2
   - ;harf 1
-taqriib 3
-  - taqriib 2
-  - taqriib-e 1
 shiiraazah 3
   - shiiraazah 2
   - shiiraazah-e 1
@@ -3455,6 +3491,10 @@ diin 3
 kitnaa 3
   - kitne 2
   - kitnaa 1
+khonaa 3
+  - kho))e 1
+  - khoyaa 1
+  - kho 1
 bandagii 3
   - bandagii 2
   - bandagii-e 1
@@ -3507,6 +3547,12 @@ kinaarah 2
   - kinaarah 1
 dandaan-numaa 2
   - dandaa;n-numaa 2
+;xvud-biin 2
+  - ;xvud-biin-o-;xvud-aaraa 1
+  - aazaadah-o-;xvud-bii;n 1
+paka;rnaa 2
+  - pak;re 1
+  - pak;raa 1
 dil-farebii 2
   - dil-farebii-e 2
 rasaa))ii 2
@@ -3514,6 +3560,9 @@ rasaa))ii 2
 baras 2
   - baras 1
   - barso;n 1
+aa))iinah-daarii 2
+  - aa))inah-daarii-e 1
+  - aa))iinah-daarii 1
 arzaanii 2
   - arzaanii 1
   - arzaanii-e 1
@@ -3545,8 +3594,9 @@ dikhlaana 2
   - dikhlaa))e;n 2
 gurezaan 2
   - gurezaa;n 2
-batlaa))o 2
-  - batlaa))o 2
+naa-kaamii 2
+  - naa-kaamii-e 1
+  - naa-kaamii 1
 ((ilaaj 2
   - ((ilaaj 2
 nii;nd 2
@@ -3591,14 +3641,14 @@ idraak 2
   - ((iis;aa 2
 dharnaa 2
   - dharaa 2
-ulfa:t 2
-  - ulfa:t 1
-  - ulfa:t'haa-e 1
 aahuu 2
   - aahuu 1
   - aahuu-e 1
-ro 2
-  - ro 2
+bonaa 2
+  - bote 1
+  - bove 1
+re 2
+  - re 2
 jur))at 2
   - jur))at-e 1
   - fu.zuul-o-jur))at-e 1
@@ -3633,8 +3683,6 @@ chiiz 2
   - chiiz 2
 kyuu;nkih 2
   - kyuu;nkih 2
-khod 2
-  - khod 2
 za;hmat 2
   - za;hmat 1
   - za;hmat-e 1
@@ -3720,8 +3768,6 @@ guzaaraa 2
   - guzaaraa 2
 be-mu;haabaa 2
   - be-mu;haabaa 2
-:tiflaa;n 2
-  - :tiflaa;n 2
 ;hayaat 2
   - ;hayaat-e 1
   - ;hayaat-o-band-e 1
@@ -3748,8 +3794,6 @@ saraab 2
   - ;xushk 2
 bar-ham 2
   - bar-ham 2
-rakhyo 2
-  - rakhyo 2
 ;xisht 2
   - sang-o-;xisht 2
 nisbat 2
@@ -3765,6 +3809,8 @@ diigar 2
 daabnaa 2
   - daab 1
   - daabte 1
+saa))il 2
+  - saa))il 2
 javaahir 2
   - javaahir 1
   - javaahir-e 1
@@ -3773,8 +3819,6 @@ javaahir 2
 gunjaa))ish 2
   - gunjaa))ish-e 1
   - gunjaa))ish 1
-sote 2
-  - sote 2
 ta((ajjub 2
   - ta((ajjub 2
 saraapaa-naaz 2
@@ -3798,8 +3842,6 @@ af((ii 2
 jam((-o-;xarj 2
   - jam((-o-;xarj 1
   - jam((-o-;xarj-e 1
-jaa))o 2
-  - jaa))o 2
 mauquuf 2
   - mauquuf 2
 .sar.sar 2
@@ -3857,6 +3899,8 @@ but-;xaanah 2
   - but-;xaanah 1
 kau;sar 2
   - kau;sar 2
+gulsitaan 2
+  - gulsitaa;n 2
 ;gazal-;xvaanii 2
   - ;gazal-;xvaanii 2
 chuknaa 2
@@ -3867,16 +3911,11 @@ jin 2
 sabaq 2
   - sabaq-e 1
   - sabaq 1
-naa-kaamii 2
-  - naa-kaamii-e 1
-  - naa-kaamii 1
 shoriidah 2
   - shoriidah 1
   - shoriidah-e 1
 shaa;x 2
   - shaa;x-e 2
-puuchhmaa 2
-  - puuchhtaa 2
 mu.siibat 2
   - mu.siibat 1
   - mu.siibat-e 1
@@ -3938,12 +3977,10 @@ zahe 2
   - zahe 2
 aatish-zadah 2
   - aatish-zadah 2
-gulsitaan 2
-  - gulsitaa;n 2
+infi((aal 2
+  - infi((aal 2
 ;saabit 2
   - ;saabit 2
-dildaar 2
-  - dildaar 2
 biinaa 2
   - biinaa 2
 qabuul 2
@@ -3957,12 +3994,13 @@ shikan 2
 naamah 2
   - naamah-e 1
   - naamah 1
+be-rab:tii 2
+  - be-rab:tii-e 1
+  - berab:tii-e 1
 qufl 2
   - qufl-e 2
 man(( 2
   - man((-e 2
-bolaa 2
-  - bolaa 2
 ((aar 2
   - ((aar-e 2
 ;gara.z 2
@@ -3982,8 +4020,6 @@ gaalii 2
 lipa;tnaa 2
   - lipa;tnaa 1
   - lip;taa 1
-saa))il 2
-  - saa))il 2
 kardah 2
   - kardah 2
 takraar 2
@@ -4030,8 +4066,6 @@ jalvah-garii 2
 kushaad 2
   - kushaad-e 1
   - kushaad-o-bast-e 1
-lagaa))o 2
-  - lagaa))o 2
 pusht 2
   - pusht-e 2
 ((amal 2
@@ -4076,6 +4110,9 @@ darmiyaan 2
   - qahr-o-((ataab 1
 vohii 2
   - vohii 2
+;ga.zab 2
+  - ;ga.zab 1
+  - qahr-o-;ga.zab 1
 i((jaaz 2
   - i((jaaz-e 2
 bachnaa 2
@@ -4105,15 +4142,11 @@ shuguftan 2
   - shuguftan-e 1
 pur-;xaar 2
   - pur-;xaar 2
-suno 2
-  - suno 2
 vadii((at 2
   - vadii((at-e 2
 ma;hruum 2
   - ma;hruum-e 1
   - ma;hruum 1
-re 2
-  - re 2
 ham-saayah 2
   - ham-saayah 1
   - ham-saaye 1
@@ -4129,10 +4162,10 @@ kaashaanah 2
   - kaashaane 2
 ;hinaa))ii 2
   - ;hinaa))ii 2
-puuchho 2
-  - puuchho 2
 tihii 2
   - tihii 2
+durust 2
+  - durust 2
 .saiqal 2
   - .saiqal-e 1
   - .saiqal 1
@@ -4155,9 +4188,6 @@ pur 2
   - pur 2
 kaar-farmaa 2
   - kaar-farmaa 2
-bataanaa 2
-  - bataa 1
-  - bataa))uu;n 1
 be-sar-o-paa 2
   - be-sar-o-paa 2
 janaazah 2
@@ -4190,15 +4220,9 @@ ru;xsaar 2
   - ru;xsaar-e 1
 ham-aa;goshii 2
   - ham-aa;goshii 2
-rotaa 2
-  - rotaa 2
 baazuu 2
   - dast-o-baazuu 1
   - baazuu 1
-hazaaro 2
-  - hazaaro;n 2
-guftaguu 2
-  - guftaguu 2
 naa-muraad 2
   - naa-muraad 2
 ak;sar 2
@@ -4319,20 +4343,18 @@ chaal 2
 be-zabaan 2
   - be-zabaano;n 1
   - be-zabaa;n 1
+ka;srat 2
+  - ka;srat-e 2
 taq.siir 2
   - taq.siir 2
 baham 2
   - baham 2
-bataa))o 2
-  - bataa))o 2
 kisliye 2
   - kisliye 2
 jaarii 2
   - jaarii 2
 sar-navisht 2
   - sar-navisht 2
-chiraa;gaan 2
-  - chiraa;gaan-e 2
 saat 2
   - saat 2
 daamaan 2
@@ -4393,14 +4415,12 @@ maal 2
   - maal 2
 maan 2
   - maan 2
-dho))e 2
-  - dho))e 2
 pusht-garmii 2
   - pusht-garmii-e 2
-diivaaro 2
-  - diivaaro;n 2
 taqdiir 2
   - taqdiir 2
+aa))iinah-siimaa 2
+  - aa))inah-siimaa 2
 muqaddamah 2
   - muqaddamah 2
 ((aql 2
@@ -4414,21 +4434,14 @@ giraan 2
   - giraa;n 2
 farmaavnaa 2
   - farmaave;nge 2
-rokaa 2
-  - rokaa 2
 chang 2
   - chang 1
   - chang-o-rabaab 1
 ;hasrat-parast 2
   - ;hasrat-parast 1
   - ;hasrat-parast-e 1
-qatl-gah 2
-  - qatl-gah 1
-  - qatl-gah-e 1
 buraa))ii 2
   - buraa))ii 2
-;darnaae 2
-  - ;darte 2
 sabz 2
   - sabz-e 1
   - sabz 1
@@ -4436,8 +4449,6 @@ alif 2
   - alif 2
 tah 2
   - tah-e 2
-ka;srat 2
-  - ka;srat-e 2
 gau;n 2
   - gau;n 2
 be-dar 2
@@ -4470,11 +4481,11 @@ pilaanaa 2
   - pilaa 2
 ;hazii;n 2
   - ;hazii;n 2
-durust 2
-  - durust 2
 ((aks 2
   - ((aks 1
   - ((aks-e 1
+aa))inah 2
+  - aa))inah-e 2
 tuhmat 2
   - tuhmate;n 1
   - tuhmat 1
@@ -4511,8 +4522,6 @@ aashob 2
 sa:tvat 2
   - sa:tvat 1
   - sa:tvat-e 1
-aa))inah-siimaa 2
-  - aa))inah-siimaa 2
 pahluu 2
   - pahluu-e 1
   - pahluu 1
@@ -4520,6 +4529,9 @@ paak 2
   - paak 2
 qulzum 2
   - qulzum-e 2
+nus;xah 2
+  - nus;xah-e 1
+  - nus;xah'haa-e 1
 .saa;hib 2
   - .saa;hib 2
 bhed 2
@@ -4530,13 +4542,8 @@ bhed 2
 a;hvaal 2
   - a;hvaal 1
   - a;hvaal-e 1
-;ga.zab 2
-  - ;ga.zab 1
-  - qahr-o-;ga.zab 1
 ;ha;zar 2
   - ;ha;zar 2
-banaa))o 2
-  - banaa))o 2
 sitaarah 2
   - sitaare 1
   - sitaarah-e 1
@@ -4574,11 +4581,17 @@ sard 2
   - sard 2
 asad-ul-l;aah 2
   - asad-ul-l;aah 2
+farmaanaa 2
+  - farmaatii 1
+  - farmaa))o 1
 :taa((at 2
   - :taa((at 1
   - :taa((at-o-zuhd 1
 pur-;xuun 2
   - pur-;xuu;n 2
+aa))iinah-;xaanah 2
+  - aa))inah-;xaane 1
+  - aa))iinah-;xaane 1
 ;xvur 2
   - ;xvur 2
 ;xiyaabaa;n 2
@@ -4586,8 +4599,6 @@ pur-;xuun 2
 farishtah 2
   - farishto;n 1
   - farishtah 1
-vo 2
-  - vo 2
 hayuul;aa 2
   - hayuul;aa 2
 ba;xt 2
@@ -4646,9 +4657,8 @@ bhes 2
   - bhes 2
 laalah-kaarii 2
   - laalah-kaarii 2
-nus;xah 2
-  - nus;xah-e 1
-  - nus;xah'haa-e 1
+dildaar 2
+  - dildaar 2
 pataa 2
   - pataa 2
 sarshaar 2
@@ -4707,8 +4717,6 @@ daastaan 1
   - daastaan-e 1
 bad-naam 1
   - bad-naam 1
-sitam-o-jor 1
-  - sitam-o-jor-e 1
 iltihaab 1
   - iltihaab 1
 gomago 1
@@ -4727,6 +4735,8 @@ sar-gashtagii 1
   - sar-gashtagii 1
 saf;hah 1
   - saf;hah-e 1
+chubhnaa 1
+  - chubho 1
 furuu(( 1
   - furuu(( 1
 mahiinah 1
@@ -4749,16 +4759,12 @@ jhaga;rnaa 1
   - jhaga;rte 1
 afzaa))ish 1
   - afzaa))ish-e 1
-;xvud-biin 1
-  - ;xvud-biin-o-;xvud-aaraa 1
 qadam-bos 1
   - qadam-bos 1
 var:tah 1
   - var:tah-e 1
 goshe 1
   - goshe 1
-.sifaat 1
-  - .sifaat 1
 nazaakat 1
   - nazaakat 1
 dilbar 1
@@ -4767,8 +4773,6 @@ darmaa;ndagii 1
   - darmaa;ndagii 1
 be-ayyaam 1
   - be-ayyaam-e 1
-paka;rnaa 1
-  - pak;raa 1
 akbar 1
   - akbar 1
 majbuurii-o-da((vaa 1
@@ -4787,14 +4791,10 @@ zindah 1
   - zindah 1
 sar-giraanii 1
   - sar-giraanii 1
-aa))iinah-daarii 1
-  - aa))iinah-daarii 1
 mu;xaalif 1
   - mu;xaalif 1
 ;hasb 1
   - ;hasb-e 1
-liijo 1
-  - liijo 1
 ((alaavah 1
   - ((alaavah 1
 bad-mastii 1
@@ -4805,12 +4805,12 @@ daadah 1
   - ;hujrah 1
 dost-daar 1
   - dost-daar-e 1
+kau;ndnaa 1
+  - kau;nd 1
 sikandar 1
   - sikandar 1
 ayyaam 1
   - ayyaam-e 1
-guftago 1
-  - guftago 1
 chaarah-saazii 1
   - chaarah-saazii-e 1
 ni((mat 1
@@ -4819,8 +4819,6 @@ ni((mat 1
   - ;haajaat 1
 aa;zar-fishaa;n 1
   - aa;zar-fishaa;n 1
-dil-o-mizhgaa;n 1
-  - dil-o-mizhgaa;n 1
 pardaaz 1
   - pardaaz 1
 bah-;zarrah 1
@@ -4873,8 +4871,6 @@ dafn 1
   - dafn 1
 nuur-ul-((ain 1
   - nuur-ul-((ain-e 1
-lab-o-dandaa;n 1
-  - lab-o-dandaa;n 1
 be-daad-gar 1
   - bedaad-gar 1
 ;hasrat-sanj 1
@@ -4905,8 +4901,6 @@ bastii 1
   - ;hikaayat-e 1
 sikhaanaa 1
   - sikhaataa 1
-lai 1
-  - lai 1
 lat 1
   - lat 1
 be-gunah-kush 1
@@ -4951,8 +4945,6 @@ iqbaal 1
   - iqbaal-e 1
 ;xvud-raftah 1
   - ;xvud-raftah-e 1
-diijiyo 1
-  - diijiyo 1
 ;xvud-biin-o-;xvud-aaraa 1
   - ;xvud-biin-o-;xvud-aaraa 1
 namruud 1
@@ -5107,8 +5099,6 @@ qad-o-gesuu 1
   - qad-o-gesuu 1
 madfan 1
   - madfan 1
-fardaa 1
-  - fardaa-o-dii 1
 nek 1
   - nek 1
 ;xvush-navaayaan 1
@@ -5123,6 +5113,8 @@ miinaa))ii 1
   - miinaa))ii 1
 shiguftan 1
   - shiguftan-e 1
+qatl-gaah 1
+  - qatl-gah 1
 diyaar 1
   - diyaar-e 1
 niim-;gamzah 1
@@ -5143,8 +5135,8 @@ jitnii 1
   - jitnii 1
 .sa;hraa-dast-gaah 1
   - .sa;hraa-dast-gaah-o-qa:trah 1
-ko;nd 1
-  - ko;nd 1
+va;hshat-o-sheftah 1
+  - va;hshat-o-sheftah 1
 .suurat-;xaanah 1
   - .suurat-;xaanah-e 1
 sozaan 1
@@ -5163,10 +5155,10 @@ be-mai 1
   - be-mai 1
 jamshed 1
   - jamshed 1
-;huuraan 1
-  - ;huuraan-e 1
 piirii 1
   - piirii 1
+((iyaadat 1
+  - ((iyaadat 1
 guunah 1
   - guunah 1
 gauhar-farosh 1
@@ -5205,8 +5197,6 @@ vujuud-o-((adam 1
   - ;xayaalii 1
 martabah 1
   - martabah 1
-parnii 1
-  - parniyaa;n 1
 lashkar 1
   - lashkar 1
 numuud 1
@@ -5225,8 +5215,6 @@ dil-furoz 1
   - dil-furoz 1
 ;xastah-jaa;n 1
   - ;xastah-jaa;n 1
-dil-o-jaa;n 1
-  - dil-o-jaa;n 1
 siikhnaa 1
   - siikhe 1
 mun;harif 1
@@ -5239,20 +5227,22 @@ rabaab 1
   - chang-o-rabaab 1
 be-.sadaa 1
   - be-.sadaa 1
+;gammaazii 1
+  - ;gammaazii 1
 ;zillat 1
   - ;zillat 1
 ;xair 1
   - ;xair 1
 angabiin 1
   - mai-o-angabii;n 1
+aa))iinah-pardaaz 1
+  - aa))inah-pardaaz 1
 :zaahira:n 1
   - :zaahira:n 1
 qahr-o-((ataab 1
   - qahr-o-((ataab 1
 :tuulaanii 1
   - :tuulaanii 1
-bove 1
-  - bove 1
 ;xvudaa 1
   - ;xvudaa 1
 mai-o-saa;gar 1
@@ -5299,6 +5289,8 @@ chipaknaa 1
   - chipak 1
 karo;r 1
   - karo;ro;n 1
+dil-o-diin 1
+  - dil-o-dii;n 1
 kai;xusrav 1
   - fariiduun-o-jam-o-kai;xusrav-o-daaraab-o-bahman 1
 :tay 1
@@ -5319,8 +5311,8 @@ yahaa;n 1
   - yahaa;n 1
 shiir 1
   - shiir 1
-:tuufaan-gaah 1
-  - :tuufaa;n-gaah-e 1
+dil-o-mizhgaan 1
+  - dil-o-mizhgaa;n 1
 nihaalii 1
   - nihaalii 1
 :turfah 1
@@ -5349,18 +5341,16 @@ riyaa))ii 1
   - riyaa))ii 1
 saa;xtah 1
   - saa;xtah-o-fa.sl-e 1
-farmaa))o 1
-  - farmaa))o 1
 diivaar-juu 1
   - diivaar-juu 1
 ni;saar 1
   - ni;saar 1
+dil-o-jaan 1
+  - dil-o-jaa;n 1
 tiryaakii 1
   - tiryaakii-e 1
 chhupnaa 1
   - chhupnaa 1
-aazaadah-o-;xvud-bii;n 1
-  - aazaadah-o-;xvud-bii;n 1
 daryaa-aashnaa 1
   - daryaa-aashnaa 1
 ghaas 1
@@ -5377,8 +5367,6 @@ lakiir 1
   - lakiire;n 1
 be-par 1
   - be-par-o-baalii 1
-bole 1
-  - bole 1
 guldastah 1
   - guldastah 1
 siim-tan 1
@@ -5391,6 +5379,8 @@ tajaahul-peshagii 1
   - tajaahul-peshagii 1
 ;xvaab-naak 1
   - ;xvaab-naak 1
+lab-o-dandaan 1
+  - lab-o-dandaa;n 1
 nuktah-daan 1
   - nuktah-daa;n 1
 suruur-o-soz 1
@@ -5399,8 +5389,6 @@ siyah 1
   - siyah 1
 be-sharaab-o-dil 1
   - be-sharaab-o-dil-e 1
-o 1
-  - o 1
 kaamyaab 1
   - kaamyaab 1
 shafaa 1
@@ -5437,8 +5425,6 @@ firdaus 1
   - firdaus-e 1
 ugaanaa 1
   - ugaataa 1
-taab-o-tavaa;n 1
-  - taab-o-tavaa;n 1
 faaqah-mastii 1
   - faaqah-mastii 1
 .sad-hazaar 1
@@ -5449,8 +5435,6 @@ raft 1
   - raft 1
 nasriin 1
   - laalah-o-gul-o-nasrii;n 1
-piyo 1
-  - piyo 1
 anjum 1
   - anjum-e 1
 be-gunah 1
@@ -5471,16 +5455,14 @@ sub;hah-o-zunnaar 1
   - ((izz-o-naaz 1
 ham-raah 1
   - ham-rahaa;n 1
-ek-saa 1
-  - ek-saa 1
-kho 1
-  - kho 1
+sai;nka;r 1
+  - sai;nk;ro;n 1
 ;xuun-naab 1
   - ;xuu;n-naab 1
 ;daraanaa 1
   - ;daraataa 1
-daulat-o-dii;n 1
-  - daulat-o-dii;n 1
+ham-raaz 1
+  - ham-peshah-o-ham-mashrab-o-ham-raaz 1
 ;xuun-rez 1
   - ;xuu;n-rez 1
 zang 1
@@ -5503,8 +5485,8 @@ naazuk-badan 1
   - naazuk-badan 1
 shabaanah 1
   - shabaanah 1
-nafii 1
-  - nafii 1
+raah-zan 1
+  - raah-zan 1
 .suvar 1
   - .suvar 1
 dushvaar-pasand 1
@@ -5515,8 +5497,8 @@ be-dil 1
   - bedil 1
 ;hau.salah 1
   - ;hau.salah 1
-rok 1
-  - rok 1
+zamzamah 1
+  - zamzamah-e 1
 bai.zah-aasaa 1
   - bai.zah-aasaa 1
 dil-aashuftagaan 1
@@ -5545,10 +5527,10 @@ aatish-parast 1
   - aatish-parast 1
 be-;haa.sil 1
   - be-;haa.sil 1
+bahaanaa 1
+  - bahaa))ii 1
 baaziichah 1
   - baaziichah-e 1
-taab-o-tuvaa;n 1
-  - taab-o-tuvaa;n 1
 ;xaamah-farsaa 1
   - ;xaamah-farsaa 1
 .sadmah 1
@@ -5569,6 +5551,8 @@ be-shaanah 1
   - be-shaanah-e 1
 baadah-;xvaar 1
   - baadah-;xvaar 1
+taab-o-tavaan 1
+  - taab-o-tavaa;n 1
 vafaa-daarii 1
   - vafaa-daarii 1
 ;xafaa))ii 1
@@ -5605,6 +5589,8 @@ marhuun 1
   - marhuun-e 1
 ;xastah-tan 1
   - ;xastah-tan 1
+daulat-o-diin 1
+  - daulat-o-dii;n 1
 bos 1
   - bos-e 1
 daaman-o-taar 1
@@ -5687,6 +5673,8 @@ bar-paa 1
   - bar-paa 1
 sulaimaan 1
   - sulaimaa;n 1
+a((.zaa 1
+  - a((.zaa 1
 maa 1
   - maa 1
 chaman-:taraazii 1
@@ -5741,8 +5729,6 @@ sabab 1
   - sabab 1
 sabad 1
   - sabad-e 1
-aa))inah-daar 1
-  - aa))inah-daar 1
 sipaarii 1
   - sipaarii 1
 zanaan 1
@@ -5763,6 +5749,8 @@ shaanah 1
   - shaane 1
 andoh-rubaa 1
   - andoh-rubaa 1
+samaa(( 1
+  - samaa(( 1
 gesuu 1
   - qad-o-gesuu 1
 daad-o-sitad 1
@@ -5775,6 +5763,8 @@ ta;hammul 1
   - ta;hammul 1
 mu((aamalah 1
   - mu((aamalah 1
+lai 1
+  - lai 1
 bariin 1
   - barii;n 1
 rag-o-pai 1
@@ -5835,8 +5825,6 @@ na;gmah-saraa 1
   - na;gmah-saraa 1
 burrish 1
   - burrish-e 1
-jaa))iyo 1
-  - jaa))iyo 1
 kirishmah 1
   - kirishmah 1
 paa-bastagii 1
@@ -5877,22 +5865,16 @@ tamaashaa-dost 1
   - tamaashaa-dost 1
 ;habaab 1
   - ;habaab-e 1
-rantaa 1
-  - rahtaa 1
 shevan 1
   - shevan 1
 taufiiq 1
   - taufiiq 1
-dhotaa 1
-  - dhotaa 1
+qadd 1
+  - qadd-e 1
 kungur 1
   - kungur-e 1
-;xaanah-zaad 1
-  - ;xaanah-zaad-e 1
 be-minnat 1
   - be-minnat-e 1
-infa((aal 1
-  - infa((aal 1
 munkir 1
   - munkir 1
 chakiidan 1
@@ -5911,14 +5893,12 @@ jaavidaan 1
   - jaavidaa;n 1
 kushaadah 1
   - kushaadah 1
-itne 1
-  - itnii 1
 naqqaash 1
   - naqqaash-e 1
 diin-daar 1
   - dii;n-daar 1
-raah-zan 1
-  - raah-zan 1
+nafii 1
+  - nafii 1
 ((itaab 1
   - ((itaab 1
 majlis-furoz 1
@@ -5965,12 +5945,10 @@ vajd 1
   - vajd-e 1
 gulbaa;ng 1
   - gulbaa;ng-e 1
-a((.zaa 1
-  - a((.zaa 1
+ma((muurah 1
+  - ma((muure 1
 :tarz-o-ravish 1
   - :tarz-o-ravish 1
-infi((aal 1
-  - infi((aal 1
 aaftaab-parast 1
   - aaftaab-parast 1
 ;xudaa))ii 1
@@ -5979,6 +5957,8 @@ tan-aasaanii 1
   - tan-aasaanii 1
 cha;taknaa 1
   - cha;taknaa 1
+va.sl-o-shikvah 1
+  - va.sl-o-shikvah-e 1
 davaam 1
   - davaam 1
 i;xlaa.s 1
@@ -5989,8 +5969,6 @@ ravaanah 1
   - ravaanah 1
 sataa))ish 1
   - sataa))ish 1
-jor 1
-  - sitam-o-jor-e 1
 pa))e-ham 1
   - pa))e-ham 1
 mutaqaabil 1
@@ -6021,8 +5999,6 @@ naachnaa 1
   - ;xvush-o-naa-;xvush 1
 masjuud 1
   - masjuud 1
-begaanah 1
-  - begaanah-e 1
 na.siir 1
   - na.siir-e 1
 saamaan-:taraaz 1
@@ -6037,18 +6013,14 @@ aab-o-gil 1
   - aab-o-gil 1
 ((al;aa-al-ra;gm 1
   - ((al;aa-al-ra;gm-e 1
-bahaa))ii 1
-  - bahaa))ii 1
 shar(( 1
   - shar((-o-aa))iin 1
 paasu;x 1
   - paasu;x-e 1
 yaas-;xez 1
   - yaas-;xez 1
-;xvud-bii;n 1
-  - aazaadah-o-;xvud-bii;n 1
-afshardah 1
-  - afshardah-e 1
+;hubaab 1
+  - qa:trah-o-mauj-o-;hubaab 1
 chakkar 1
   - chakkar 1
 rahbar 1
@@ -6073,8 +6045,6 @@ rang-o-saaz 1
   - .zarar 1
 safedii 1
   - safedii 1
-huujo 1
-  - huujo 1
 be-shiiraazah 1
   - be-shiiraazah 1
 nau;hah-;xvaan 1
@@ -6101,12 +6071,12 @@ maryam 1
   - maryam 1
 daa))im-ul-;habs 1
   - daa))im-ul-;habs 1
-sai;nka;r 1
-  - sai;nk;ro;n 1
+ek-saa 1
+  - ek-saa 1
 yak-junbish 1
   - yak-junbish-e 1
-;hubaab 1
-  - qa:trah-o-mauj-o-;hubaab 1
+be-gaah 1
+  - gah-o-be-gah 1
 fasaanah-;xvaanii 1
   - fasaanah-;xvaanii-e 1
 saadagii-o-purkaarii 1
@@ -6129,8 +6099,6 @@ a;hmaq 1
   - a;hmaqo;n 1
 in.saaf 1
   - in.saaf 1
-ham-raaz 1
-  - ham-peshah-o-ham-mashrab-o-ham-raaz 1
 ;gaazah 1
   - ;gaazah 1
 shab-o-roz 1
@@ -6143,16 +6111,14 @@ shahryaar 1
   - shahryaar 1
 nesh 1
   - nesh 1
-be-rab:tii 1
-  - be-rab:tii-e 1
+afshardah 1
+  - afshardah-e 1
 but-shikanii 1
   - but-shikanii 1
 kaaf 1
   - kaaf-e 1
 te;g-o-kafan 1
   - te;g-o-kafan 1
-chaaho 1
-  - chaaho 1
 nayastaan 1
   - nayastaa;n 1
 ;xaan-maan-;xaraab 1
@@ -6257,16 +6223,12 @@ mu;haal 1
   - mu;haal 1
 bujhaanaa 1
   - bujhaa))e 1
-pak;rnaa 1
-  - pak;re 1
 :tuumaar 1
   - :tuumaar-e 1
 baraa))e 1
   - baraa))e 1
 dil-o-dast 1
   - dil-o-dast-e 1
-phiro 1
-  - phiro 1
 ;gamzah-o-((ishvah-o-adaa 1
   - ;gamzah-o-((ishvah-o-adaa 1
 dar-;xvar 1
@@ -6299,8 +6261,8 @@ dil-sitaanii 1
   - ;gala:t-bardaar 1
 naa-ummiidvaarii 1
   - naa-ummiidvaarii 1
-;gammaazii 1
-  - ;gammaazii 1
+((aql-o-dil-o-jaan 1
+  - ((aql-o-dil-o-jaa;n 1
 ((uquubat 1
   - ((uquubat 1
 ((ishvah 1
@@ -6319,10 +6281,6 @@ sust-ruu 1
   - sust-ruu 1
 za((m 1
   - za((m 1
-kho))e 1
-  - kho))e 1
-jaa))oge 1
-  - jaa))oge 1
 mazaar 1
   - mazaar 1
 hadaf 1
@@ -6369,8 +6327,8 @@ adab 1
   - adab 1
 barq-;xiraam 1
   - barq-;xiraam 1
-zamzamah 1
-  - zamzamah-e 1
+.sifaat 1
+  - .sifaat 1
 :tayuur 1
   - :tayuur 1
 chain 1
@@ -6411,8 +6369,6 @@ sitam-:zariif 1
   - ;xatm 1
 kaa))ii 1
   - kaa))ii 1
-berab:tii 1
-  - berab:tii-e 1
 hangaamah-aaraa 1
   - hangaamah-aaraa 1
 ruudaad 1
@@ -6449,8 +6405,6 @@ jangal 1
   - jangal 1
 mulk 1
   - millat-o-mulk 1
-samajhyo 1
-  - samajhyo 1
 shaa((ir 1
   - shaa((ir 1
 bebaakii-o-gustaa;xii 1
@@ -6459,8 +6413,6 @@ bebaakii-o-gustaa;xii 1
   - ;gulaam-e 1
 .saa((iqah-o-shu((lah-o-siimaab 1
   - .saa((iqah-o-shu((lah-o-siimaab 1
-sotaa 1
-  - sotaa 1
 baa;g-baan-o-kaf 1
   - baa;g-baan-o-kaf-e 1
 iram 1
@@ -6501,8 +6453,8 @@ ham-diigar 1
   - ham-diigar 1
 nisyah-o-naqd 1
   - nisyah-o-naqd-e 1
-huujiyo 1
-  - huujiyo 1
+gaah 1
+  - gah-o-be-gah 1
 siyah-posh 1
   - siyah-posh 1
 dar-tishnagii-murdah 1
@@ -6513,10 +6465,8 @@ be-;xvud 1
   - be-;xvudo;n 1
 mahjuur 1
   - mahjuur-e 1
-dil-o-dii;n 1
-  - dil-o-dii;n 1
-((a;zaab 1
-  - ((a;zaab 1
+pesh-dastii 1
+  - pesh-dastii 1
 fa.zaa 1
   - fa.zaa-e 1
 mudda((;aa 1
@@ -6539,6 +6489,8 @@ tarasnaa 1
   - tarastaa 1
 baraat 1
   - baraat-e 1
+aa))iinah-daar 1
+  - aa))inah-daar 1
 jalvah-gaah 1
   - jalvah-gaah 1
 chaarah-gar 1
@@ -6583,8 +6535,8 @@ ma;hmil 1
   - ma;hmil 1
 marii.z 1
   - marii.z-e 1
-qadd 1
-  - qadd-e 1
+((a;zaab 1
+  - ((a;zaab 1
 chaar-mauj 1
   - chaar-mauj 1
 tataar 1
@@ -6607,6 +6559,8 @@ va.z(( 1
   - va.z((-e 1
 piir-zan 1
   - piir-zan 1
+fardaa 1
+  - fardaa-o-dii 1
 baa;xtan 1
   - baa;xtan 1
 jaan-sipaarii 1
@@ -6623,10 +6577,6 @@ kaamil 1
   - naaqi.s-o-kaamil 1
 be-panaah 1
   - be-panaah 1
-karishmah 1
-  - karishmah 1
-tu;xm 1
-  - tu;xm 1
 paivastah 1
   - paivastah 1
 ;xuu-kardah 1
@@ -6675,16 +6625,12 @@ varaq-gardaanii 1
   - varaq-gardaanii-e 1
 muva;h;hid 1
   - muva;h;hid 1
-bedaar 1
-  - bedaar-e 1
 niim-shabii 1
   - niim-shabii 1
 ;xuun-shudah 1
   - ;xuu;n-shudah-e 1
 ma((;zuur 1
   - ma((;zuur 1
-fu.zuul 1
-  - fu.zuul-o-jur))at-e 1
 laa;gar 1
   - laa;gar 1
 ravish-o-mastii 1
@@ -6705,8 +6651,6 @@ fatiilah 1
   - fatiilah 1
 tuhmat-kash 1
   - tuhmat-kash-e 1
-ma((muure 1
-  - ma((muure 1
 makiin 1
   - makii;n 1
 tamkiin-aazmaa 1
@@ -6733,8 +6677,8 @@ kos 1
   - .sad-jalvah-e 1
 shikeb-o-.sabr 1
   - shikeb-o-.sabr-e 1
-sirishk 1
-  - sirishk-e 1
+bad-;xvaah 1
+  - bad-;xvaah 1
 .saa((iqah 1
   - .saa((iqah-o-shu((lah-o-siimaab 1
 mu.zma;hil 1
@@ -6761,6 +6705,8 @@ pur-shor 1
   - pur-shor 1
 ibraam 1
   - ibraam 1
+aazaadah-o-;xvud-biin 1
+  - aazaadah-o-;xvud-bii;n 1
 raah-numaa 1
   - rah-numaa 1
 baadah-aashaamii 1
@@ -6769,14 +6715,14 @@ baadah-aashaamii 1
   - :taa))uus 1
 pashemaan 1
   - pashemaa;n 1
-dhoke 1
-  - dhoke 1
+be-daar 1
+  - bedaar-e 1
 ;xaanah-;xaraabii 1
   - ;xaanah-;xaraabii 1
 be-;hau.slagii 1
   - be-;hau.slagii 1
-samaa(( 1
-  - samaa(( 1
+dar-pai 1
+  - dar-pa-e 1
 zavaal 1
   - zavaal 1
 saadah 1
@@ -6815,10 +6761,8 @@ nadaamat 1
   - nadaamat 1
 ((uyuub 1
   - ((uyuub-e 1
-bad-;xvaah 1
-  - bad-;xvaah 1
-jaa;n 1
-  - ((aql-o-dil-o-jaa;n 1
+;xudaa-parast 1
+  - ;xudaa-parast 1
 aatishiin 1
   - aatishii;n 1
 ustuvaarii 1
@@ -6833,8 +6777,6 @@ daruun 1
   - daruu;n 1
 dastaar 1
   - dastaar 1
-gaa;rho 1
-  - gaa;rho 1
 a:tfaal 1
   - a:tfaal 1
 nashaa:t-aahang 1
@@ -6879,8 +6821,6 @@ shaadaab 1
   - .sad-guunah 1
 jaagiir 1
   - jaagiir-e 1
-hogii 1
-  - hogii 1
 laal 1
   - laal 1
 laam 1
@@ -6923,8 +6863,6 @@ purkaarii 1
   - ((ishq-o-naa-guziir-e 1
 vufuur 1
   - vufuur-e 1
-;xuubaan 1
-  - ;xuubaan-e 1
 sar-ba-sar 1
   - sar-ba-sar 1
 barhaman 1
@@ -6935,8 +6873,6 @@ jam((iyyat 1
   - jam((iyyat-e 1
 ;xaanah-viiraan-saaz 1
   - ;xaanah-viiraa;n-saaz 1
-bote 1
-  - bote 1
 kaafii 1
   - kaafii 1
 raah-o-rasm 1
@@ -6949,28 +6885,22 @@ kaifiiyat 1
   - kaifiiyat-e 1
 javaan-marg 1
   - javaa;n-marg 1
-:tiflaan 1
-  - :tiflaan-e 1
 naachaar 1
   - naachaar 1
 tishnah-kaam 1
   - tishnah-kaam 1
-pa 1
-  - pa-e 1
 ;gam-;xaanah 1
   - ;gam-;xaane 1
 gaz 1
   - gaz 1
 ;hayaat-o-band 1
   - ;hayaat-o-band-e 1
-khe;ncho 1
-  - khe;ncho 1
 kaalbud 1
   - kaalbud-e 1
 ranjuurii 1
   - ranjuurii 1
-gah 1
-  - gah-o-be-gah 1
+sitam-o-jor 1
+  - sitam-o-jor-e 1
 faqiir 1
   - faqiiro;n 1
 kalejaa 1
@@ -6999,8 +6929,6 @@ au.zaa(( 1
   - au.zaa((-e 1
 kavaakib-sipah-o-mihr-((alam 1
   - kavaakib-sipah-o-mihr-((alam 1
-aa))inah-;xaanah 1
-  - aa))inah-;xaane 1
 vaazh-guun 1
   - vaazh-guu;n 1
 ;gariib-navaaz 1
@@ -7009,8 +6937,6 @@ biimaarii 1
   - biimaarii-e 1
 ;xa:t:t-o-;xaal 1
   - ;xa:t:t-o-;xaal 1
-baa;ng 1
-  - baa;ng-e 1
 shaq 1
   - shaq 1
 ;taalnaa 1
@@ -7023,8 +6949,8 @@ aahan 1
   - ;garqah-e 1
 ziyaad 1
   - ziyaad 1
-dar-pa 1
-  - dar-pa-e 1
+:tuufaan-gaah 1
+  - :tuufaa;n-gaah-e 1
 laalah-o-gul-o-nasriin 1
   - laalah-o-gul-o-nasrii;n 1
 qai 1
@@ -7101,20 +7027,24 @@ yaktaa))ii 1
   - yaktaa))ii 1
 aatish-baar 1
   - aatish-baar 1
+pironah 1
+  - pirone 1
 dil-jam((ii 1
   - dil-jam((ii 1
 kasb 1
   - kasb-e 1
 yaadgaar 1
   - yaadgaar-e 1
-((ishrat-gah 1
-  - ((ishrat-gah-e 1
+;gusl 1
+  - ;gusl-e 1
 laash 1
   - laash-e 1
 urdii 1
   - urdii 1
 rah-o-rasm 1
   - rah-o-rasm-e 1
+sirishk 1
+  - sirishk-e 1
 piinas 1
   - piinas 1
 mudda((ii-o-diidah 1
@@ -7203,8 +7133,6 @@ rasm-o-rah 1
   - ;zimmah 1
 banaat-ul-na((sh 1
   - banaat-ul-na((sh-e 1
-baa-vujuud 1
-  - baa-vujuud-e 1
 shaahinshaah 1
   - shaahinshaah 1
 sar-giraan 1
@@ -7235,8 +7163,6 @@ va;hdat 1
   - ;xvurshed 1
 ;xaam 1
   - ;xaam 1
-ho;ngii 1
-  - ho;ngii 1
 zu((m 1
   - zu((m-e 1
 saiyaarah 1
@@ -7281,12 +7207,12 @@ dikhlaavnaa 1
   - dikhlaave 1
 mashhuur 1
   - mashhuur 1
+be-kaar 1
+  - bekaar 1
 jalaanaa 1
   - jalaane 1
 nai 1
   - nai 1
-;gusl 1
-  - ;gusl-e 1
 nam 1
   - nam-e 1
 mashhuud 1
@@ -7329,10 +7255,6 @@ rah-o-sitam 1
   - rah-o-sitam-e 1
 sarv-qad 1
   - sarv-qad 1
-pesh-dastii 1
-  - pesh-dastii 1
-;xudaa-parast 1
-  - ;xudaa-parast 1
 parastish 1
   - parastish 1
 daa;g-saamaan 1
@@ -7373,8 +7295,8 @@ silsilah 1
   - silsilah-e 1
 la:tmah 1
   - la:tmah-e 1
-roke 1
-  - roke 1
+karishmah 1
+  - karishmah 1
 ziist 1
   - ziist 1
 fitraak 1
@@ -7399,8 +7321,8 @@ va:ziifah-;xvaar 1
   - va:ziifah-;xvaar 1
 jur))at-aazmaa 1
   - jur))at-aazmaa 1
-chubho 1
-  - chubho 1
+;xaanah-zaad 1
+  - ;xaanah-zaad-e 1
 samaa))ii 1
   - samaa))ii 1
 zaarii 1
@@ -7409,8 +7331,6 @@ aah-o-faryaad 1
   - aah-o-faryaad 1
 havaa-;xvaahii 1
   - havaa-;xvaahii 1
-aa))inah-daarii 1
-  - aa))inah-daarii-e 1
 ((azm 1
   - ((azm-e 1
 ;gaflat-shi((aarii 1
@@ -7451,6 +7371,8 @@ be-mudda((aa 1
   - be-mudda((aa 1
 purkaar 1
   - purkaar 1
+baa;ng 1
+  - baa;ng-e 1
 dare;gaa 1
   - dare;gaa 1
 chaahne-vaalaa 1
@@ -7475,6 +7397,8 @@ talaash 1
   - talaash-e 1
 aatish-afshaanii 1
   - aatish-afshaanii 1
+baa-vujuud 1
+  - baa-vujuud-e 1
 hech-madaanii 1
   - hech-madaanii 1
 mauj-zan 1
@@ -7493,6 +7417,8 @@ be-;xvaabii 1
   - be-;xvaabii 1
 zabuunii 1
   - zabuunii-e 1
+((ishrat-gaah 1
+  - ((ishrat-gah-e 1
 mihr-o-maah 1
   - mihr-o-maah 1
 ;xuun-naabah-mashrab 1
@@ -7523,6 +7449,10 @@ mai-o-na;gmah 1
   - mai-o-na;gmah 1
 ;xudaa-saaz 1
   - ;xudaa-saaz 1
+gaa;rhnaa 1
+  - gaa;rho 1
+qatl-gahah 1
+  - qatl-gah-e 1
 sitam-iijaad 1
   - sitam-iijaad 1
 bojh 1
@@ -7577,8 +7507,6 @@ garebaanii 1
   - garebaanii 1
 muunis 1
   - muunis 1
-va;hshat-o-sheftah 1
-  - va;hshat-o-sheftah 1
 ((arbadah-maidaa;n 1
   - ((arbadah-maidaa;n 1
 aafiriinish 1
@@ -7593,6 +7521,8 @@ durdii-kash 1
   - durdii-kash-e 1
 shaahid-baaz 1
   - shaahid-baaz 1
+parniyaan 1
+  - parniyaa;n 1
 khet 1
   - khet 1
 mun;ha.sir 1
@@ -7623,6 +7553,8 @@ shikastah 1
   - shikastah 1
 ((ibrat-nigaah 1
   - ((ibrat-nigaah 1
+patah 1
+  - pate 1
 majbuurii 1
   - majbuurii-o-da((vaa-e 1
 ;gaarat 1
@@ -7651,8 +7583,6 @@ giiraa))ii 1
   - giiraa))ii 1
 qanaa((at 1
   - qanaa((at 1
-fi;gaa;n 1
-  - aah-o-fi;gaa;n 1
 abnaa 1
   - abnaa-e 1
 saaqii-garii 1
@@ -7791,8 +7721,6 @@ tal;x-navaa))ii 1
   - tal;x-navaa))ii 1
 shast 1
   - shast-e 1
-pirone 1
-  - pirone 1
 saadagii-aamoz 1
   - saadagii-aamoz-e 1
 :ta((n 1
@@ -7813,8 +7741,6 @@ paaband 1
   - paaband-e 1
 kinaar 1
   - kinaar-e 1
-be-gah 1
-  - gah-o-be-gah 1
 .si;h;hat 1
   - .si;h;hat 1
 ;saanii 1
@@ -7831,8 +7757,6 @@ qa;h:t 1
   - qa;h:t-e 1
 jaan-daadah 1
   - jaa;n-daadah-e 1
-shi((aar 1
-  - shi((aar 1
 valvalah 1
   - valvale 1
 tunuk-:zarfii 1
@@ -7845,10 +7769,6 @@ la;rakpan 1
   - la;rakpan 1
 fishaar 1
   - fishaar-e 1
-pa)) 1
-  - pa))-e 1
-((iyaadat 1
-  - ((iyaadat 1
 shuhrat 1
   - shuhrat 1
 nau;hah 1
@@ -7879,6 +7799,8 @@ shaan 1
   - shaan 1
 :taalib 1
   - :taalib-e 1
+taab-o-tuvaan 1
+  - taab-o-tuvaa;n 1
 ta;gaaful-dost 1
   - ta;gaaful-dost 1
 rindaan 1
@@ -7889,6 +7811,8 @@ taufiir 1
   - taufiir-e 1
 jalvah-numaa 1
   - jalvah-numaa 1
+itne 1
+  - itnii 1
 andaaz-o-adaa 1
   - andaaz-o-adaa 1
 arzaa;n 1
@@ -7901,10 +7825,8 @@ daraazii 1
   - daraazii 1
 sul:tanat 1
   - sul:tanat 1
-aa))inah-pardaaz 1
-  - aa))inah-pardaaz 1
-be-kaar 1
-  - bekaar 1
+jor 1
+  - sitam-o-jor-e 1
 man.sab 1
   - man.sab-e 1
 abr-o-baad 1
@@ -7923,6 +7845,8 @@ nasheb 1
   - ;xuu;n-;galtiidah-e 1
 ;xuun-;galtiidan 1
   - ;xuu;n-;galtiidan-e 1
+aah-o-fi;gaan 1
+  - aah-o-fi;gaa;n 1
 ;xuun-gashtah 1
   - ;xuu;n-gashtah 1
 taariikii 1
@@ -7947,8 +7871,6 @@ gum-gashtah 1
   - gum-gashtah 1
 furozaan 1
   - furozaa;n 1
-rahyo 1
-  - rahyo 1
 ;duboyaa 1
   - ;duboyaa 1
 ta;gayyur 1
@@ -7967,16 +7889,10 @@ baarbud 1
   - baarbud-e 1
 valekin 1
   - valekin 1
-farmaanaa 1
-  - farmaatii 1
 hilaal 1
   - hilaal 1
 supurd 1
   - supurd 1
-aa))iinah-;xaanah 1
-  - aa))iinah-;xaane 1
-((aql-o-dil-o-jaa;n 1
-  - ((aql-o-dil-o-jaa;n 1
 kahaar 1
   - kahaaro;n 1
 sargashtah 1
@@ -8013,8 +7929,8 @@ naa-yaab 1
   - naa-yaab 1
 mu;htaaj 1
   - mu;htaaj-e 1
-to;raa 1
-  - to;raa 1
+fu.zuul 1
+  - fu.zuul-o-jur))at-e 1
 il;aahii 1
   - il;aahii 1
 ;xi:t:tah 1
@@ -8083,6 +7999,8 @@ naa-;xudaa 1
   - naa-;xudaa 1
 ham-damii 1
   - ham-damii 1
+qad-o-ru;x 1
+  - qad-o-ru;x 1
 rezah 1
   - rezah-e 1
 sheftagii 1
@@ -8117,12 +8035,12 @@ majaal 1
   - majaal-e 1
 mushtamil 1
   - mushtamil 1
-jaano 1
-  - jaano 1
 chashm-o-chiraa;g 1
   - chashm-o-chiraa;g-e 1
 va.sf 1
   - va.sf-e 1
+be-gaanah 1
+  - begaanah-e 1
 valii 1
   - valii 1
 jalvah-gar 1
@@ -8159,8 +8077,6 @@ vaa-shud 1
   - vaa-shud-e 1
 dast-gardaan 1
   - dast-gardaa;n 1
-khonaa 1
-  - khoyaa 1
 maah-ru;x 1
   - mah-ru;xo;n 1
 :zuhuur 1
@@ -8171,8 +8087,6 @@ zamaan 1
   - zamaa;n 1
 kuudakii 1
   - kuudakii 1
-qad-o-ru;x 1
-  - qad-o-ru;x 1
 :zuhuurii 1
   - :zuhuurii 1
 ;haq-shinaas 1
@@ -8181,10 +8095,8 @@ ma;hsharistaan 1
   - ma;hsharistaan-e 1
 chhallaa 1
   - chhalle 1
-khaa))iyo 1
-  - khaa))iyo 1
-patah 1
-  - pate 1
+shi((aar 1
+  - shi((aar 1
 ;zaat 1
   - ;zaat 1
 shabnam-istaan 1
@@ -8205,8 +8117,6 @@ vaajib 1
   - vaajib 1
 aare 1
   - aare 1
-aah-o-fi;gaa;n 1
-  - aah-o-fi;gaa;n 1
 do-dam 1
   - do-dam 1
 faqa:t 1
@@ -8235,8 +8145,8 @@ musalmaan 1
   - musalmaa;n 1
 .safaa 1
   - .safaa-e 1
-pih 1
-  - pih 1
+tu;xm 1
+  - tu;xm 1
 durd 1
   - durd-e 1
 gudaa;xtah 1
@@ -8297,3 +8207,5 @@ mu((ayyan 1
   - mu((ayyan 1
 tajammul 1
   - tajammul 1
+o 0
+  - o 0

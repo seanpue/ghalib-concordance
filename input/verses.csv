@@ -582,7 +582,7 @@
 036.03.1, kabhii fitraak me;n tere ko))ii na;xchiir bhii thaa,G5
 036.04.0, qaid me;n hai tire va;hshii ko vuhii zulf kii yaad,G5
 036.04.1, haa;n kuchh ik ranj-e giraa;n-baarii-e zanjiir bhii thaa,G5
-036.05.0, bijlii ik ko;nd ga))ii aa;nkho;n ke aage to kyaa,G5
+036.05.0, bijlii ik kau;nd ga))ii aa;nkho;n ke aage to kyaa,G5
 036.05.1, baat karte kih mai;n lab-tishnah-e taqriir bhii thaa,G5
 036.06.0, yuusuf us ko kahuu;n aur kuchh nah kahe ;xair hu))ii,G5
 036.06.1, gar biga;r bai;the to mai;n laa))iq-e ta((ziir bhii thaa,G5
@@ -837,14 +837,14 @@
 054.02.0, aataa hai ek paarah-e dil har fi;gaa;n ke saath,G3
 054.02.1, taar-e nafas kamand-e shikaar-e a;sar hai aaj,G3
 054.03.0, ay ((aafiyat kinaarah kar ay inti:zaam chal,G3
-054.03.1, sailaab-e giryah dar-paa-e diivaar-o-dar hai aaj,G3
+054.03.1, sailaab-e giryah dar-pa-e diivaar-o-dar hai aaj,G3
 055.01.0, lo ham marii.z-e ((ishq ke biimaar-daar hai;n,G3
 055.01.1, achchhaa agar nah ho to masii;haa kaa kyaa ((ilaaj,G3
 056.01.0, nafas nah anjuman-e aarzuu se baahar khe;nch,G9
 056.01.1, agar sharaab nahii;n inti:zaar-e saa;gar khe;nch,G9
 056.02.0, kamaal-e garmii-e sa((ii-e talaash-e diid nah puuchh,G9
 056.02.1, bah rang-e ;xaar mire aa))ine se jauhar khe;nch,G9
-056.03.0, tujhe bahaanah-e raa;hat hai inti.zaar ay dil,G9
+056.03.0, tujhe bahaanah-e raa;hat hai inti:zaar ay dil,G9
 056.03.1, kiyaa hai kis ne ishaarah kih naaz-e bistar khe;nch,G9
 056.04.0, tirii :taraf hai bah ;hasrat na:zaarah-e nargis,G9
 056.04.1, bah korii-e dil-o-chashm-e raqiib saa;gar khe;nch,G9
@@ -1309,7 +1309,7 @@
 091.04.0, bosah nahii;n nah diijiye dushnaam hii sahii,G3
 091.04.1, aa;xir zabaa;n to rakhte ho tum gar dahaa;n nahii;n,G3
 091.05.0, har-chand jaa;n-gudaazii-e qahr-o-((ataab hai,G3
-091.05.1, har-chand pusht-garmii-e taab-o-tuvaa;n nahii;n,G3
+091.05.1, har-chand pusht-garmii-e taab-o-tavaa;n nahii;n,G3
 091.06.0, jaa;n mu:trib-e taraanah-e hal-min-maziid hai,G3
 091.06.1, lab pardah-sanj-e zamzamah-e al-amaa;n nahii;n,G3
 091.07.0, ;xanjar se chiir siinah agar dil nah ho do-niim,G3
@@ -1734,7 +1734,7 @@
 119.05.1, apne se khe;nchtaa huu;n ;xajaalat hii kyuu;n nah ho,G3
 119.06.0, hai aadmii bajaa-e ;xvud ik ma;hshar-e ;xayaal,G3
 119.06.1, ham anjuman samajhte hai;n ;xalvat hii kyuu;n nah ho,G3
-119.07.0, hangaamah-e zabuunii-e himmat hai infa((aal,G3
+119.07.0, hangaamah-e zabuunii-e himmat hai infi((aal,G3
 119.07.1, ;haa.sil nah kiije dahr se ((ibrat hii kyuu;n nah ho,G3
 119.08.0, vaa-rastagii bahaanah-e begaanagii nahii;n,G3
 119.08.1, apne se kar nah ;gair se va;hshat hii kyuu;n nah ho,G3
@@ -1786,11 +1786,11 @@
 122.01.1, ya((nii yih merii aah kii taa;siir se nah ho,G3
 122.02.0, apne ko dekhtaa nahii;n ;zauq-e sitam ko dekh,G3
 122.02.1, aa))iinah taa kih diidah-e na;xchiir se nah ho,G3
-123.01.0, vaa;n pahu;nch kar jo ;gash aataa pa))e-ham hai ham ko,G5
+123.01.0, vaa;n pahu;nch kar jo ;gash aataa   -ham hai ham ko,G5
 123.01.1, .sad rah aahang-e zamii;n bos-e qadam hai ham ko,G5
 123.02.0, dil ko mai;n aur mujhe dil ma;hv-e vafaa rakhtaa hai,G5
 123.02.1, kis qadar ;zauq-e giriftaarii-e ham hai ham ko,G5
-123.03.0, .zu((f se naqsh-e paa-e mor hai :tauq-e gardan,G5
+123.03.0, .zu((f se naqsh-e pa-e mor hai :tauq-e gardan,G5
 123.03.1, tire kuuche se kahaa;n :taaqat-e ram hai ham ko,G5
 123.04.0, jaan kar kiije ta;gaaful kih kuchh ummiid bhii ho,G5
 123.04.1, yih nigaah-e ;gala:t-andaaz to sam hai ham ko,G5
@@ -1880,7 +1880,7 @@
 129.02.1, dushvaarii-e rah-o-sitam-e ham-rahaa;n nah puuchh,G3
 129.03x.0, juz dil suraa;g-e dard bah dil-;xuftagaa;n nah puuchh,G3
 129.03x.1, aa))iinah ((ar.z kar ;xa:t-o-;xaal-e bayaa;n nah puuchh,G3
-129.04x.0, hinduustaan saayah-e gul paa-e ta;xt thaa,G3
+129.04x.0, hinduustaan saayah-e gul pa-e ta;xt thaa,G3
 129.04x.1, jaah-o-jalaal-e ((ahd-e vi.saal-e butaa;n nah puuchh,G3
 129.05x.0, ;gaflat-mataa((-e kaffah-e miizaan-e ((adl huu;n,G3
 129.05x.1, yaa rab ;hisaab-e sa;xtii-e ;xvaab-e giraa;n nah puuchh,G3
@@ -1928,7 +1928,7 @@
 132.05.1, mire daryaa-e be-taabii me;n hai ik mauj-e ;xuu;n vuh bhii,G2
 132.06.0, mai-e ((ishrat kii ;xvaahish saaqii-e garduu;n se kyaa kiije,G2
 132.06.1, liye bai;thaa hai ik do chaar jaam-e vaazh-guu;n vuh bhii,G2
-132.07.0, mire dil me;n hai ;gaalib shauq-e va.sl o shikvah-e hijraa;n,G2
+132.07.0, mire dil me;n hai ;gaalib shauq-e va.sl-o-shikvah-e hijraa;n,G2
 132.07.1, ;xudaa vuh din kare jo us se mai;n yih bhii kahuu;n vuh bhii,G2
 133.01.0, hai bazm-e butaa;n me;n su;xan aazurdah labo;n se,G13
 133.01.1, tang aa))e hai;n ham aise ;xvushaamad-:talabo;n se,G13
@@ -2436,7 +2436,7 @@
 169.13.1, ;gaalib .sariir-e ;xaamah navaa-e sarosh hai,G3
 170.01.0, aa kih mirii jaan ko qaraar nahii;n hai,G17
 170.01.1, :taaqat-e be-daad-e inti:zaar nahii;n hai,G17
-170.02.0, dete hai;n jinnat ;hayaat-e dahr ke badle,G17
+170.02.0, dete hai;n jannat ;hayaat-e dahr ke badle,G17
 170.02.1, nashshah bah andaazah-e ;xumaar nahii;n hai,G17
 170.03.0, giryah nikaale hai terii bazm se mujh ko,G17
 170.03.1, haa))e kih rone pah i;xtiyaar nahii;n hai,G17
@@ -2921,7 +2921,7 @@
 208.03.0, juz naam nahii;n .suurat-e ((aalam mujhe man:zuur,G13
 208.03.1, juz vahm nahii;n hastii-e ashyaa mire aage,G13
 208.04.0, hotaa hai nihaa;n gard me;n .sa;hraa mire hote,G13
-208.04.1, ghistaa hai jabii;n ;xaak pih daryaa mire aage,G13
+208.04.1, ghistaa hai jabii;n ;xaak pah daryaa mire aage,G13
 208.05.0, mat puuchh kih kyaa ;haal hai meraa tire piichhe,G13
 208.05.1, tuu dekh kih kyaa rang hai teraa mire aage,G13
 208.06.0, sach kahte ho ;xvud-biin-o-;xvud-aaraa huu;n nah kyuu;n huu;n,G13
@@ -3203,7 +3203,7 @@
 230.05.0, qumrii kaf-e ;xaakistar-o-bulbul qafas-e rang,G13
 230.05.1, ay naalah nishaan-e jigar-e so;xtah kyaa hai,G13
 230.06.0, ;xuu ne tirii afsurdah kiyaa va;hshat-e dil ko,G13
-230.06.1, ma((shuuqii-o-be-;hau.salagii :turfah balaa hai,G13
+230.06.1, ma((shuuqii-o-be-;hau.slagii :turfah balaa hai,G13
 230.07.0, majbuurii-o-da((vaa-e giriftaarii-e ulfat,G13
 230.07.1, dast-e tah-e sang-aamadah paimaan-e vafaa hai,G13
 230.08.0, ma((luum hu))aa ;haal-e shahiidaan-e guzashtah,G13
