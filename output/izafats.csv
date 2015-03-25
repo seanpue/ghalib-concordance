@@ -10,7 +10,7 @@
 ((ahd-e tajdiid-e tamannaa
 ((aish-e be-taabii
 ((aish-e raftah
-((ajz-e ;hau.salah
+((ajz-e ;hau.slah
 ((ajz-e himmat
 ((aks-e ru;x
 ((al;aa-al-ra;gm-e dushman
@@ -142,8 +142,8 @@
 ;gam-e aavaaragiihaa-e .sabaa
 ;gam-e dil
 ;gam-e dunyaa
-;gam-e farqat
 ;gam-e firaaq
+;gam-e furqat
 ;gam-e giitii
 ;gam-e hastii
 ;gam-e ma;hruumii-e jaaved
@@ -504,7 +504,7 @@ be-daad-e ;zauq-e par-fishaanii
 be-kaarii-e junuu;n
 be-mihrii-e yaaraan-e va:tan
 be-minnat-e kaimuus
-be-partav-e ;xvurshed
+be-partav-e ;xvurshiid
 be-rab:tii-e ((unvaa;n
 be-shaanah-e .sabaa
 bedaad-e ((ishq
@@ -576,7 +576,7 @@ chiraa;g-e raushan
 chiraa;gaan-e sar-e rah-guzar-e baad
 chiraa;gaan-e shabistaan-e dil-e parvaanah
 da((v;aa-e vaa-rastagii
-da((vaa-e jam((iyyat-e a;hbaab
+da((vaa-e jam((iiyat-e a;hbaab
 da((vaa-e rasaa))ii
 da((vat-e aab-o-havaa
 da((vat-e mizhgaa;n
@@ -725,12 +725,12 @@ farsh-e shash-jihat-e inti:zaar
 faryaad-e dil'haa-e ;hazii;n
 faryaadii-e be-daad-e dilbar
 fasaanah-;xvaanii-e sham((a
+fashaar-e .zu((f
 fashaar-e tangii-e ;xalvat
 faut-e fur.sat-e hastii
 fikr-e dunyaa
 firaaq-e yaar
 firdaus-e gosh
-fishaar-e .zu((f
 fitnah-e :taaqat-rubaa
 fitnah-e shor-e qiyaamat
 fur.sat-e hastii
@@ -846,7 +846,7 @@ jaa-e ;xandah
 jaa-e dahan
 jaa-e mai
 jaa;n-daadah-e havaa-e sar-e rah-guzaar
-jaa;n-gudaazii-e qahr-o-((ataab
+jaa;n-gudaazii-e qahr-o-((itaab
 jaadaad-e baadah-noshii-e rindaa;n
 jaadah-e .sa;hraa-e junuu;n
 jaadah-e raah-e fanaa
@@ -925,7 +925,7 @@ kaf-e har
 kaf-e qaatil
 kaf-e sailaab
 kafiil-e ((umr-o-asad
-kaifiyyat-e shaadii
+kaifiiyat-e shaadii
 kamaal-e garmii-e sa((ii-e talaash-e diid
 kamand-e shikaar-e a;sar
 kamiin-e be-zabaanii
@@ -1156,6 +1156,7 @@ nairang-e na:zar
 nak'hat-e gul
 nam-e shabnam
 namak-paash-e ;xaraash-e dil
+namuud-e .suvar
 nang-e baal-o-par
 nang-e pairaahan
 nang-e piirii
@@ -1167,7 +1168,7 @@ naqd-e daa;g-e dil
 naqqaash-e yak
 naqsh-e mu;habbat
 naqsh-e naaz-e but-e :tannaaz
-naqsh-e pa-e mor
+naqsh-e pa))e
 naqsh-e paa
 naqsh-e qadam
 naqsh-e suvaidaa
@@ -1214,7 +1215,6 @@ nishaan-e jigar-e so;xtah
 nisyah-o-naqd-e do-((aalam
 niyaam-e pardah-e za;xm-e jigar
 niyaaz-e ;hasrat-e diidaar
-numuud-e .suvar
 nus;xah-e marham
 nuur-e .sub;h
 nuur-ul-((ain-e daaman
@@ -1268,7 +1268,7 @@ pursish-e jaraa;hat-e dil
 pusht-e chashm
 pusht-e dast-e ((ajz
 pusht-garmii-e aa))iinah
-pusht-garmii-e taab-o-tuvaa;n
+pusht-garmii-e taab-o-tavaa;n
 qa:t((-e na:zar
 qa:t((-e rah-e i.z:tiraab
 qa:trah-e ;xuu;n
@@ -1480,7 +1480,6 @@ shahiidaan-e nigah
 shahinshaah-e kavaakib-sipah-o-mihr-((alam
 shahpar-e rang
 shajar-e bed
-shakeb-e ;xaatir-e ((aashiq
 shakl-e nihaalii
 shakl-e qumrii
 sham((-e bazm-e be-;xvudii
@@ -1503,12 +1502,14 @@ shauq-e fu.zuul-o-jur))at-e rindaanah
 shauq-e munfa((il
 shauq-e va.sl-o-shikvah-e hijraa;n
 shiguftan-e gul'haa-e ((aish
+shiguftan-e gulhaa-e naaz
 shiishah-e mai
 shikaayat'haa-e rangii;n
 shikaayat-e ranj-e giraa;n-nishii;n
 shikan-e zulf-e ((anbarii;n
 shikast-e aarzuu
 shikast-e qiimat-e dil
+shikeb-e ;xaatir-e ((aashiq
 shikeb-o-.sabr-e ahl-e anjuman
 shikvah-e .zu((f-e dimaa;g
 shikvah-e be-dast-o-paa))ii
@@ -1528,7 +1529,6 @@ shu((aa-e mihr
 shu((lah-e ((ishq
 shu((lah-e aatish
 shu((lah-e javvaalah
-shuguftan-e gulhaa-e naaz
 shumaar-e sub;hah
 siilii-e ;xaaraa
 siilii-e nadaamat
@@ -1544,7 +1544,7 @@ sipaas-e la;z;zat-e aazaar-e dost
 sipand-e bazm-e va.sl-e ;gair
 sirishk-e sar
 sitaarah-e gauhar-farosh
-sitam-o-jor-e naa-;xudaa
+sitam-o-jaur-e naa-;xudaa
 sivaa-e ;hasrat-e ;haa.sil
 sivaa-e ;hasrat-e ta((miir
 sivaa-e ;xuun-e jigar
